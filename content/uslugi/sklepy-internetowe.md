@@ -11,7 +11,7 @@ headerWidth: 830
 ---
 
 #subtitle
-*-/* Sklepy internetowe 
+*-/* E-commerce 
 
 #title
 ## Wydajne, intuicyjne i przygotowane do rozwoju *sklepy www*
