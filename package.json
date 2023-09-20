@@ -12,7 +12,7 @@
   },
   "packageManager": "pnpm@8.5.1",
   "dependencies": {
-    "@webo-agency/theme": "github:webo-agency/www#main-webo",
+    "@webo-agency/theme": "github:webo-agency/www#main-agency",
     "nuxt": "^3.7.3"
   }
 }
