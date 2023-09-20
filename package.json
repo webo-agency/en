@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "preinstall": "pnpm upgrade @webo-agency/theme",
     "analyze": "nuxt build --analyze",
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -11,7 +12,7 @@
   },
   "packageManager": "pnpm@8.5.1",
   "dependencies": {
-    "@webo-agency/theme": "github:webo-agency/www#3.5.2",
+    "@webo-agency/theme": "github:webo-agency/www#main-webo",
     "nuxt": "^3.7.3"
   }
 }
