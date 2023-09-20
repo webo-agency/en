@@ -1,0 +1,16 @@
+{
+  "name": "@webo-agency/en",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "analyze": "nuxt build --analyze",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "deploy": "pnpm run generate"
+  },
+  "dependencies": {
+    "@webo-agency/theme": "github:webo-agency/www#main",
+    "nuxt": "^3.7.3"
+  }
+}
