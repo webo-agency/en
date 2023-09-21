@@ -5,13 +5,13 @@ button.link: https://www.webo.agency/kontakt
 ---
 
 #subtitle
- Welcome in Webo
+ Welcome to Webo
 
 #title
-# Dostarczamy efekty przez *UX i technologię!*
+# We deliver results through UX and technology!*
 
 #description
-Stwórzmy razem rozwiązanie dla <u>Twojej firmy</u>
+Let's create a web solution<u>for your company together.</u>
 
 ::
 
@@ -21,7 +21,7 @@ Stwórzmy razem rozwiązanie dla <u>Twojej firmy</u>
 class: mb-[100px] tablet:mb-[200px]
 ---
 
-### Jesteśmy młodą agencją interaktywną, założoną przez specjalistów z *10 letnim doświadczeniem* w *tworzeniu produktów cyfrowych.*
+### We are a young software agency founded by professionals with 10 years of experience in creating digital products.*
 
 ::
 
@@ -39,14 +39,13 @@ maxWidth: 450
 ---
 
 #subtitle
-*1/* Usługi
+*1/* Services
 
 #title
-## W czym możemy Ci *pomóc?*
+## How can we help you?*
 
 #description
-Dostarczamy optymalne produkty cyfrowe. Jesteśmy ciekawi Twoich potrzeb - to one są podstawą oferowanych przez nas rozwiązań
-
+We deliver optimal digital products. We are curious about your needs - they are the foundation of the solutions we offer.
 ::::
 :::
 
@@ -58,10 +57,10 @@ bgIcon: '/img/icons/store_bgIcon.png'
 link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
 ---
 #title
-##### Sklepy internetowe
+##### E-commerce
 
 #description
-E-commerce z płynnym procesem zakupowym, dostosowany do potrzeb Twojej firmy. Tworzymy sklepy przygotowane do dalszego rozwoju i ekspansji.
+Online stores with a seamless purchasing process, tailored to your company's needs. We create stores ready for further growth and expansion..
 ::::
 
 ::::offer-tile-md
@@ -72,10 +71,10 @@ link: 'https://www.webo.agency/uslugi/strony-internetowe'
 delay: 1
 ---
 #title
-##### Strony www
+##### Websites
 
 #description
-Kreujemy szybkie nowoczesne i funkcjonalne strony internetowe, na których Twój klient szybko znajdzie to czego szuka.
+We create fast, modern, and functional websites where your customer can quickly find what they're looking for.
 ::::
 
 ::::offer-tile-md
@@ -86,10 +85,10 @@ link: ''
 delay: 2
 ---
 #title
-##### Aplikacje internetowe
+##### Web apps
 
 #description
-Dedykowane do specjalnych zastosowań w Twojej firmie. Przyjazne dla użytkowników i proste w zarządzaniu.
+Customized for specific purposes in your company. User-friendly and easy to manage.
 ::::
 
 ::::offer-tile-md
@@ -100,10 +99,10 @@ link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
 delay: 3
 ---
 #title
-##### Strony Headless / PWA
+##### Headless & PWA Websites
 
 #description
-Wykonane w nowych technologiach, dostarczające maksimum wydajności zapewniające najwyższy standard bezpieczeństwa.
+Crafted with new technologies, delivering maximum performance and ensuring the highest security standards.
 ::::
 
 ::::offer-tile-md
@@ -113,7 +112,7 @@ link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
 delay: 4
 ---
 #title
-##### Wsparcie i rozwój sklepów internetowych i stron www
+##### Support and development of online stores and websites.
 
 ::::
 
@@ -124,7 +123,7 @@ link: ''
 delay: 5
 ---
 #title
-Projektowanie UX/UI
+UX/UI Design
 
 ::::
 :::
@@ -138,15 +137,14 @@ class: mb-[100px] tablet:mb-[200px]
 ::::block-cta-md
 ---
 button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Szukasz innej usługi?
+*-/* Are you looking for a different service?
 
 #title
-## Napisz do nas Porozmawiajmy!
-
+## Contact us. Let's talk!
 ::::
 :::
 ::
