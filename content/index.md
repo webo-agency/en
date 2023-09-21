@@ -1,6 +1,6 @@
 ::block-hero-md
 ---
-button.title: Rozpocznij projekt
+button.title: Request a proposal
 button.link: https://www.webo.agency/kontakt
 ---
 
@@ -8,7 +8,7 @@ button.link: https://www.webo.agency/kontakt
  Welcome to Webo
 
 #title
-# We deliver results through UX and technology!*
+# We deliver results through *UX and technology!*
 
 #description
 Let's create a web solution<u>for your company together.</u>
@@ -21,7 +21,7 @@ Let's create a web solution<u>for your company together.</u>
 class: mb-[100px] tablet:mb-[200px]
 ---
 
-### We are a young software agency founded by professionals with 10 years of experience in creating digital products.*
+### We are a young software agency founded by professionals with 10 years of experience in *creating digital products.*
 
 ::
 
@@ -42,7 +42,7 @@ maxWidth: 450
 *1/* Services
 
 #title
-## How can we help you?*
+## How can we *help you?*
 
 #description
 We deliver optimal digital products. We are curious about your needs - they are the foundation of the solutions we offer.
@@ -144,7 +144,7 @@ button.title: 'Get in touch'
 *-/* Are you looking for a different service?
 
 #title
-## Contact us. Let's talk!
+## Contact us. *Let's talk!*
 ::::
 :::
 ::
