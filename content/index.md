@@ -11,7 +11,7 @@ button.link: https://www.webo.agency/kontakt
 # We deliver results through *UX and technology!*
 
 #description
-Let's create a web solution for your company<u>together.</u>
+Let's create a web solution for your company <u>together.</u>
 
 ::
 
