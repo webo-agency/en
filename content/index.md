@@ -11,7 +11,7 @@ button.link: https://www.webo.agency/kontakt
 # We deliver results through *UX and technology!*
 
 #description
-Let's create a web solution<u>for your company together.</u>
+Let's create a web solution for your company<u>together.</u>
 
 ::
 
@@ -165,10 +165,10 @@ center: true
 *2/* Proces
 
 #title
-## Do projektów podchodzimy etapowo
+## We approach projects step by step
 
 #description
-W realizacji projektu istotne jest posiadanie szerokiej wiedzy z zakresu technologii i projektowania nastawionego na użytkownika oraz wypracowanego procesu, który zapewnia realizację założeń bez obsów czasowych i w ustalonym budżecie.
+Executing a project requires a deep knowledge of technology and user-centered design, along with a well-established process that ensures goal achievement without time delays and within the set budget.
 
 ::::
 :::
@@ -180,10 +180,10 @@ W realizacji projektu istotne jest posiadanie szerokiej wiedzy z zakresu technol
 number: 1
 ---
 #title
-##### Zbieramy wymagania
+##### Requirements gathering
 
 #description
-Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy wszystkie założenia oraz Twoją firmę, jej klientów i branżę.
+This is the first step we need to take to create a website. We learn all the requirements and get to know your company, its customers, and industry.
 ::::
 
 ::::process-tile-md
@@ -191,10 +191,10 @@ Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony. Poznajemy w
 number: 2
 ---
 #title
-##### Analizujemy informacje
+##### UX/UI design
 
 #description
-Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
+We define user flows, design information architecture, create prototypes, and finish with the final look of the website.
 ::::
 
 ::::process-tile-md
@@ -202,10 +202,10 @@ Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz pro
 number: 3
 ---
 #title
-##### Projektujemy interfejs
+##### Web development
 
 #description
-Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony.
+We install and code the designed solution in the chosen technology. We start from configuring the infrastructure to full implementation of functionality and appearance.
 ::::
 
 ::::process-tile-md
@@ -213,10 +213,10 @@ Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz pro
 number: 4
 ---
 #title
-##### Wdrażamy stronę
+##### Quality assurance
 
 #description
-Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Efektem jest gotowa do testów aplikacja.
+We thoroughly check the website's performance. We conduct tests on various devices and resolutions to ensure that everything works as intended.
 ::::
 
 ::::process-tile-md
@@ -224,10 +224,10 @@ Instalujemy i kodujemy zaprojektowane rozwiązanie w wybranej technologii. Efekt
 number: 5
 ---
 #title
-##### Testujemy i poprawiamy
+##### Website deployment
 
 #description
-Sprawdzamy poprawność funkcjonowania systemu, wprowadzamy poprawki - ostatecznie Ty akceptujesz czy ruszamy na podbój internetu.
+After making all the necessary adjustments and receiving the green light for publishing, we transfer the website to the production server, where it goes live on the internet!
 ::::
 
 ::::process-tile-md
@@ -235,10 +235,9 @@ Sprawdzamy poprawność funkcjonowania systemu, wprowadzamy poprawki - ostateczn
 number: 6
 ---
 #title
-##### Publikujemy i rozwijamy
-
+##### Growth and enhancement
 #description
-Po Twojej akceptacji publikujemy stronę www, następnie rozwijamy ją w ramach usługi wsparcia technicznego.
+Deployment is just the beginning. That's why we offer support, where we create new features, updates, monitor performance and security, and respond to any issues.
 ::::
 :::
 ::
