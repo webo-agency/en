@@ -252,13 +252,13 @@ image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
 ---
 #subtitle
-*3/* Skalowalne rozwiązania
+*3/* Scalable solutions
 
 #title
-### Wybierzemy najlepsze rozwiązanie dla *Twojego biznesu*
+### We'll choose the best solution for your business*
 
 #description
-Do każdego projektu podchodzimy indywidualnie, analizując jego potrzeby. Korzystamy z najnowszych technologii, wspierając także popularne rozwiązania. Sprawdź sam!
+We approach each project individually, analyzing its specific needs. We utilize the latest technologies while also supporting popular solutions.
 :::
 
 :::effect-appear-md
@@ -318,7 +318,7 @@ title: Cloudflare
 
 
 #title
-Używane technologie
+Technologies we use
 
 ::::
 :::
@@ -333,14 +333,14 @@ class: mb-[80px] tablet:mb-[130px]
 ::::block-header-link-md
 ---
 url: 'https://www.webo.agency/realizacje'
-linktitle: Zobacz więcej projektów
+linktitle: Explore more projects
 ---
 
 #subtitle
-*4/* Case study
+*4/* Case studies
 
 #title
-### Jasteśmy dumni <br> z *wykonanych projektów*
+### We are proud of the projects <br> z * we've completed*
 
 ::::
 :::
@@ -366,10 +366,10 @@ imgUrl: '/img/content-images/5teamwork.png'
 ---
 
 #subtitle
-*5/* Nasza misja
+*5/* Our mission
 
 #title
-### Stosując nowoczesne narzędzia, *rozwiązujemy problemy* użytkowników, *osiągając* dzięki temu cele *biznesowe* naszych partnerów.
+### Using modern tools, *we solve users problems* while achieving our clients business goals.
 
 ::::
 :::
@@ -391,7 +391,7 @@ maxWidth: 570
 ---
 
 #subtitle
-*6/* Korzyści dla biznesu
+*6/* Business benefits
 
 #title
 ### Dlaczego warto z nami *współpracować?*
