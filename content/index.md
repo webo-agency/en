@@ -340,7 +340,7 @@ linktitle: Explore more projects
 *4/* Case studies
 
 #title
-### We are proud of the projects <br> z * we've completed*
+### We are proud of the projects <br>*we've completed*
 
 ::::
 :::
