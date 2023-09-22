@@ -394,10 +394,10 @@ maxWidth: 570
 *6/* Business benefits
 
 #title
-### Dlaczego warto z nami *współpracować?*
+### Why collaborate *with us?*
 
 #description
-Zajmujemy się kompleksowym wdrażaniem rozwiązań cyfrowych dla biznesu. Jeśli chcesz prowadzić i rozwijać swój biznes w sieci, my wiemy jak to zrobić!
+We specialize in comprehensive digital solutions for businesses. If you want to establish and grow your business online, we know how to do it!
 
 ::::
 :::
@@ -414,10 +414,10 @@ delay: 0
 ---
 
 #title
-##### Realizujemy cele biznesowe
+##### We achieve business goals
 
 #description
-Jako partner technologiczny przed rozpoczęciem projektu analizujemy Twoje założenia biznesowe- to one są najważniejsze.
+As a technology partner, we analyze your business requirements before starting the project - they are the most crucial.
 
 ::::
 ::::icon-tile-md
@@ -427,10 +427,10 @@ delay: 1
 ---
 
 #title
-##### Dbamy o potrzeby użytkownika
+##### We care about user needs
 
 #description
-Każdy projekt opieramy o potrzeby użytkowników. Dzięki temu dostarczamy intuicyjne strony www, połączone z unikalnym designem.
+We base every project on user needs. This allows us to deliver intuitive websites, coupled with a unique design.
 
 ::::
 ::::icon-tile-md
@@ -440,10 +440,10 @@ delay: 2
 ---
 
 #title
-##### Stawiamy na Twój rozwój
+##### We focus on your growth
 
 #description
-Celem prowadzenia biznesu jest jego rozwój. Tworzymy skalowalne rozwiązania, zapewniając że strona www jest gotowa na Twój sukces.
+The goal of running a business is its growth. We create scalable solutions, ensuring that the website is ready for your success.
 
 ::::
 ::::icon-tile-md
@@ -453,10 +453,10 @@ delay: 3
 ---
 
 #title
-##### Automatyzujemy procesy
+##### We implement CI/CD automation
 
 #description
-Rozwijamy strony o automatyzacje, dzięki temu oszczędzamy Twój czas, a przy tym pieniądze potrzebne na zarządzanie stroną.
+We implement CD solutions based on the GitHub platform and CI automation, which brings long-term benefits including process optimization and reduction in website maintenance costs.
 
 ::::
 ::::icon-tile-md
@@ -466,10 +466,10 @@ delay: 4
 ---
 
 #title
-##### Działamy kompleksowo
+##### We operate comprehensively
 
 #description
-Od wstępnych rozmów, przez projekt strony i wdrożenie, po rozwój i wsparcie. Świadczymy usługi na każdym etapie życia produktu.
+From initial discussions, through web design and deployment, to ongoing development and support, we provide services at every stage of the product's life.
 
 ::::
 ::::icon-tile-md
@@ -479,10 +479,10 @@ delay: 5
 ---
 
 #title
-##### Budujemy partnerskie relacje
+##### We build partnerships
 
 #description
-Zależy nam na Twoim biznesie. We współpracy stawiamy na transparentność i zaufanie aby każdy był zadowolony z podejmowanych działań.
+We care about your business. In our collaboration, we prioritize transparency and trust to ensure everyone is satisfied with the actions taken.
 
 ::::
 :::
@@ -496,7 +496,7 @@ symbol: '+'
 ---
 
 #title
-##### Wykonanych projektów
+##### Completed projects
 
 :::::
 :::::counter-md
@@ -506,7 +506,7 @@ symbol: '+'
 ---
 
 #title
-##### Wspieranych firm i instytucji
+##### Supported companies and institutions
 
 :::::
 :::::counter-md
@@ -516,7 +516,7 @@ symbol: '+'
 ---
 
 #title
-##### Używanych rozwiązań OpenSource
+##### Utilized OpenSource solutions
 
 :::::
 :::::counter-md
@@ -526,7 +526,7 @@ symbol: '%'
 ---
 
 #title
-##### Trwałych relacji biznesowych
+##### Long-lasting business relationships
 
 :::::
 ::::
@@ -547,10 +547,10 @@ center: true
 ---
 
 #subtitle
-*7/* Opinie
+*7/* Reviews
 
 #title
-### Jesteśmy rekomendowani przez małe i średnie przedsiębiorstwa
+### We are recommended by small and medium-sized enterprises
 
 :::
 
