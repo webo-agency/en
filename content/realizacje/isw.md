@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Headless website for a Polish 5G network solutions provider.'
-introduction.description: 'is-wireless.com It's a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security.'
+introduction.title: 'Strona interntowa w architekturze headless dla polskiego dostawcy rozwiązań sieciowych 5G'
+introduction.description: 'is-wireless.com to nowoczesna strona www działająca w oparciu o CMS Wordpress. Całość wykonana została w trybie headless, w celu maksymalnego przyśpieszenia.'
 type:
     - Strony www
     - UX/UI
@@ -27,13 +27,13 @@ link: '/'
 ---
 
 #title
-## *IS-Wireless* Headless website for a Polish 5G network solutions provider.
+## Strona interntowa w trybie headless dla polskiego dostawcy rozwiązań sieciowych 5G
 
 #description
-**is-wireless.com** It's a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security.
+**is-wireless.com** to nowoczesna strona www działająca w oparciu o CMS Wordpress. Całość wykonana została w trybie headless, w celu maksymalnego przyśpieszenia.
 
 #buttontext
-View online
+Zobacz online
 
 #tags
 - E-commerce
@@ -422,7 +422,6 @@ button.title: 'Skontaktuj się'
 ::::
 :::
 ::
-
 
 
 
