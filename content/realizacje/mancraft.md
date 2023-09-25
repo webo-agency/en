@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Sklep internetowy B2C/B2B producenta ASG premium, w oparciu o Prestashop.'
-introduction.description: 'Mancraft Airosft to polski producent akcesorii ASG premium. Naszym zadaniem była migracja wielowalutowego sklepu z Prestashop 1.6 do 1.7, następnie odświeżenie warstwy wizualnej i rozbudowa.
+introduction.title: 'Mancraft - B2B/B2C e-commerce platform for the premium ASG manufacturer, built using PrestaShop.'
+introduction.description: 'Mancraft Airsoft is a Polish premium ASG accessories manufacturer. Our task was to migrate the multi-currency store from PrestaShop 1.6 to 1.7, followed by a visual refresh and growth.
 '
 type:
     - E-commerce
