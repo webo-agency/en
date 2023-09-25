@@ -1,5 +1,5 @@
 ---
-introduction.title: 'ORAVIO - UX/UI design for the premium-grade sonic toothbrush manufacturer's online shop'
+introduction.title: 'ORAVIO - E-commerce UX/UI design for the premium-grade sonic toothbrush manufacturer'
 introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design a user-friendly interface that highlights the key product features.
 '
 type:
