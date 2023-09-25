@@ -566,10 +566,10 @@ rating: 5
 Bartłomiej Świstak Piotrowski
 
 #title
-Konsultant strategii w biznesie - **Krakowski świstak**
+Business Strategy Consultant - **Krakowski świstak**
 
 #message
-W firmie Webo zamówiłem **stronę www**. Już na etapie **badania potrzeb dało się czuć profesjonalizm**. Jestem **zadowolonym klientem** i używam swojej strony www w kontkatach z moimi klientami :)
+In Webo, I ordered a website. Right from the needs assessment stage, I could feel the professionalism. I am a satisfied customer and use my website in my interactions with my clients. :)
 
 :::::
 :::::opinion-md
@@ -584,7 +584,7 @@ Natalia Ryfa
 Business manager - **Oravio**
 
 #message
-Pomogli nam w przelaniu naszych wizji sklepu internetowego na realny, **dobrze odbierany przez klientów** i przede wszystkim sprawnie działający sklep! Dziękujemy i **polecamy Webo!** : )
+Webo helped us bring our vision for the online store to life, creating a store that is **well-received by customers** and, above all, functions smoothly! Thank you, and we **highly recommend Webo!** : )
 
 :::::
 :::::opinion-md
@@ -599,7 +599,7 @@ Adam Wasilewski
 Właściciel - **Caffe wasyl**
 
 #message
-**Dzięki Webo uratowałem swój biznes**, uruchomili mój sklep internetowy w **ciągu miesiąca**. Oby jak najwięcej takich ludzi!
+**Thanks to Webo, I saved my business.**, They implemented my online store **within a month**. May there be more people like them!
 
 :::::
 :::::opinion-md
@@ -611,10 +611,10 @@ rating: 5
 Adam Przebinda
 
 #title
-Członek zarządu - **DeltaHR**
+Member of the Board - **DeltaHR**
 
 #message
-Bardzo profesjonalna firma, indywidualne podejście do klienta, **dobry i ciągły kontakt** co pozwala na bieżąco kontrolować pracę nad projektem. **Każdy szczegół dopracowany** dokładnie tak jak tego oczekiwałem, śmiało i z czystym sumieniem mogę polecić. **Wiedza, podejście do klienta, czas realizacji** - wszystko 10/10.
+A highly professional company, individual approach to the client, **good and continuous communication** that allows for real-time project monitoring. **Every detail meticulously refined** just as I expected, I can confidently and with a clear conscience recommend them. **Knowledge, client approach, project timeline** - everything 10/10.
 
 :::::
 ::::
@@ -630,14 +630,14 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Zainteresowała Cię nasza oferta?
+*-/* Are you interested in our services?
 
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+## Get in touch and start collaborating!
 
 ::::
 :::
