@@ -5,7 +5,7 @@ button.link: https://www.webo.agency/kontakt
 ---
 
 #subtitle
- Welcome to Webo
+ Welcome in Webo
 
 #title
 # We deliver results through *UX and technology!*
@@ -141,7 +141,7 @@ button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Are you looking for a different service?
+*-/* Are you looking for special forces for your website?
 
 #title
 ## Contact us. *Let's talk!*
@@ -255,7 +255,7 @@ imageMobile.url: '/img/content-images/1solutions_mobile.png'
 *3/* Scalable solutions
 
 #title
-### We'll choose the best solution for your business*
+### We'll choose the best solution for *your business*
 
 #description
 We approach each project individually, analyzing its specific needs. We utilize the latest technologies while also supporting popular solutions.
