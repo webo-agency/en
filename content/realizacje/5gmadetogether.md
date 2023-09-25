@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Projekt strony internetowej dla międzynarodowej konferencji technologicznej'
-introduction.description: '5G Made Together jest stowarzyszeniem i konferencją organizowaną kilka razy w ciągu roku, poruszając zagadnienia transformacji cyfrowej, technologii, cyberbezpieczeństwa, biznesu i nauki.'
+introduction.title: '5G Made Together - Headless website for an international technology conference.'
+introduction.description: '5G Made Together is an association and conference held several times a year, addressing topics related to digital transformation, technology, cybersecurity, business, and science.'
 type:
     - UX/UI
     - Rozwój
