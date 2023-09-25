@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Projekt UX/UI sklepu internetowego polskiego producenta garaży blaszanych'
-introduction.description: 'Eurostal to producent wysokiej jakości garaży blaszanych. Naszym zadaniem było zaprojektowanie intuicyjnego interfejsu nowego sklepu wraz z rozszerzonym konfiguratorem produktu.
+introduction.title: 'Eurostal - UX/UI design for the e-commerce platform of a Polish metal garage manufacturer.'
+introduction.description: 'Eurostal is a manufacturer of high-quality metal garages. Our task was to design an intuitive interface for their new online store, along with an expanded product configurator.
 '
 type:
     - UX/UI
