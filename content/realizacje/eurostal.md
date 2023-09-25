@@ -1,5 +1,5 @@
 ---
-introduction.title: 'Eurostal - UX/UI design for the e-commerce platform of a Polish metal garage manufacturer.'
+introduction.title: 'Eurostal - UX/UI design for the e-commerce platform of a Polish metal garage manufacturer'
 introduction.description: 'Eurostal is a manufacturer of high-quality metal garages. Our task was to design an intuitive interface for their new online store, along with an expanded product configurator.
 '
 type:
