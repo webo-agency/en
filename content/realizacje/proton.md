@@ -1,5 +1,5 @@
 ---
-introduction.title: 'Proton Multimedia - Strona internetowa dostawcy usług IT dla gospodarstw domowych i firm.'
+introduction.title: 'Proton Multimedia - Modern website for an IT services provider.'
 introduction.description: 'Proton Multimedia provides IT services for home and business clients. Our task was to deliver a high-quality website that reduces the time needed for users to find services and make contact.
 '
 type:
