@@ -569,7 +569,7 @@ Bartłomiej Świstak Piotrowski
 Business Strategy Consultant - **Krakowski świstak**
 
 #message
-In Webo, I ordered a website. Right from the needs assessment stage, I could feel the professionalism. I am a satisfied customer and use my website in my interactions with my clients. :)
+In Webo, I ordered a website. **Right from the needs assessment stage, I could feel the professionalism**. I am a satisfied customer and use my website in my interactions with my clients. :)
 
 :::::
 :::::opinion-md
