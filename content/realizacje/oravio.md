@@ -1,6 +1,6 @@
 ---
-introduction.title: 'UX/UI Sklepu internetowego producenta szczoteczek sonicznych klasy premium'
-introduction.description: 'Oravio to to polski producent wysokiej jakości szczoteczek sonicznych. Naszym zadaniem było zaprojektowanie łatwego w obsłudze interfejsu, eksponującego najważniejsze cechy produktu.
+introduction.title: 'ORAVIO - UX/UI design for the premium-grade sonic toothbrush manufacturer's online shop'
+introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design a user-friendly interface that highlights the key product features.
 '
 type:
     - E-commerce
