@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Sklep internetowy polskiego producenta dekoracji w oparciu o Prestashop i Tailwind CSS'
-introduction.description: 'Feeby to polski producent dekoracji działający na rynku od ponad 25 lat. Nasza współpraca polega na wdrożeniu, utrzymaniu sklepu, a także na rozwoju o nowe funkcjonalności.
+introduction.title: 'Feeby - E-commerce for a Polish decoration manufacturer built using PrestaShop and Tailwind CSS'
+introduction.description: 'Feeby is a Polish decoration manufacturer with over 25 years of experience in the market. Our collaboration involves implementing and maintaining the store, as well as developing new functionalities.
 '
 type:
     - UX/UI
