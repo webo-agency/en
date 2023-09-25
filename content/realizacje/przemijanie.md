@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Strona internetowa fundacji Przemijanie w oparciu o CMS Drupal  i Tailwind CSS'
-introduction.description: 'Przemijanie to fundajca pomagająca seniorom. Naszym zadaniem było podłaczenie strony pod CMS Drupal oraz przeprowadzenie działań zwiększających bezpieczeństwo i szybkośc strony.
+introduction.title: 'Przemijanie - Foundation's website built on CMS Drupal and Tailwind CSS.'
+introduction.description: 'Przemijanie is a foundation that assists seniors. Our task was to migrate the website to CMS Drupal and implement measures to enhance site security and speed.
 '
 type:
     - Strony www
