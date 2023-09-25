@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Wdrożenie strony internetowej w oparciu o CMS Wordpress wraz z rozbudową o nowe funkcjonalności'
-introduction.description: 'Delta HR jest firmą specjalizującą się w poszukiwaniu ofert na niemieckim rynku dla zawodowych kierowców. W ramach przeprowadzonych działań, przenieśliśmy istniejącą stronę na CMS Wordpress, a także rozbudowaliśmy o wyszukiwarkę filtrującą oferty pracy.'
+introduction.title: 'Delta HR - Implementation of a website based on CMS WordPress along with the expansion of new functionalities.'
+introduction.description: 'Delta HR is a company specializing in finding job offers in the German market for professional drivers. As part of the conducted activities, we migrated the existing website to CMS WordPress and expanded it with a job search filter.'
 type:
     - Strony www
     - Wsparcie
