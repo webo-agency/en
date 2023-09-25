@@ -1,5 +1,5 @@
 ---
-introduction.title: '*IS-Wireless* Headless website for a Polish 5G network solutions provider'
+introduction.title: 'IS-Wireless - Headless website for a Polish 5G network solutions provider'
 introduction.description: 'It is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security
 '
 type:
