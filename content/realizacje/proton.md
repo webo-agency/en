@@ -1,6 +1,7 @@
 ---
-introduction.title: 'Strona internetowa dostawcy usług IT dla gospodarstw domowych i firm.'
-introduction.description: 'Proton Multimedia świadczy usłgi wsparcia IT dla firm i gospodarstw domowych. Nasza praca polegała na dostarczeniu wysokiej jakości strony internetowej z wykorzystaniem nowoczesnych rozwiązań.'
+introduction.title: 'Proton Multimedia - Strona internetowa dostawcy usług IT dla gospodarstw domowych i firm.'
+introduction.description: 'Proton Multimedia provides IT services for home and business clients. Our task was to deliver a high-quality website that reduces the time needed for users to find services and make contact.
+'
 type:
     - Strony www
     - UX/UI
