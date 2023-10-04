@@ -1,0 +1,1 @@
+import{r as t}from"./slot.1c37c394.js";import{_ as s,o,c as r,a}from"./entry.b558cb43.js";import"./node.d23d14fe.js";const c={},n={class:"subtitle"};function l(e,_){return o(),r("div",null,[a("span",n,[t(e.$slots,"default")])])}const p=s(c,[["render",l]]);export{p as default};
