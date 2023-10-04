@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,r}from"./entry.b558cb43.js";const c={},n={class:"text-green-main not-italic"};function a(e,_){return o(),s("em",n,[r(e.$slots,"default")])}const f=t(c,[["render",a]]);export{f as default};
