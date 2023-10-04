@@ -1,0 +1,1 @@
+import{_ as o,o as s,c as t,r}from"./entry.b558cb43.js";const a={},n={class:"flex flex-wrap justify-center gap-x-10 desktop:gap-x-20 gap-y-5"};function c(e,p,l,d,f,_){return s(),t("div",n,[r(e.$slots,"default")])}const u=o(a,[["render",c]]);export{u as default};
