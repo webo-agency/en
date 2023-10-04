@@ -4,10 +4,10 @@ bgUrl: './img/contact_bg.png'
 ---
 
 #subtitle
-*-/* Kontakt
+*-/* Contact
 
 #title
-## Skontaktuj się z nami i *zrealizuj swój projekt*
+## Contact us and *implement your project*
 
 #description
 Wypełnij poniższy formularz. Z chęcią odpowiemy na wszystkie Twoje pytania!
