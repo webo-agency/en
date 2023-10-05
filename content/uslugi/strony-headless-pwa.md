@@ -5,13 +5,13 @@ headerWidth: 740
 ---
 
 #subtitle
-*-/* Strony Headless i PWA
+*-/* Headless & PWA Websites
 
 #title
-## Nowa generacja stron internetowych *dla Twojej firmy*
+## The next generation of websites *for your company*
 
 #description
-Dzięki której zabezpieczysz zasoby, zmaksymalizujesz wydajność i zredukujesz koszta utrzymania strony internetowej.
+Through which you'll secure resources, maximize performance, and reduce website maintenance costs.
 
 ::
 
@@ -31,20 +31,20 @@ class: items-center
 :::::block-header-md
 
 #subtitle
-*1/* Nowa technologia stron www
+*1/* New Website Technology
 
 #title
-### Czym jest *Headless i PWA*
+### What are *Headless and PWA websites?*
 
 #description
 ::::::prose-p-4
 ---
 class: mb-10
 ---
-Strony internetowe wykonane w **architekturze Headless** polegają na oddzieleniu interfejsu użytkownika (frontendu) od funkcji administracyjnych i zasobów wewnętrznych (backend). Obie warstwy są wobec siebie niezależne, a komunikacja między nimi wykonywana jest za pomocą API.
+Websites built with **Headless architecture** involve separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is done through APIs.
 ::::::
 ::::::prose-p-4
-**PWA (Progressive Web Application)** to progresywna aplikacja internetowa, uruchamiana tak jak zwykła strona www. Łączy ze sobą zalety  tradycyjnych stron internetowych takich jak możliwości modyfikacji i elastyczność, z cechami aplikacji natywnych np. szybkością działania czy działaniem offline.
+**PWA (Progressive Web Application)** is a progressive web app, launched just like a regular website. It combines the benefits of traditional websites, such as flexibility and modifiability, with the features of native applications, such as fast performance and offline functionality.
 ::::::
 
 :::::
@@ -95,10 +95,10 @@ class: mb-10
 ---
 
 #subtitle
-*2/* Korzyści Headless i PWA
+*2/* Benefits of Headless and PWA
 
 #title
-### Jakie są zalety dla *Twojej firmy?*
+### What are the benefits for **your company?**
 
 
 :::::
@@ -117,10 +117,10 @@ animated: false
 ---
 
 #title
-#### Ultra szybkie ładowanie
+#### Ultra-fast loading times
 
 #description
-Niesamowita szybkość, spowoduje że zapomnisz o konieczności czekania na załadowanie strony. **Średni czas ładowania spadnie nawet poniżej 1s**, zwiększając dzięki temu komfort i zaangażowanie użytkowników.
+Incredible speed that will make you forget about waiting for the page to load. The **average loading time can drop below 1 second**, significantly enhancing user comfort and engagement.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -131,10 +131,10 @@ animated: false
 ---
 
 #title
-#### Najwyższe bezpieczeństwo
+#### Highest security
 
 #description
-Odseparowanie warstw sprawia że użytkownik ma minimalny kontakt z systemem wewnętrznym, dzięki czemu **Headless zapewnia wyższe bezpieczeństwo od standardowych stron** www w przypadku ataków hakerskich.
+The separation of layers means that the user has minimal contact with the internal system, which is why **Headless provides higher security than standard websites** in the event of hacker attacks.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -145,10 +145,10 @@ animated: false
 ---
 
 #title
-#### Ekonomia
+#### Economy
 
 #description
-W architekturze Headless **ograniczamy koszty związane z infrastrukturą** serwera, dzięki generowaniu wizualnej części strony tylko na żądanie.
+In a Headless architecture, we **reduce server infrastructure costs** by generating the visual part of the website only upon request.
 
 
 ::::::
@@ -160,10 +160,10 @@ animated: false
 ---
 
 #title
-#### Nielimitowane skalowanie
+#### Unlimited scalability
 
 #description
-Specyfika konstrukcji stron headlessowych sprawia że **rozbudowa strony i jej zasięgu nie wpływa na wydajność serwisu**.
+The nature of Headless website construction ensures that **expanding the site and its reach does not affect the service's performance.**
 
 ::::::
 :::::
@@ -202,13 +202,13 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Headless Wordpress CMS
+*3/* Headless WordPress CMS
 
 #title
-### Tworzymy strony Headless w oparciu o *Wordpress CMS*
+### We create Headless websites based on *WordPress CMS*
 
 #description
-Nie musisz uczyć się nowego systemu, wszystkie **treści na stronie edytujesz za pomocą znanego Wordpress CMS**. Łączymy nową technologię z popularnym i wygodnym systemem zarządzania treścią.
+You don't need to learn a new system; you can edit all the **content on the website using the familiar WordPress CMS.** We combine new technology with a popular and user-friendly content management system.
 
 :::::::
 
@@ -253,13 +253,13 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Wejdź na nowy poziom
+*4/* Take it to the next level
 
 #title
-### Do kogo kierowana jest *oferta*
+### Who is this *offer for?*
 
 #description
-Strony internetowe Headless i PWA mają szczególnie dużą wartość dla firm technologicznych oraz działających w dziale R&D (badania i rozwój). Wynika to ze specyfiki sektorów działalności i narażeniu na możliwe zewnętrzne zagrożenia. Dzięki odpowiedniemu podejściu, zastosowanie nowych technologii webowych wpłynie pozytywnie m.in. na:
+Headless and PWA websites are particularly valuable for technology companies and those operating in Research and Development (R&D). This is because of the specific nature of these sectors and their exposure to potential external threats. With the right approach, the adoption of new web technologies will have a positive impact on, among other things:
 
 ::::
 :::
@@ -278,7 +278,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Zmniejszenie ryzyka utraty wrażliwych danych wewnętrznych
+##### Reducing the risk of internal sensitive data loss
 ::::
 
 ::::process-tile-md
@@ -288,7 +288,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Zwiększenia dostępności strony nawet ze słabym łączem lub trybem offline
+##### Improving website accessibility even with a weak connection or in offline mode
 ::::
 
 ::::process-tile-md
@@ -298,7 +298,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Niezależność pracy zespołów frontend i backend nad stroną
+##### Independence of work between frontend and backend teams on the website
 ::::
 
 ::::process-tile-md
@@ -308,7 +308,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Zwiększenie wydajności i efektywności działania nawet przy bardzo rozbudowanych stronach
+##### Enhancing performance and efficiency, even for highly complex websites
 ::::
 
 ::::process-tile-md
@@ -318,7 +318,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Łatwość integracji z wewnętrznymi systemami dzięki nowoczesnym narzędziom i bibliotekom
+##### Easy integration with internal systems using modern tools and libraries.
 ::::
 
 ::::process-tile-md
@@ -328,7 +328,7 @@ isWideType: true
 hoverEffect: false
 ---
 #title
-##### Zunifikowane działanie na różnych urządzeniach, szczególnie mobilnych
+##### Consistent performance across various devices, especially mobile
 ::::
 :::
 ::
@@ -346,10 +346,10 @@ linktitle: Zobacz więcej projektów
 ---
 
 #subtitle
-*5/* Wykonaliśmy strony w nowej technologii
+*5/* We have developed websites using a headless architecture
 
 #title
-### Nasze realizacje <br> *Headless i PWA*
+### Our Headless and PWA *Projects*
 
 ::::
 :::
@@ -376,16 +376,15 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 maxWidth: 650
 button.link: https://www.webo.agency/kontakt
-button.title: 'Umów się na konsultację'
+button.title: 'Schedule a Consultation'
 button.isWide: true
 ---
 
 #subtitle
-*-/* Potrzebujesz więcej informacji?
+*-/* Need More Information?
 
 #title
-### Umów się na bezpłatną konsultację i poznaj przewagę Headless
-
+### Schedule a Free Consultation and Discover the Headless Advantage!
 ::::
 :::
 ::
