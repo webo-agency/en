@@ -452,14 +452,14 @@ maxWidth: 900
 
 
 #description
-##### Projektowanie interfejsu UX/UI
-Podczas tego etapu pracujemy nad wyglądem strony www. Prace zaczynamy od przeanalizowania przyzwyczajeń grupy docelowej (Twoich klientów) oraz otoczenia rynkowego - wszystko po to aby użytkownicy z łatwością odnaleźli się na nowej stronie. Następnie  opracowujemy moodboardy (tablice inspiracji), wytyczamy ścieżki użytkownika (user flow), projektujemy makiety UX, kończąc na finalnym wyglądzie Twojej strony.
+##### UX/UI Design
+During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
 
-**Podczas tego etapu:**
-- Będziesz mieć wgląd w każdy etap pracy projektowej i bezpośredni kontakt z doświadczonym projektantem UX/UI.
-- Będziesz akceptować poszczególne etapy realizacji projektu Twojej strony www - od moodboardów po finalny wygląd.<br>
+**During this stage:**
+- You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
+- You will approve each stage of your website project - from moodboards to the final look.<br>
 
-**Po akceptacji finalnego wyglądu, projekt jest gotowy do etapu programowania**
+**Once the final look is approved, the project is ready for the programming stage**
 
 :::::
 
@@ -497,15 +497,15 @@ maxWidth: 900
 
 
 #description
-##### Prace programistyczne
-Po zaakceptowaniu projektu interfejsu, rozpoczynamy prace nad kompleksowym wdrożeniem strony internetowej w wybranej technologii. Działamy od konfiguracji infrastruktury technicznej, przez instalacje wymaganych narzędzi po zaprogramowanie strony.
+##### Development
+After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
 
-**Podczas tego etapu:**
-- Będziesz mieć stały podgląd strony w środowisku developerskim, który zapewni pełną kontrolę nad projektem
-- Skonfigurujemy infrastrukturę techniczną potrzebną do wydajnego działania strony internetowej
-- Zaprogramujemy stronę www wraz ze wszystkimi wymaganymi funkcjami i integracjami np. GA4.<br>
+**During this stage:**
+- You will have a live preview of the site in the development environment, which will give you full control over the project
+- We will configure the technical infrastructure needed for the efficient operation of the website
+- We will develop the website with all the required features and integrations e.g. GA4.<br>
 
-**Po zakończeniu etapu programowania, przekazujemy stronę www do testów.**
+**Once the programming stage is complete, we submit the website for QA.**
 
 :::::
 
@@ -545,14 +545,14 @@ maxWidth: 900
 
 
 #description
-##### Testy i publikacja
-W tym etapie gruntownie sprawdzamy działanie strony internetowej. Testy wykonujemy na wielu urządzeniach i rozdzielczościach ekranu (od najmniejszych smartfonów po wyświetlacze FHD), wszystko po to aby mieć pewność że wszystko działa jak należy. Po przejściu wewnętrznych testów, przekazujemy stronę do weryfikacji klientowi - to moment na dopracowanie projektu i zgłaszanie wszelkich uwag przed publikacją.
+##### QA & Publishing
+In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
 
-**Podczas tego etapu:**
-- Sprawdzamy działanie każdej funkcji, wydajność strony, konfiguracje infrastruktury oraz wyświetlanie strony na wielu urządzeniach.
-- Przekazujemy stronę do weryfikacji klientowi, wykonujemy wszelkie poprawki aby przygotować stronę do publikacji.<br>
+**During this stage:**
+- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the site on multiple devices
+- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
 
-**Po otrzymaniu od klienta zielonego światła na publikację, startujemy!**
+**After receiving the green light for publication from the client, we will kick off!**
 
 :::::
 
@@ -591,17 +591,17 @@ maxWidth: 900
 
 
 #description
-##### Wsparcie i rozwój
-Często publikacja strony to dopiero początek, a podczas użytkowania strony pojawiają sie pomysły na nowe funkcjonalności, zakładki czy ulepszenia - w tym miejscu nie możemy także zapomnieć o koniecznych aktualizacjach czy monitorowaniu wydajności, bezpieczeństwa czy stabilności działania.
+##### Maintenance & growth
+Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
 
-**W ramach usługi wsparcia zajmujemy się następującymi pracami:**
-- Aktualizacja środowiska (systemu) w ramach konserwacji
-- Monitorowanie bezpieczeństwa i szybkości strony
-- Projektowanie i rozbudowa strony
-- Projektowanie i wdrażanie nowych funkcjonalności i dedykowanych modułów
-- Reagowanie na ewentualne awarie<br>
+**As part of our support service, we handle the following work:**
+- Update the environment (system) as part of maintenance
+- Monitoring the security and speed of the site
+- Design and development of the website
+- Designing and implementing new functionalities and dedicated modules
+- Responding to potential failures<br>
 
-**Po akceptacji kosztorysu, proponowanych rozwiązań i terminów, podpisujemy umowę o współpracy i przechodzimy do realizacji.**
+**Once the scope of support is agreed we begin a long-term relationship**
 
 :::::
 
