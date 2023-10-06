@@ -645,14 +645,14 @@ class: mb-[80px] tablet:mb-[130px]
 ::::block-header-link-md
 ---
 url: 'https://www.behance.net/webo_agency'
-linktitle: Zobacz więcej projektów
+linktitle: Explore more projects
 ---
 
 #subtitle
-*5/* Nasze realizacje stron www
+*5/* Our website projects
 
 #title
-### Jesteśmy dumni <br>z *wykonanych projektów*
+### We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -679,15 +679,15 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 maxWidth: 650
 button.link: https://www.webo.agency/kontakt
-button.title: 'Umów się na konsultację'
+button.title: 'Get in touch'
 button.isWide: true
 ---
 
 #subtitle
-*-/* Potrzebujesz więcej informacji?
+*-/* Are you interested in a high performance website?
 
 #title
-### Umów się na rozmowę i poznaj jak tworzymy wydajne strony www
+### Get in touch and start collaborating!
 
 ::::
 :::
