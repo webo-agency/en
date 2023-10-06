@@ -10,7 +10,7 @@ bgUrl: './img/contact_bg.png'
 ## Contact us and *implement your project*
 
 #description
-Wypełnij poniższy formularz. Z chęcią odpowiemy na wszystkie Twoje pytania!
+Fill out the form below. We'll be happy to answer all your questions!
 
 ::
 
@@ -26,10 +26,10 @@ maxWidth: 280
 ---
 
 #subtitle
-*1/* Do dzieła
+*1/* Let's do it
 
 #title
-### Co możemy dla Ciebie *zrobić?*
+### What can we *do* for you?
 
 :::
 :::block-form-md
@@ -37,21 +37,21 @@ maxWidth: 280
 #radio
 ::::form-radio-md
 ---
-value: Sklep
+value: E-commerce
 ---
 #label
 Sklep internetowy
 ::::
 ::::form-radio-md
 ---
-value: Strona
+value: Website
 ---
 #label
 Strona internetowa
 ::::
 ::::form-radio-md
 ---
-value: Aplikacja
+value: Web App
 ---
 #label
 Aplikacja internetowa
@@ -68,19 +68,19 @@ MVP
 value: Wsparcie i rozwój
 ---
 #label
-Wsparcie i rozwój
+Support & Development
 ::::
 ::::form-radio-md
 ---
 value: Projekt UX/UI
 ---
 #label
-Projekt UX/UI
+UX/UI Design
 ::::
 
 
 #formtitle
-Wypełnij formularz
+Fill out the form
 
 
 #fields
@@ -91,7 +91,7 @@ type: text
 ---
 
 #placeholder
-Twoje imię i nazwisko
+Your name
 
 ::::
 ::::form-field-md
@@ -101,7 +101,7 @@ type: text
 ---
 
 #placeholder
-Nazwa firmy
+Company name
 
 ::::
 ::::form-field-md
@@ -110,7 +110,7 @@ type: email
 ---
 
 #placeholder
-Twój adres e-mail
+Your e-mail adresse
 
 ::::
 
@@ -132,24 +132,23 @@ type: textarea
 ---
 
 #placeholder
-Opisz projekt
+Describe your project
 
 ::::
 
 #buttontext
-Wyślij wiadomość
-
+Send us a messago
 #policytext
-Twoje dane przetważamy zgodnie z naszą **polityką prywatności.**
+Twoje We process data in accordance with our **privacy policy.**
 
 #thanksMessage
-### Dziękujemy za wysłanie wiadomości
+### Thank you for sending your message
 
 #thanksDescription
-Na Twoją wiadomość odpowiemy w ciągu 24h
+We will respond to your message within 24 hours
 
 #buttonBackText
-Wróć do strony głównej
+Return to home page
 
 #side
 ::::block-contact-info-md
@@ -165,7 +164,7 @@ iconUrl: '/img/icons/24h.png'
 ---
 
 #text
-Skontaktujemy się z Tobą w ciągu 24 godzin
+We will contact you within 24 hours
 
 :::::
 :::::icon-contact-tile-md
@@ -175,6 +174,7 @@ iconUrl: '/img/icons/board.png'
 
 #text
 Przeanalizujemy Twoje założenia i doradzimy
+We will analyze your assumptions and advise you
 
 :::::
 :::::icon-contact-tile-md
@@ -183,12 +183,12 @@ iconUrl: '/img/icons/list.png'
 ---
 
 #text
-Stworzymy ofertę dopasowaną do Twoich potrzeb
+We will create an offer tailored to your needs
 
 :::::
 
 #contacttext
-Skontaktuj się *bezpośrednio*
+Get in touch *directly*.
 
 ::::
 
