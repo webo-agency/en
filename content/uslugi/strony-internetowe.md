@@ -260,10 +260,10 @@ delay: 0
 ---
 
 #title
-##### Dopracowanie strony na urządzeniach mobilnych
+##### Refining the site on mobile devices
 
 #description
-Responsywność to musthave, a my traktujemy ją priorytetowo - podejście Mobile first pozwala nam zagwarantować najlepsze działanie na smartfonach i nie tylko.
+Responsiveness is a must-have, and we prioritize it - the Mobile-First approach allows us to ensure the best performance on smartphones and more.
 
 ::::
 ::::icon-tile-md
@@ -275,10 +275,10 @@ delay: 1
 ---
 
 #title
-##### Optymalizacja <br> i przyjazność SEO
+##### Optimization and SEO friendliness
 
 #description
-Dostosowanie strony pod kątem wyszukiwarek to konieczność, każdą naszą stronę uzbrajamy w potrzebne funkcje oraz optymalizacje kodu i wydajności zgodne z wymogami SEO.
+Adapting the website for search engines is a necessity; we equip each of our websites with the necessary features and optimize code and performance in accordance with SEO requirements.
 ::::
 ::::icon-tile-md
 ---
@@ -289,10 +289,11 @@ delay: 2
 ---
 
 #title
-##### Zgodność z identyfikacją wizualną firmy
+##### Consistency with the company's visual identity
 
 #description
-Prócz zadbania o kwestie techniczne i UX, strona musi współgrać ze wszystkimi elementami graficznymi Twojej firmy. Tylko w taki sposób wykona swoją pracę w 100%.
+In addition to taking care of technical and UX aspects, the website must harmonize with all the visual elements of your company. Only in this way will it perform its job at 100%.
+
 ::::
 :::
 ::
@@ -325,13 +326,13 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Strony www Drupal i Wordpress
+*3/* Drupal & Wordpress Websites
 
 #title
-### Korzystamy z najlepszych *technologii*
+### We use the best *technologies*
 
 #description
-Strony internetowe realizujemy korzystając tylko ze sprawdzonych rozwiązań takich jak **CMS Drupal i Wordpress**, łącząc je z nowoczesnymi technologiami i narzędziami zapewniając **niezawodne działania na lata**.
+We create websites using only proven solutions such as **Drupal and Wordpress CMS**, combining them with modern technologies and tools to ensure **reliable performance for years.**
 
 :::::::
 
@@ -367,13 +368,13 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Etapy realizacji strony internetowej
+*4/* Stages of Website Development
 
 #title
-### Do realizacji stron www <br> *podchodzimy etapowo*
+### We approach website development *in stages*
 
 #description
-Do stworzenia nowoczesnej strony internetowej potrzeba szerokiej wiedzy z zakresu technologii i projektowania nastawionego na użytkownika oraz wypracowanego procesu, który zapewnia realizację założeń bez obsuw czasowych i w ustalonym budżecie.
+Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
 
 ::::
 :::
@@ -383,11 +384,11 @@ Do stworzenia nowoczesnej strony internetowej potrzeba szerokiej wiedzy z zakres
 :::block-swiper-tabs-md
 ---
 tabNames:
-    - Analiza założeń
-    - Projektowanie
-    - Programowanie
-    - Testy i publikacja
-    - Wsparcie i rozwój
+    - Requirements analysis
+    - UX/UI Design
+    - Development
+    - QA & publishing
+    - Maintenance & growth
 ---
 ::::block-swiper-tabs-slide-md
 ---
@@ -401,18 +402,16 @@ maxWidth: 900
 ---
 
 #description
-##### Analiza założeń
-Jest to pierwszy krok jaki musimy
-wykonać w celu realizacji strony internetowej.
-Podczas pierwszej rozmowy dokładnie poznajemy Twoje potrzeby oraz założenia projektu.
+##### Requirements analysis
+This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
 
-**Podczas tego etapu:**
-- Przeprowadzamy videowarsztaty
-- Dobieramy najlepszą technologię i rozwiązania, optymalne dla Twojego projektu
-- Przygotowujemy kosztorys, który zawiera szczegółowy sposób realizacji oraz stack technologiczny
-- Określamy czas trwania projektu i terminy odbioru<br>
+**During this stage:**
+- We run video workshops
+- We select the best technology and solutions tailored to your project
+- We prepare a cost estimate, which includes a detailed implementation method and technology stack
+- We determine the project duration and delivery deadlines<br>
 
-**Po akceptacji kosztorysu, proponowanych rozwiązań i terminów, podpisujemy umowę o współpracy i przechodzimy do realizacji.**
+**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
 
 :::::
 
