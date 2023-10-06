@@ -6,13 +6,13 @@ descriptionWidth: 700
 ---
 
 #subtitle
-*-/* Strony internetowe 
+*-/* Websites
 
 #title
-## Szybkie, nowoczesne <br> i funkcjonalne *strony www*
+## Fast, modern, <br> and functional *websites*
 
 #description
-Tworzymy świetnie wyglądające strony, gwarantując wysoką wydajność, jakość i bezpieczeństwo.
+We create beautifully designed websites, ensuring high performance, code quality, and security.
 
 ::
 
@@ -29,13 +29,13 @@ class: mb-20
 ---
 
 #subtitle
-*1/* Profesjonalne strony www
+*1/* Professional websites
 
 #title
-### Doświadczony zespół do <br> *zadań specjalnych*
+### Experienced team for special tasks
 
 #description
-Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podstaw, korzystając tylko ze sprawdzonych i nowoczesnych technologii oraz jasnych procesów technologicznych. Dzięki temu zapewniamy najwyższą jakość, wydajność i bezpieczeństwo. Od projektu UX/UI strony, przez programowanie backend/frontent, po wsparcie powdrożeniowe, stworzysz z nami:
+We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies, as well as clear technological processes. This allows us to ensure the highest quality, performance, and security. From the UX/UI design of the website, through backend and frontend development, to post-launch support, you can create with us:
 
 ::::
 :::
@@ -48,10 +48,10 @@ link: ''
 stylesCustom: true
 ---
 #title
-##### Strony www dla firm i instytucji
+##### Websites for companies and institutions
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Modern websites designed to meet the specific goals of businesses and institutions. Created with a user-centric approach to achieve business objectives.
 
 ::::
 
@@ -63,10 +63,10 @@ stylesCustom: true
 delay: 1
 ---
 #title
-##### Strony internetowe One Page
+##### One Page Websites
 
 #description
-Zadaniowe strony internetowe, mające na celu promocje produktu lub usługi. Projektowane i wdrażane z myślą o finalizacji celu konwersji, zamknięciu sprzedaży.
+Landing pages or Conversion-focused websites designed and implemented with the goal of promoting a product or service and driving conversions or sales.
 
 ::::
 
@@ -78,10 +78,11 @@ stylesCustom: true
 delay: 2
 ---
 #title
-##### Rozbudowane serwisy internetowe
+##### Web services
 
 #description
-Dedykowane dla dużych firm. Rozbudowane portale internetowe z wieloma funkcjami, spełniające wysokie wymagania dostępności, kierowane do konkretnej grupy odbiorców.
+Customized for large enterprises. Comprehensive web portals with multiple features, meeting high availability requirements, targeting specific user groups.
+
 ::::
 
 ::::offer-tile-md
@@ -92,10 +93,10 @@ stylesCustom: true
 delay: 3
 ---
 #title
-##### Strony Headless / PWA
+##### Headless & PWA Websites
 
 #description
-Wykonane w nowych technologiach, dostarczające maksimum wydajności. Idealne dla wymagających klientów, współpracujących z globalnymi markami oraz startupów technologicznych.
+Made with cutting-edge technologies, delivering maximum performance. Ideal for demanding clients collaborating with global brands and technological startups.
 
 ::::
 :::
@@ -122,13 +123,13 @@ class: mb-20
 ---
 
 #subtitle
-*2/* Zapewniamy najwyższe standardy
+*2/* We ensure the highest standards
 
 #title
-### Jakość kodu, automatyzacje, <br> bezpieczeństwo i świetny UX
+### Code quality, automation, security, and excellent UX.
 
 #description
-Nie korzystamy z szablonów czy gotowców. Strony internetowe wdrażamy od podstaw, korzystając tylko ze sprawdzonych i nowoczesnych technologii oraz jasnych procesów technologicznych. Dzięki temu zapewniamy najwyższą jakość, wydajność i bezpieczeństwo. Od projektu UX/UI strony, przez programowanie backend/frontent, po wsparcie powdrożeniowe, stworzysz z nami:
+We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies along with clear technological processes. This ensures the highest quality, performance, and security. From the UX/UI design of the website to backend/frontend development and post-launch support, you'll create with us:
 
 ::::
 :::
@@ -169,10 +170,10 @@ animated: false
 ---
 
 #title
-#### Stabilność działania i bezpieczeństwo danych
+#### Accessibility and High Data Security
 
 #description
-Naszym zadaniem jest dostarczenie i zachowanie stabilnie działającej strony internetowej, odpornej na niepowołane czynniki zewnętrzne i wektory ataku. Bezpieczeństwo danych to podstawa.
+Our responsibility is to provide and maintain a stable website that is resistant to unauthorized external factors and attack vectors. Data security is fundamental.
 
 :::::
 :::::list-item-ul-active-md
@@ -183,10 +184,10 @@ animated: false
 ---
 
 #title
-#### Wysoka jakość kodu i optymalizacja strony
+#### High code quality and website performance
 
 #description
-Korzystamy tylko z potrzebnych funkcji i modułów, dbamy o najwyższa jakość kodu i wykorzystujemy nowe rozwiązania technologiczne, dzięki czemu maksymalizujemy szybkość działania i wydajność serwisu.
+We only use necessary features and modules, ensure high code quality, and leverage new technological solutions to maximize website speed and performance.
 
 
 :::::
@@ -198,12 +199,10 @@ animated: false
 ---
 
 #title
-#### Dobrze zaprojektowany interfejs
-
+#### Well-designed interface
 
 #description
-Każdy projekt opieramy o wymogi klientów i potrzeby użytkowników. Projektujemy makiety UX oraz unikalny design, zapewniając łatwą w obsłudze i miłą dla oka stronę.
-
+We base every project on client requirements and user needs. We design UX mockups and a unique UI design, ensuring an easy-to-use and visually appealing website.
 
 
 :::::
@@ -215,10 +214,10 @@ animated: false
 ---
 
 #title
-#### Automatyzacja procesów CI/CD
+#### CI/CD Automation
 
 #description
-Wdrażamy rozwiązania CD w oparciu o platformę GitHub i automatyzację CI, co przynosi długotrwałe korzyści m.in. optymalizację procesów, większą przejrzystość i zmniejszenie kosztów obsługi stron internetowych.
+Implementing CD solutions based on the GitHub platform and CI automation brings long-term benefits, including process optimization, enhanced transparency, and reduced website maintenance costs.
 
 :::::
 :::::list-item-ul-active-md
@@ -229,10 +228,10 @@ animated: false
 ---
 
 #title
-#### Skalowalność czyli przygotowanie do rozwoju
+#### Scalability / Growth preparation
 
 #description
-Celem prowadzenia biznesu jest jego rozwój. Stawiamy na długofalowe korzyści wdrażając m.in. nowoczesną architekturę i system przystosowany do dalszej rozbudowy.
+The goal of doing business is to grow. We focus on long-term benefits by implementing, such as modern architecture and a system suitable for further expansion.
 
 :::::
 ::::
@@ -244,7 +243,7 @@ class: mb-20 [&_h4]:!text-xl tablet:[&_h4]:!text-2xl
 ---
 
 #title
-#### O czym bezwzględnie pamiętamy?
+#### What do we absolutely have in mind?
 
 :::
 
