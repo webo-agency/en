@@ -40,21 +40,21 @@ maxWidth: 280
 value: E-commerce
 ---
 #label
-Sklep internetowy
+E-commerce
 ::::
 ::::form-radio-md
 ---
 value: Website
 ---
 #label
-Strona internetowa
+Website
 ::::
 ::::form-radio-md
 ---
 value: Web App
 ---
 #label
-Aplikacja internetowa
+Web App
 ::::
 ::::form-radio-md
 ---
@@ -65,17 +65,18 @@ MVP
 ::::
 ::::form-radio-md
 ---
-value: Wsparcie i rozwój
+value: Support & Development
 ---
 #label
 Support & Development
 ::::
 ::::form-radio-md
 ---
-value: Projekt UX/UI
+value: UX/UI Design
 ---
 #label
 UX/UI Design
+---
 ::::
 
 
@@ -121,7 +122,7 @@ type: tel
 ---
 
 #placeholder
-Nr. telefonu
+Phone number
 
 ::::
 
@@ -137,15 +138,15 @@ Describe your project
 ::::
 
 #buttontext
-Send us a messago
+Send message
 #policytext
-Twoje We process data in accordance with our **privacy policy.**
+We process data in accordance with our **privacy policy.**
 
 #thanksMessage
 ### Thank you for sending your message
 
 #thanksDescription
-We will respond to your message within 24 hours
+We will respond to your message within 48 hours
 
 #buttonBackText
 Return to home page
@@ -164,7 +165,7 @@ iconUrl: '/img/icons/24h.png'
 ---
 
 #text
-We will contact you within 24 hours
+We will contact you within 48 hours
 
 :::::
 :::::icon-contact-tile-md
@@ -173,7 +174,6 @@ iconUrl: '/img/icons/board.png'
 ---
 
 #text
-Przeanalizujemy Twoje założenia i doradzimy
 We will analyze your assumptions and advise you
 
 :::::
@@ -204,7 +204,7 @@ class: mb-20 tablet:mb-[130px]
 
 - **NIP:** 631 261 36 26
 - **REGON:** 382 471 232
-- **Adres:** Lipowa 58C, <br> 44-100 Gliwice
+- **Adres:** Lipowa 58C, <br> 44-100 Gliwice, Poland
 
 :::
 ::
