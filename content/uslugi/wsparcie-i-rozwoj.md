@@ -6,13 +6,13 @@ descriptionWidth: 650
 ---
 
 #subtitle
-*-/* Gwarantowana dostępność specjalistów IT
+*-/* Guaranteed Availability of IT Specialists
 
 #title
-## Wsparcie techniczne i rozwój stron / sklepów www
+## Support and development for websites / e-commerce
 
 #description
-Dzięki któremu zabezpieczysz zasoby, zmaksymalizujesz wydajność i zredukujesz koszta utrzymania strony internetowej.
+Thanks to which you will secure resources, maximize performance and reduce website maintenance costs.
 
 ::
 
@@ -29,13 +29,13 @@ class: mb-20 relative
 ---
 
 #subtitle
-*1/* Bezpieczeństwo, wydajność i stabilność
+*1/* Security, performance and stability
 
 #title
-### Wspieramy, monitorujemy <br> i rozwijamy aby Twoja strona działała *bezpiecznie, wydajnie i stabilnie*
+### We support, monitor  <br> and develop to keep your site running *securely, efficiently and stably*
 
 #description
-Jest to usługa kierowana do firm i instytucji, które już posiadają swoje strony internetowe ale potrzebują rozbudowy o nowe funkcje, modyfikacji, nadzoru lub supportu nad codziennym funkcjonowaniem strony.
+This is a service aimed at companies and institutions that already have their own websites but need expansion with new features, modifications, supervision or support for the daily operation of the site.
 
 ::::
 :::
@@ -59,7 +59,7 @@ link: ''
 stylesMinimal: true
 ---
 #title
-##### Aktualizujemy system w ramach konserwacji
+##### Update the system as part of maintenance
 
 ::::
 
@@ -71,7 +71,7 @@ stylesMinimal: true
 delay: 1
 ---
 #title
-##### Podnosimy bezpieczeństwo  przeciwdziałamy zagrożeniom
+##### Improving security & countering threats
 
 ::::
 
@@ -83,7 +83,7 @@ stylesMinimal: true
 delay: 2
 ---
 #title
-##### Monitorujemy bezpieczeństwo i działanie strony
+##### Site security and performance monitoring
 
 ::::
 
@@ -95,7 +95,7 @@ stylesMinimal: true
 delay: 3
 ---
 #title
-##### Optymalizujemy szybkość i wydajność strony
+##### Optimization of site speed and performance
 
 ::::
 ::::offer-tile-md
@@ -106,7 +106,7 @@ stylesMinimal: true
 delay: 4
 ---
 #title
-##### Testujemy <br> i optymalizujemy procesy technologiczne
+##### Testing and optimization of technological processes
 
 ::::
 
@@ -118,7 +118,7 @@ stylesMinimal: true
 delay: 5
 ---
 #title
-##### Projektujemy i programujemy nowe podstrony
+##### Design and programming of new pages
 
 ::::
 
@@ -130,7 +130,7 @@ stylesMinimal: true
 delay: 6
 ---
 #title
-##### Dostarczamy dedykowane moduły i funkcjonalności
+##### Implementation of specialized modules and functionalities
 
 ::::
 
@@ -142,7 +142,7 @@ stylesMinimal: true
 delay: 7
 ---
 #title
-##### Integrujemy z zewnętrznymi systemami
+##### Integrate with external systems
 
 ::::
 :::
@@ -156,14 +156,14 @@ class: mb-5
 ---
 
 #title
-##### Potrzebujesz szerszego wsparcia?
+##### Do you need more extensive support?
 
 ::::
 
 ::::button-main-md
 ---
 link: 'https://www.webo.agency/kontakt'
-title: 'Skontaktuj się z nami'
+title: 'Get in touch'
 class: 'mx-auto'
 ---
 
@@ -188,7 +188,7 @@ class: mb-20
 *2/* Support stron i sklepów www
 
 #title
-### Co zyskujesz powierzając nam *opiekę nad stroną www?*
+### What do you gain by entrusting us with *website maintenance?*
 
 ::::
 :::
@@ -208,10 +208,10 @@ iconInline: true
 ---
 
 #title
-#### Masz stały dostęp do specjalistów
+#### On-going access to specialists
 
 #description
-Nie musisz za każdym razem szukać pomocy zespołu IT ryzykując przy tym jakością wykonania, masz sprawdzony i doświadczony zespół zawsze pod ręką.
+You don't have to look for help from the IT team every time risking the quality of execution, you have a proven and experienced team always at hand.
 
 :::::::
 ::::::
@@ -225,10 +225,10 @@ iconInline: true
 ---
 
 #title
-#### Pracujemy w środowisku testowym
+#### We work in a test environment
 
 #description
-Przed publikacją zmian, wszystkie prace przygotowujemy w specjalnym środowisku developerskim - dzięki temu zabezpieczamy ciągłość działania strony produkcyjnej (opublikowanej w internecie).
+Before publishing the changes, we prepare all the work in a special development environment - this protects the continuity of the production site (published on the Internet).
 
 :::::::
 ::::::
@@ -245,10 +245,10 @@ iconInline: true
 ---
 
 #title
-#### Udostępniamy indywidualny system HelpDesk
+#### We provide a personalized HelpDesk system
 
 #description
-Dzięki któremu masz możliwość dodawania zadań, ustalania priorytetu,  podgląd stanu prac i komunikacji z zespołem IT - wszystko pod ręką w jednym miejscu.
+Allowing you to add tasks, set priority, view the status of work and communicate with your IT team - all at your fingertips in one place.
 :::::::
 ::::::
 
@@ -261,10 +261,10 @@ iconInline: true
 ---
 
 #title
-#### Doradzamy w każdej kwestii IT i UX
+#### We advise on all IT and UX issues
 
 #description
-Jeśli potrzebujesz porady, możesz do nas uderzać. Odpowiemy na każde pytanie i doradzimy w kwestiach związanych z Twoją stroną www i nie tylko - służymy wiedzą.
+If you need advice, you can hit us. We will answer any questions and advise you on issues related to your website and more - we are at your service with our knowledge.
 
 :::::::
 ::::::
@@ -281,10 +281,10 @@ iconInline: true
 ---
 
 #title
-#### Co miesiąc raportujemy z przepracowanych godzin
+#### Report monthly on hours worked
 
 #description
-Po zakończeniu każdego miesiąca, przesyłamy raport z podsumowaniem prac zawierający listę wykonywanych zadań w trakcie miesiąca, poziom realizacji oraz podsumowanie przepracowanych godzin/zadanie.
+At the end of each month, we send a report with a summary of the work including a list of tasks performed during the month, the level of completion and a summary of hours/tasks worked.
 :::::::
 ::::::
 
@@ -298,10 +298,10 @@ iconInline: true
 ---
 
 #title
-#### Proponujemy zmiany i tłumaczymy dlaczego są potrzebne
+#### We propose changes and explain why they are needed
 
 #description
-Nie musisz poświęcać czasu na sprawdzanie czy ze stroną wszystko jest ok i czy nie trzeba podjąć jakiegoś działania. Monitorujemy stan witryny i w razie potrzeby informujemy o konieczności wykonania pracy.
+You don't have to spend time checking if everything is ok with the site and if any action needs to be taken. We monitor the status of the site and let you know if any work needs to be done.
 
 :::::::
 ::::::
@@ -336,13 +336,13 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Wsparcie Drupal, Wordpress, Prestashop
+*3/* Drupal, Wordpress, Prestashop support
 
 #title
-### Supportujemy strony i sklepy wykonane na *popularnych platformach*
+### We support websites and stores made on *popular platforms*.
 
 #description
-Specjalizujemy się w obsłudze i programowaniu serwisów, stron i sklepów zbudowanych na platformach Open Source: CMS Drupal, Wordpress CMS, Prestashop.
+We specialize in the maintenance and programming of websites, pages and stores built on open source platforms: CMS Drupal, Wordpress CMS, Prestashop.
 
 :::::::
 
