@@ -1,6 +1,9 @@
 ---
 name: O nas
 showInNav: true
+hreflangs:
+    EN: '/o-nas'
+    PL: '/o-nas'
 ---
 ::block-banner-md
 ---
