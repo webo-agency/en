@@ -4,6 +4,9 @@ description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaż
 showInNav: true
 draft: false
 public: true
+hreflangs:
+    EN: '/uslugi/strony-internetowe'
+    PL: '/uslugi/strony-internetowe'
 ---
 ::block-banner-md
 ---

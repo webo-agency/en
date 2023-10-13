@@ -4,6 +4,9 @@ description: Nowa technologia -  maksimum wydajności i bezpieczeństwa.
 showInNav: true
 draft: false
 public: true
+hreflangs:
+    EN: '/uslugi/strony-headless-pwa'
+    PL: '/uslugi/strony-headless-pwa'
 ---
 ::block-banner-md
 ---

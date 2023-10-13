@@ -2,6 +2,9 @@
 name: Napisz do nas
 showInNav: true
 navButton: true
+hreflangs:
+    EN: '/kontakt'
+    PL: '/kontakt'
 ---
 ::block-banner-md
 ---

@@ -4,6 +4,9 @@ description: Wsparcie techniczne i rozwój Twojej strony / sklepu internetowego.
 showInNav: true
 draft: false
 public: true
+hreflangs:
+    EN: '/uslugi/wsparcie-i-rozwoj'
+    PL: '/uslugi/wsparcie-i-rozwoj'
 ---
 ::block-banner-md
 ---
