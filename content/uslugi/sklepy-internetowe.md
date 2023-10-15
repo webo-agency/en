@@ -531,7 +531,7 @@ maxWidth: 570
 *5/* Business benefits
 
 #title
-### Why should you *work* with us.
+### Why should you *work with us.*
 
 #description
 We are engaged in comprehensive implementation of digital solutions for business. If you want to run and grow your business online, we know how to do it!
@@ -632,14 +632,14 @@ class: mb-[80px] tablet:mb-[130px]
 ::::block-header-link-md
 ---
 url: 'https://www.behance.net/webo_agency'
-linktitle: Zobacz więcej projektów
+linktitle: Explore more projects
 ---
 
 #subtitle
 *6/* Case study
 
 #title
-### We are proud <br> of the *projects* we have completed.
+### We are proud <br> of the *projects we have completed.*
 
 ::::
 :::
