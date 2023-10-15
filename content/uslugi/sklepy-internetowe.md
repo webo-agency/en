@@ -14,10 +14,10 @@ headerWidth: 830
 *-/* E-commerce 
 
 #title
-## Wydajne, intuicyjne i przygotowane do rozwoju *sklepy www*
+## Powerful, intuitive and development-ready *online store*
 
 #description
-Dostarczamy narzędzia, których potrzebujesz, aby <u> sprzedawać online </u>
+We provide the tools you need to <u> sell online </u>.
 
 ::
 
@@ -29,13 +29,13 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*1/* Jesteśmy wszechstronni
+*1/* We use proven solutions
 
 #title
-### Jakie sklepy *tworzymy?*
+### What kind of stores do we *create?*
 
 #description
-Łączymy wydajność sklepu z intuicyjnym procesem zakupowym. Tworzymy sklepy internetowe na popularnych platformach, przygotowane do dalszego rozwoju i ekspansji.
+We combine store performance with an intuitive shopping process. We create online stores on popular platforms, ready for further development and expansion.
 
 ::::
 :::
@@ -51,7 +51,7 @@ classes: mb-[100px] tablet:mb-[200px] overflow-hidden
 tabNames: 
     - {name: Prestashop, iconUrl: img/logos/presta.png}
     - {name: DrupalCommerce, iconUrl: img/logos/drupal.png}
-    - {name: MVP sklepów www, iconUrl: img/icons/plant.png}
+    - {name: E-commerce MVP, iconUrl: img/icons/plant.png}
 ---
 
 #Prestashop
@@ -174,14 +174,14 @@ class: mb-[100px] tablet:mb-[150px]
 ---
 maxWidth: 800
 button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Nie wiesz jakąofertę wybrać?
+*-/* Not sure what solution to choose?
 
 #title
-### Dowiedz się które rozwiązanie będzie optymalne dla Twojego biznesu
+### Find out which solution will be optimal for your business
 
 ::::
 :::
@@ -218,13 +218,13 @@ class: mb-10
 ---
 
 #subtitle
-*2/* Nasze standardy
+*2/* Our standards
 
 #title
-### Projektowane dla Ciebie i *Twoich klientów*
+### Designed for you and *your customers*
 
 #description
-Projektujemy skoncentrowany na użytkowniku interfejs graficzny, zgodny z najnowszymi standardami. Kładziemy szczególny nacisk na płynny i intuicyjny proces zakupowy, łatwość zarządzania sklepem i spełnienie Twoich potrzeb biznesowych.
+We design a user-centered design interface that follows the newest standards. We focus on a smooth and intuitive shopping process, ease of store management and meeting your business needs.
 
 :::::
 :::
@@ -242,10 +242,10 @@ iconUrl: '/img/icons/translation.png'
 ---
 
 #title
-#### Sklepy wielojęzyczne
+#### Multi-language stores
 
 #description
-Dostarczamy sklepy internetowe umożliwiające rozwój o nowe rynki sprzedaży, różniące się walutą, opcjami płatności czy wysyłki.
+We provide online stores that allow development with new sales markets, differing in currency, payment or shipping options.
 
 :::::::
 ::::::
@@ -258,10 +258,10 @@ iconUrl: '/img/icons/overlay.png'
 ---
 
 #title
-#### Integracje z systemami
+#### System integrations
 
 #description
-Dzięki specjalnym modułom integrujemy sklepy m.in. z bramkami płatności, opcjami wysyłki czy systemami zarządzania sprzedażą i analityką.
+We integrate stores with payment gateways, shipping options, sales management systems, analytics and other features.
 
 :::::::
 ::::::
@@ -277,10 +277,10 @@ iconUrl: '/img/icons/functionality.png'
 ---
 
 #title
-#### Zaawansowane funkcjonalności
+#### Advanced features
 
 #description
-Nowe funkcje zwiększające sprzedaż lub automatyzujące procesy. Dostarczamy nawet zaawansowane rozwiązania wspierające Twój biznes.
+New features to increase sales or automate processes. We even provide advanced solutions to support your business.
 
 :::::::
 ::::::
@@ -293,10 +293,10 @@ iconUrl: '/img/icons/block-gears.png'
 ---
 
 #title
-#### Łatwe zarządzane sklepem
+#### Easy store management
 
 #description
-Panel administratora to często centrum Twojego biznesu, dzięki odpowiednio dobranym integracjom i konfiguracji będzie to proste i intuicyjne.
+The admin panel is often the center of your business, with the right integrations and configuration it will be simple and intuitive.
 
 :::::::
 ::::::
@@ -312,10 +312,10 @@ iconUrl: '/img/icons/arrows.png'
 ---
 
 #title
-#### Skalowalne rozwiązania
+#### Scalable solutions
 
 #description
-Patrzymy w przyszłość. Wykorzystujemy rozwiązania i technologie, zapewniające szerokie możliwości rozwoju Twojego biznesu w sieci.
+We look to the future. We use solutions and technologies that provide extensive opportunities to grow your business online.
 
 :::::::
 ::::::
@@ -329,10 +329,10 @@ iconUrl: '/img/icons/uxui.png'
 ---
 
 #title
-#### Intuicyjny interfejs
+#### Intuitive interface
 
 #description
-Dzięki projektowaniu skoncentrowanym na potrzebach użytkowników, tworzymy intuicyjne sklepy internetowe z płynnym procesem sprzedaży.
+With user-centered design, we create intuitive online stores with a seamless sales process.
 
 :::::::
 ::::::
@@ -354,13 +354,13 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Technologie
+*3/* Technologies
 
 #title
-### Korzystamy z <br> najlepszych *rozwiązań*
+### We use the best *solutions*
 
 #description
-Używamy rozwiązań Open Source, dzięki czemu po zakończonym projekcie, oprogramowanie zostaje w całości przekazane klientowi.
+We use open source solutions, thanks to which, after the project is completed, the software is completely handed over to the client.
 
 :::::
 
@@ -440,54 +440,54 @@ reverseMobile: true
 ::::::list-item-ol-active-md
 
 #title
-#### Zebranie wymagań
+#### Collecting requirements
 
 #description
-Jest to pierwszy krok jaki musimy wykonać w celu stworzenia strony www.Poznajemy wszystkie założenia oraz Twoją firme, jej klientów, branżę i konkurencję.
+This is the first step we need to take to create a e-commerce. We get to know all the requirements and your company, its customers, industry and competitors.
 
 ::::::
 ::::::list-item-ol-active-md
 
 #title
-#### Analiza otrzymanych informacji
+#### Analysis of received information
 
 #description
-Podczas tego etapu porządkujęmy wszystkie otrzymane dane, analizujemy przekazane potrzeby i założenia oraz rozpoczynam pracę koncepcyjne.
+During this stage, we organize all the data received, analyze the needs and assumptions provided, and begin conceptual work.
 
 ::::::
 ::::::list-item-ol-active-md
 
 #title
-#### Projektujemy interfejs
+#### Interface UX/UI Design
 
 #description
-Wytyczamy ścieżki użytkownika, projektujemy architekturę informacji oraz prototyp, kończąc na gotowym wyglądzie strony. Jesteśmy z Tobą w stałym kontakcie.
+We lay out the user paths, design the information architecture and prototype, ending with the finished look of the site. We are in constant contact with you.
 
 ::::::
 ::::::list-item-ol-active-md
 
 #title
-#### Wdrażamy stronę
+#### Website implementation
 
 #description
-Instalujemy zaprojektowane rozwiązanie w wybranej technologii. Na każdym etapie informujemy o swoich postępach. Efektem jest gotowa do publikacji strona.
+We install the designed solution in the selected technology. At each stage, we report on our progress. The result is a website ready for publication.
 
 ::::::
 ::::::list-item-ol-active-md
 
 #title
-#### Testujemy i publikujemy
+#### Testing and publishing
 
 #description
-Zanim strona ujrzy światło dzienne zostaje gruntownie przetestowana. Ostatecznie Ty akceptujesz czy Twoja nowa strona ma rozpocząć przygodę w sieci.
+Before the site is published it is thoroughly tested. Ultimately, you approve if your new site is to start an adventure on the web.
 ::::::
 ::::::list-item-ol-active-md
 
 #title
-#### Wspieramy i rozwijamy
+#### Maintenance & growth
 
 #description
-Po zakończeniu pracy nad wdrożeniem, nie pozostawiamy Twojej strony bez opieki. Kontynuujemy pracę nad rozwojem i ulepszaniem, reagujac także na awarie.
+After the implementation work is completed, we do not leave your site without care. We continue to work on development and improvement, also responding to failures.
 ::::::
 :::::
 
@@ -500,13 +500,13 @@ class: sticky top-1/3 mb-20 tablet:mb-0
 
 
 #subtitle
-*4/* Dopracowany proces
+*4/* Refined process
 
 #title
-## Do pracy podchodzimy *etapowo*
+## We approach e-commerce development *in stages*
 
 #description
-Strony internetowe wykonujemy zgodnie z wypracowanym procesem, w ścisłej współpracy z klientem - to w końcu Twoja strona!
+We make online stores according to a developed process, in close cooperation with the client - after all, it's your website!
 
 ::::::
 ::::
@@ -528,13 +528,13 @@ maxWidth: 570
 ---
 
 #subtitle
-*5/* Korzyści dla biznesu
+*5/* Business benefits
 
 #title
-### Dlaczego warto z nami *współpracować?*
+### Why should you *work* with us.
 
 #description
-Zajmujemy się kompleksowym wdrażaniem rozwiązań cyfrowych dla biznesu. Jeśli chcesz prowadzić i rozwijać swój biznes w sieci, my wiemy jak to zrobić!
+We are engaged in comprehensive implementation of digital solutions for business. If you want to run and grow your business online, we know how to do it!
 
 ::::
 :::
@@ -550,10 +550,10 @@ delay: 0
 ---
 
 #title
-##### Realizujemy cele biznesowe
+##### We achieve business goals
 
 #description
-Jako partner technologiczny przed rozpoczęciem projektu analizujemy Twoje założenia biznesowe- to one są najważniejsze.
+As a technology partner, we analyze your business assumptions before starting the project - they are the most important.
 
 ::::
 ::::icon-tile-md
@@ -563,10 +563,9 @@ delay: 1
 ---
 
 #title
-##### Dbamy o potrzeby użytkownika
-
+##### We care about user
 #description
-Każdy projekt opieramy o potrzeby użytkowników. Dzięki temu dostarczamy intuicyjne strony www, połączone z unikalnym designem.
+We base each project on the needs of users. As a result, we deliver intuitive websites, combined with a unique design.
 
 ::::
 ::::icon-tile-md
@@ -576,10 +575,10 @@ delay: 2
 ---
 
 #title
-##### Stawiamy na Twój rozwój
+##### We focus on your growth
 
 #description
-Celem prowadzenia biznesu jest jego rozwój. Tworzymy skalowalne rozwiązania, zapewniając że strona www jest gotowa na Twój sukces.
+The goal of running a business is to grow it. We create scalable solutions, ensuring that your website is ready for your success.
 
 ::::
 ::::icon-tile-md
@@ -589,10 +588,10 @@ delay: 3
 ---
 
 #title
-##### Automatyzujemy procesy
+##### We automate processes
 
 #description
-Rozwijamy strony o automatyzacje, dzięki temu oszczędzamy Twój czas, a przy tym pieniądze potrzebne na zarządzanie stroną.
+We develop sites with automation, saving you time and money needed to manage the site.
 
 ::::
 ::::icon-tile-md
@@ -602,10 +601,10 @@ delay: 4
 ---
 
 #title
-##### Działamy kompleksowo
+##### We work comprehensively
 
 #description
-Od wstępnych rozmów, przez projekt strony i wdrożenie, po rozwój i wsparcie. Świadczymy usługi na każdym etapie życia produktu.
+From initial discussions, to site design and implementation, to development and support. We provide services at every stage of the product lifecycle.
 
 ::::
 ::::icon-tile-md
@@ -615,10 +614,10 @@ delay: 5
 ---
 
 #title
-##### Budujemy partnerskie relacje
+##### We build partnerships
 
 #description
-Zależy nam na Twoim biznesie. We współpracy stawiamy na transparentność i zaufanie aby każdy był zadowolony z podejmowanych działań.
+We care about your business. In cooperation, we focus on transparency and trust so that everyone is satisfied with the actions taken.
 
 ::::
 :::
@@ -640,7 +639,7 @@ linktitle: Zobacz więcej projektów
 *6/* Case study
 
 #title
-### Jasteśmy dumni <br> z *wykonanych projektów*
+### We are proud <br> of the *projects* we have completed.
 
 ::::
 :::
@@ -741,10 +740,10 @@ button.title: 'Skontaktuj się'
 ---
 
 #subtitle
-*-/* Zainteresowała Cię nasza oferta?
+*-/* Are you interested in our offer?
 
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+## Contact us and start working together
 
 ::::
 :::
