@@ -1,0 +1,1 @@
+import{r as o}from"./slot.73b7c641.js";import{m as r,f as s,g as t}from"./entry.859eb832.js";import"./node.e4a9c3bc.js";const c={},n={class:"p5"};function a(e,f){return s(),t("div",n,[o(e.$slots,"default")])}const p=r(c,[["render",a]]);export{p as default};
