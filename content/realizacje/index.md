@@ -1,3 +1,11 @@
+---
+name: Realizacje
+showInNav: true
+hreflangs:
+    EN: '/realizacje'
+    PL: '/realizacje'
+
+---
 ::page-section-md
 ---
 class:  mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]

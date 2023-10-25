@@ -8,6 +8,9 @@ type:
 image.url: '/img/case-studies/Oravio.jpg'
 homepage_hidden: false
 public: true
+hreflangs:
+    EN: '/realizacje/oravio'
+    PL: '/realizacje/oravio'
 ---
 
 
