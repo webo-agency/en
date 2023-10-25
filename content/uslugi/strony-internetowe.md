@@ -671,8 +671,10 @@ linktitle: Explore more projects
 :::effect-appear-md
 ::::block-cases-slider-md
 ---
-techFilters:
-    - Nuxt
+selectedSlugs:
+    - isw
+    - proton
+    - deltahr
 ---
 
 ::::
