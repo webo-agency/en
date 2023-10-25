@@ -1,3 +1,13 @@
+---
+name: Sklepy internetowe
+description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
+showInNav: true
+draft: false
+public: true
+hreflangs:
+    EN: '/uslugi/strony-internetowe'
+    PL: '/uslugi/strony-internetowe'
+---
 ::block-banner-md
 ---
 bgUrl: './img/services-websites.png'

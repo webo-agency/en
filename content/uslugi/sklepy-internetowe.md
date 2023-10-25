@@ -1,6 +1,12 @@
 ---
-public: true
+name: Sklepy internetowe
+description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
+showInNav: true
 draft: false
+public: true
+hreflangs:
+    EN: '/uslugi/sklepy-internetowe'
+    PL: '/uslugi/sklepy-internetowe'
 ---
 
 
