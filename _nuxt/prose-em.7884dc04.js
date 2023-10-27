@@ -1,0 +1,1 @@
+import{k as t,b as s,c as o,D as c}from"./entry.accf8e16.js";const n={},r={class:"text-green-main not-italic"};function a(e,l){return s(),o("em",r,[c(e.$slots,"default")])}const f=t(n,[["render",a]]);export{f as default};

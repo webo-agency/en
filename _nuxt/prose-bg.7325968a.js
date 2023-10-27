@@ -1,1 +1,0 @@
-import{r as o}from"./slot.73b7c641.js";import{m as r,f as s,g as t}from"./entry.859eb832.js";import"./node.e4a9c3bc.js";const c={},n={class:"block-bg"};function a(e,f){return s(),t("div",n,[o(e.$slots,"default")])}const d=r(c,[["render",a]]);export{d as default};
