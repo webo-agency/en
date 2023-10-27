@@ -622,6 +622,21 @@ Member of the Board - **DeltaHR**
 A highly professional company, individual approach to the client, **good and continuous communication** that allows for real-time project monitoring. **Every detail meticulously refined** just as I expected, I can confidently and with a clear conscience recommend them. **Knowledge, client approach, project timeline** - everything 10/10.
 
 :::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Radosław Cyganek
+
+#title
+Executive - **Proton Multimedia**
+
+#message
+Thanks to Webo's work, my client achieved higher positions in search engines, **improved user satisfaction and increased their engagement**. The company proactively **managed risk** and provided an alternative solution to achieve the client's goals. Their **responsiveness and creativity** were commendable.
+
+:::::
 ::::
 :::
 ::

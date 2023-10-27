@@ -12,8 +12,8 @@
   },
   "packageManager": "pnpm@8.5.1",
   "dependencies": {
-    "@webo-agency/theme": "github:webo-agency/www#main-agency",
-    "nuxt": "^3.7.3"
+    "@webo-agency/theme": "github:webo-agency/www#main",
+    "nuxt": "^3.8.0"
   },
   "devDependencies": {
     "@nuxthq/studio": "^1.0.0"
