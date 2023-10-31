@@ -1,11 +1,11 @@
 ---
-name: Sklepy internetowe
-description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
+name: E-commerce
+description: Easy-to-use online stores with a smooth sales process.
 showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/uslugi/sklepy-internetowe'
+    EN: '/services/e-commerce'
     PL: '/uslugi/sklepy-internetowe'
 ---
 
