@@ -1,6 +1,6 @@
 ---
 name: Websites
-description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
+description: Beautifully designed websites, ensuring high performance, code quality, and security..
 showInNav: true
 draft: false
 public: true
