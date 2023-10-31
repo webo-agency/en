@@ -1,11 +1,11 @@
 ---
-name: Strony HeadlessPWA
-description: Nowa technologia -  maksimum wydajności i bezpieczeństwa.
+name: Headless & PWA Website
+description: New website technology - maximum performance and security.
 showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/uslugi/strony-headless-pwa'
+    EN: '/services/headless-&-pwa-websites'
     PL: '/uslugi/strony-headless-pwa'
 ---
 ::block-banner-md
