@@ -1,5 +1,5 @@
 ---
-name: Napisz do nas
+name: Get in touch
 showInNav: true
 navButton: true
 hreflangs:
