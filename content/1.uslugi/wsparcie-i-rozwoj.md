@@ -417,10 +417,10 @@ class: mb-10 tablet:mb-16
 ---
 
 #subtitle
-*4/* Jasne zasady współpracy
+*4/* Clear rules of cooperation
 
 #title
-### Skup się na biznesie, stronę www zostaw *specjalistom*
+### Focus on business, leave the website to the *specialists*
 
 :::::
 ::::
@@ -436,10 +436,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Ilość godzin w pakiecie ustalamy indywidualnie
+##### Number of hours in the package is determined individually.
 
 #description
-Na podstawie przesłanej listy zadań i szacowanego zapotrzebowania.
+Based on the submitted list of tasks and estimated demand.
 
 :::::
 
@@ -452,10 +452,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Umowa i Audyt na start
+##### Contract and Audit to get started
 
 #description
-Współpracę rozpoczynamy od umowy określającej naszą odpowiedzialność i audytu technicznego strony.
+We start our cooperation with a contract defining our responsibilities and a technical audit of the site.
 
 :::::
 ::::
@@ -471,10 +471,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Wspólnie ustalamy zakres prac
+##### We jointly determine the scope of work
 
 #description
-Z początkiem każdego miesiąca określamy listę zadań do wykonania - liczą się Twoje priorytety.
+At the beginning of each month, we determine the list of tasks to be completed - your priorities are the most important.
 
 :::::
 
@@ -487,10 +487,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Indywidualny opiekun strony
+##### Individual site maintainer
 
 #description
-Przypisujemy indywidualnego opiekuna Twojej strony, do którego możesz zadzwonić lub napisać.
+You are assigned an individual supervisor for your site, whom you can call or write.
 
 :::::
 ::::
@@ -506,10 +506,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Niewykorzystane godziny przechodzą na kolejny miesiąc
+##### Unused hours carry over to the next month.
 
 #description
-Zapewniamy że opłacane godziny zostaną w pełni przepracowane.
+We ensure that the purchased hours will be fully worked.
 
 :::::
 
@@ -522,10 +522,10 @@ iconInline: false
 hoverEffect: false
 ---
 #title
-##### Estymujemy czas potrzebny na realizację zadań
+##### We estimate the time needed to complete tasks
 
 #description
-Dajemy Ci pełną kontrolę - zaczynamy realizację gdy dasz nam zielone światło.
+We give you full control - we start implementation when you give us the green light.
 
 :::::
 ::::
@@ -548,7 +548,7 @@ class: mb-10 tablet:mb-20
 *5/* FAQ
 
 #title
-### Najczęściej zadawane *pytania*
+### Additional information
 
 ::::
 :::
@@ -560,10 +560,10 @@ number: 1
 ---
 
 #title
-##### Co daje mi ustalony pakiet godzin?
+##### What does a set package of hours give me?
 
 #description
-Pakiet godzin, ustalony w ramach stałej obsługi, jest gwarancją dostępności czasu potrzebnego na działania. Niezależnie od naszego obłożenia pracą, co miesiąc ustalamy listę zadań jaką wykonamy, a gdy masz pilne zgłoszenie nie musisz czekać w kolejce - realizację traktujemy priorytetowo
+The package of hours, established as part of the permanent service, is a guarantee of the availability of the time needed for action. Regardless of our workload, every month we set a list of tasks we will perform, and when you have an urgent request you do not have to wait in line - we prioritize implementation.
 
 ::::
 :::
@@ -574,10 +574,10 @@ number: 2
 ---
 
 #title
-##### Co gdy nie wykorzystam wszystkich godzin w miesiącu?
+##### What if I don't use all the hours in a month?
 
 #description
-W przypadku niewykorzystania pełnego pakietu, nieprzepracowane godziny przechodzą na kolejny okres rozliczeniowy, z 3 miesięcznym terminem ważności - Zapewniamy że opłacane godziny zostaną w pełni przepracowane.
+If the full package is not used, the unworked hours will roll over to the next billing period, with a 3-month expiration date - We ensure that the paid hours will be fully worked.
 
 ::::
 :::
@@ -588,10 +588,10 @@ number: 3
 ---
 
 #title
-##### Co gdy pakiet godzin okaże się zbyt duży?
+##### What if the package of hours proves to be too much?
 
 #description
-W przypadku niewykorzystania pełnego pakietu godzin przez okres 3 miesięcy, masz możliwość zmniejszenia ilości godzin w pakiecie.
+If you do not use the full package of hours for a period of 3 months, you have the option to reduce the number of hours in the package.
 
 ::::
 :::
@@ -602,11 +602,10 @@ number: 4
 ---
 
 #title
-##### Czy ustalone godziny mogę wykorzystać na stworzenie kolejnych stron?
+##### Can I use the established hours to create other websites?
 
 #description
-Istnieje możliwość wykorzystania godzin z pakietu na cele kolejnych stron / serwisów www, świadczących usługi w ramach prowadzonej działalności.
-
+It is possible to use the hours from the package for the purposes of further websites / web pages, providing services within the scope of the business.
 ::::
 :::
 ::
@@ -626,10 +625,10 @@ linktitle: Zobacz więcej projektów
 ---
 
 #subtitle
-*6/* Nasze realizacje stron www
+*6/* Our customers
 
 #title
-### Jesteśmy dumni <br>z *wykonanych projektów*
+### We proudly *support*
 
 ::::
 :::
@@ -658,15 +657,15 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 maxWidth: 650
 button.link: https://www.webo.agency/kontakt
-button.title: 'Umów się na konsultację'
+button.title: 'Schedule a consultation'
 button.isWide: true
 ---
 
 #subtitle
-*-/* Potrzebujesz więcej informacji?
+*-/* Need more information?
 
 #title
-### Umów się na bezpłatną konsultację i poznaj nasza ofertę wsparcia
+### Schedule a Free Consultation and learn more about our offer of support
 
 ::::
 :::
