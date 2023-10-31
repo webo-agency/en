@@ -601,7 +601,7 @@ rating: 5
 Adam Wasilewski
 
 #title
-Właściciel - **Caffe wasyl**
+Owner - **Caffe wasyl**
 
 #message
 **Thanks to Webo, I saved my business.**, They implemented my online store **within a month**. May there be more people like them!
