@@ -22,7 +22,7 @@ center: true
 :::::
 
 #title
-## Zobacz projekty z których *jesteśmy dumni*
+## See the projects we are *proud of*
 
 ::::
 :::
@@ -42,15 +42,15 @@ link: 'https://www.is-wireless.com/'
 ---
 
 #title
-#### Strona interntowa w architekturze headless dla polskiego dostawcy rozwiązań sieciowych 5G
+#### IS-Wireless - Headless website for a Polish 5G network solutions provider
 
 #description
 :::::prose-p3
-**is-wireless.com** to nowoczesna strona www działająca w oparciu o **CMS Wordpress**. Całość wykonana została w trybie **headless**, w celu maksymalnego przyśpieszenia.
+**is-wireless.com** is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security.
 :::::
 
 #buttontext
-Zobacz online
+View online
 
 ::::
 :::
@@ -83,13 +83,13 @@ technologies:
 ---
 
 #title
-### Pozostałe projekty
+### Other projects
 
 #loadMore
-Zobacz więcej
+See more
 
 #select
-Wybierz technologie
+Select technologies
 
 
 
@@ -106,14 +106,14 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Zainteresowała Cię nasza oferta?
+*-/* Are you interested in our offer?
 
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+## Get in touch and start collaborating!
 
 
 ::::
