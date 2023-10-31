@@ -1,6 +1,6 @@
 ---
-name: Wsparcie i rozwój
-description: Wsparcie techniczne i rozwój Twojej strony / sklepu internetowego.
+name: Support & development
+description: Technical support and development of your website / e-commerce.
 showInNav: true
 draft: false
 public: true
