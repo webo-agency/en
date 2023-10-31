@@ -1,6 +1,6 @@
 ---
-name: Projektowanie UX/UI
-description: Projektowanie stron i sklepów skoncentrowane na użytkowniku.
+name: UX/UI Design
+description: User-centered design of websites, e-commerce & apps.
 showInNav: true
 draft: true
 public: false
