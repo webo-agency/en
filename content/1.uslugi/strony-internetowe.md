@@ -1,5 +1,5 @@
 ---
-name: Sklepy internetowe
+name: Websites
 description: Łatwe w obsłudze sklepy internetowe z płynnym procesem sprzedaży.
 showInNav: true
 draft: false
