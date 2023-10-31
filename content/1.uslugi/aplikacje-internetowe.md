@@ -1,6 +1,6 @@
 ---
-name: Aplikacje internetowe
-description: Dedykowane do specjalnych zastosowań w Twojej firmie.
+name: Web apps
+description: Dedicated to special needs for your business.
 showInNav: true
 draft: true
 public: false
