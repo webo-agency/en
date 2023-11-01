@@ -18,7 +18,7 @@ center: true
 
 #subtitle
 :::::prose-p3 
-*-/* Realizacje 
+*-/* Case studies 
 :::::
 
 #title
