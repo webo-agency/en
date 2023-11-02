@@ -6,7 +6,7 @@ hreflangs:
 ::block-hero-md
 ---
 button.title: Request a proposal
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 ---
 
 #subtitle
@@ -33,7 +33,7 @@ class: mb-[100px] tablet:mb-[200px]
 
 ::page-section-md
 ---
-id: uslugi
+id: services
 classes: mb-[50px] tablet:mb-[150px]
 ---
 :::effect-appear-md
@@ -59,7 +59,7 @@ We deliver optimal digital products. We are curious about your needs - they are 
 ---
 icon: '/img/icons/store.png'
 bgIcon: '/img/icons/store_bgIcon.png'
-link: 'https://www.webo.agency/uslugi/sklepy-internetowe'
+link: 'https://www.webo.agency/services/e-commerce'
 ---
 #title
 ##### E-commerce
@@ -72,7 +72,7 @@ Online stores with a seamless purchasing process, tailored to your company's nee
 ---
 icon: '/img/icons/site.png'
 bgIcon: '/img/icons/site_bgIcon.png'
-link: 'https://www.webo.agency/uslugi/strony-internetowe'
+link: 'https://www.webo.agency/services/websites'
 delay: 1
 ---
 #title
@@ -100,7 +100,7 @@ Customized for specific purposes in your company. User-friendly and easy to mana
 ---
 icon: '/img/icons/pwa.png'
 bgIcon: '/img/icons/pwa_bgIcon.png'
-link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
+link: 'https://www.webo.agency/services/headless-&-pwa-websites'
 delay: 3
 ---
 #title
@@ -113,7 +113,7 @@ Crafted with new technologies, delivering maximum performance and ensuring the h
 ::::offer-tile-md
 ---
 icon: '/img/icons/support.png'
-link: 'https://www.webo.agency/uslugi/wsparcie-i-rozwoj'
+link: 'https://www.webo.agency/services/support-&-development'
 delay: 4
 ---
 #title
@@ -141,7 +141,7 @@ class: mb-[100px] tablet:mb-[200px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 ---
 
@@ -337,7 +337,7 @@ class: mb-[80px] tablet:mb-[130px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/realizacje'
+url: 'https://www.webo.agency/case-studies'
 linktitle: Explore more projects
 ---
 
@@ -540,7 +540,7 @@ symbol: '%'
 
 ::page-section-md
 ---
-id: opinie
+id: reviews
 class: mb-[50px] tablet:mb-[150px]
 ---
 
@@ -649,7 +649,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 ---
 

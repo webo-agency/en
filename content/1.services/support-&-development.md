@@ -172,7 +172,7 @@ class: mb-5
 
 ::::button-main-md
 ---
-link: 'https://www.webo.agency/kontakt'
+link: 'https://www.webo.agency/contact'
 title: 'Get in touch'
 class: 'mx-auto'
 ---
@@ -656,7 +656,7 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 maxWidth: 650
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Schedule a consultation'
 button.isWide: true
 ---

@@ -1,31 +1,31 @@
 ---
 footer:
-    privacyPolicyLink: https://www.webo.agency/polityka-prywatnosci
-    privacyPolicyTitle: Polityka prywatności
-    servicesTitle: Usługi
+    privacyPolicyLink: https://www.webo.agency/privacy-policy
+    privacyPolicyTitle: Privacy policy
+    servicesTitle: Services
     servicesMenu: 
         - title: E-commerce
-          link: https://www.webo.agency/uslugi/sklepy-internetowe
+          link: https://www.webo.agency/services/e-commerce
         - title: Strony www
-          link: https://www.webo.agency/uslugi/strony-internetowe
-        - title: Aplikacje webowe
+          link: https://www.webo.agency/services/websites
+        - title: Web apps
           link: ''
         - title: MVP
           link: ''
-        - title: Wsparcie i rozwój sklepów
+        - title: Support & development
+          link: 'https://www.webo.agency/services/support-&-development'
+        - title: UX/UI Design
           link: ''
-        - title: Projektowanie UX/UI
-          link: ''
-    brandTitle: Firma
+    brandTitle: Brand
     brandMenu: 
-        - title: O nas
-          link: https://www.webo.agency/o-nas
-        - title: Realizacje
-          link: https://www.webo.agency/realizacje
-        - title: Opinie
-          link: https://www.webo.agency/#opinie
-        - title: Kontakt
-          link: https://www.webo.agency/kontakt
+        - title: About us
+          link: https://www.webo.agency/about-us
+        - title: Case studies
+          link: https://www.webo.agency/case-studies
+        - title: Reviews
+          link: https://www.webo.agency/#reviews
+        - title: Contact
+          link: https://www.webo.agency/contact
 general:
     lang: EN
     brandName: Webo agency
@@ -43,6 +43,6 @@ general:
         - type: behance
           link: https://www.behance.net/webo_agency
 head:
-    title: Webo - Cyfrowy partner
-    description: Rozwiązania cyfrowe takie jak strony web czy projektowanie budowane w myśl procesu agile
+    title: Webo - Digital partner
+    description: Digital solutions such as websites or design built according to the agile process
 ---

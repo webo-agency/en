@@ -9,7 +9,7 @@ image.url: '/img/case-studies/Oravio.jpg'
 homepage_hidden: false
 public: true
 hreflangs:
-    EN: '/realizacje/oravio'
+    EN: '/case-studies/oravio'
     PL: '/realizacje/oravio'
 ---
 
@@ -271,7 +271,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 

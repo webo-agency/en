@@ -98,7 +98,7 @@ Customized for large enterprises. Comprehensive web portals with multiple featur
 ::::offer-tile-md
 --- 
 icon: '/img/icons/pwa.png'
-link: 'https://www.webo.agency/uslugi/strony-headless-pwa'
+link: 'https://www.webo.agency/services/headless-&-pwa-websites'
 stylesCustom: true
 delay: 3
 ---
@@ -690,7 +690,7 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 maxWidth: 650
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 button.isWide: true
 ---
