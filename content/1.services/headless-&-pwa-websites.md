@@ -386,7 +386,7 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 maxWidth: 650
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Schedule a Consultation'
 button.isWide: true
 ---

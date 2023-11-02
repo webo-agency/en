@@ -456,7 +456,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 

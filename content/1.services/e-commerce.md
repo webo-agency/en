@@ -179,7 +179,7 @@ class: mb-[100px] tablet:mb-[150px]
 ::::block-cta-md
 ---
 maxWidth: 800
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 ---
 
@@ -748,7 +748,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 
