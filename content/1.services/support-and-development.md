@@ -5,7 +5,7 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/services/support-&-development'
+    EN: '/services/support-and-development'
     PL: '/uslugi/wsparcie-i-rozwoj'
 ---
 ::block-banner-md

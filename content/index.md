@@ -100,7 +100,7 @@ Customized for specific purposes in your company. User-friendly and easy to mana
 ---
 icon: '/img/icons/pwa.png'
 bgIcon: '/img/icons/pwa_bgIcon.png'
-link: 'https://www.webo.agency/services/headless-&-pwa-websites'
+link: 'https://www.webo.agency/services/headless-and-pwa-websites'
 delay: 3
 ---
 #title
@@ -113,7 +113,7 @@ Crafted with new technologies, delivering maximum performance and ensuring the h
 ::::offer-tile-md
 ---
 icon: '/img/icons/support.png'
-link: 'https://www.webo.agency/services/support-&-development'
+link: 'https://www.webo.agency/services/support-and-development'
 delay: 4
 ---
 #title

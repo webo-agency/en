@@ -98,7 +98,7 @@ Customized for large enterprises. Comprehensive web portals with multiple featur
 ::::offer-tile-md
 --- 
 icon: '/img/icons/pwa.png'
-link: 'https://www.webo.agency/services/headless-&-pwa-websites'
+link: 'https://www.webo.agency/services/headless-and-pwa-websites'
 stylesCustom: true
 delay: 3
 ---

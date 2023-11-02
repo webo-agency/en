@@ -13,7 +13,7 @@ footer:
         - title: MVP
           link: ''
         - title: Support & development
-          link: 'https://www.webo.agency/services/support-&-development'
+          link: 'https://www.webo.agency/services/support-and-development'
         - title: UX/UI Design
           link: ''
     brandTitle: Brand
