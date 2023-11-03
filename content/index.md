@@ -353,6 +353,9 @@ linktitle: Explore more projects
 #full
 :::effect-appear-md
 ::::block-cases-slider-md
+---
+contentFolder: case-studies
+---
 
 ::::
 :::

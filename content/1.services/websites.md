@@ -671,6 +671,7 @@ linktitle: Explore more projects
 :::effect-appear-md
 ::::block-cases-slider-md
 ---
+contentFolder: case-studies
 selectedSlugs:
     - isw
     - proton

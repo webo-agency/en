@@ -637,6 +637,7 @@ linktitle: Zobacz więcej projektów
 :::effect-appear-md
 ::::block-cases-slider-md
 ---
+contentFolder: case-studies
 selectedSlugs:
     - mancraft
     - isw
