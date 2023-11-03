@@ -66,6 +66,7 @@ class: mb-[50px] tablet:mb-[150px]
 
 :::block-filter-cases-md
 ---
+contentFolder: case-studies
 filters:
     - E-commerce
     - Strony www
