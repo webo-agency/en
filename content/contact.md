@@ -3,7 +3,7 @@ name: Get in touch
 showInNav: true
 navButton: true
 hreflangs:
-    EN: '/kontakt'
+    EN: '/contact'
     PL: '/kontakt'
 ---
 ::block-banner-md
