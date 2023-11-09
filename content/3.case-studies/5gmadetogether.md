@@ -10,9 +10,8 @@ technologies:
     - Nuxt
 image.url: '/img/case-studies/5gmadetogether.jpg'
 homepage_hidden: false
-public: false
-draft: true
-fallback: 'https://www.behance.net/gallery/151789967/5GMadeTogether-Conference-Website'
+public: true
+draft: false
 hreflangs:
     EN: '/case-studies/5gmadetogether'
     PL: '/realizacje/5gmadetogether'
@@ -32,18 +31,18 @@ link: 'https://5gmadetogether.com/'
 ---
 
 #title
-## 5G Made Together - Strona internetowa w architekturze Headless dla międzynarodowej konferencji technologicznej
+## 5G Made Together - Headless website for an international technology conference
 
 #description
-**5G Made Together** jest konferencją i stowarzyszeniem działającym pod tą samą nazwą, **organizowaną przez firmę IS-Wireless.**
+**5G Made Together** is a conference and association operating under the same name, **organized by IS-Wireless.**
 
 #buttontext
-Zobacz online
+See Online
 
 <!-- TODO: tags shold be taken from the data on top of .md file -->
 #tags
-- Strona www
-- Projektowanie UX/UI
+- Website
+- UX/UI Design
 
 ::::
 :::
@@ -67,7 +66,7 @@ class: static-content mb-10 tablet:mb-[90px]
 ---
 class: mx-default
 ---
-### **O kliencie**
+### **About the client**
 :::
 :::effect-appear-md
 ---
@@ -76,9 +75,9 @@ class: mx-default flex flex-col md:flex-row gap-10 lg:gap-20
 
 ::::prose-p3
 
-**Konferencja 5G Made Together** organizowana jest kilka razy w roku, obejmując tematy z zakresu transformacji cyfrowej, technologii, cyberbezpieczeństwa, biznesu i nauki. Każda edycja to liczne grono znakomitych specjalistów z całego świata, w tym najlepszych inżynierów, przedsiębiorców, wykładowców akademickich i członków organizacji rządowych.
+**5G Made Together Conference** is held several times a year, covering topics in digital transformation, technology, cybersecurity, business, and science. Each edition features a diverse group of experts from around the world, including top engineers, entrepreneurs, academic lecturers, and members of government organizations.
 
-Organizatorem konferencji jest firma IS-Wireless, która rozwija i dostarcza sieci mobilne 4G i 5G w modelu otwartym (Open RAN), zyskującym popularność na całym świecie. Firma dostarcza oprogramowanie i sprzęt niezbędny do budowy sieci mobilnych zarówno w obszarze RAN, jak i Core.
+The conference is organized by IS-Wireless, which develops and delivers 4G and 5G mobile networks in an open model (Open RAN),which is gaining popularity worldwide. The company provides software and hardware necessary for building mobile networks in both RAN and Core areas.
 ::::
 
 ::::prose-bg
@@ -90,39 +89,39 @@ class: min-w-[280px] md:self-baseline !p-[30px] !mx-0 font-semibold
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Kraj_
+_Country_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**Polska**
+**Poland**
 ::::
 
 ::::prose-p6
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Branża_
+_Industry_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**Technologie**
+**Technologies**
 ::::
 
 ::::prose-p6
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Zakres prac_
+_Work Scope_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**MVP, Projektowanie UX/UI, Programowanie, Headless, Rozwój**
+**MVP, UX/UI Design, Programming, Headless, Development**
 ::::
 
 :::
@@ -140,31 +139,31 @@ class: static-content mb-[50px] desktop:mb-[100px]
 class: mx-default
 ---
 
-### **Wyzwanie**
+### **Challenge**
 
-#### **MVP strony internetowej**
+#### **Website MVP**
 
 ::::prose-p3
-Naszym wyzwaniem było ekspresowe przygotowanie strony internetowej w formie MVP (Minimalna wersja produktu). Strona internetowa musiała być zbudowana błyskawicznie, aby utworzyć narzędzie do promocji nadchodzącego wydarzenia.
+Our challenge was to quickly prepare a website in the form of an MVP (Minimum Viable Product). The website had to be built rapidly to create a tool for promoting the upcoming event.
 
-Realizacje wykonywane w formie MVP muszą być **ściśle uzgodnione z klientem**, aby spełnić najważniejsze wymogi projektu. **Krótki czas realizacji** wymaga kompromisów - zgodnie z podjętą decyzją, najważniejszym celem do osiągnięcia w tej fazie było udostępnienie treści potencjalnym słuchaczom oraz streaming video na czas wydarzenia. 
+MVP implementations must be **closely aligned with the client** to meet the project's most important requirements. The **short turnaround time** requires compromises - according to the decision made, the primary goal in this phase was to provide content to potential attendees and stream video during the event on time.
 
-Efektem pierwszej fazy projektu była w pełni **skonfigurowana infrastruktura** oraz **funkcjonalna strona internetowa**, wykonana w technologii która umożliwiła realizację dalszych założeń - realizacja www.5gmadetogether.com w formie MVP zajęła niecały tydzień! Po publikacji uproszczonej wersji mogliśmy rozpocząć pracę nad kolejnym etapem którym była **kompleksowa realizacja nowej strony www.**
+The result of the first phase of the project was a fully **configured infrastructure** and a **functional website**, built in a technology that allowed for the realization of further goals - the MVP version of www.5gmadetogether.com was completed in less than a week! After the publication of the simplified version, we could start working on the next stage, which was the **comprehensive implementation of the new website.**
 ::::
 :::
 
 :::effect-appear-md
 ::::prose-bg{class='font-semibold'}
 :::::prose-p1
-**Zakres prac**
+**Scope of work**
 :::::
 
 :::::prose-p2
-- Konfiguracja infrastruktury technicznej
-- Wdrożenie MVP (Minimum Viable Product) strony na pierwszą edycję wydarzenia
-- Projekt architektury informacji oraz makiet UX
-- Projekt interfejsu graficznego UI
-- Zaprogramowanie strony w architekturze Headless
+- Configuration of technical infrastructure
+- Implementation of the MVP (Minimum Viable Product) for the first edition of the event
+- Information architecture and UX wireframes design
+- Graphic user interface (UI) design
+- Website programming in Headless architecture
 :::::
 
 ::::
@@ -192,14 +191,14 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-### **Projekt _UX/UI_**
+### **_UX/UI_ design project**
 
-#### **Architektura informacji i makiety UX**
+#### **Information architecture and UX wireframes**
 
 ::::prose-p3
-W każdym projekcie najważniejsza jest **użyteczność strony internetowej**. Podstawą projektowanej strony była architektura informacji i makieta UX. Wykonaliśmy projekt prototypu docelowego serwisu obejmującego stronę główną, bibliotekę nadchodzących i ubiegłych wydarzeń, podstronę o konferencji oraz podstronę o organizatorze.
+In every project, the most crucial aspect is the **usability of the website**. The basis for the designed website was the information architecture and UX wireframes. We created a prototype design for the target service, including the homepage, a library of upcoming and past events, a conference page, and an organizer's page.
 
-Zgodnie z otrzymanym założeniem strona konferencji początkowo miała działać w formie 1 strony tzw. **strona One Page**. Makiety UX pozostałych podstron zostały przygotowane do wykorzystania w przyszłości.
+According to the given requirement, the conference website was initially supposed to function as a **One Page website**. UX wireframes for other subpages were prepared for future use.
 ::::
 :::
 
@@ -208,12 +207,12 @@ Zgodnie z otrzymanym założeniem strona konferencji początkowo miała działa�
 class: mx-default
 ---
 
-#### **Noweczesny interfejs**
+#### **Modern interface**
 
 ::::prose-p3
-Po zakończeniu prac nad makietami UX, rozpoczęliśmy **projekt UI** (tzw. szata graficzna strony). Zazwyczaj strony konferencji są schematyczne - naszym założeniem było  wyłamanie się ze schematu i **zaprojektowanie minimalistycznie wyglądającego interfejsu**, który nawiąże do nowych technologii i sektora klienta.
+After completing the UX wireframes, we started the **UI design** (graphic design of the website). Conference websites are usually schematic - our goal was to break away from the norm and **designing a minimalist-looking interface** that would relate to new technologies and the client's sector.
 
-W tym celu postawiliśmy na ostre kształty przełamane zaokrąglonymi przyciskami, zastosowaliśmy niebieską kolorystykę z charakterystycznym błękitem jako kolor przewodni, a jako dodatek grafikę fal radiowych, która nawiązuje do sektora organizatora konferencji. Realizacja założeń gwarantowała nam uzyskanie wyróżniającej się strony www.
+To achieve this, we opted for sharp shapes broken by rounded buttons, applied a blue color scheme with a distinctive shade of blue as the main color, and used graphics of radio waves, which refer to the conference organizer's sector. Implementing these ideas guaranteed us a standout website.
 ::::
 
 :::
@@ -244,7 +243,7 @@ class: static-content mb-[50px] tablet:mb-[120px]
 class: mx-default
 ---
 
-### **Wdrożenie w _architekturze Headless_**
+### **Implementation in _Headless architecture_**
 :::
 
 :::effect-appear-md
@@ -252,7 +251,7 @@ class: mx-default
 class: mx-default
 ---
 ::::prose-p3
-Po zakończeniu prac projektowych rozpoczęliśmy pracę nad programowaniem strony. Chcąc uzyskać najwyższą jakość witryny, swobodę dalszych prac nad rozbudową oraz najwyższe standardy bezpieczeństwa i wydajności, zastosowaliśmy rozwiązanie znane ze strony organizatora (www.is-wireless.com).
+After completing the design work, we started programming the website. To achieve the highest quality website, freedom for further development, and the highest standards of security and performance, we applied a solution known from the organizer's website (www.is-wireless.com).
 ::::
 :::
 
@@ -260,7 +259,7 @@ Po zakończeniu prac projektowych rozpoczęliśmy pracę nad programowaniem stro
 ---
 class: mx-default
 ---
-#### **Wykorzystane technologie**
+#### **Technologies used**
 :::
 
 :::effect-appear-md
@@ -287,18 +286,18 @@ class: static-content mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::prose-bg
 :::::prose-p1
-Strony internetowe wykonane w **architekturze Headless** polegają na oddzieleniu interfejsu użytkownika (frontendu) od funkcji administracyjnych i zasobów wewnętrznych (backend). Obie warstwy są wobec siebie niezależne, a komunikacja między nimi wykonywana jest za pomocą API.
+Websites built in **Headless architecture** involve separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is done through an API.
 :::::
 
 :::::prose-p2
-Dzięki architekturze Headless umożliwiamy m.in lepszą optymalizację serwisu, ultra szybkie ładowanie, nielimitowany rozwój strony, spełniając przy tym najwyższe standardy bezpieczeństwa.
+Thanks to Headless architecture, we enable, among others, better website optimization, ultra-fast loading, unlimited website development, while meeting the highest security standards.
 :::::
 
 :::::button-arrow-md
 ---
 link: '/services/headless-and-pwa-websites'
 ---
-Dowiedz się więcej 
+Learn More 
 :::::
 
 ::::
@@ -314,12 +313,12 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-### **Rezultat pracy**
+### **The result of the work**
 
 ::::prose-p3
-Ostatnim krokiem prac była **optymalizacja szybkości strony**, która zakończyła prace nad stroną www. **Szybkość działania strony www** wpływa na wiele obszarów związanych z obecnością w internecie m.in na koszty reklam, pozycje w wyszukiwarce Google czy na zadowolenie użytkowników. Wykonanie prac optymalizacyjnych przed opublikowaniem witryny owocuje zmniejszeniem kosztów prowadzenia strony w przyszłości.
+The final step of the work was the **optimization of the website speed**, concluding the work on www. The **speed of the website** affects various areas related to online presence, including advertising costs, Google search rankings, and user satisfaction. Optimizing the website before its publication results in reduced future website operating costs.
 
-W efekcie zakończonych prac, nasz klient otrzymał w pełni funkcjonalną stronę www, z indywidualnym projektem graficznym, która przygotowana jest do dalszej rozbudowy. Strona internetowa spełnia najwyższe standardy bezpieczeństwa i wydajności, a dodatkowo cieszy oko użytkowników nieszablonowym wyglądem.
+As a result of the completed work, our client received a fully functional website with a custom graphic design, prepared for further expansion. The website meets the highest standards of security and performance, and additionally, it captivates users with its unique appearance.
 ::::
 :::
 ::
@@ -349,14 +348,14 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://www.webo.agency/kontakt
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #subtitle
-*-/* Zainteresowała Cię nasza oferta?
+*-/* Are you interested in our offer?
 
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+## Get in touch and start collaborating!
 
 ::::
 :::
