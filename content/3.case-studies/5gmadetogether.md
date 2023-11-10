@@ -34,7 +34,7 @@ link: 'https://5gmadetogether.com/'
 ## 5G Made Together - Headless website for an international technology conference
 
 #description
-**5G Made Together** is a conference and association operating under the same name, **organized by IS-Wireless.**
+**5G Made Together** is an initiative of **IS-Wireless**, involving the cooperation of various partners to build open telecommunications networks and democratize the telecommunications market.
 
 #buttontext
 See Online
@@ -75,9 +75,8 @@ class: mx-default flex flex-col md:flex-row gap-10 lg:gap-20
 
 ::::prose-p3
 
-**5G Made Together Conference** is held several times a year, covering topics in digital transformation, technology, cybersecurity, business, and science. Each edition features a diverse group of experts from around the world, including top engineers, entrepreneurs, academic lecturers, and members of government organizations.
+The 5G Made Together initiative is organized by IS-Wireless, which provides private 5G networks in an open model (Open RAN). IS-Wireless is based in Poland and carries out projects with partners in Europe and Southeast Asia.
 
-The conference is organized by IS-Wireless, which develops and delivers 4G and 5G mobile networks in an open model (Open RAN),which is gaining popularity worldwide. The company provides software and hardware necessary for building mobile networks in both RAN and Core areas.
 ::::
 
 ::::prose-bg
