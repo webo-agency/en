@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/2de36a0ddd6bb4da32157f3b591607e812340253(markdown-it@13.0.2)(vite@4.5.0)(vue@3.3.8)(webpack@5.89.0)
+    version: github.com/webo-agency/www/e1806e4c44001b7c3adfa9e11d88f22c81afa74b(markdown-it@13.0.2)(vite@4.5.0)(vue@3.3.8)(webpack@5.89.0)
   nuxt:
     specifier: ^3.8.0
     version: 3.8.0(vite@4.5.0)
@@ -1177,7 +1177,7 @@ packages:
       node-fetch-native: 1.4.1
       ohash: 1.1.3
       pathe: 1.1.1
-      std-env: 3.4.3
+      std-env: 3.5.0
       ufo: 1.3.1
     optionalDependencies:
       ipx: 2.0.2
@@ -1294,7 +1294,7 @@ packages:
       hookable: 5.5.3
       pathe: 1.1.1
       pkg-types: 1.0.3
-      std-env: 3.4.3
+      std-env: 3.5.0
       ufo: 1.3.1
       unimport: 3.5.0
       untyped: 1.4.0
@@ -8233,6 +8233,10 @@ packages:
   /std-env@3.4.3:
     resolution: {integrity: sha512-f9aPhy8fYBuMN+sNfakZV18U39PbalgjXG3lLB9WkaYTxijru61wb57V9wxxNthXM5Sd88ETBWi29qLAsHO52Q==}
 
+  /std-env@3.5.0:
+    resolution: {integrity: sha512-JGUEaALvL0Mf6JCfYnJOTcobY+Nc7sG/TemDRBqCA0wEr4DER7zDchaaixTlmOxAjG1uRJmX82EQcxwTQTkqVA==}
+    dev: false
+
   /streamx@2.15.2:
     resolution: {integrity: sha512-b62pAV/aeMjUoRN2C/9F0n+G8AfcJjNC0zw/ZmOHeFsIe4m4GzjVW9m6VHXVjk536NbdU9JRwKMJRfkc+zUFTg==}
     dependencies:
@@ -9609,11 +9613,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/2de36a0ddd6bb4da32157f3b591607e812340253(markdown-it@13.0.2)(vite@4.5.0)(vue@3.3.8)(webpack@5.89.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/2de36a0ddd6bb4da32157f3b591607e812340253}
-    id: github.com/webo-agency/www/2de36a0ddd6bb4da32157f3b591607e812340253
+  github.com/webo-agency/www/e1806e4c44001b7c3adfa9e11d88f22c81afa74b(markdown-it@13.0.2)(vite@4.5.0)(vue@3.3.8)(webpack@5.89.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/e1806e4c44001b7c3adfa9e11d88f22c81afa74b}
+    id: github.com/webo-agency/www/e1806e4c44001b7c3adfa9e11d88f22c81afa74b
     name: '@webo-agency/theme'
-    version: 3.6.13
+    version: 3.6.22
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.9.0(nuxt@3.8.0)(vue@3.3.8)
