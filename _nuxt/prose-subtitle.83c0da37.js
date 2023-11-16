@@ -1,0 +1,1 @@
+import{r as s}from"./slot.3d416d4c.js";import{k as t,K as o,b as r,c as a,e as n}from"./entry.3655a403.js";const c={},l={class:"subtitle"};function _(e,d){return o("MDCSlot"),r(),a("div",null,[n("span",l,[s(e.$slots,"default")])])}const p=t(c,[["render",_]]);export{p as default};
