@@ -1,1 +1,0 @@
-import{r as o}from"./slot.3d416d4c.js";import{k as r,K as s,b as t,c}from"./entry.3655a403.js";const n={},a={class:"block-border"};function l(e,d){return s("MDCSlot"),t(),c("div",a,[o(e.$slots,"default")])}const m=r(n,[["render",l]]);export{m as default};
