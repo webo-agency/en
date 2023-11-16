@@ -46,6 +46,6 @@ general:
         - type: behance
           link: https://www.behance.net/webo_agency
 head:
-    title: Webo - Digital partner
+    title: Webo - Websites and e-commerce in new technologies
     description: Digital solutions such as websites or design built according to the agile process
 ---
