@@ -7,10 +7,10 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/4d303b01dd70063e36f860c26b1b74b45cd4817f(markdown-it@13.0.2)(vite@5.0.5)(vue@3.3.10)
+    version: github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10)
   nuxt:
     specifier: ^3.8.1
-    version: 3.8.1(vite@5.0.5)
+    version: 3.8.1(vite@5.0.6)
 
 devDependencies:
   '@nuxthq/studio':
@@ -1064,7 +1064,7 @@ packages:
     resolution: {integrity: sha512-GBzP8zOc7CGWyFQS6dv1lQz8VVpz5C2yRszbXufwG/9zhStTIH50EtD87NmWbTMwXDvZLNg8GIpb1UFdH93JCA==}
     dev: false
 
-  /@nuxt/devtools-kit@1.0.4(nuxt@3.8.1)(vite@5.0.5):
+  /@nuxt/devtools-kit@1.0.4(nuxt@3.8.1)(vite@5.0.6):
     resolution: {integrity: sha512-AXNeI1dBilNryCmwuTd3lU7CrPBhzUJ5ntTFiXw9MmFwe5QT3NOxDFOv0gX7z1DFnmBEmx5mPKWysCwh7htEnQ==}
     peerDependencies:
       nuxt: ^3.8.1
@@ -1073,8 +1073,8 @@ packages:
       '@nuxt/kit': 3.8.2
       '@nuxt/schema': 3.8.2
       execa: 7.2.0
-      nuxt: 3.8.1(vite@5.0.5)
-      vite: 5.0.5
+      nuxt: 3.8.1(vite@5.0.6)
+      vite: 5.0.6
     transitivePeerDependencies:
       - rollup
       - supports-color
@@ -1096,7 +1096,7 @@ packages:
       semver: 7.5.4
     dev: false
 
-  /@nuxt/devtools@1.0.4(nuxt@3.8.1)(vite@5.0.5):
+  /@nuxt/devtools@1.0.4(nuxt@3.8.1)(vite@5.0.6):
     resolution: {integrity: sha512-G1Oo9+TaOYzePIXpNX+Zzalw/rJyIZKZpZmXfzolPlOJSA1i0JKzZX6Z7iQHdqPwNJ8t+HnVaF4PghPIpo1kwg==}
     hasBin: true
     peerDependencies:
@@ -1104,7 +1104,7 @@ packages:
       vite: '*'
     dependencies:
       '@antfu/utils': 0.7.6
-      '@nuxt/devtools-kit': 1.0.4(nuxt@3.8.1)(vite@5.0.5)
+      '@nuxt/devtools-kit': 1.0.4(nuxt@3.8.1)(vite@5.0.6)
       '@nuxt/devtools-wizard': 1.0.4
       '@nuxt/kit': 3.8.2
       birpc: 0.2.14
@@ -1123,7 +1123,7 @@ packages:
       local-pkg: 0.5.0
       magicast: 0.3.2
       nitropack: 2.8.1
-      nuxt: 3.8.1(vite@5.0.5)
+      nuxt: 3.8.1(vite@5.0.6)
       nypm: 0.3.3
       ofetch: 1.3.3
       ohash: 1.1.3
@@ -1137,9 +1137,9 @@ packages:
       simple-git: 3.21.0
       sirv: 2.0.3
       unimport: 3.6.0(rollup@4.6.1)
-      vite: 5.0.5
-      vite-plugin-inspect: 0.7.42(@nuxt/kit@3.8.2)(vite@5.0.5)
-      vite-plugin-vue-inspector: 4.0.2(vite@5.0.5)
+      vite: 5.0.6
+      vite-plugin-inspect: 0.7.42(@nuxt/kit@3.8.2)(vite@5.0.6)
+      vite-plugin-vue-inspector: 4.0.2(vite@5.0.6)
       which: 3.0.1
       ws: 8.14.2
     transitivePeerDependencies:
@@ -2317,7 +2317,7 @@ packages:
       '@vueuse/core': 10.7.0(vue@3.3.10)
       '@vueuse/metadata': 10.7.0
       local-pkg: 0.5.0
-      nuxt: 3.8.1(vite@5.0.5)
+      nuxt: 3.8.1(vite@5.0.6)
       vue-demi: 0.14.6(vue@3.3.10)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -2335,7 +2335,7 @@ packages:
       '@vueuse/core': 9.13.0(vue@3.3.10)
       '@vueuse/metadata': 9.13.0
       local-pkg: 0.4.3
-      nuxt: 3.8.1(vite@5.0.5)
+      nuxt: 3.8.1(vite@5.0.6)
       vue-demi: 0.14.6(vue@3.3.10)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -3051,8 +3051,8 @@ packages:
       keygrip: 1.1.0
     dev: false
 
-  /core-js@3.33.3:
-    resolution: {integrity: sha512-lo0kOocUlLKmm6kv/FswQL8zbkH7mVsLJ/FULClOhv8WRVmKLVcs6XPNQAzstfeJTCHMyButEwG+z1kHxHoDZw==}
+  /core-js@3.34.0:
+    resolution: {integrity: sha512-aDdvlDder8QmY91H88GzNi9EtQi2TjvQhpCX6B1v/dAZHU1AuLgHvRh54RiOerpEhEW46Tkf+vgAViB/CWC0ag==}
     requiresBuild: true
     dev: false
 
@@ -6213,7 +6213,7 @@ packages:
       - supports-color
     dev: true
 
-  /nuxt@3.8.1(vite@5.0.5):
+  /nuxt@3.8.1(vite@5.0.6):
     resolution: {integrity: sha512-RSGO56Gv0x2f6AXWw4o4GoBaVdsD0qkPCjrX7Ud/jzH3cRJoyYMPuq/9AOLvf2o1ecZWl39j5elqJ4QHmggyOA==}
     engines: {node: ^14.18.0 || >=16.10.0}
     hasBin: true
@@ -6227,7 +6227,7 @@ packages:
         optional: true
     dependencies:
       '@nuxt/devalue': 2.0.2
-      '@nuxt/devtools': 1.0.4(nuxt@3.8.1)(vite@5.0.5)
+      '@nuxt/devtools': 1.0.4(nuxt@3.8.1)(vite@5.0.6)
       '@nuxt/kit': 3.8.1
       '@nuxt/schema': 3.8.1
       '@nuxt/telemetry': 2.5.3
@@ -8604,7 +8604,7 @@ packages:
       vscode-uri: 3.0.8
     dev: false
 
-  /vite-plugin-inspect@0.7.42(@nuxt/kit@3.8.2)(vite@5.0.5):
+  /vite-plugin-inspect@0.7.42(@nuxt/kit@3.8.2)(vite@5.0.6):
     resolution: {integrity: sha512-JCyX86wr3siQc+p9Kd0t8VkFHAJag0RaQVIpdFGSv5FEaePEVB6+V/RGtz2dQkkGSXQzRWrPs4cU3dRKg32bXw==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -8623,13 +8623,13 @@ packages:
       open: 9.1.0
       picocolors: 1.0.0
       sirv: 2.0.3
-      vite: 5.0.5
+      vite: 5.0.6
     transitivePeerDependencies:
       - rollup
       - supports-color
     dev: false
 
-  /vite-plugin-vue-inspector@4.0.2(vite@5.0.5):
+  /vite-plugin-vue-inspector@4.0.2(vite@5.0.6):
     resolution: {integrity: sha512-KPvLEuafPG13T7JJuQbSm5PwSxKFnVS965+MP1we2xGw9BPkkc/+LPix5MMWenpKWqtjr0ws8THrR+KuoDC8hg==}
     peerDependencies:
       vite: ^3.0.0-0 || ^4.0.0-0 || ^5.0.0-0
@@ -8643,7 +8643,7 @@ packages:
       '@vue/compiler-dom': 3.3.10
       kolorist: 1.8.0
       magic-string: 0.30.5
-      vite: 5.0.5
+      vite: 5.0.6
     transitivePeerDependencies:
       - supports-color
     dev: false
@@ -8683,8 +8683,8 @@ packages:
       fsevents: 2.3.3
     dev: false
 
-  /vite@5.0.5:
-    resolution: {integrity: sha512-OekeWqR9Ls56f3zd4CaxzbbS11gqYkEiBtnWFFgYR2WV8oPJRRKq0mpskYy/XaoCL3L7VINDhqqOMNDiYdGvGg==}
+  /vite@5.0.6:
+    resolution: {integrity: sha512-MD3joyAEBtV7QZPl2JVVUai6zHms3YOmLR+BpMzLlX2Yzjfcc4gTgNi09d/Rua3F4EtC8zdwPU8eQYyib4vVMQ==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
     peerDependencies:
@@ -9007,11 +9007,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/4d303b01dd70063e36f860c26b1b74b45cd4817f(markdown-it@13.0.2)(vite@5.0.5)(vue@3.3.10):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/4d303b01dd70063e36f860c26b1b74b45cd4817f}
-    id: github.com/webo-agency/www/4d303b01dd70063e36f860c26b1b74b45cd4817f
+  github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/cf403371f2a1ddb9b9471eba3588f3c11e82bec3}
+    id: github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3
     name: '@webo-agency/theme'
-    version: 3.6.27
+    version: 3.6.28
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.9.0(nuxt@3.8.1)(vue@3.3.10)
@@ -9021,7 +9021,7 @@ packages:
       '@unocss/transformer-directives': 0.46.5
       '@vueuse/core': 9.13.0(vue@3.3.10)
       '@vueuse/nuxt': 9.13.0(nuxt@3.8.1)(vue@3.3.10)
-      core-js: 3.33.3
+      core-js: 3.34.0
       dotenv: 16.3.1
       form-data: 4.0.0
       formidable-serverless: 1.1.1
@@ -9029,7 +9029,7 @@ packages:
       markdown-it-attrs: 4.1.6(markdown-it@13.0.2)
       markdown-it-ins: 3.0.1
       node-fetch: 3.3.2
-      nuxt: 3.8.1(vite@5.0.5)
+      nuxt: 3.8.1(vite@5.0.6)
       sitemap: 7.1.1
       swiper: 8.4.7
     transitivePeerDependencies:
