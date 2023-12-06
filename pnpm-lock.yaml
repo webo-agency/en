@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10)
+    version: github.com/webo-agency/www/af84e277d77e12f8b549cff9a673e4cf10944713(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10)
   nuxt:
     specifier: ^3.8.1
     version: 3.8.1(vite@5.0.6)
@@ -2673,7 +2673,7 @@ packages:
     hasBin: true
     dependencies:
       caniuse-lite: 1.0.30001566
-      electron-to-chromium: 1.4.603
+      electron-to-chromium: 1.4.605
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.22.2)
 
@@ -3447,8 +3447,8 @@ packages:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
     dev: false
 
-  /electron-to-chromium@1.4.603:
-    resolution: {integrity: sha512-Dvo5OGjnl7AZTU632dFJtWj0uJK835eeOVQIuRcmBmsFsTNn3cL05FqOyHAfGQDIoHfLhyJ1Tya3PJ0ceMz54g==}
+  /electron-to-chromium@1.4.605:
+    resolution: {integrity: sha512-V52j+P5z6cdRqTjPR/bYNxx7ETCHIkm5VIGuyCy3CMrfSnbEpIlLnk5oHmZo7gYvDfh2TfHeanB6rawyQ23ktg==}
 
   /emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -9007,11 +9007,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/cf403371f2a1ddb9b9471eba3588f3c11e82bec3}
-    id: github.com/webo-agency/www/cf403371f2a1ddb9b9471eba3588f3c11e82bec3
+  github.com/webo-agency/www/af84e277d77e12f8b549cff9a673e4cf10944713(markdown-it@13.0.2)(vite@5.0.6)(vue@3.3.10):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/af84e277d77e12f8b549cff9a673e4cf10944713}
+    id: github.com/webo-agency/www/af84e277d77e12f8b549cff9a673e4cf10944713
     name: '@webo-agency/theme'
-    version: 3.6.28
+    version: 3.6.29
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.9.0(nuxt@3.8.1)(vue@3.3.10)
