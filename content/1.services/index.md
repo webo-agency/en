@@ -5,4 +5,5 @@ link: https://www.webo.agency/#services
 showInNav: true
 draft: true
 public: false
+sitemap: false
 ---
