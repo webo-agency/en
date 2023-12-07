@@ -4,4 +4,7 @@ export default defineNuxtConfig({
   extends: ["@webo-agency/theme"],
   target: "static",
   modules: ["@nuxthq/studio"],
+  site:{
+    url: 'https://www.webo.agency',
+  },
 });
