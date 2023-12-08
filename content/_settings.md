@@ -15,7 +15,7 @@ footer:
         - title: Support & development
           link: 'https://www.webo.agency/services/support-and-development'
         - title: UX/UI Design
-          link: ''
+          link: 'https://www.webo.agency/services/ux-ui-design'
     brandTitle: Brand
     brandMenu: 
         - title: About us
