@@ -126,7 +126,7 @@ delay: 4
 ::::offer-tile-md
 ---
 icon: '/img/icons/uxui.png'
-link: ''
+link: 'https://webo.agency/services/ux-ui-design'
 delay: 5
 ---
 #title
