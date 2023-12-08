@@ -219,7 +219,7 @@ class: desktop:[&_.offer-tile]:!basis-1/3
 ---
 icon: '/img/icons/site.png'
 iconBg: true
-link: 'https://www.webo.agency/services/websites'
+link: ''
 stylesMinimal: true
 delay: 0
 ---
@@ -233,7 +233,7 @@ Nowoczesne witryny internetowe, stworzone by realizować określone założenia 
 ::::offer-tile-md
 ---
 icon: '/img/icons/store.png'
-link: 'https://www.webo.agency/services/e-commerce'
+link: ''
 iconBg: true
 stylesMinimal: true
 delay: 1
