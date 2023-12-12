@@ -97,7 +97,7 @@ class: mb-20
 *2/* Why is UX important?
 
 #title
-### What are the benefits of *UX/UI design*?
+### What are the benefits of *UX/UI design?*
 
 #description
 The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
