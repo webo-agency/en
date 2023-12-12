@@ -53,7 +53,7 @@ maxWidth: 690
 *1/* What is UX/UI design?
 
 #title
-### We design to make using websites simple, fast, and enjoyable*
+### We design to make using websites *simple, fast, and enjoyable*
 
 #description
 :::::prose-p-4
@@ -97,7 +97,7 @@ class: mb-20
 *2/* Why is UX important?
 
 #title
-### What are the benefits of UX/UI design?*
+### What are the benefits of *UX/UI design?*
 
 #description
 The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
@@ -397,7 +397,7 @@ class: mb-[100px] tablet:mb-[150px]
 vertical: true
 maxWidth: 700
 button.link: https://www.webo.agency/contact
-button.title: 'Contact us'
+button.title: 'GET IN TOUCH'
 button.isWide: true
 class: desktop:[&_h4]:text-[30px] [&_.title]:!mb-5
 ---
@@ -562,7 +562,7 @@ linktitle: Explore more projects
 *6/* UX/UI projects we have done
 
 #title
-### Discover all the websites we have <br> *designed*
+### Discover all the websites <br> we have *designed*
 
 ::::
 :::
