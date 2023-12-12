@@ -133,7 +133,7 @@ iconInline: true
 ---
 
 #title
-#### Improve the brand image and standing out from the competition.
+#### Improve the brand image and standing out from the competition
 
 #description
 building an attractive appearance based on existing visual identification will make your website remembered for longer and associated only with your company
