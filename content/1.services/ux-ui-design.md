@@ -21,7 +21,7 @@ class: block !mb-0
 *-/* User Experience Design
 
 #title
-## UX/UI design for websites, e-commercestores and applications
+## UX/UI design for websites, e-commerce and applications
 
 #description
 Thanks to which you will increase customer engagement, stand out on the market and simplify the use of your website / online store
