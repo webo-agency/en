@@ -21,10 +21,10 @@ class: block !mb-0
 *-/* User Experience Design
 
 #title
-## Projektowanie UX/UI stron www, sklepów i aplikacji
+## UX/UI design for websites, e-commercestores and applications
 
 #description
-Dzięki której zwiększysz zaangażowanie klientów, wyróżnisz się na rynku i uprościsz korzystanie ze swojej strony / sklepu internetowego.
+Thanks to which you will increase customer engagement, stand out on the market and simplify the use of your website / online store
 
 ::
 
@@ -50,17 +50,17 @@ maxWidth: 690
 ---
 
 #subtitle
-*1/* Czym jest projektowanie UX/UI?
+*1/* What is UX/UI design?
 
 #title
-### Projektujemy aby korzystanie ze stron było *proste, szybkie i przyjemne*
+### We design to make using websites simple, fast, and enjoyable*
 
 #description
 :::::prose-p-4
 ---
 class: mb-10
 ---
-Projektowanie UX/UI to sposób projektowania m.in. stron internetowych, który wymaga bliskiej współpracy między zespołem projektowym, programistami, użytkownikami i biznesem. Obejmuje wiele działań w obszarze doświadczeń użytkownika (UX) i interfejsu użytkownika (UI), w drodze do stworzenia stron, które nie tylko świetnie wyglądają ale także są łatwe w obsłudze, angażujące użytkowników i skuteczne w osiąganiu celów biznesowych.
+UX/UI design is a way of designing, among others websites, which requires close collaboration between the design team, developers, users and the business. It involves many activities in the area of user experience (UX) and user interface (UI), on the way to creating websites that not only look great but are also easy to use, engage users and effective in achieving business goals.
 :::::
 ::::
 
@@ -94,13 +94,13 @@ class: mb-20
 ---
 
 #subtitle
-*2/* Dlaczego UX jest ważny?
+*2/* Why is UX important?
 
 #title
-### Jakie są korzyści z  *projektowania UX/UI?*
+### What are the benefits of UX/UI design?*
 
 #description
-Wygląd i działanie Twojej strony internetowej ma ogromne znaczenie - już w pierwszej sekundzie przebywania na stronie, użytkownicy decydują czy na niej zostaną. Dzięki UX/UI wpłyniesz na
+The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
 
 ::::
 :::
@@ -116,10 +116,10 @@ iconInline: true
 ---
 
 #title
-#### Wzrost zaangażowania klientów
+#### The increase in customer engagement
 
 #description
-m.in. dzięki dopracowanej architekturze informacji i warstwie wizualnej użytkownicy z chęcią będą wracać do Twojej strony i zostawać na niej dłużej
+among others thanks to the refined information architecture and visual layer users will be inclined to come back to your website and stay longer
 
 :::::::
 ::::::
@@ -133,10 +133,10 @@ iconInline: true
 ---
 
 #title
-#### Wzmocnienie wizerunku marki i wyróżnienie się na tle konkurencji
+#### Improve the brand image and standing out from the competition.
 
 #description
-budowa atrakcyjnego wyglądu na bazie istniejącej identyfikacji wizualnej sprawi, że Twoja strona internetowa zostanie zapamiętana na dłużej i kojarzona tylko z Twoją firmą
+building an attractive appearance based on existing visual identification will make your website remembered for longer and associated only with your company
 
 :::::::
 ::::::
@@ -153,10 +153,10 @@ iconInline: true
 ---
 
 #title
-#### Wzrost ROI
+#### ROI increase
 
 #description
-dzięki intuicyjnej obsłudze i odpowiednim ścieżkom poruszania, użytkownik łatwiej dociera do potrzebnych informacji, a Ty zwiększasz szanse na sprzedaż swojego produktu lub usługi
+thanks to intuitive handling and appropriate navigation paths, user can easily finds the information he needs and you increase the chances of selling your product or service
 :::::::
 ::::::
 
@@ -169,10 +169,10 @@ iconInline: true
 ---
 
 #title
-#### Ograniczenie kosztów prac deweloperskich
+#### Reducing development costs
 
 #description
-szeroka wiedza z zakresu technologii pozwala projektować interfejs uwzględniając jej ograniczenia, zachowując jednocześnie funkcjonalność i łatwość obsługi strony
+extensive knowledge of technology allows you to design the interface taking into account its limitations, while maintaining the functionality and ease of use of the website
 
 :::::::
 ::::::
@@ -197,17 +197,17 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Projektowanie stron i sklepów internetowych
+*3/* Designing websites and e-commerce
 
 #title
-### Co możemy dla <br> Ciebie *zaprojektować?*
+### What can we  <br> *design* for you?
 
 #description
 :::::prose-p3
 ---
 class: px-1 tablet:px-5 desktop:px-10
 ---
-Uwielbiamy wyzwania i rozwiązywanie problemów,specjalizujemy się w projektowaniu interfejsów na cele internetu skupiając się nie tylko na wyglądzie ale także praktycznym wykorzystaniu i funkcjonalności. Z chęcią zaprojektujemy:
+We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
 :::::
 ::::
 :::
@@ -224,10 +224,10 @@ stylesMinimal: true
 delay: 0
 ---
 #title
-##### Strony internetowe <br> i landing page
+##### Websites <br> and landing pages
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Modern websites, created to accomplish specific assumptions of companies and institutions. Designed for users and achieving business goals in mind.
 ::::
 
 ::::offer-tile-md
@@ -239,10 +239,10 @@ stylesMinimal: true
 delay: 1
 ---
 #title
-##### Sklepy e-commerce <br> i portale internetowe
+##### E-commerce <br> and web portals
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Online stores with a smooth sales process and clear websites that focus users' attention
 ::::
 
 ::::offer-tile-md
@@ -254,10 +254,10 @@ stylesMinimal: true
 delay: 2
 ---
 #title
-##### Aplikacje webowe <br> i konfiguratory 
+##### Web applications <br> and configurators 
 
 #description
-Nowoczesne witryny internetowe, stworzone by realizować określone założenia firm i instytucji. Projektowane z myślą o użytkownikach i osiąganiu celów biznesowych.
+Dedicated to special needs of companies, simple to manage and streamline specific business processes
 
 ::::
 :::
@@ -291,14 +291,14 @@ class: mb-10 tablet:mb-[60px]
 ---
 
 #subtitle
-*4/* Proces projektowania UX/UI
+*4/* UX/UI design process
 
 #title
-### Jak wygląda proces <br> *projektowania UX/UI?*
+### What does the  <br> *UX/UI design process* look like?
 
 #description
 :::::prose-p3
-Projektowanie interfejsów stron internetowych może wydawać się skomplikowane, zlecając nam zaprojektowanie swojej strony internetowej możesz spodziewać się działania zgodnie z iteracyjnym procesem:
+Designing website interfaces may seem complicated, when you contract us to design your website you can expect us to follow an iterative process:
 :::::
 ::::
 :::
@@ -317,10 +317,10 @@ icon: '/img/icons/teamwork.svg'
 ---
 
 #title
-#### 01. Warsztaty
+#### 01. Workshops
 
 #description
-Faza Discovery czyli zebranie wymagań - w pierwszym kroku zapraszamy Cię na rozmowę podczas której poznajemy wszystkie założenia projektu, Twoją firmę i użytkowników przyszłej strony, sklepu czy aplikacji
+Discovery phase, i.e. collecting requirements - in the first step, we invite you to an conversation during which we get to know all the requirements of the project, your company and users of the future website, store or application.
 
 :::::
 :::::process-tile-arrow-md
@@ -329,10 +329,10 @@ icon: '/img/icons/analysis.svg'
 ---
 
 #title
-#### 02. Analiza założeń
+#### 02. Assumption analysis
 
 #description
-Analiza otrzymanych informacji - podczas tego etapu porządkujemy otrzymane dane. Analizujemy przekazane założenia i pomysły, następnie rozpoczynamy prace opracowując m.in. persony (profil użytkownika) mapę strony czy user flow (ścieżki użytkownika).
+Analysis of the received information - during this stage we organize the received data. We analyze the provided requirements and ideas, then begin work designing user persona, site map and user flow, among other things.
 
 :::::
 :::::process-tile-arrow-md
@@ -341,10 +341,10 @@ icon: '/img/icons/prototyping.svg'
 ---
 
 #title
-#### 03. Projektowanie prototypu
+#### 03. Prototype design
 
 #description
-Stworzenie koncepcji produktu - w kolejnym kroku projektujemy architekturę informacji, szkicujemy pierwsze widoki, kończąc na makietach UX (prototypie/szkielecie strony).
+Creating a product concept - in the next step, we design the information architecture, sketch the first views, ending with UX mockups (prototype/site skeleton).
 
 :::::
 :::::process-tile-arrow-md
@@ -353,10 +353,10 @@ icon: '/img/icons/exam.svg'
 ---
 
 #title
-#### 04. Weryfikacja / testy
+#### 04. Verification / testing
 
 #description
-W tym etapie sprawdzamy czy prototyp spełnia cele i założenia oraz czy odpowiada na potrzeby użytkowników, następnie wprowadzamy poprawki i ponownie poddajemy weryfikacji.
+At this stage, we check if the prototype fulfills the goals and requirements and whether it fits the user’s needs, then we make fixes and verify it again.
 
 :::::
 :::::process-tile-arrow-md
@@ -365,10 +365,10 @@ icon: '/img/icons/design.svg'
 ---
 
 #title
-#### 05. Projektowanie interfejsu
+#### 05. Interface design
 
 #description
-na podstawie zaakceptowanego prototypu, projektujemy szatę graficzną strony/sklepu opierając się o identyfikację wizualną marki i obecne trendy.
+Based on the accepted prototype, we design the graphic design of the website/store relying on the visual branding and current trends.
 
 :::::
 :::::process-tile-arrow-md
@@ -377,10 +377,10 @@ icon: '/img/icons/shuttle.svg'
 ---
 
 #title
-#### 06. Wdrożenie i rozwój
+#### 06. Implementation and development
 
 #description
-Po przejściu procesu projektowego nadszedł czas na wdrożenie i rozwój produktu - w tym miejscu implementujemy najlepsze wypracowane rozwiązanie w celu jego dalszego ulepszania, podczas konfrontacji z rynkiem
+After passing the design process, it’s time for implementation and product development - at this stage we implement the best developed solution in order to further improve it, while confronting the market.
 
 :::::
 ::::
@@ -397,21 +397,21 @@ class: mb-[100px] tablet:mb-[150px]
 vertical: true
 maxWidth: 700
 button.link: https://www.webo.agency/contact
-button.title: 'Skontaktuj się z nami'
+button.title: 'Contact us'
 button.isWide: true
 class: desktop:[&_h4]:text-[30px] [&_.title]:!mb-5
 ---
 
 
 #title
-#### Szukasz doświadczonego zespołu <br> projektowego UX/UI?
+#### Are You looking for an experienced <br> UX/UI design team?
 
 #description
 :::::prose-p2
 ---
 class: text-lg desktop:text-xl
 ---
-Skontaktuj się z nami i skorzystaj z bezpłatnej konsultacji podczas której omówimy Twój projekt.
+Contact us and take advantage of a free consultation during which we will discuss your project.
 :::::
 ::::
 :::
@@ -429,10 +429,10 @@ class: mb-10 tablet:mb-[60]px
 ---
 
 #subtitle
-*5/* Kompleksowy projekt UX/UI
+*5/* Complex UX/UI design
 
 #title
-### Co dostarczamy w ramach <br> *projektu UX/UI?*
+### What do we deliver as part of the <br> *UX/UI project?*
 
 ::::
 :::
@@ -452,7 +452,7 @@ delay: 0
 ##### Customer Journey
 
 #description
-Określa emocje towarzyszące użytkownikom podczas korzystania z interfejsu. Dzięki odpowiedniemu wykorzystaniu, możemy zidentyfikować obszary wymagające poprawy na naszej stronie, sklepie czy aplikacji.
+Defines the emotions experienced by users while interacting with the interface. Thanks to proper use, we can identify areas requiring improvement on our website, store or application.
 ::::
 
 ::::offer-tile-md
@@ -464,10 +464,10 @@ stylesMinimal: true
 delay: 1
 ---
 #title
-##### Architektura informacji
+##### Information architecture
 
 #description
-Architektura informacji odpowiada za organizację i podział treści na stronie w celu ułatwienia wyszukiwania potrzebnych materiałów przez użytkownika.
+Information architecture is responsible for organizing and dividing the content on the website to facilitate the user's search for the necessary materials.
 ::::
 
 ::::offer-tile-md
@@ -479,10 +479,10 @@ stylesMinimal: true
 delay: 2
 ---
 #title
-##### Mapa ścieżki użytkowników
+##### User journey map
 
 #description
-To schemat określający ścieżkę jaką musi pokonać użytkownik na stronie internetowej w celu wykonania zadania np. zakup produktu w sklepie www
+This is a diagram defining the path that user must follow on the website in order to complete a task e.g. purchasing a product in an online store
 
 ::::
 ::::offer-tile-md
@@ -494,10 +494,10 @@ stylesMinimal: true
 delay: 3
 ---
 #title
-##### Prototyp funkcjonalny UX
+##### Functional UX prototype
 
 #description
-To graficzna prezentacja układu elementów na stronie, pozwalająca na określenie funkcji, typu treści (m.in. grafiki, nagłówka, akapitu czy przycisku) i sposobie interakcji użytkownika ze stroną.
+It is a graphical presentation of the arrangement elements on a page, that allows to determine the function, type of content (including graphics, heading, paragraph or button) and the way the user interacts with the page.
 
 ::::
 ::::offer-tile-md
@@ -512,7 +512,7 @@ delay: 4
 ##### Design system
 
 #description
-Jest to zbiór wytycznych i elementów standardowych (np. różnych wersji przycisków, okien i komponentów), które będzie można wykorzystać przy ,,doprojektowaniu" nowych podstron w przyszłości.
+This is a collection of guidelines and standard elements (e.g. different versions of buttons, windows and components) that can be used when designing new subpages in the future.
 
 ::::
 ::::offer-tile-md
@@ -524,10 +524,10 @@ stylesMinimal: true
 delay: 5
 ---
 #title
-##### Projekt interfejsu UI
+##### UI design
 
 #description
-Jest to wizualna prezentacja docelowego wyglądu strony, projektowana z naciskiem na spójność z identyfikacją wizualną firmy, estetykę i charakter działalności.
+It is a visual presentation of the final appearance of the website, designed with emphasis on consistency with the company's visual identification, aesthetics and the nature of the business.
 
 ::::
 :::
@@ -555,14 +555,14 @@ class: mb-[80px] tablet:mb-[130px]
 ::::block-header-link-md
 ---
 url: 'https://www.behance.net/webo_agency'
-linktitle: Zobacz więcej projektów
+linktitle: Explore more projects
 ---
 
 #subtitle
-*6/* Wykonane projekty UX/UI
+*6/* UX/UI projects we have done
 
 #title
-### Poznaj strony które <br> *zaprojektowaliśmy*
+### Discover all the websites we have <br> *designed*
 
 ::::
 :::
@@ -592,15 +592,15 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 maxWidth: 650
 button.link: https://www.webo.agency/contact
-button.title: 'Umów się na konsultację'
+button.title: 'GET IN TOUCH'
 button.isWide: true
 ---
 
 #subtitle
-*-/* Potrzebujesz więcej informacji?
+*-/* Need more information?
 
 #title
-### Umów się na bezpłatną konsultację i poznaj nasza ofertę
+### Make an appointment for a free consultation and get to know our offer
 
 ::::
 :::
