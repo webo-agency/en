@@ -9,6 +9,9 @@ technologies:
 image.url: '/img/content-images/case-eurostall-img1.png'
 homepage_hidden: false
 public: true
+hreflangs:
+    EN: '/case-studies/eurostal-konfigurator'
+    PL: '/realizacje/eurostal-konfigurator'
 ---
 
 
