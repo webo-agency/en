@@ -10,7 +10,7 @@ image.url: '/img/content-images/case-eurostall-img1.png'
 homepage_hidden: false
 public: true
 hreflangs:
-    EN: '/realizacje/eurostal-konfigurator'
+    EN: 'https://webo.pl/realizacje/eurostal-konfigurator'
     PL: '/realizacje/eurostal-konfigurator'
 ---
 
@@ -361,7 +361,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/kontakt
+button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 
