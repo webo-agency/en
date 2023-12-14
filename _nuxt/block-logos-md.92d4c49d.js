@@ -1,1 +1,0 @@
-import{k as t,b as a,c as o,E as s}from"./entry.c38b37ff.js";const p={name:"BlockLogosMdc"},c={class:"flex flex-wrap justify-evenly gap-y-5 gap-x-10 tablet:gap-y-8 tablet:gap-x-12 tablet-wide:gap-y-16 tablet-wide:gap-x-[90px] desktop-wide:gap-x-[110px]"};function l(e,n,r,d,f,i){return a(),o("div",c,[s(e.$slots,"default")])}const g=t(p,[["render",l]]);export{g as default};
