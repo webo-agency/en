@@ -222,14 +222,46 @@ System konfguratora umożliwia rozbudowę o automatyczne obliczanie ceny, na baz
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: static-content
 ---
 :::effect-appear-md
-::::prose-figure
 ---
-src: '/img/content-images/case-eurostall-img1.png'
-rounded: false
+class: mx-default [&_h3]:!mb-0
 ---
+### **Pełna konfiguracja konstrukcji**
+:::
+::
+
+::page-section-md
+---
+class: mb-[50px] tablet:mb-[100px]
+---
+
+:::effect-appear-md
+::::prose-figure{src="/img/content-images/case-eurostall-img2.png"}
+::::
+:::
+::
+
+::page-section-md
+---
+class: static-content
+---
+:::effect-appear-md
+---
+class: mx-default [&_h3]:!mb-0
+---
+### **Dobór dodatków i wybór kolorystyki**
+:::
+::
+
+::page-section-md
+---
+class: mb-[50px]
+---
+
+:::effect-appear-md
+::::prose-figure{src="/img/content-images/case-eurostall-img3.png"}
 ::::
 :::
 ::
@@ -244,6 +276,8 @@ class: mx-default
 ---
 
 ### **Nasze rozwiązanie**
+
+#### **Konfigurator produktu 3D z wykorzystaniem ThreeJS**
 
 ::::prose-p3
 Z racji na to że sklep internetowy Eurostal zbudowany jest na platformie WooCommerce, musieliśmy zapewnić poprawność działania właśnie w tym systemie. Wdrożone rozwiązanie musiało umożliwić edycję parametrów konfiguratora z poziomu panelu administracyjnego Wordpress.
@@ -265,9 +299,6 @@ class: mx-default
 class: mx-default
 ---
 ::::prose-figure{src="/img/content-images/case-eurostall-tech.png"}
----
-class: hidden tablet:block
----
 ::::
 :::
 ::
@@ -278,8 +309,15 @@ class: static-content mb-[50px] desktop:mb-[100px]
 ---
 :::effect-appear-md
 ---
-class: mx-default
+class: mx-default relative
 ---
+
+::::svg-decorated
+---
+decoration: true
+class: -bottom-6 -left-32
+---
+::::
 
 ### **Rezultat pracy**
 ::::prose-p3
@@ -295,13 +333,10 @@ W efekcie prac nasz klient otrzymał gotowy konfigurator produktu który może b
 ---
 class: mb-[50px] tablet:mb-[100px]
 ---
-#full
+
 :::effect-appear-md
-::::prose-figure
----
-src: '/img/content-images/case-eurostall-img1.png'
-rounded: false
----
+::::prose-figure{src="/img/content-images/case-eurostall-img4.png"}
+::::
 :::
 ::
 
