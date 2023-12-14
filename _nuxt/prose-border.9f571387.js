@@ -1,1 +1,0 @@
-import{r as e}from"./slot.f86db130.js";import{k as o,b as s,c as t}from"./entry.cf1bd3a9.js";import"./node.e4a9c3bc.js";const c={},n={class:"block-border"};function a(r,d){return s(),t("div",n,[e(r.$slots,"default")])}const i=o(c,[["render",a]]);export{i as default};
