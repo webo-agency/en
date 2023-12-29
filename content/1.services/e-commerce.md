@@ -55,9 +55,9 @@ classes: mb-[100px] tablet:mb-[200px] overflow-hidden
 ::::block-tabs-md
 ---
 tabNames: 
-    - {name: Prestashop, iconUrl: img/logos/presta.svg}
+    - {name: Prestashop, iconUrl: /img/logos/presta.svg}
     - {name: DrupalCommerce, iconUrl: img/logos/drupal.png}
-    - {name: E-commerce MVP, iconUrl: img/icons/plant.svg}
+    - {name: E-commerce MVP, iconUrl: /img/icons/plant.svg}
 ---
 
 #Prestashop
