@@ -146,7 +146,7 @@ delay: 6
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/overlay.png'
+icon: '/img/icons/overlay.svg'
 link: ''
 stylesMinimal: true
 delay: 7

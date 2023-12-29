@@ -26,7 +26,7 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-case-md
 ---
 class: mx-default
-logoUrl: '/img/logos/5G.png'
+logoUrl: '/img/logos/5G.svg'
 link: 'https://5gmadetogether.com/'
 ---
 

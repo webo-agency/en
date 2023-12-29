@@ -53,7 +53,7 @@ We don't use templates or ready-made solutions. We implement websites from scrat
 :::block-offer-tiles-md
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 link: ''
 stylesCustom: true
 ---
@@ -67,7 +67,7 @@ Modern websites designed to meet the specific goals of businesses and institutio
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/onepage.png'
+icon: '/img/icons/onepage.svg'
 link: ''
 stylesCustom: true
 delay: 1
@@ -82,7 +82,7 @@ Landing pages or Conversion-focused websites designed and implemented with the g
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site_extensive.png'
+icon: '/img/icons/site_extensive.svg'
 link: ''
 stylesCustom: true
 delay: 2
@@ -97,7 +97,7 @@ Customized for large enterprises. Comprehensive web portals with multiple featur
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/pwa.png'
+icon: '/img/icons/pwa.svg'
 link: 'https://www.webo.agency/services/headless-and-pwa-websites'
 stylesCustom: true
 delay: 3
