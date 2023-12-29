@@ -59,7 +59,7 @@ We deliver optimal digital products. We are curious about your needs - they are 
 :::block-offer-tiles-md
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.png'
+icon: '/img/icons/store.svg'
 bgIcon: '/img/icons/store_bgIcon.png'
 link: 'https://www.webo.agency/services/e-commerce'
 ---
@@ -72,7 +72,7 @@ Online stores with a seamless purchasing process, tailored to your company's nee
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 bgIcon: '/img/icons/site_bgIcon.png'
 link: 'https://www.webo.agency/services/websites'
 delay: 1
@@ -86,7 +86,7 @@ We create fast, modern, and functional websites where your customer can quickly 
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.png'
+icon: '/img/icons/apps.svg'
 bgIcon: '/img/icons/apps_bgIcon.png'
 link: ''
 delay: 2
@@ -100,7 +100,7 @@ Customized for specific purposes in your company. User-friendly and easy to mana
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/pwa.png'
+icon: '/img/icons/pwa.svg'
 bgIcon: '/img/icons/pwa_bgIcon.png'
 link: 'https://www.webo.agency/services/headless-and-pwa-websites'
 delay: 3
@@ -125,7 +125,7 @@ delay: 4
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/uxui.png'
+icon: '/img/icons/uxui.svg'
 link: 'https://www.webo.agency/services/ux-ui-design'
 delay: 5
 ---
@@ -282,43 +282,43 @@ title: Drupal
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/vue.png
+imgUrl: /img/logos/vue.svg
 title: Vue
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/nuxt.png
+imgUrl: /img/logos/nuxt.svg
 title: Nuxt
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/tailwind.png
+imgUrl: /img/logos/tailwind.svg
 title: TailwindCSS
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/node.png
+imgUrl: /img/logos/node.svg
 title: NodeJS
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/js.png
+imgUrl: /img/logos/js.svg
 title: JavaScript
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/presta.png
+imgUrl: /img/logos/presta.svg
 title: PrestaShop
 ---
 :::::
 :::::icon-logo-md
 ---
-imgUrl: /img/logos/cloudflare.png
+imgUrl: /img/logos/cloudflare.svg
 title: Cloudflare
 ---
 :::::
@@ -419,7 +419,7 @@ class: mb-[50px] tablet:mb-[100px]
 
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/icn_chart.png'
+iconUrl: '/img/icons/icn_chart.svg'
 delay: 0
 ---
 
@@ -432,7 +432,7 @@ As a technology partner, we analyze your business requirements before starting t
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/uxui.png'
+iconUrl: '/img/icons/uxui.svg'
 delay: 1
 ---
 
@@ -445,7 +445,7 @@ We base every project on user needs. This allows us to deliver intuitive website
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/arrows.png'
+iconUrl: '/img/icons/arrows.svg'
 delay: 2
 ---
 
@@ -458,7 +458,7 @@ The goal of running a business is its growth. We create scalable solutions, ensu
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/gears.png'
+iconUrl: '/img/icons/gears.svg'
 delay: 3
 ---
 
@@ -471,7 +471,7 @@ We implement CD solutions based on the GitHub platform and CI automation, which 
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/AZ.png'
+iconUrl: '/img/icons/AZ.svg'
 delay: 4
 ---
 
@@ -484,7 +484,7 @@ From initial discussions, through web design and deployment, to ongoing developm
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/partnership.png'
+iconUrl: '/img/icons/partnership.svg'
 delay: 5
 ---
 

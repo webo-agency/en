@@ -11,7 +11,7 @@ public: true
 
 ::block-banner-md
 ---
-bgUrl: './img/services-uxui.png'
+bgUrl: './img/services-uxui.svg'
 headerWidth: 700
 descriptionWidth: 650
 class: block !mb-0
@@ -217,7 +217,7 @@ class: desktop:[&_.offer-tile]:!basis-1/3
 ---
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.png'
+icon: '/img/icons/site.svg'
 iconBg: true
 link: ''
 stylesMinimal: true
@@ -232,7 +232,7 @@ Modern websites, created to accomplish specific assumptions of companies and ins
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.png'
+icon: '/img/icons/store.svg'
 link: ''
 iconBg: true
 stylesMinimal: true
@@ -247,7 +247,7 @@ Online stores with a smooth sales process and clear websites that focus users' a
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.png'
+icon: '/img/icons/apps.svg'
 iconBg: true
 link: ''
 stylesMinimal: true

@@ -24,7 +24,7 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-case-md
 ---
 class: mx-default
-logoUrl: '/img/logos/Oravio.png'
+logoUrl: '/img/logos/Oravio.svg'
 link: '/'
 ---
 

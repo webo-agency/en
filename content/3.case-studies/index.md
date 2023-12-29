@@ -36,7 +36,7 @@ class: mb-[50px] tablet:mb-[150px]
 :::effect-appear-md
 ::::block-banner-cases-md
 ---
-logoUrl: '/img/logos/isw.png'
+logoUrl: '/img/logos/isw.svg'
 bgUrl: '/img/case-studies/IS-Wireless.jpg'
 link: 'https://www.is-wireless.com/'
 ---

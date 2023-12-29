@@ -55,9 +55,9 @@ classes: mb-[100px] tablet:mb-[200px] overflow-hidden
 ::::block-tabs-md
 ---
 tabNames: 
-    - {name: Prestashop, iconUrl: img/logos/presta.png}
+    - {name: Prestashop, iconUrl: img/logos/presta.svg}
     - {name: DrupalCommerce, iconUrl: img/logos/drupal.png}
-    - {name: E-commerce MVP, iconUrl: img/icons/plant.png}
+    - {name: E-commerce MVP, iconUrl: img/icons/plant.svg}
 ---
 
 #Prestashop
@@ -244,7 +244,7 @@ We design a user-centered design interface that follows the newest standards. We
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/translation.png'
+iconUrl: '/img/icons/translation.svg'
 ---
 
 #title
@@ -260,7 +260,7 @@ We provide online stores that allow development with new sales markets, differin
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/overlay.png'
+iconUrl: '/img/icons/overlay.svg'
 ---
 
 #title
@@ -279,7 +279,7 @@ We integrate stores with payment gateways, shipping options, sales management sy
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/functionality.png'
+iconUrl: '/img/icons/functionality.svg'
 ---
 
 #title
@@ -295,7 +295,7 @@ New features to increase sales or automate processes. We even provide advanced s
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/block-gears.png'
+iconUrl: '/img/icons/block-gears.svg'
 ---
 
 #title
@@ -314,7 +314,7 @@ The admin panel is often the center of your business, with the right integration
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/arrows.png'
+iconUrl: '/img/icons/arrows.svg'
 ---
 
 #title
@@ -331,7 +331,7 @@ We look to the future. We use solutions and technologies that provide extensive 
 ::::::effect-appear-md
 :::::::icon-tile-static-md
 ---
-iconUrl: '/img/icons/uxui.png'
+iconUrl: '/img/icons/uxui.svg'
 ---
 
 #title
@@ -375,7 +375,7 @@ We use open source solutions, thanks to which, after the project is completed, t
 :::::block-logos-circular-swiper-md
 ::::::icon-logo-circular-md
 ---
-iconUrl: '/img/logos/presta.png'
+iconUrl: '/img/logos/presta.svg'
 title: Prestashop
 ---
 
@@ -390,7 +390,7 @@ title: Drupal CMS
 
 ::::::icon-logo-circular-md
 ---
-iconUrl: '/img/logos/vue.png'
+iconUrl: '/img/logos/vue.svg'
 title: Vue
 ---
 
@@ -398,7 +398,7 @@ title: Vue
 
 ::::::icon-logo-circular-md
 ---
-iconUrl: '/img/logos/tailwind.png'
+iconUrl: '/img/logos/tailwind.svg'
 title: TailwindCSS
 ---
 
@@ -413,14 +413,14 @@ title: Symfony
 ::::::
 ::::::icon-logo-circular-md
 ---
-iconUrl: '/img/logos/js.png'
+iconUrl: '/img/logos/js.svg'
 title: JavaScript
 ---
 
 ::::::
 ::::::icon-logo-circular-md
 ---
-iconUrl: '/img/logos/cloudflare.png'
+iconUrl: '/img/logos/cloudflare.svg'
 title: Cloudflare
 ---
 
@@ -551,7 +551,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/icn_chart.png'
+iconUrl: '/img/icons/icn_chart.svg'
 delay: 0
 ---
 
@@ -564,7 +564,7 @@ As a technology partner, we analyze your business assumptions before starting th
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/uxui.png'
+iconUrl: '/img/icons/uxui.svg'
 delay: 1
 ---
 
@@ -576,7 +576,7 @@ We base each project on the needs of users. As a result, we deliver intuitive we
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/arrows.png'
+iconUrl: '/img/icons/arrows.svg'
 delay: 2
 ---
 
@@ -589,7 +589,7 @@ The goal of running a business is to grow it. We create scalable solutions, ensu
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/gears.png'
+iconUrl: '/img/icons/gears.svg'
 delay: 3
 ---
 
@@ -602,7 +602,7 @@ We develop sites with automation, saving you time and money needed to manage the
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/AZ.png'
+iconUrl: '/img/icons/AZ.svg'
 delay: 4
 ---
 
@@ -615,7 +615,7 @@ From initial discussions, to site design and implementation, to development and 
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/partnership.png'
+iconUrl: '/img/icons/partnership.svg'
 delay: 5
 ---
 
