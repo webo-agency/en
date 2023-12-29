@@ -11,7 +11,7 @@ public: true
 
 ::block-banner-md
 ---
-bgUrl: './img/services-uxui.svg'
+bgUrl: './img/services-uxui.png'
 headerWidth: 700
 descriptionWidth: 650
 class: block !mb-0
@@ -361,7 +361,7 @@ At this stage, we check if the prototype fulfills the goals and requirements and
 :::::
 :::::process-tile-arrow-md
 ---
-icon: '/img/icons/design.svg'
+icon: '/img/icons/design-proto.svg'
 ---
 
 #title

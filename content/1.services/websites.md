@@ -292,7 +292,7 @@ Adapting the website for search engines is a necessity; we equip each of our web
 ::::
 ::::icon-tile-md
 ---
-iconUrl: '/img/icons/design.png'
+iconUrl: '/img/icons/design-proto.svg'
 iconInline: true
 line: false
 delay: 2
