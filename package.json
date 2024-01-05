@@ -16,6 +16,6 @@
     "nuxt": "^3.8.1"
   },
   "devDependencies": {
-    "@nuxthq/studio": "^1.0.0"
+    "@nuxthq/studio": "^1.0.3"
   }
 }
