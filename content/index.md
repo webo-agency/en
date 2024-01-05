@@ -18,7 +18,7 @@ button.link: https://webo.agency/services/websites
 # We deliver *solid websites*
 
 #description
-Created without templates but hand-coded, in accordance with the documentation,<u>as it should be.</u>
+Created without templates but hand-coded, in accordance with the documentation, <u>as it should be.</u>
 
 ::
 
