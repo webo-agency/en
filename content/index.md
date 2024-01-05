@@ -23,20 +23,10 @@ Let's create a web solution for your company <u>together.</u>
 ::
 
 
-::block-highlighted-md
----
-class: mb-[100px] tablet:mb-[200px]
----
-
-### We are a young software agency founded by professionals with 10 years of experience in *creating digital products.*
-
-::
-
-
 ::page-section-md
 ---
 id: services
-classes: mb-[50px] tablet:mb-[150px]
+classes: mb-[50px] tablet:mb-[150px] pt-[80px] desktop:pt-[120px]
 ---
 :::effect-appear-md
 ::::block-header-md
