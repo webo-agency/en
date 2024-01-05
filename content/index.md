@@ -7,18 +7,17 @@ sitemap:
 ---
 ::block-hero-md
 ---
-button.title: Request a proposal
-button.link: https://www.webo.agency/contact
----
+button.title: Read more
+button.link: https://webo.agency/services/websites
 
 #subtitle
  Welcome in Webo
 
 #title
-# We deliver results through *UX and technology!*
+# We deliver *solid websites*
 
 #description
-Let's create a web solution for your company <u>together.</u>
+Created without templates but hand-coded, in accordance with the documentation,<u>as it should be.</u>
 
 ::
 
