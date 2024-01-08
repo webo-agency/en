@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/banner_bg.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/img/icons/store.svg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/bg-dots.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/img/icons/site.svg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/site.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/img/icons/apps.svg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/websites-technologies.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/img/icons/pwa.svg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/store.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/stores-technologies.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/apps.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/support.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/img/icons/uxui.svg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/uxui.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/icons/uxui-technologies.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/1solutions.png</image:loc>
@@ -55,28 +64,16 @@
             <image:loc>https://www.webo.agency/img/logos/cloudflare.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/5gmadetogether.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img1.png</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Eurostal.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Eurostal.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/IS-Wireless.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Feeby.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/IS-Wireless.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Mancraft.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Oravio.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Proton.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/5teamwork.png</image:loc>
@@ -86,6 +83,9 @@
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/icons/icn_chart.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/img/icons/uxui.svg</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/icons/arrows.svg</image:loc>
@@ -133,7 +133,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/about-us</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/contact_bg.png</image:loc>
@@ -214,7 +214,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/o-nas" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_headless_wp.jpg</image:loc>
@@ -265,7 +265,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/case-studies</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/IS-Wireless.jpg</image:loc>
@@ -274,7 +274,7 @@
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/5gmadetogether.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/wp.png</image:loc>
@@ -286,43 +286,19 @@
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/nuxt.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img1.png</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Eurostal.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Eurostal.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Feeby.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Proton.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/vue.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/presta.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Mancraft.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Oravio.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Proton.jpg</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/js.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/CaffeWasyl.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/DeltaHR.jpg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Przemijanie.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/drupal.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Feeby.png</image:loc>
@@ -352,7 +328,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/realizacje" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/contact</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/contact_bg.png</image:loc>
@@ -397,7 +373,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/kontakt" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/privacy-policy</loc>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
@@ -430,7 +406,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/polityka-prywatnosci" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog/cms-wordpress-and-headless-the-rocket-engines-for-your-website</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_headless_wp.jpg</image:loc>
@@ -475,7 +451,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog/what-affects-page-loading-speed-and-why-is-it-so-important</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_speed.jpg</image:loc>
@@ -514,7 +490,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog/what-is-conversion-in-an-online-store-and-what-affects-it</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_conversion.jpg</image:loc>
@@ -556,7 +532,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog/czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog/what-is-design-system-and-why-is-it-worth-investing</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_design_system.jpg</image:loc>
@@ -595,7 +571,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog/czym-jest-design-system-i-dlaczego-warto-w-niego-zainwestowac" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/blog/what-is-ux-all-about-and-why-is-it-so-important</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/blog-images/webo_blog_ux.jpg</image:loc>
@@ -634,7 +610,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/case-studies/5gmadetogether</loc>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/5G.svg</image:loc>
@@ -685,112 +661,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/realizacje/5gmadetogether" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
-        <loc>https://www.webo.agency/case-studies/eurostal-konfigurator</loc>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Eurostal.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img1.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img3.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-tech.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-tech-mobile.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-eurostall-img4.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Feeby.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/5G.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Swistak.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Mancraft.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Oravio.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Przemijanie.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/CaffeWasyl.svg</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.webo.agency/case-studies/eurostal-konfigurator" />
-        <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/realizacje/eurostal-konfigurator" />
-    </url>
-    <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
-        <loc>https://www.webo.agency/case-studies/oravio</loc>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Oravio.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img1.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img2.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img3.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img4.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img5.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img6.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/case-oravio-img7.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Feeby.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/5G.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Swistak.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/Mancraft.svg</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Eurostal.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/logos/Przemijanie.png</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>https://www.webo.agency/img/logos/CaffeWasyl.svg</image:loc>
-        </image:image>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.webo.agency/case-studies/oravio" />
-        <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/realizacje/oravio" />
-    </url>
-    <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/services/e-commerce</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/services_shops_bg.png</image:loc>
@@ -856,13 +727,16 @@
             <image:loc>https://www.webo.agency/img/icons/partnership.svg</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Feeby.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Mancraft.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Eurostal.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Oravio.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/IS-Wireless.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
@@ -895,7 +769,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/uslugi/sklepy-internetowe" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/services/headless-and-pwa-websites</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/services-headless.png</image:loc>
@@ -928,10 +802,10 @@
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/headless-mockup-d.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/5gmadetogether.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/IS-Wireless.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/IS-Wireless.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
@@ -964,7 +838,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/uslugi/strony-headless-pwa" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/services/support-and-development</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/services-support.png</image:loc>
@@ -1024,13 +898,16 @@
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/support-altassian.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Feeby.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/IS-Wireless.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Eurostal.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Mancraft.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/IS-Wireless.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
@@ -1063,7 +940,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/uslugi/wsparcie-i-rozwoj" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/services/ux-ui-design</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/services-uxui.png</image:loc>
@@ -1135,13 +1012,13 @@
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/ui-components.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/5gmadetogether.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Feeby.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Oravio.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Proton.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
@@ -1174,7 +1051,7 @@
         <xhtml:link rel="alternate" hreflang="pl-PL" href="https://www.webo.agency/uslugi/projektowanie-ux-ui" />
     </url>
     <url>
-        <lastmod>2024-01-05T10:03:41+00:00</lastmod>
+        <lastmod>2024-01-08T16:39:29+00:00</lastmod>
         <loc>https://www.webo.agency/services/websites</loc>
         <image:image>
             <image:loc>https://www.webo.agency/_ipx/f_png&amp;amp;s_3072x1040/./img/services-websites.png</image:loc>
@@ -1255,13 +1132,16 @@
             <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/content-images/strony-internetowe/slide05_bg.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/DeltaHR.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/5gmadetogether.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/IS-Wireless.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Eurostal.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_jpeg/img/case-studies/Proton.jpg</image:loc>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/IS-Wireless.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.webo.agency/_ipx/w_3072&amp;amp;f_png/img/case-studies/Oravio.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://www.webo.agency/img/logos/isw.svg</image:loc>
