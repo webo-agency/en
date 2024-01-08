@@ -113,6 +113,7 @@ Read more
 ::::offer-tile-md
 ---
 icon: '/img/icons/support.png'
+technologies: '/img/icons/support-technologies.png'
 link: 'https://www.webo.agency/services/support-and-development'
 delay: 4
 ---
