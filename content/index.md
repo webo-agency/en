@@ -8,7 +8,7 @@ sitemap:
 ::block-hero-md
 ---
 button.title: Read more
-button.link: https://webo.agency/services/websites
+button.link: https://www.webo.agency/services/websites
 ---
 
 #subtitle
@@ -29,17 +29,30 @@ id: services
 classes: mb-[50px] tablet:mb-[150px] pt-[80px] desktop:pt-[120px]
 ---
 :::effect-appear-md
-::::block-header-md
+:::svg-decorated
+---
+decoration: true
+class: bottom-0 right-[10%] scale-x-[-1]
+---
+:::
+:::svg-bg-dots
+---
+decoration: true
+class: top-0 right-0
+---
+:::
+
+::::block-header-two-cols-md
 ---
 class: mb-10 tablet:mb-20
-maxWidth: 450
+maxWidth: 640
 ---
 
 #subtitle
 *1/* Services
 
 #title
-## How can we *help you?*
+## We provide *internet solutions for companies*
 
 #description
 We deliver optimal digital products. We are curious about your needs - they are the foundation of the solutions we offer.
@@ -49,21 +62,8 @@ We deliver optimal digital products. We are curious about your needs - they are 
 :::block-offer-tiles-md
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.svg'
-bgIcon: '/img/icons/store_bgIcon.png'
-link: 'https://www.webo.agency/services/e-commerce'
----
-#title
-##### E-commerce
-
-#description
-Online stores with a seamless purchasing process, tailored to your company's needs. We create stores ready for further growth and expansion..
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/site.svg'
-bgIcon: '/img/icons/site_bgIcon.png'
+icon: '/img/icons/site.png'
+technologies: '/img/icons/websites-technologies.png'
 link: 'https://www.webo.agency/services/websites'
 delay: 1
 ---
@@ -71,13 +71,32 @@ delay: 1
 ##### Websites
 
 #description
-We create fast, modern, and functional websites where your customer can quickly find what they're looking for.
+We create fast, modern and functional websites where your customers will quickly find what they are looking for.
+
+#readMoreText
+Read more
 ::::
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.svg'
-bgIcon: '/img/icons/apps_bgIcon.png'
+icon: '/img/icons/store.png'
+technologies: '/img/icons/stores-technologies.png'
+link: 'https://www.webo.agency/services/e-commerce'
+---
+#title
+##### E-commerce
+
+#description
+Online stores with a seamless purchasing process, tailored to your company's needs. We create stores ready for further growth and expansion.
+
+#readMoreText
+Read more
+::::
+
+::::offer-tile-md
+---
+icon: '/img/icons/apps.png'
+technologies: '/img/icons/websites-technologies.png'
 link: ''
 delay: 2
 ---
@@ -86,20 +105,9 @@ delay: 2
 
 #description
 Customized for specific purposes in your company. User-friendly and easy to manage.
-::::
 
-::::offer-tile-md
----
-icon: '/img/icons/pwa.svg'
-bgIcon: '/img/icons/pwa_bgIcon.png'
-link: 'https://www.webo.agency/services/headless-and-pwa-websites'
-delay: 3
----
-#title
-##### Headless & PWA Websites
-
-#description
-Crafted with new technologies, delivering maximum performance and ensuring the highest security standards.
+#readMoreText
+Read more
 ::::
 
 ::::offer-tile-md
@@ -109,19 +117,30 @@ link: 'https://www.webo.agency/services/support-and-development'
 delay: 4
 ---
 #title
-##### Support and development of online stores and websites.
+##### Support and development
 
+#description
+Thanks to this, you will secure resources, maximize efficiency and reduce website maintenance costs.
+
+#readMoreText
+Read more
 ::::
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/uxui.svg'
+icon: '/img/icons/uxui.png'
+technologies: '/img/icons/uxui-technologies.png'
 link: 'https://www.webo.agency/services/ux-ui-design'
 delay: 5
 ---
 #title
-UX/UI Design
+##### UX/UI Design
 
+#description
+Thanks to this, you will increase customer engagement, stand out on the market and simplify the use of your website/online store.
+
+#readMoreText
+Read more
 ::::
 :::
 ::
@@ -327,10 +346,9 @@ id: realizacje
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
-::::block-header-link-md
+::::block-header-md
 ---
-url: 'https://www.webo.agency/case-studies'
-linktitle: Explore more projects
+class: mb-10 tablet:mb-20
 ---
 
 #subtitle
@@ -342,14 +360,13 @@ linktitle: Explore more projects
 ::::
 :::
 
-#full
-:::effect-appear-md
-::::block-cases-slider-md
+:::block-cases-md
 ---
 contentFolder: case-studies
+moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.linktitle: See all projects
 ---
 
-::::
 :::
 ::
 

@@ -1,16 +1,17 @@
 ---
-introduction.title: 'Dynamiczny konfigurator 3D dla polskiego producenta garaży blaszanych'
-introduction.description: 'Konfigurator Eurostal umożliwia pełne dostosowanie garaży blaszanych dla klientów z wielu krajów. Wdrożone rozwiązanie pozwala dynamicznie generować model 3D garażu na podstawie opcji wybranych przez użytkownika.'
+introduction.title: 'Eurostal - dynamic 3D configurator for a Polish manufacturer of sheet metal garages'
+introduction.description: 'The Eurostal configurator enables full customization of sheet metal garages for customers from many countries. The implemented solution allows you to dynamically generate a 3D model of the garage based on the options selected by the user.'
 type:
-    - Aplikacja internetowa
+    - Web app
 technologies:
     - Wordpress CMS
     - TailwindCSS
-image.url: '/img/content-images/case-eurostall-img1.png'
-homepage_hidden: false
+image.url: '/img/case-studies/Eurostal.png'
+tile_hidden: false
+tile_order: 2
 public: true
 hreflangs:
-    EN: '/case-studies/eurostal-konfigurator'
+    EN: '/case-studies/eurostal-configurator'
     PL: '/realizacje/eurostal-konfigurator'
 ---
 

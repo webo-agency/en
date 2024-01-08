@@ -5,13 +5,13 @@ introduction.description: 'Feeby is a Polish decoration manufacturer with over 2
 type:
     - UX/UI
     - E-commerce
-    - Wsparcie
+    - Support
 technologies:
     - TailwindCSS
     - Vue.js
     - PrestaShop
 image.url: '/img/case-studies/Feeby.jpg'
-homepage_hidden: false
+tile_hidden: true
 public: false
 draft: true
 fallback: 'https://www.behance.net/gallery/149635813/Feeby-Home-decor-E-commerce?tracking_source=search_projects_recommended%7Cwebo.agency'

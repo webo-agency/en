@@ -3,13 +3,14 @@ introduction.title: '5G Made Together - Headless website for an international te
 introduction.description: '5G Made Together is an association and conference held several times a year, addressing topics related to digital transformation, technology, cybersecurity, business, and science.'
 type:
     - UX/UI
-    - Rozwój
+    - Development
 technologies:
     - Wordpress CMS
     - TailwindCSS
     - Nuxt
-image.url: '/img/case-studies/5gmadetogether.jpg'
-homepage_hidden: false
+image.url: '/img/case-studies/5gmadetogether.png'
+tile_hidden: false
+tile_order: 1
 public: true
 draft: false
 hreflangs:

@@ -4,11 +4,11 @@ introduction.description: 'Eurostal is a manufacturer of high-quality metal gara
 '
 type:
     - UX/UI
-    - Rozwój
+    - Support
 technologies:
     - Wordpress CMS
 image.url: '/img/case-studies/Eurostal.jpg'
-homepage_hidden: false
+tile_hidden: true
 public: false
 draft: true
 fallback: 'https://www.behance.net/gallery/138146291/EUROSTAL-Metal-garage-e-commerce'
