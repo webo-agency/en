@@ -552,10 +552,9 @@ id: realizacje
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
-::::block-header-link-md
+::::block-header-md
 ---
-url: 'https://www.behance.net/webo_agency'
-linktitle: Explore more projects
+class: mb-10 tablet:mb-20
 ---
 
 #subtitle
@@ -567,18 +566,18 @@ linktitle: Explore more projects
 ::::
 :::
 
-#full
-:::effect-appear-md
-::::block-cases-slider-md
+:::block-cases-md
 ---
 contentFolder: case-studies
 selectedSlugs:
     - feeby
     - 5gmadetogether
     - oravio
+    - proton
+moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.linktitle: See all projects
 ---
 
-::::
 :::
 ::
 

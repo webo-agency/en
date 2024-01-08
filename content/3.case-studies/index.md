@@ -68,8 +68,8 @@ class: mb-[50px] tablet:mb-[150px]
 contentFolder: case-studies
 filters:
     - E-commerce
-    - Strony www
-    - Wsparcie/Rozwój
+    - Website
+    - Support/Development
     - UX/UI
 technologies:
     - TailwindCSS

@@ -3,14 +3,15 @@ introduction.title: 'IS-Wireless - Headless website for a Polish 5G network solu
 introduction.description: 'It is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security
 '
 type:
-    - Strony www
+    - Website
     - UX/UI
 technologies:
     - TailwindCSS
     - Vue.js
     - Nuxt
-image.url: '/img/case-studies/IS-Wireless.jpg'
-homepage_hidden: false
+image.url: '/img/case-studies/IS-Wireless.png'
+tile_hidden: false
+tile_order: 3
 public: false
 draft: true
 ---

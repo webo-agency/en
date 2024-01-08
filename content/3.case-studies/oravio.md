@@ -5,12 +5,15 @@ introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic
 type:
     - E-commerce
     - UX/UI
-image.url: '/img/case-studies/Oravio.jpg'
-homepage_hidden: false
-public: true
+image.url: '/img/case-studies/Oravio.png'
+tile_hidden: false
+tile_order: 4
+public: false
+draft: true
 hreflangs:
-    EN: '/case-studies/oravio'
+    # EN: '/case-studies/oravio'
     PL: '/realizacje/oravio'
+fallback: https://webo.pl/realizacje/oravio
 ---
 
 
