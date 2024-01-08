@@ -11,8 +11,9 @@ tile_hidden: false
 tile_order: 2
 public: true
 hreflangs:
-    EN: '/case-studies/eurostal-configurator'
+    # EN: '/case-studies/eurostal-configurator'
     PL: '/realizacje/eurostal-konfigurator'
+fallback: https://webo.pl/realizacje/eurostal-konfigurator
 ---
 
 
