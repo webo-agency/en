@@ -44,7 +44,7 @@ class: top-0 right-0
 
 ::::block-header-two-cols-md
 ---
-class: mb-10 tablet:mb-20
+class: mb-10
 maxWidth: 640
 ---
 
@@ -62,8 +62,8 @@ We deliver optimal digital products. We are curious about your needs - they are 
 :::block-offer-tiles-md
 ::::offer-tile-md
 ---
-icon: '/img/icons/site.png'
-technologies: '/img/icons/websites-technologies.png'
+icon: '/img/icons/services-site.svg'
+technologies: '/img/icons/websites-technologies.svg'
 link: 'https://www.webo.agency/services/websites'
 delay: 1
 ---
@@ -79,8 +79,8 @@ Read more
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/store.png'
-technologies: '/img/icons/stores-technologies.png'
+icon: '/img/icons/services-store.svg'
+technologies: '/img/icons/stores-technologies.svg'
 link: 'https://www.webo.agency/services/e-commerce'
 ---
 #title
@@ -95,8 +95,8 @@ Read more
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/apps.png'
-technologies: '/img/icons/websites-technologies.png'
+icon: '/img/icons/services-apps.svg'
+technologies: '/img/icons/websites-technologies.svg'
 link: ''
 delay: 2
 ---
@@ -112,8 +112,8 @@ Read more
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/support.png'
-technologies: '/img/icons/support-technologies.png'
+icon: '/img/icons/services-support.svg'
+technologies: '/img/icons/support-technologies.svg'
 link: 'https://www.webo.agency/services/support-and-development'
 delay: 4
 ---
@@ -129,8 +129,8 @@ Read more
 
 ::::offer-tile-md
 ---
-icon: '/img/icons/uxui.png'
-technologies: '/img/icons/uxui-technologies.png'
+icon: '/img/icons/services-uxui.svg'
+technologies: '/img/icons/uxui-technologies.svg'
 link: 'https://www.webo.agency/services/ux-ui-design'
 delay: 5
 ---
