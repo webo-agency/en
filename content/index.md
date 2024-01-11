@@ -294,7 +294,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*4/* Nasze podejście
+*4/* Our approach
 
 #title
 ### Why is it worth *trusting us?*
