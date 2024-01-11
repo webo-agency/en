@@ -168,99 +168,6 @@ button.title: 'Get in touch'
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[150px]
----
-:::effect-appear-md
-::::block-header-md
----
-class: mb-20
-maxWidth: 650
-center: true
----
-
-#subtitle
-*2/* Proces
-
-#title
-## We approach projects step by step
-
-#description
-Executing a project requires a deep knowledge of technology and user-centered design, along with a well-established process that ensures goal achievement without time delays and within the set budget.
-
-::::
-:::
-
-#full
-:::block-process-md
-::::process-tile-md
----
-number: 1
----
-#title
-##### Requirements gathering
-
-#description
-This is the first step we need to take to create a website. We learn all the requirements and get to know your company, its customers, and industry.
-::::
-
-::::process-tile-md
----
-number: 2
----
-#title
-##### UX/UI design
-
-#description
-We define user flows, design information architecture, create prototypes, and finish with the final look of the website.
-::::
-
-::::process-tile-md
----
-number: 3
----
-#title
-##### Web development
-
-#description
-We install and code the designed solution in the chosen technology. We start from configuring the infrastructure to full implementation of functionality and appearance.
-::::
-
-::::process-tile-md
----
-number: 4
----
-#title
-##### Quality assurance
-
-#description
-We thoroughly check the website's performance. We conduct tests on various devices and resolutions to ensure that everything works as intended.
-::::
-
-::::process-tile-md
----
-number: 5
----
-#title
-##### Website deployment
-
-#description
-After making all the necessary adjustments and receiving the green light for publishing, we transfer the website to the production server, where it goes live on the internet!
-::::
-
-::::process-tile-md
----
-number: 6
----
-#title
-##### Growth and enhancement
-#description
-Deployment is just the beginning. That's why we offer support, where we create new features, updates, monitor performance and security, and respond to any issues.
-::::
-:::
-::
-
-::page-section-md
----
 class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
 ---
 :::block-columns-img-md
@@ -269,7 +176,7 @@ image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
 ---
 #subtitle
-*3/* Scalable solutions
+*2/* Scalable solutions
 
 #title
 ### We'll choose the best solution for *your business*
@@ -353,7 +260,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*4/* Case studies
+*3/* Case studies
 
 #title
 ### We are proud of the projects <br>*we've completed*
@@ -373,183 +280,134 @@ moreBtn.linktitle: See all projects
 
 ::page-section-md
 ---
-class: mb-[100px] tablet:mb-[200px]
+class: bg-gray-darkest relative z-10 overflow-hidden mb-[100px] tablet:mb-[200px] pt-10 tablet:pt-[100px] [&_.right]:relative [&_.right]:flex [&_.right]:items-end
 ---
 
-#full
-:::effect-appear-md
-::::block-text-bg-md
----
-imgUrl: '/img/content-images/5teamwork.png'
----
+:::block-columns-1-1-md
 
-#subtitle
-*5/* Our mission
-
-#title
-### Using modern tools, *we solve users problems* while achieving our clients business goals.
-
-::::
-:::
-::
-
-::page-section-md
+#left
+::::effect-appear-md
+:::::block-header-md
 ---
-id: o-nas
-class: mb-[100px] tablet:mb-[200px]
----
-:::block-bg-map-md
-:::
-
-:::effect-appear-md
-::::block-header-md
----
-class: relative z-10 mb-10 tablet:mb-20
-maxWidth: 570
+textWhite: true
+class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Business benefits
+*4/* Nasze podejście
 
 #title
-### Why collaborate *with us?*
+### Why is it worth *trusting us?*
 
 #description
-We specialize in comprehensive digital solutions for businesses. If you want to establish and grow your business online, we know how to do it!
-
+::::::prose-p-3
+---
+class: px-5 tablet:px-10
+---
+Our team consists of solid scientific minds. We know technology like nothing else, we work with hard data, not guesswork.
+::::::
+:::::
 ::::
-:::
 
-:::block-icons-md
+::::block-list-ul-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-10 gap-5 columns-1 tablet:columns-2 [&_li]:inline-block space-y-5
 ---
 
-::::icon-tile-md
+:::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/icn_chart.svg'
+iconUrl: '/img/icons/coding.svg'
 delay: 0
 ---
 
 #title
-##### We achieve business goals
+#### We always rely on technical documentation
 
 #description
-As a technology partner, we analyze your business requirements before starting the project - they are the most crucial.
+Thanks to this, our websites are efficient and safe, and the website code is properly optimized.
 
-::::
-::::icon-tile-md
+:::::
+:::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/uxui.svg'
+iconUrl: '/img/icons/military-rank.svg'
+delay: 2
+class: mt-0 tablet:mt-5
+---
+
+#title
+#### We are a team for special tasks
+
+#description
+There are no impossible things 
+and problems that cannot be solved - we have proven this many times
+
+:::::
+:::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/stability.svg'
 delay: 1
 ---
 
 #title
-##### We care about user needs
+#### We create websites that are stable for years to come
 
 #description
-We base every project on user needs. This allows us to deliver intuitive websites, coupled with a unique design.
+We pay attention to detail and the quality of our work, we rely on hand-programmed sites, without junk code
 
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/arrows.svg'
-delay: 2
----
-
-#title
-##### We focus on your growth
-
-#description
-The goal of running a business is its growth. We create scalable solutions, ensuring that the website is ready for your success.
-
-::::
-::::icon-tile-md
+:::::
+:::::tile-dark-icon-md
 ---
 iconUrl: '/img/icons/gears.svg'
 delay: 3
 ---
 
 #title
-##### We implement CI/CD automation
+#### We repeatedly test before publication
 
 #description
-We implement CD solutions based on the GitHub platform and CI automation, which brings long-term benefits including process optimization and reduction in website maintenance costs.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/AZ.svg'
-delay: 4
----
-
-#title
-##### We operate comprehensively
-
-#description
-From initial discussions, through web design and deployment, to ongoing development and support, we provide services at every stage of the product's life.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/partnership.svg'
-delay: 5
----
-
-#title
-##### We build partnerships
-
-#description
-We care about your business. In our collaboration, we prioritize transparency and trust to ensure everyone is satisfied with the actions taken.
-
-::::
-:::
-
-:::effect-appear-md
-::::block-counters-md
-:::::counter-md
----
-target: 50
-symbol: '+'
----
-
-#title
-##### Completed projects
-
-:::::
-:::::counter-md
----
-target: 10
-symbol: '+'
----
-
-#title
-##### Supported companies and institutions
-
-:::::
-:::::counter-md
----
-target: 20
-symbol: '+'
----
-
-#title
-##### Utilized OpenSource solutions
-
-:::::
-:::::counter-md
----
-target: 98
-symbol: '%'
----
-
-#title
-##### Long-lasting business relationships
+Before publishing, we thoroughly check the performance of the site, both manually and using automated tests.
 
 :::::
 ::::
+
+#right
+::::effect-appear-md
+---
+class: w-full
+---
+:::::effect-parallax-md
+---
+parallaxScale: 0.15
+startBottom: true
+---
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/approach-img.png'
+decoration: false
+class: mt-0 !mb-0 !pl-20 tablet:!pl-32 !w-full relative after:block after:content-[''] after:bottom-0 after:inset-x-0 after:top-1/3 after:z-30 after:bg-gradient-to-t after:bg-gradient-from after:from-gray-darkest after:absolute
+---
+::::::
+:::::
+:::::effect-parallax-md
+---
+class: bottom-0 left-10 !absolute
+parallaxScale: 0.05
+startBottom: true
+---
+::::::img-decorated-md
+---
+imgUrl: '/img/logo-o-cropped.svg'
+decoration: false
+class: mt-0 !pl-0 !mb-0 !w-[70%] !ml-0
+---
+::::::
+:::::
+::::
+
+
 :::
 ::
+
 
 ::page-section-md
 ---
@@ -557,19 +415,40 @@ id: reviews
 class: mb-[50px] tablet:mb-[150px]
 ---
 
-:::block-header-md
+:::block-columns-1-1-md
 ---
-class: mb-[50px] tablet:mb-[100px]
-maxWidth: 700
-center: true
+class: mb-10 tablet:mb-24 [&_.right]:flex [&_.right]:items-center [&_.right]:justify-end [&_.right]:gap-[20px]
 ---
+
+#right
+::::widget-rating-clutch
+---
+border: true
+shrinkMobile: true
+class: mt-6 tablet:mt-0
+---
+::::
+::::widget-rating-google
+---
+border: true
+class: mt-6 tablet:mt-0
+rating: 5
+link: https://www.google.com/search?q=webo+gliwice&sca_esv=581867933&ei=avdRZdPPHbCVxc8PqvGHwAM&ved=0ahUKEwjTrJKs38CCAxWwSvEDHar4ATgQ4dUDCBA&uact=5&oq=webo+gliwice&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdlYm8gZ2xpd2ljZTICECZIsdsJUPXHCVj1xwlwAngAkAEAmAFXoAFXqgEBMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp#lrd=0x471131b61b903edb:0xe16af5e90276dac,1,,,,
+text: See all our reviews
+---
+::::
+
+#left
+::::effect-appear-md
+:::::block-header-md
 
 #subtitle
-*7/* Reviews
+*5/* Reviews
 
 #title
-### We are recommended by small and medium-sized enterprises
-
+### We are recommended by *small and medium-sized enterprises*
+:::::
+::::
 :::
 
 #full
