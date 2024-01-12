@@ -414,7 +414,7 @@ class: mt-0 !pl-0 !mb-0 !w-[70%] !ml-0
 ::page-section-md
 ---
 id: reviews
-class: mb-[50px] tablet:mb-[150px]
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 :::block-columns-1-1-md
@@ -541,17 +541,16 @@ Thanks to Webo's work, my client achieved higher positions in search engines, **
 class: mb-[50px] tablet:mb-[100px]
 ---
 :::effect-appear-md
-::::block-cta-md
+::::block-header-md
 ---
-button.link: https://www.webo.agency/contact
-button.title: 'Get in touch'
+center: true
 ---
 
 #subtitle
-*-/* Are you interested in our services?
+*6/* Our clients
 
 #title
-## Get in touch and *start collaborating!*
+### Get to know the companies that *trusted us*
 
 ::::
 :::
