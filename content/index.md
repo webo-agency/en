@@ -379,18 +379,20 @@ class: w-full
 ---
 parallaxScale: 0.15
 startBottom: true
+class: overflow-hidden tablet:overflow-visible
 ---
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/approach-img.png'
 decoration: false
-class: mt-0 !mb-0 !pl-20 tablet:!pl-32 !w-full relative after:block after:content-[''] after:bottom-0 after:inset-x-0 after:top-1/3 after:z-30 after:bg-gradient-to-t after:bg-gradient-from after:from-gray-darkest after:absolute
+gradient: true
+class: mt-0 !mb-0 !pl-0 !pl-8 tablet-wide:!pl-32 !w-full
 ---
 ::::::
 :::::
 :::::effect-parallax-md
 ---
-class: bottom-0 left-10 !absolute
+class: bottom-0 -left-4 left-10 !absolute
 parallaxScale: 0.05
 startBottom: true
 ---
