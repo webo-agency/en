@@ -1,0 +1,1 @@
+import{r as e}from"./slot.0BL9oK1N.js";import{k as o,b as s,c as t}from"./entry.NxW7uyIF.js";import"./node.uMQX-T_c.js";const c={},n={class:"block-border"};function a(r,d){return s(),t("div",n,[e(r.$slots,"default")])}const i=o(c,[["render",a]]);export{i as default};
