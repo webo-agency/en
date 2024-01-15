@@ -351,11 +351,11 @@ button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 ---
 
-#subtitle
-*-/* Are you interested in our offer?
-
 #title
-## Get in touch and start collaborating!
+#### Are you interested in our offer?
+
+#description
+Get in touch and start collaborating!
 
 ::::
 :::

@@ -390,11 +390,11 @@ button.title: 'Schedule a Consultation'
 button.isWide: true
 ---
 
-#subtitle
-*-/* Need More Information?
-
 #title
-### Schedule a Free Consultation and Discover the Headless Advantage!
+#### Need More Information?
+
+#description
+Schedule a Free Consultation and Discover the Headless Advantage!
 ::::
 :::
 ::

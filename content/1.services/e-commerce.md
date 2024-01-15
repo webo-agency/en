@@ -183,11 +183,11 @@ button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 ---
 
-#subtitle
-*-/* Not sure what solution to choose?
-
 #title
-### Find out which solution will be optimal for your business
+#### Not sure what solution to choose?
+
+#description
+Find out which solution will be optimal for your business
 
 ::::
 :::
@@ -671,11 +671,11 @@ button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 
-#subtitle
-*-/* Are you interested in our offer?
-
 #title
-## Contact us and start working together
+#### Are you interested in our offer?
+
+#description
+Contact us and start working together
 
 ::::
 :::

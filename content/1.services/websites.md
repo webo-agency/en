@@ -690,11 +690,11 @@ button.title: 'Get in touch'
 button.isWide: true
 ---
 
-#subtitle
-*-/* Are you interested in a high performance website?
-
 #title
-### Get in touch and *start collaborating!*
+#### Are you interested in a high performance website?
+
+#description
+Get in touch and *start collaborating!*
 
 ::::
 :::
