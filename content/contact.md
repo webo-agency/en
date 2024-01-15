@@ -119,7 +119,7 @@ type: email
 ---
 
 #placeholder
-Your e-mail adresse
+Your e-mail adress
 
 ::::
 
@@ -219,12 +219,13 @@ class: mb-20 tablet:mb-[130px]
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-20 tablet:mb-[130px]
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
 center: true
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
@@ -234,5 +235,7 @@ center: true
 ### Get to know the companies that *trusted us*
 
 ::::
+:::
+:::block-brands-before-footer-md
 :::
 ::

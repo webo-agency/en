@@ -421,3 +421,25 @@ Skontaktuj się z nami i rozpocznij współpracę
 ::
 
 
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+class: mb-[50px] tablet:mb-[100px]
+---
+
+#subtitle
+*-/* Our clients
+
+#title
+### Get to know the companies that *trusted us*
+
+::::
+:::
+:::block-brands-before-footer-md
+:::
+::

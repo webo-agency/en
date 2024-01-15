@@ -78,7 +78,7 @@ button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 button.isWide: true
 maxWidth: 560
-class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
+class: block [&_.title]:!mb-4  [&_p]:font-medium
 ---
 
 #title
@@ -88,5 +88,28 @@ class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
 Contact us and take advantage of a free consultation
 
 ::::
+:::
+::
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+class: mb-[50px] tablet:mb-[100px]
+---
+
+#subtitle
+*-/* Our clients
+
+#title
+### Get to know the companies that *trusted us*
+
+::::
+:::
+:::block-brands-before-footer-md
 :::
 ::
