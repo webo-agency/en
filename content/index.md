@@ -26,7 +26,7 @@ Created without templates but hand-coded, in accordance with the documentation, 
 ::page-section-md
 ---
 id: services
-classes: mb-[50px] tablet:mb-[150px] pt-[80px] desktop:pt-[120px]
+classes: mb-[50px] tablet:mb-[80px] pt-[80px] desktop:pt-[120px]
 ---
 :::effect-appear-md
 :::svg-decorated
@@ -38,7 +38,7 @@ class: bottom-0 right-[10%] scale-x-[-1]
 :::svg-bg-dots
 ---
 decoration: true
-class: top-0 right-0
+class: tablet:top-56 right-0
 ---
 :::
 
@@ -148,20 +148,30 @@ Read more
 
 ::page-section-md
 ---
-class: mb-[100px] tablet:mb-[200px]
+class: mb-[100px] tablet:mb-[100px]
 ---
 :::effect-appear-md
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
 ::::block-cta-md
 ---
 button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
+button.isWide: true
+class: tablet:mb-[150px] 
 ---
 
-#subtitle
-*-/* Are you looking for special forces for your website?
-
 #title
-## Contact us. *Let's talk!*
+#### Are you looking for special forces for your website?
+
+#description
+Contact us. Let's talk!
+
 ::::
 :::
 ::
