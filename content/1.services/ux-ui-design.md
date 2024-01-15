@@ -595,11 +595,11 @@ button.title: 'GET IN TOUCH'
 button.isWide: true
 ---
 
-#subtitle
-*-/* Need more information?
-
 #title
-### Make an appointment for a free consultation and get to know our offer
+#### Need more information?
+
+#description
+Make an appointment for a free consultation and get to know our offer
 
 ::::
 :::
