@@ -129,7 +129,7 @@ class: block [&_.title]:!mb-4 [&_p]:max-w-[312px] [&_p]:font-medium
 ---
 
 #title
-### Need our help or a project quote?
+#### Need our help or a project quote?
 
 #description
 Contact us for a free consultation

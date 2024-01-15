@@ -410,11 +410,11 @@ button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 
-#subtitle
-*-/* Zainteresowała Cię nasza oferta?
-
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+#### Zainteresowała Cię nasza oferta?
+
+#description
+Skontaktuj się z nami i rozpocznij współpracę
 
 ::::
 :::

@@ -278,11 +278,11 @@ button.link: https://www.webo.agency/contact
 button.title: 'Skontaktuj się'
 ---
 
-#subtitle
-*-/* Zainteresowała Cię nasza oferta?
-
 #title
-## Skontaktuj się z nami i rozpocznij współpracę
+#### Are you interested in our offer?
+
+#description
+Get in touch and start collaborating!
 
 ::::
 :::

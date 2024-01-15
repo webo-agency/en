@@ -656,11 +656,11 @@ button.title: 'Schedule a consultation'
 button.isWide: true
 ---
 
-#subtitle
-*-/* Need more information?
-
 #title
-### Schedule a Free Consultation and learn more about our offer of support
+#### Need more information?
+
+#description
+Schedule a Free Consultation and learn more about our offer of support
 
 ::::
 :::
