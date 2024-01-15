@@ -643,37 +643,16 @@ moreBtn.linktitle: See all projects
 ::
 
 
-::page-section-md
----
-class: mb-[50px] tablet:mb-[100px]
----
-:::effect-appear-md
-::::block-cta-md
----
-maxWidth: 650
-button.link: https://www.webo.agency/contact
-button.title: 'Schedule a consultation'
-button.isWide: true
----
-
-#title
-#### Need more information?
-
-#description
-Schedule a Free Consultation and learn more about our offer of support
-
-::::
-:::
-::
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-20 tablet:mb-[130px]
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
 center: true
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
@@ -682,6 +661,17 @@ center: true
 #title
 ### Get to know the companies that *trusted us*
 
+::::
+:::
+:::block-brands-before-footer-md
+:::
+::
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-form-before-footer-md
 ::::
 :::
 ::

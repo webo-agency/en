@@ -679,35 +679,13 @@ moreBtn.linktitle: See all projects
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
----
-:::effect-appear-md
-::::block-cta-md
----
-maxWidth: 650
-button.link: https://www.webo.agency/contact
-button.title: 'Get in touch'
-button.isWide: true
----
-
-#title
-#### Are you interested in a high performance website?
-
-#description
-Get in touch and *start collaborating!*
-
-::::
-:::
-::
-
-::page-section-md
----
-class: mb-[50px] tablet:mb-[100px]
+class: mb-20 tablet:mb-[130px]
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
 center: true
+class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
@@ -716,6 +694,17 @@ center: true
 #title
 ### Get to know the companies that *trusted us*
 
+::::
+:::
+:::block-brands-before-footer-md
+:::
+::
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-form-before-footer-md
 ::::
 :::
 ::
