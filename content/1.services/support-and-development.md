@@ -11,8 +11,8 @@ hreflangs:
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 600
-descriptionWidth: 600
+headerWidth: 620
+descriptionWidth: 620
 ---
 
 #subtitle
