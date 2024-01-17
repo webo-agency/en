@@ -10,8 +10,10 @@ hreflangs:
 ---
 ::block-banner-md
 ---
-bgUrl: './img/services-headless.png'
-headerWidth: 740
+bgImg: false
+headerWidth: 660
+descriptionWidth: 660
+isSecondSvg: true
 ---
 
 #subtitle
@@ -23,6 +25,15 @@ headerWidth: 740
 #description
 Through which you'll secure resources, maximize performance, and reduce website maintenance costs.
 
+#right
+:::block-banner-decoration-md
+---
+rotate1: 90
+rotate2: 90
+svgUrl1: '/img/svg-square.svg'
+svgUrl2: '/img/svg-arc.svg'
+---
+:::
 ::
 
 ::page-section-md
