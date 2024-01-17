@@ -10,20 +10,29 @@ hreflangs:
 ---
 ::block-banner-md
 ---
-bgUrl: './img/services-websites.png'
-headerWidth: 700
-descriptionWidth: 700
+bgImg: false
+headerWidth: 600
+descriptionWidth: 600
 ---
 
 #subtitle
-*-/* Websites
+*-/* Solid websites
 
 #title
-## Fast, modern, <br> and functional *websites*
+## Websites
 
 #description
-We create beautifully designed websites, ensuring high performance, code quality, and security.
+We create tailored websites, designing an individual look for you and coding from scratch.
 
+#right
+:::block-banner-decoration-md
+---
+rotate1: 90
+rotate2: 90
+svgUrl1: '/img/svg-square.svg'
+svgUrl2: '/img/svg-arc.svg'
+---
+:::
 ::
 
 ::page-section-md

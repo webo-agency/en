@@ -10,20 +10,29 @@ hreflangs:
 ---
 ::block-banner-md
 ---
-bgUrl: './img/services-support.png'
-headerWidth: 700
-descriptionWidth: 650
+bgImg: false
+headerWidth: 600
+descriptionWidth: 600
 ---
 
 #subtitle
-*-/* Guaranteed Availability of IT Specialists
+*-/* Website technical support
 
 #title
 ## Support and development for websites / e-commerce
 
 #description
-Thanks to which you will secure resources, maximize performance and reduce website maintenance costs.
+If you need constant supervision over your website or store and you are also planning expansion or optimization work, this offer is for you.
 
+#right
+:::block-banner-decoration-md
+---
+rotate1: 90
+rotate2: 90
+svgUrl1: '/img/svg-square.svg'
+svgUrl2: '/img/svg-arc.svg'
+---
+:::
 ::
 
 ::page-section-md

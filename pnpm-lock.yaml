@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/c3b25870de0622b60b3464df4baeb95ae6c7563e(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.14)(h3@1.10.0)(markdown-it@14.0.0)(postcss@8.4.33)(vite@5.0.11)(vue@3.4.14)(webpack@5.89.0)
+    version: github.com/webo-agency/www/8931cb513685d59760e87d9436609781eb320d3a(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.14)(h3@1.10.0)(markdown-it@14.0.0)(postcss@8.4.33)(vite@5.0.11)(vue@3.4.14)(webpack@5.89.0)
   nuxt:
     specifier: ^3.9.0
     version: 3.9.0(vite@5.0.11)
@@ -1599,7 +1599,7 @@ packages:
       '@antfu/utils': 0.7.7
       '@nuxt/devtools-kit': 1.0.8(nuxt@3.9.0)(vite@5.0.11)
       '@nuxt/devtools-wizard': 1.0.8
-      '@nuxt/kit': 3.9.1
+      '@nuxt/kit': 3.9.2
       birpc: 0.2.14
       consola: 3.2.3
       destr: 2.0.2
@@ -1628,7 +1628,7 @@ packages:
       sirv: 2.0.4
       unimport: 3.7.1(rollup@4.9.1)
       vite: 5.0.11
-      vite-plugin-inspect: 0.8.1(@nuxt/kit@3.9.1)(vite@5.0.11)
+      vite-plugin-inspect: 0.8.1(@nuxt/kit@3.9.2)(vite@5.0.11)
       vite-plugin-vue-inspector: 4.0.2(vite@5.0.11)
       which: 3.0.1
       ws: 8.16.0
@@ -1754,6 +1754,33 @@ packages:
       - supports-color
     dev: false
 
+  /@nuxt/kit@3.9.2:
+    resolution: {integrity: sha512-SmWXnA7z9OJuPXYvrx/8QnnsahRJEfLVciUUxCaVEMOxdRZnr1lUmzoT4wFVcYMQnMJYz1Alo58x4vtty6P73w==}
+    engines: {node: ^14.18.0 || >=16.10.0}
+    dependencies:
+      '@nuxt/schema': 3.9.2
+      c12: 1.6.1
+      consola: 3.2.3
+      defu: 6.1.4
+      globby: 14.0.0
+      hash-sum: 2.0.0
+      ignore: 5.3.0
+      jiti: 1.21.0
+      knitwork: 1.0.0
+      mlly: 1.5.0
+      pathe: 1.1.2
+      pkg-types: 1.0.3
+      scule: 1.2.0
+      semver: 7.5.4
+      ufo: 1.3.2
+      unctx: 2.3.1
+      unimport: 3.7.1(rollup@4.9.1)
+      untyped: 1.4.0
+    transitivePeerDependencies:
+      - rollup
+      - supports-color
+    dev: false
+
   /@nuxt/schema@3.8.2:
     resolution: {integrity: sha512-AMpysQ/wHK2sOujLShqYdC4OSj/S3fFJGjhYXqA2g6dgmz+FNQWJRG/ie5sI9r2EX9Ela1wt0GN1jZR3wYNE8Q==}
     engines: {node: ^14.18.0 || >=16.10.0}
@@ -1796,6 +1823,26 @@ packages:
 
   /@nuxt/schema@3.9.1:
     resolution: {integrity: sha512-GmALRLYo2vPMS1lMpUkUrUuEgTMCL1ZWyqA+zPKJ9/Rh2rrQgIvFyClqUl4txQoCZl038njP5cW0nOe2Oe0HKg==}
+    engines: {node: ^14.18.0 || >=16.10.0}
+    dependencies:
+      '@nuxt/ui-templates': 1.3.1
+      consola: 3.2.3
+      defu: 6.1.4
+      hookable: 5.5.3
+      pathe: 1.1.2
+      pkg-types: 1.0.3
+      scule: 1.2.0
+      std-env: 3.7.0
+      ufo: 1.3.2
+      unimport: 3.7.1(rollup@4.9.1)
+      untyped: 1.4.0
+    transitivePeerDependencies:
+      - rollup
+      - supports-color
+    dev: false
+
+  /@nuxt/schema@3.9.2:
+    resolution: {integrity: sha512-jLShtgQPBMH2ccRTv/l4wAik1L6cW7Y5H7txHDZXKR4nHAbNuhCdVPCKs8NP/8g8rhBulbH+xy8Lar5ff8ahOQ==}
     engines: {node: ^14.18.0 || >=16.10.0}
     dependencies:
       '@nuxt/ui-templates': 1.3.1
@@ -2617,8 +2664,8 @@ packages:
       undici-types: 5.26.5
     dev: false
 
-  /@types/node@20.11.2:
-    resolution: {integrity: sha512-cZShBaVa+UO1LjWWBPmWRR4+/eY/JR/UIEcDlVsw3okjWEu+rB7/mH6X3B/L+qJVHDLjk9QW/y2upp9wp1yDXA==}
+  /@types/node@20.11.5:
+    resolution: {integrity: sha512-g557vgQjUUfN76MZAN/dt1z3dzcUsimuysco0KeluHgrPdJXkP/XdAURgyO2W9fZWHRtRBiVKzKn8vyOAwlG+w==}
     dependencies:
       undici-types: 5.26.5
     dev: false
@@ -5956,7 +6003,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.11.2
+      '@types/node': 20.11.5
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
@@ -10092,7 +10139,7 @@ packages:
       - supports-color
     dev: false
 
-  /vite-plugin-inspect@0.8.1(@nuxt/kit@3.9.1)(vite@5.0.11):
+  /vite-plugin-inspect@0.8.1(@nuxt/kit@3.9.2)(vite@5.0.11):
     resolution: {integrity: sha512-oPBPVGp6tBd5KdY/qY6lrbLXqrbHRG0hZLvEaJfiZ/GQfDB+szRuLHblQh1oi1Hhh8GeLit/50l4xfs2SA+TCA==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -10103,7 +10150,7 @@ packages:
         optional: true
     dependencies:
       '@antfu/utils': 0.7.7
-      '@nuxt/kit': 3.9.1
+      '@nuxt/kit': 3.9.2
       '@rollup/pluginutils': 5.1.0(rollup@4.9.1)
       debug: 4.3.4
       error-stack-parser-es: 0.1.1
@@ -10572,11 +10619,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/c3b25870de0622b60b3464df4baeb95ae6c7563e(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.14)(h3@1.10.0)(markdown-it@14.0.0)(postcss@8.4.33)(vite@5.0.11)(vue@3.4.14)(webpack@5.89.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/c3b25870de0622b60b3464df4baeb95ae6c7563e}
-    id: github.com/webo-agency/www/c3b25870de0622b60b3464df4baeb95ae6c7563e
+  github.com/webo-agency/www/8931cb513685d59760e87d9436609781eb320d3a(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.14)(h3@1.10.0)(markdown-it@14.0.0)(postcss@8.4.33)(vite@5.0.11)(vue@3.4.14)(webpack@5.89.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/8931cb513685d59760e87d9436609781eb320d3a}
+    id: github.com/webo-agency/www/8931cb513685d59760e87d9436609781eb320d3a
     name: '@webo-agency/theme'
-    version: 3.6.77
+    version: 3.6.78
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.10.0(nuxt@3.9.0)(vue@3.4.14)

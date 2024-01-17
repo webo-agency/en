@@ -11,21 +11,29 @@ public: true
 
 ::block-banner-md
 ---
-bgUrl: './img/services-uxui.png'
-headerWidth: 700
-descriptionWidth: 650
-class: block !mb-0
+bgImg: false
+headerWidth: 600
+descriptionWidth: 600
 ---
 
 #subtitle
 *-/* User Experience Design
 
 #title
-## UX/UI design for websites, e-commerce and applications
+## UX/UI design
 
 #description
-Thanks to which you will increase customer engagement, stand out on the market and simplify the use of your website / online store
+We design websites and online stores 
 
+#right
+:::block-banner-decoration-md
+---
+rotate1: 90
+rotate2: 90
+svgUrl1: '/img/svg-square.svg'
+svgUrl2: '/img/svg-arc.svg'
+---
+:::
 ::
 
 
