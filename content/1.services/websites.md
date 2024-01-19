@@ -194,7 +194,7 @@ class: block desktop:hidden top-0 right-0
 ---
 maxWidth: 800
 button.link: https://www.webo.agency/contact
-button.title: 'Skontaktuj się z nami'
+button.title: 'GET IN TOUCH'
 button.isWide: true
 class: tablet:mb-36
 ---
