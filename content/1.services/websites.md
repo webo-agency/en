@@ -38,9 +38,76 @@ svgUrl2: '/img/svg-arc.svg'
 
 ::page-section-md
 ---
+classes: mb-5 tablet:mb-32 static-content
+---
+
+:::block-columns-1-1-md
+
+#left
+::::effect-appear-md
+:::::block-header-md
+---
+center: false
+maxWidth: 700
+class: mb-20
+---
+
+#subtitle
+::::::prose-p-3
+*1/* Professional websites
+::::::
+
+#title
+### Experienced team *for special tasks*
+
+:::::
+
+:::::prose-p-3
+---
+class: max-w-[650px] [&_p]:desktop:!mb-5 [&_p]:!leading-8
+--- 
+We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies, as well as clear technological processes. This allows us to ensure the highest quality, performance, and security. 
+:::::
+
+:::::prose-p-4
+---
+class: static-content max-w-[650px]
+--- 
+From the UX/UI design of the website, through backend and frontend development, to post-launch support, we provide services at every stage of the product life.
+:::::
+::::
+
+#right
+::::effect-appear-md
+---
+class: h-full relative
+---
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-internetowe/section1-right-img.png'
+decoration: false
+class: tablet:w-auto !w-full desktop:scale-[1.1] desktop-wide:scale-[1.2] fullHd:scale-[1.3] tablet:!pl-14 desktop-wide:!pl-20
+---
+:::::
+::::
+:::
+::
+
+
+::page-section-md
+---
 classes: mb-5 tablet:mb-[100px]
 ---
+
 :::effect-appear-md
+
+:::svg-bg-dots
+---
+decoration: true
+class: tablet:-top-64 right-0
+---
+:::
+
 ::::block-header-md
 ---
 center: true
@@ -49,79 +116,98 @@ class: mb-20
 ---
 
 #subtitle
-*1/* Professional websites
+*2/* Technologies
 
 #title
-### Experienced team for special tasks
-
-#description
-We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies, as well as clear technological processes. This allows us to ensure the highest quality, performance, and security. From the UX/UI design of the website, through backend and frontend development, to post-launch support, you can create with us:
-
+### We specialize in *websites*
 ::::
 :::
 
 :::block-offer-tiles-md
+
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site.svg'
+icon: '/img/icons/wordpress.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### Websites for companies and institutions
-
-#description
-Modern websites designed to meet the specific goals of businesses and institutions. Created with a user-centric approach to achieve business objectives.
+##### Wordpress
 
 ::::
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/onepage.svg'
+icon: '/img/icons/drupal.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
 delay: 1
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### One Page Websites
+##### Drupal
 
-#description
-Landing pages or Conversion-focused websites designed and implemented with the goal of promoting a product or service and driving conversions or sales.
 
 ::::
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/site_extensive.svg'
+icon: '/img/icons/wordpress-headles.svg'
 link: ''
-stylesCustom: true
+stylesCustom: false
 delay: 2
+isSmallTile: true
+noDescription: true
 ---
 #title
-##### Web services
+##### Wordpress + Headless
 
-#description
-Customized for large enterprises. Comprehensive web portals with multiple features, meeting high availability requirements, targeting specific user groups.
-
-::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/pwa.svg'
-link: 'https://www.webo.agency/services/headless-and-pwa-websites'
-stylesCustom: true
-delay: 3
----
-#title
-##### Headless & PWA Websites
-
-#description
-Made with cutting-edge technologies, delivering maximum performance. Ideal for demanding clients collaborating with global brands and technological startups.
 
 ::::
 :::
 ::
 
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+:::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+:::
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
+
+::::block-cta-md
+---
+maxWidth: 800
+button.link: https://www.webo.agency/contact
+button.title: 'Skontaktuj się z nami'
+button.isWide: true
+class: tablet:mb-36
+---
+
+#title
+#### Are you interested in our offer?
+
+#description
+Get in touch and start collaborating!
+
+::::
+:::
+::
 
 ::page-section-md
 ---
@@ -143,7 +229,7 @@ class: mb-20
 ---
 
 #subtitle
-*2/* We ensure the highest standards
+*3/* We ensure the highest standards
 
 #title
 ### Code quality, automation, security, and excellent UX.
@@ -318,7 +404,6 @@ In addition to taking care of technical and UX aspects, the website must harmoni
 :::
 ::
 
-
 ::page-section-md
 ---
 classes: mb-[100px] tablet:mb-[200px]
@@ -346,7 +431,7 @@ class: mb-10
 ---
 
 #subtitle
-*3/* Drupal & Wordpress Websites
+*4/* Drupal & Wordpress Websites
 
 #title
 ### We use the best *technologies*
@@ -388,7 +473,7 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Stages of Website Development
+*5/* Stages of Website Development
 
 #title
 ### We approach website development *in stages*
@@ -668,7 +753,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*5/* Our website projects
+*6/* Our website projects
 
 #title
 ### We are proud of the projects *we've completed*
@@ -699,7 +784,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Our clients
+*7/* Our clients
 
 #title
 ### Get to know the companies that *trusted us*
