@@ -200,10 +200,10 @@ class: tablet:mb-36
 ---
 
 #title
-#### Are you interested in our offer?
+#### Not sure what solution to choose?
 
 #description
-Get in touch and start collaborating!
+Find out which solution will be optimal for your business
 
 ::::
 :::
