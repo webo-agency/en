@@ -58,128 +58,7 @@ We combine store performance with an intuitive shopping process. We create onlin
 :::
 ::
 
-::page-section-md
----
-classes: mb-[100px] tablet:mb-[200px] overflow-hidden 
----
-:::effect-appear-md
-::::block-tabs-md
----
-tabNames: 
-    - {name: Prestashop, iconUrl: /img/logos/presta.svg}
-    - {name: DrupalCommerce, iconUrl: img/logos/drupal.png}
-    - {name: E-commerce MVP, iconUrl: /img/icons/plant.svg}
----
 
-#Prestashop
-:::::block-columns-1-1-md
-
-#left
-::::::block-tab-content-underlined
----
-maxWidth: 410
----
-
-#title
-#### **Sklepy internetowe na platformie Prestashop**.
-
-
-#content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.**
-::::::
-
-#right
-::::::block-tab-list
-
-#title
-##### Korzyści z zastosowania Prestashop:
-
-#content
-- test1
-- test2
-- test3
-
-::::::
-
-:::::
-
-#DrupalCommerce
-:::::block-columns-1-1-md
-
-#left
-::::::block-tab-content-underlined
----
-maxWidth: 410
----
-
-#title
-#### **Sklepy internetowe na platformie DupalCommerce**.
-
-
-#content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.**
-::::::
-
-#right
-::::::block-tab-list
-
-#title
-##### Korzyści z zastosowania DupalCommerce:
-
-#content
-- test1
-- test2
-- test3
-- test4
-- test5
-
-::::::
-
-:::::
-
-#MVP sklepów www
-:::::block-columns-1-1-md
-
-#left
-::::::block-tab-content-underlined
----
-maxWidth: 410
----
-
-#title
-#### **Sklepy internetowe na platformie MVP**.
-
-
-#content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.**
-::::::
-
-#right
-::::::block-tab-list
-
-#title
-##### Korzyści z sklepu MVP:
-
-#content
-- test1
-- test2
-- test3
-- test4
-
-::::::
-:::::
-::::
-:::
-::
 
 
 ::page-section-md
@@ -201,6 +80,61 @@ button.title: 'Get in touch'
 Find out which solution will be optimal for your business
 
 ::::
+:::
+::
+
+::page-section-md
+---
+classes: mb-[100px] tablet:mb-[100px] overflow-hidden 
+---
+:::effect-appear-md
+
+::::block-offer-tiles-md
+
+:::::offer-tile-md
+--- 
+icon: '/img/icons/presta.svg'
+link: ''
+stylesCustom: false
+isSmallTile: true
+noDescription: true
+---
+#title
+##### Prestashop
+
+:::::
+
+:::::offer-tile-md
+--- 
+icon: '/img/icons/drupal.svg'
+link: ''
+stylesCustom: false
+delay: 1
+isSmallTile: true
+noDescription: true
+---
+#title
+##### Drupal
+
+
+:::::
+
+:::::offer-tile-md
+--- 
+icon: '/img/icons/woo.svg'
+link: ''
+stylesCustom: false
+delay: 2
+isSmallTile: true
+noDescription: true
+---
+#title
+##### Woocommerce
+
+
+:::::
+::::
+
 :::
 ::
 
