@@ -58,31 +58,6 @@ We combine store performance with an intuitive shopping process. We create onlin
 :::
 ::
 
-
-
-
-::page-section-md
----
-class: mb-[100px] tablet:mb-[150px]
----
-:::effect-appear-md
-::::block-cta-md
----
-maxWidth: 800
-button.link: https://www.webo.agency/contact
-button.title: 'Get in touch'
----
-
-#title
-#### Not sure what solution to choose?
-
-#description
-Find out which solution will be optimal for your business
-
-::::
-:::
-::
-
 ::page-section-md
 ---
 classes: mb-[100px] tablet:mb-[100px] overflow-hidden 
@@ -135,6 +110,28 @@ noDescription: true
 :::::
 ::::
 
+:::
+::
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[150px]
+---
+:::effect-appear-md
+::::block-cta-md
+---
+maxWidth: 800
+button.link: https://www.webo.agency/contact
+button.title: 'Get in touch'
+---
+
+#title
+#### Not sure what solution to choose?
+
+#description
+Find out which solution will be optimal for your business
+
+::::
 :::
 ::
 
