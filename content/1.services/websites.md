@@ -111,15 +111,15 @@ class: tablet:-top-64 right-0
 ::::block-header-md
 ---
 center: true
-maxWidth: 845
+maxWidth: 480
 class: mb-20
 ---
 
 #subtitle
-*2/* Technologies
+*2/* Dedicated solutions for websites
 
 #title
-### We specialize in *websites*
+### We create websites *on platforms*
 ::::
 :::
 
@@ -128,44 +128,49 @@ class: mb-20
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress.svg'
-link: ''
-stylesCustom: false
-isSmallTile: true
-noDescription: true
+link: 'https://www.webo.agency/contact'
 ---
 #title
 ##### Wordpress
+
+#description
+The most popular and easiest to use content management system, perfect for company websites, small portals and landing pages.
+
+#readMoreText
+Read more
 
 ::::
 
 ::::offer-tile-md
 --- 
 icon: '/img/icons/drupal.svg'
-link: ''
-stylesCustom: false
+link: 'https://www.webo.agency/contact'
 delay: 1
-isSmallTile: true
-noDescription: true
 ---
 #title
 ##### Drupal
 
+#description
+A flexible and incredibly scalable content management system that can be used to successfully create extensive corporate websites, advanced websites and institutional websites.
 
+#readMoreText
+Read more
 ::::
 
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress-headles.svg'
-link: ''
-stylesCustom: false
+link: 'https://www.webo.agency/contact'
 delay: 2
-isSmallTile: true
-noDescription: true
 ---
 #title
 ##### Wordpress + Headless
 
+#description
+Traditional Wordpress combined with new technology = ultra-fast page loading, highest security, multi-channel and unlimited scaling.
 
+#readMoreText
+Read more
 ::::
 :::
 ::
