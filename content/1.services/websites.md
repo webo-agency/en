@@ -242,7 +242,7 @@ We don't use templates or ready-made solutions. We implement websites from scrat
 
 :::block-columns-5-7-md
 ---
-class: mb-10 tablet:mb-20 pb-20 tablet:pb-[100px] border-b-2 border-gray-light
+class: mb-10 tablet:mb-20
 ---
 
 #left
@@ -342,122 +342,84 @@ The goal of doing business is to grow. We focus on long-term benefits by impleme
 :::::
 ::::
 :::
-
-:::block-header-md
----
-class: mb-20 [&_h4]:!text-xl tablet:[&_h4]:!text-2xl
----
-
-#title
-#### What do we absolutely have in mind?
-
-:::
-
-:::block-icons-md
----
-class: mb-10
----
-::::icon-tile-md
----
-iconUrl: '/img/icons/mobile.png'
-iconInline: true
-line: false
-delay: 0
----
-
-#title
-##### Refining the site on mobile devices
-
-#description
-Responsiveness is a must-have, and we prioritize it - the Mobile-First approach allows us to ensure the best performance on smartphones and more.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/search.png'
-iconInline: true
-line: false
-delay: 1
----
-
-#title
-##### Optimization and SEO friendliness
-
-#description
-Adapting the website for search engines is a necessity; we equip each of our websites with the necessary features and optimize code and performance in accordance with SEO requirements.
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/design-proto.svg'
-iconInline: true
-line: false
-delay: 2
----
-
-#title
-##### Consistency with the company's visual identity
-
-#description
-In addition to taking care of technical and UX aspects, the website must harmonize with all the visual elements of your company. Only in this way will it perform its job at 100%.
-
-::::
-:::
 ::
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
 ---
 
-::::block-background-md
----
-class: overflow-hidden tablet:overflow-visible
----
-
-:::::block-columns-1-1-md
----
-class: mx-default
----
-
-#left
-::::::effect-appear-md
+:::effect-appear-md
 ---
 class: relative z-20
 ---
-:::::::block-header-md
+
+::::block-header-md
 ---
-maxWidth: 690
-class: mb-10
+maxWidth: 590
+class: mb-10 tablet:mb-20
+textWhite: true
+center: true
 ---
 
 #subtitle
-*4/* Drupal & Wordpress Websites
+*4/* -
 
 #title
-### We use the best *technologies*
+### Why does a high-quality website *pay off?*
 
-#description
-We create websites using only proven solutions such as **Drupal and Wordpress CMS**, combining them with modern technologies and tools to ensure **reliable performance for years.**
+::::
+:::::block-list-ul-md
+---
+class: mb-10 tablet:mb-20 flex flex-wrap justify-center gap-5 tablet:[&>li]:w-[calc(50%_-_10px)] desktop:[&>li]:w-[calc(33.3333%_-_14px)]
+---
 
-:::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/rocket.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### 30% faster page loading
 
 ::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/upscaling.svg'
+center: true
+iconDecorated: true
+---
 
-#right
-::::::effect-appear-md
+#title
+#### 50% lower expansion cost
+
+::::::
+::::::tile-dark-icon-md
 ---
-class: h-full relative z-10
+iconUrl: '/img/icons/stability.svg'
+center: true
+iconDecorated: true
 ---
-:::::::img-decorated-md
----
-imgUrl: '/img/content-images/websites-tech.png'
-decoration: false
-class: phone-wide:!w-3/4 tablet:!w-full tablet:!pl-10 desktop:!pl-20 !w-full tablet:h-full tablet:flex items-center
----
-:::::::
+
+#title
+#### Stable operation even for many years
+
 ::::::
 :::::
+:::
+
+#full
+:::effect-appear-md
+::::prose-figure
+---
+src: '/img/content-images/strony-internetowe/section4.png'
+rounded: false
+---
+
 ::::
+:::
 ::
 
 
