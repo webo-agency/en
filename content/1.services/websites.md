@@ -229,121 +229,121 @@ class: -z-10
 ::::block-header-md
 ---
 center: true
-maxWidth: 845
+maxWidth: 540
 class: mb-20
 ---
 
 #subtitle
-*3/* We ensure the highest standards
+*3/* The highest website standards?
 
 #title
-### Code quality, automation, security, and excellent UX.
-
-#description
-We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies along with clear technological processes. This ensures the highest quality, performance, and security. From the UX/UI design of the website to backend/frontend development and post-launch support, you'll create with us:
+### When creating websites, we focus on
 
 ::::
 :::
 
-:::block-columns-5-7-md
+:::block-columns-1-1-md
 ---
-class: mb-10 tablet:mb-20
+class: mb-10 tablet:mb-20 pb-20 tablet:pb-[100px] border-b-2 border-gray-light
 ---
 
 #left
 
 ::::effect-appear-md
+:::::block-list-ul-md
 ---
-class: relative z-10 overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
----
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/websites-mockups.png'
 decoration: false
-class: tablet:!pr-0 -ml-2.5 phone:!mb-0 phone-wide:mx-auto phone:w-full tablet:!w-[98%]
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/doc_bg.svg'
+iconBig: true
+animated: false
 ---
 
+#title
+#### Compliance with technical documentation
+
+#description
+We always rely on the technical documentation of the solutions we use. Thanks to this, we ensure the correct operation of the implemented functions and the speed of the website, without unnecessary code.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/uxui_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Tailor-made website design
+
+
+#description
+In interface design, your requirements and user needs are crucial to us. We design elements such as information architecture, website prototypes, and a brand-aligned design to ensure a user-friendly and eye-pleasing website.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/scaling_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Scalability which is preparing for growth.
+
+#description
+The goal of running a business is its development. We prioritize long-term solutions by implementing, among other things modern architecture and a system designed for further expansion.
+::::::
 :::::
 ::::
 
+
 #right
-
-::::block-list-ul-md
+::::effect-appear-md
+:::::block-list-ul-md
+::::::list-item-ul-active-md
 ---
-class: tablet:!mt-12
-decoration: false
----
-:::::list-item-ul-active-md
----
-iconUrl: '/img/icons/secure_bg.png'
+iconUrl: '/img/icons/code_bg.svg'
 iconBig: true
 animated: false
 ---
 
 #title
-#### Accessibility and High Data Security
+#### Programming websites from scratch.
 
 #description
-Our responsibility is to provide and maintain a stable website that is resistant to unauthorized external factors and attack vectors. Data security is fundamental.
+Webo is a team of real-life programmers, we do not use poor-quality ready-made products. We program websites from scratch, ensuring high quality, speed and efficiency.
 
-:::::
-:::::list-item-ul-active-md
+::::::
+::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/code_bg.png'
+iconUrl: '/img/icons/weight_bg.svg'
 iconBig: true
 animated: false
 ---
 
 #title
-#### High code quality and website performance
+#### Stable website operation over the years.
 
 #description
-We only use necessary features and modules, ensure high code quality, and leverage new technological solutions to maximize website speed and performance.
+Our task is to provide a stable website. This is an investment that is intended to ensure that you achieve your business goals without worrying about the performance or availability of the website for potential customers.
 
-
-:::::
-:::::list-item-ul-active-md
+::::::
+::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/uxui_bg.png'
+iconUrl: '/img/icons/tests_bg.svg'
 iconBig: true
 animated: false
 ---
 
 #title
-#### Well-designed interface
+#### Detailed testing before publication
 
 #description
-We base every project on client requirements and user needs. We design UX mockups and a unique UI design, ensuring an easy-to-use and visually appealing website.
-
-
-:::::
-:::::list-item-ul-active-md
----
-iconUrl: '/img/icons/sync_bg.png'
-iconBig: true
-animated: false
----
-
-#title
-#### CI/CD Automation
-
-#description
-Implementing CD solutions based on the GitHub platform and CI automation brings long-term benefits, including process optimization, enhanced transparency, and reduced website maintenance costs.
-
-:::::
-:::::list-item-ul-active-md
----
-iconUrl: '/img/icons/scaling_bg.png'
-iconBig: true
-animated: false
----
-
-#title
-#### Scalability / Growth preparation
-
-#description
-The goal of doing business is to grow. We focus on long-term benefits by implementing, such as modern architecture and a system suitable for further expansion.
-
+We carry out detailed quality and functioning checks of the website. We perform tests on various devices and screen resolutions to make sure everything works properly before publication.
+::::::
 :::::
 ::::
 :::
