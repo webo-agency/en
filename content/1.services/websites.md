@@ -367,9 +367,6 @@ textWhite: true
 center: true
 ---
 
-#subtitle
-*4/* -
-
 #title
 ### Why does a high-quality website *pay off?*
 
