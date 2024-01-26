@@ -386,6 +386,9 @@ iconDecorated: true
 #title
 #### 30% faster page loading
 
+#description
+Which directly affects positioning in Google results, as well as user experience - the bounce rate increases by 90% when the page loads in more than 3 seconds
+
 ::::::
 ::::::tile-dark-icon-md
 ---
@@ -397,6 +400,9 @@ iconDecorated: true
 #title
 #### 50% lower expansion cost
 
+#description
+Good-quality code and compliance with the documentation ensure that further expansion will not cause complications and will shorten the time the developer needs to implement new subpages or functions.
+
 ::::::
 ::::::tile-dark-icon-md
 ---
@@ -407,6 +413,9 @@ iconDecorated: true
 
 #title
 #### Stable operation even for many years
+
+#description
+Qualitative implementation means certainty of the website's operation, among others: no performance issues or errors blocking opening and maximizing data security.
 
 ::::::
 :::::
