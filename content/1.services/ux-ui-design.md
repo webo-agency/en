@@ -106,7 +106,7 @@ maxWidth: 640
 *2/* Designing websites and e-commerce
 
 #title
-## What can we *design* for you?
+### What can we <br> *design* for you?
 
 #description
 We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
