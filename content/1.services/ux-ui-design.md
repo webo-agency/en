@@ -41,7 +41,7 @@ svgUrl2: '/img/svg-arc.svg'
 
 ::page-section-md
 ---
-classes: pt-[50px] tablet:pt-[100px] desktop:pt-[150px] mb-[50px] tablet:mb-[100px] overflow-hidden
+classes: pt-20 mb-5 tablet:mb-20 overflow-hidden
 ---
 :::block-columns-1-1-md
 ---
@@ -80,9 +80,9 @@ class: relative z-10
 ---
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/uxui-mockup.png'
+imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.png'
 decoration: false
-class: tablet:!pl-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 tablet:-my-40 !w-auto
+class: tablet:!pl-0 !mb-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 desktop:!-mr-56 tablet:!-mt-40 !w-auto
 ---
 :::::
 ::::
@@ -96,14 +96,126 @@ classes: mb-10 tablet:mb-20
 ---
 
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
-maxWidth: 940
-class: mb-20
+class: mb-10 tablet:mb-20 [&_.description]:!text-base
+maxWidth: 640
 ---
 
 #subtitle
-*2/* Why is UX important?
+*2/* Designing websites and e-commerce
+
+#title
+## What can we *design* for you?
+
+#description
+We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
+
+::::
+:::
+
+:::block-offer-tiles-md
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-site.svg'
+link: 'https://www.webo.agency/services/websites'
+---
+#title
+##### Websites and landing pages
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-store.svg'
+link: 'https://www.webo.agency/services/e-commerce'
+delay: 1
+---
+#title
+##### E-commerce and web portals
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+link: ''
+delay: 2
+---
+#title
+##### Web applications and configurators 
+ 
+::::
+:::
+
+:::block-bg-map-md
+---
+class: -z-10
+---
+:::
+::
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+:::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+:::
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
+
+::::block-cta-md
+---
+maxWidth: 745
+button.link: https://www.webo.agency/kontakt
+button.title: 'Get in touch'
+button.isWide: true
+class: tablet:mb-36 [&_.description]:desktop:!text-lg
+---
+
+#title
+#### Are you looking for an experienced *UX/UI design team?*
+
+#description
+Contact us and take advantage of a free consultation during which we will discuss your project.
+
+::::
+:::
+::
+
+
+::page-section-md
+---
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+---
+
+
+:::effect-appear-md
+---
+class: relative z-20
+---
+
+::::block-header-md
+---
+maxWidth: 940
+class: mb-10 tablet:mb-20 [&_.title]:!max-w-[500px]
+textWhite: true
+center: true
+---
+
+#subtitle
+*3/* Why is UX important?
 
 #title
 ### What are the benefits of *UX/UI design?*
@@ -112,16 +224,16 @@ class: mb-20
 The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
 
 ::::
-:::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+:::::block-list-ul-md
 ---
-iconUrl: '/img/icons/person-outline.png'
-iconInline: true
+class: mb-10 tablet:mb-20 flex flex-wrap justify-center gap-5 tablet:[&>li]:w-[calc(50%_-_10px)] desktop:[&>li]:w-[calc(33.3333%_-_14px)]
+---
+
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/user.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -130,35 +242,26 @@ iconInline: true
 #description
 among others thanks to the refined information architecture and visual layer users will be inclined to come back to your website and stay longer
 
-:::::::
 ::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/stack.png'
-iconInline: true
+iconUrl: '/img/icons/target.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
-#### Improve the brand image and standing out from the competition
+#### Achieving business goals
 
 #description
-building an attractive appearance based on existing visual identification will make your website remembered for longer and associated only with your company
+regardless of whether you sell products or run a website, a properly designed interface will help you achieve the goals you set for your website.
 
-:::::::
 ::::::
-:::::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/coin.png'
-iconInline: true
+iconUrl: '/img/icons/coin.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -166,15 +269,13 @@ iconInline: true
 
 #description
 thanks to intuitive handling and appropriate navigation paths, user can easily finds the information he needs and you increase the chances of selling your product or service
-:::::::
-::::::
 
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/piggy-bank.png'
-iconInline: true
+iconUrl: '/img/icons/piggy-bank.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -183,105 +284,29 @@ iconInline: true
 #description
 extensive knowledge of technology allows you to design the interface taking into account its limitations, while maintaining the functionality and ease of use of the website
 
-:::::::
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/layout.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Improving the brand image
+
+#description
+building an attractive appearance based on existing visual identification will make your website remembered for longer and associated only with your company
+
 ::::::
 :::::
-:::block-bg-map-md
----
-class: -z-10
----
 :::
-::
 
-
-::page-section-md
----
-innerContainerClasses: bg-gray-light p-5 tablet:px-10 tablet:pt-10 desktop:px-[120px] desktop:pt-[100px] desktop:pb-[55px]
----
-:::effect-appear-md
-::::block-header-md
----
-maxWidth: 810
-class: mb-10
----
-
-#subtitle
-*3/* Designing websites and e-commerce
-
-#title
-### What can we  <br> *design* for you?
-
-#description
-:::::prose-p3
----
-class: px-1 tablet:px-5 desktop:px-10
----
-We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
-:::::
-::::
-:::
-:::block-offer-tiles-md
----
-class: desktop:[&_.offer-tile]:!basis-1/3
----
-::::offer-tile-md
----
-icon: '/img/icons/site.svg'
-iconBg: true
-link: ''
-stylesMinimal: true
-delay: 0
----
-#title
-##### Websites <br> and landing pages
-
-#description
-Modern websites, created to accomplish specific assumptions of companies and institutions. Designed for users and achieving business goals in mind.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/store.svg'
-link: ''
-iconBg: true
-stylesMinimal: true
-delay: 1
----
-#title
-##### E-commerce <br> and web portals
-
-#description
-Online stores with a smooth sales process and clear websites that focus users' attention
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/apps.svg'
-iconBg: true
-link: ''
-stylesMinimal: true
-delay: 2
----
-#title
-##### Web applications <br> and configurators 
-
-#description
-Dedicated to special needs of companies, simple to manage and streamline specific business processes
-
-::::
-:::
-::
-
-
-::page-section-md
----
-classes: mb-10 tablet:mb-20
-innerContainerClasses: bg-gray-light rounded-b-[5px] overflow-hidden
----
+#full
 :::effect-appear-md
 ::::prose-figure
 ---
-src: /img/content-images/uxui-consultation.png
+src: '/img/content-images/projektowanie-uxui/section3.png'
 rounded: false
 ---
 ::::
@@ -452,9 +477,7 @@ class: desktop:[&_.offer-tile]:!basis-1/3
 ::::offer-tile-md
 ---
 icon: '/img/icons/destination.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 0
 ---
 #title
@@ -468,8 +491,6 @@ Defines the emotions experienced by users while interacting with the interface. 
 ---
 icon: '/img/icons/structure.svg'
 link: ''
-iconBg: true
-stylesMinimal: true
 delay: 1
 ---
 #title
@@ -482,9 +503,7 @@ Information architecture is responsible for organizing and dividing the content 
 ::::offer-tile-md
 ---
 icon: '/img/icons/strategy.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 2
 ---
 #title
@@ -497,9 +516,7 @@ This is a diagram defining the path that user must follow on the website in orde
 ::::offer-tile-md
 ---
 icon: '/img/icons/design-proto.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 3
 ---
 #title
@@ -512,9 +529,7 @@ It is a graphical presentation of the arrangement elements on a page, that allow
 ::::offer-tile-md
 ---
 icon: '/img/icons/puzzle.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 4
 ---
 #title
@@ -527,9 +542,7 @@ This is a collection of guidelines and standard elements (e.g. different version
 ::::offer-tile-md
 ---
 icon: '/img/icons/pen-curve.svg'
-iconBg: true
 link: ''
-stylesMinimal: true
 delay: 5
 ---
 #title

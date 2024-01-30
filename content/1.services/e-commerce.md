@@ -70,9 +70,6 @@ classes: mb-[100px] tablet:mb-[100px] overflow-hidden
 --- 
 icon: '/img/icons/presta.svg'
 link: ''
-stylesCustom: false
-isSmallTile: true
-noDescription: true
 ---
 #title
 ##### Prestashop
@@ -83,10 +80,7 @@ noDescription: true
 --- 
 icon: '/img/icons/drupal.svg'
 link: ''
-stylesCustom: false
 delay: 1
-isSmallTile: true
-noDescription: true
 ---
 #title
 ##### Drupal
@@ -98,10 +92,7 @@ noDescription: true
 --- 
 icon: '/img/icons/woo.svg'
 link: ''
-stylesCustom: false
 delay: 2
-isSmallTile: true
-noDescription: true
 ---
 #title
 ##### Woocommerce
