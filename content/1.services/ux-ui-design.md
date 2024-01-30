@@ -177,7 +177,7 @@ class: block desktop:hidden top-0 right-0
 
 ::::block-cta-md
 ---
-maxWidth: 745
+maxWidth: 700
 button.link: https://www.webo.agency/contact
 button.title: 'Get in touch'
 button.isWide: true
@@ -185,7 +185,7 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Are you looking for an experienced *UX/UI design team?*
+#### Are you looking for an experienced <br> *UX/UI design team?*
 
 #description
 Contact us and take advantage of a free consultation during which we will discuss your project.
@@ -421,136 +421,134 @@ After passing the design process, it’s time for implementation and product dev
 :::
 ::
 
-::page-section-md
----
-class: mb-[100px] tablet:mb-[150px]
----
-:::effect-appear-md
-::::block-cta-md
----
-vertical: true
-maxWidth: 700
-button.link: https://www.webo.agency/contact
-button.title: 'GET IN TOUCH'
-button.isWide: true
-class: desktop:[&_h4]:text-[30px] [&_.title]:!mb-5
----
-
-
-#title
-#### Are You looking for an experienced <br> UX/UI design team?
-
-#description
-:::::prose-p2
----
-class: text-lg desktop:text-xl
----
-Contact us and take advantage of a free consultation during which we will discuss your project.
-:::::
-::::
-:::
-::
 
 
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+classes: mb-10 tablet:mb-20
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
-class: mb-10 tablet:mb-[60]px
+center: true
+maxWidth: 540
+class: mb-20
 ---
 
 #subtitle
 *5/* Complex UX/UI design
 
 #title
-### What do we deliver as part of the <br> *UX/UI project?*
+### What do we deliver as part of the *UX/UI project?*
 
 ::::
 :::
-:::block-offer-tiles-md
+
+:::block-columns-1-1-md
 ---
-class: desktop:[&_.offer-tile]:!basis-1/3
+class: mb-10 tablet:mb-20
 ---
-::::offer-tile-md
+
+#left
+
+::::effect-appear-md
+:::::block-list-ul-md
 ---
-icon: '/img/icons/destination.svg'
-link: ''
-delay: 0
+decoration: false
 ---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/journey_bg.svg'
+iconBig: true
+animated: false
+---
+
 #title
-##### Customer Journey
+#### Customer Journey
 
 #description
 Defines the emotions experienced by users while interacting with the interface. Thanks to proper use, we can identify areas requiring improvement on our website, store or application.
-::::
 
-::::offer-tile-md
+::::::
+::::::list-item-ul-active-md
 ---
-icon: '/img/icons/structure.svg'
-link: ''
-delay: 1
+iconUrl: '/img/icons/path_bg.svg'
+iconBig: true
+animated: false
 ---
+
 #title
-##### Information architecture
+#### User journey map
 
-#description
-Information architecture is responsible for organizing and dividing the content on the website to facilitate the user's search for the necessary materials.
-::::
-
-::::offer-tile-md
----
-icon: '/img/icons/strategy.svg'
-link: ''
-delay: 2
----
-#title
-##### User journey map
 
 #description
 This is a diagram defining the path that user must follow on the website in order to complete a task e.g. purchasing a product in an online store
 
-::::
-::::offer-tile-md
+::::::
+::::::list-item-ul-active-md
 ---
-icon: '/img/icons/design-proto.svg'
-link: ''
-delay: 3
+iconUrl: '/img/icons/design-system_bg.svg'
+iconBig: true
+animated: false
 ---
-#title
-##### Functional UX prototype
 
-#description
-It is a graphical presentation of the arrangement elements on a page, that allows to determine the function, type of content (including graphics, heading, paragraph or button) and the way the user interacts with the page.
-
-::::
-::::offer-tile-md
----
-icon: '/img/icons/puzzle.svg'
-link: ''
-delay: 4
----
 #title
-##### Design system
+#### Design system
 
 #description
 This is a collection of guidelines and standard elements (e.g. different versions of buttons, windows and components) that can be used when designing new subpages in the future.
 
+::::::
+:::::
 ::::
-::::offer-tile-md
+
+
+#right
+::::effect-appear-md
+:::::block-list-ul-md
+::::::list-item-ul-active-md
 ---
-icon: '/img/icons/pen-curve.svg'
-link: ''
-delay: 5
+iconUrl: '/img/icons/architecture_bg.svg'
+iconBig: true
+animated: false
 ---
+
 #title
-##### UI design
+#### Information architecture
+
+#description
+Information architecture is responsible for organizing and dividing the content on the website to facilitate the user's search for the necessary materials.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/ui-design_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Functional UX prototype
+
+#description
+It is a graphical presentation of the arrangement elements on a page, that allows to determine the function, type of content (including graphics, heading, paragraph or button) and the way the user interacts with the page.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/project_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### UI design
 
 #description
 It is a visual presentation of the final appearance of the website, designed with emphasis on consistency with the company's visual identification, aesthetics and the nature of the business.
 
+::::::
+:::::
 ::::
 :::
 ::
@@ -580,10 +578,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* UX/UI projects we have done
+*6/* Our latest projects
 
 #title
-### Discover all the websites <br> we have *designed*
+### We are proud <br> of the *projects we have completed.*
 
 ::::
 :::
