@@ -36,7 +36,7 @@ svgUrl_br: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-20 overflow-hidden static-content
+classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden static-content
 ---
 :::block-columns-1-1-md
 ---
@@ -248,7 +248,7 @@ Contact us and take advantage of a free consultation during which we will discus
 
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-20 tablet:mb-[140px]
 ---
 
 
@@ -364,14 +364,223 @@ rounded: false
 
 
 
+::page-section-md
+---
+classes: mb-10 tablet:mb-20
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+maxWidth: 650
+class: mb-20
+---
+
+#subtitle
+*4/* Solid support for the website and online store
+
+#title
+### We provide the highest standards of *technical support*
+
+::::
+:::
+
+:::block-columns-1-1-md
+---
+class: mb-10 tablet:mb-20
+---
+
+#left
+
+::::effect-appear-md
+:::::block-list-ul-md
+---
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/ide_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### We work in a test environment
+
+#description
+Before publishing the changes, we prepare all work in a special development environment - thanks to this, we secure the continuity of operation of the production website (published on the Internet).
+
+::::::
+::::::list-item-ul-active-md
+---
+class: tablet:mb-8 desktop:mb-6
+iconUrl: '/img/icons/phone_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### You have direct contact with supervisor
+
+#description
+We assign an individual supervisor for your website, whom you can call or write to.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/timer_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### We estimate the time needed to complete tasks
+
+#description
+We give you full control - we start implementation when you give us the green light.
+
+::::::
+:::::
+::::
+
+
+#right
+::::effect-appear-md
+:::::block-list-ul-md
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/headset_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### We provide an individual HelpDesk system
+
+#description
+Thanks to it, you can add tasks, set priorities, view work status and communicate with the IT team - all at hand in one place.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/support_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### We constantly monitor the performance of the website
+
+#description
+After the end of each month, we send a report with a summary of work, including a list of tasks performed during the month, the level of implementation and a summary of hours worked/task.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/file_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Every month we report on hours worked
+
+#description
+After the end of each month, we send a report with a summary of work, including a list of tasks performed during the month, the level of implementation and a summary of hours worked/task.
+
+::::::
+:::::
+::::
+:::
+::
 
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px]
+classes: mb-20 tablet:mb-[100px] static-content
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+maxWidth: 550
+class: mb-20
+---
+
+#subtitle
+:::::prose-p3
+*5/* A tailored solution
+:::::
+
+#title
+### We offer convenient *methods of cooperation*
+
+::::
+:::
+
+:::block-columns-1-1-md
+
+#left
+::::card-icon-md
+---
+class: tablet:pr-2.5
+icon: '/img/icons/services-calendar.svg'
+---
+#title
+#### Subscription model
+
+#content
+:::::prose-p3
+---
+class: mb-5
+--- 
+In the subscription model, we establish a package of hours that you can use each month for the work of specialists (designers and programmers). The number of hours in the package is selected individually based on your needs and website development plans.
+:::::
+:::::prose-p4
+---
+class: mb-0
+--- 
+You don't have to worry about our availability, you can freely plan your work on the website. Regardless of our workload, a package of hours is guaranteed every month.
+:::::
+::::
+
+#right
+::::card-icon-md
+---
+class:  tablet:mt-[50px] tablet:pl-2.5
+icon: '/img/icons/services-worktime.svg'
+---
+#title
+#### Flexible model
+
+#content
+:::::prose-p3
+---
+class: mb-5
+--- 
+If you have smaller needs and do not plan constant monthly work on the website, we understand that. In the flexible model, we carry out work on an order basis, each time setting a completion date.
+:::::
+:::::prose-p4
+---
+class: tablet:mb-16 desktop:mb-20
+---
+You only pay when you need our support, you can count on our advice and support in the event of a failure, and at the same time you avoid fixed costs.
+:::::
+::::
+
+:::
+::
+
+
+::page-section-md
+---
+classes: mb-[100px] tablet:mb-[150px] static-content
 ---
 
 :::block-columns-1-1-md
+---
+class: items-center
+---
 
 #left
 
@@ -380,7 +589,7 @@ classes: mb-20 tablet:mb-[100px]
 ---
 imgUrl: '/img/content-images/support-altassian.png'
 decoration: false
-class: tablet:!pr-0 mb-5 phone-wide:mx-auto phone:w-full phone-wide:!w-[80%] tablet:!w-full
+class: tablet:!pr-5 mb-5 phone-wide:mx-auto phone:w-full phone-wide:!w-[80%] tablet:!w-full
 ---
 
 :::::
@@ -395,195 +604,27 @@ class: mb-10 tablet:mb-16
 ---
 
 #subtitle
-*4/* Clear rules of cooperation
+::::::prose-p-3
+*6/* Help desk
+::::::
 
 #title
-### Focus on business, leave the website to the *specialists*
+### HelpDesk, *your command system*
 
+#description
+::::::prose-p-3
+---
+class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+--- 
+Regardless of the cooperation model you choose, you will receive access to our reporting system using the JIRA tool.
+::::::
+::::::prose-p-4
+---
+class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+---
+Thanks to HelpDesk, you can add tasks, set priorities, view work status and communicate with the IT team - all at hand in one place. At the end of the month, we prepare a report on the work performed, which includes the time and estimation of each task.
+::::::
 :::::
-::::
-
-::::block-columns-1-1-md
-
-#left
-:::::process-tile-md
----
-number: 1
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### Number of hours in the package is determined individually.
-
-#description
-Based on the submitted list of tasks and estimated demand.
-
-:::::
-
-#right
-:::::process-tile-md
----
-number: 2
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### Contract and Audit to get started
-
-#description
-We start our cooperation with a contract defining our responsibilities and a technical audit of the site.
-
-:::::
-::::
-
-::::block-columns-1-1-md
-
-#left
-:::::process-tile-md
----
-number: 3
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### We jointly determine the scope of work
-
-#description
-At the beginning of each month, we determine the list of tasks to be completed - your priorities are the most important.
-
-:::::
-
-#right
-:::::process-tile-md
----
-number: 4
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### Individual site maintainer
-
-#description
-You are assigned an individual supervisor for your site, whom you can call or write.
-
-:::::
-::::
-
-::::block-columns-1-1-md
-
-#left
-:::::process-tile-md
----
-number: 5
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### Unused hours carry over to the next month.
-
-#description
-We ensure that the purchased hours will be fully worked.
-
-:::::
-
-#right
-:::::process-tile-md
----
-number: 6
-isWideType: true
-iconInline: false
-hoverEffect: false
----
-#title
-##### We estimate the time needed to complete tasks
-
-#description
-We give you full control - we start implementation when you give us the green light.
-
-:::::
-::::
-:::
-::
-
-
-::page-section-md
----
-id: realizacje
-class: mb-20 tablet:mb-[130px]
----
-:::effect-appear-md
-::::block-header-md
----
-class: mb-10 tablet:mb-20
----
-
-#subtitle
-*5/* FAQ
-
-#title
-### Additional information
-
-::::
-:::
-
-:::effect-appear-md
-::::block-expand-item-md
----
-number: 1
----
-
-#title
-##### What does a set package of hours give me?
-
-#description
-The package of hours, established as part of the permanent service, is a guarantee of the availability of the time needed for action. Regardless of our workload, every month we set a list of tasks we will perform, and when you have an urgent request you do not have to wait in line - we prioritize implementation.
-
-::::
-:::
-:::effect-appear-md
-::::block-expand-item-md
----
-number: 2
----
-
-#title
-##### What if I don't use all the hours in a month?
-
-#description
-If the full package is not used, the unworked hours will roll over to the next billing period, with a 3-month expiration date - We ensure that the paid hours will be fully worked.
-
-::::
-:::
-:::effect-appear-md
-::::block-expand-item-md
----
-number: 3
----
-
-#title
-##### What if the package of hours proves to be too much?
-
-#description
-If you do not use the full package of hours for a period of 3 months, you have the option to reduce the number of hours in the package.
-
-::::
-:::
-:::effect-appear-md
-::::block-expand-item-md
----
-number: 4
----
-
-#title
-##### Can I use the established hours to create other websites?
-
-#description
-It is possible to use the hours from the package for the purposes of further websites / web pages, providing services within the scope of the business.
 ::::
 :::
 ::
@@ -602,10 +643,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Our customers
+*7/* Our latest projects
 
 #title
-### We proudly *support*
+### We are proud <br> of the *projects we have completed.*
 
 ::::
 :::
@@ -634,7 +675,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Our clients
+*8/* Our clients
 
 #title
 ### Get to know the companies that *trusted us*
