@@ -30,10 +30,10 @@ We provide the tools you need to <u> sell online </u>.
 #right
 :::block-banner-decoration-md
 ---
-rotate1: 90
-rotate2: 90
-svgUrl1: '/img/svg-square.svg'
-svgUrl2: '/img/svg-arc.svg'
+rotate_bl: 90
+rotate_tr: 90
+svgUrl_bl: '/img/svg-square.svg'
+svgUrl_tr: '/img/svg-arc.svg'
 ---
 :::
 ::
