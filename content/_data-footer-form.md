@@ -87,21 +87,21 @@ required: true
 ---
 
 #placeholder
-Treść wiadomości
+Message content
 
 ::::
 
 #buttontext
-Wyślij wiadomość
+Send message
 
 #policytext
-Twoje dane przetważamy zgodnie z naszą <u>**polityką prywatności.**</u>
+We process your data in accordance with our <u>**privacy policy.**</u>
 
 #thanksMessage
-### Dziękujemy za wysłanie wiadomości
+### Thank you for sending your message
 
 #thanksDescription
-Na Twoją wiadomość odpowiemy w ciągu 24h
+We will respond to your message within 24 hours
 
 #side
 ::::svg-decor-big-md
