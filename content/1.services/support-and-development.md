@@ -28,157 +28,68 @@ If you need constant supervision over your website or store and you are also pla
 #right
 :::block-banner-decoration-md
 ---
-rotate1: 90
-rotate2: 90
-svgUrl1: '/img/svg-square.svg'
-svgUrl2: '/img/svg-arc.svg'
+svgUrl_tl: '/img/svg-arc.svg'
+svgUrl_br: '/img/svg-square.svg'
 ---
 :::
 ::
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[190px]
+classes: pt-20 mb-5 tablet:mb-20 overflow-hidden static-content
 ---
-:::effect-appear-md
-::::block-header-md
+:::block-columns-1-1-md
 ---
-center: true
+class: items-center
+---
+
+#left
+::::effect-appear-md
+---
+class: relative z-20
+---
+:::::block-header-md
+---
 maxWidth: 690
-class: mb-20 relative
 ---
 
 #subtitle
-*1/* Security, performance and stability
+::::::prose-p-3
+*1/* Guaranteed availability of specialists
+::::::
 
 #title
-### We support, monitor  <br> and develop to keep your site running *securely, efficiently and stably*
+### Focus on business, leave the website *to the specialists*
 
 #description
-This is a service aimed at companies and institutions that already have their own websites but need expansion with new features, modifications, supervision or support for the daily operation of the site.
-
-::::
-:::
-
-:::block-bg-map-md
+:::::prose-p-3
 ---
-class: -z-10 bottom-0
----
-:::
-
-
-:::block-offer-tiles-md
----
-class: mb-10 tablet:mb-20
-decoration: true
----
-::::offer-tile-md
+class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-icon: '/img/icons/sync.png'
-link: ''
----
-#title
-##### Update the system as part of maintenance
+Website administration is a time-consuming task - including updates, responding to failures and development work. What if you had an experienced team that would take over your responsibilities, advise on UX and IT and complete the work faster?
+:::::
 
+:::::prose-p-4
+---
+class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+---
+Technical support means, above all, saving the time you spend on running a website, but also security and freedom in planning development. In the event of a failure, you do not have to waste valuable time looking for help, and whenever the need for development arises, you have an experienced team of designers and programmers at hand who will be happy to implement your plans.
+:::::
 ::::
 
-::::offer-tile-md
---- 
-icon: '/img/icons/monitor.png'
-link: ''
-delay: 1
+#right
+::::effect-appear-md
 ---
-#title
-##### Improving security & countering threats
-
+class: relative z-10
+---
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/wsparcie-i-rozwoj/section1-right-img.png'
+decoration: false
+class: tablet:!pl-0 !mb-0 
+---
+:::::
 ::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/alert.png'
-link: ''
-delay: 2
----
-#title
-##### Site security and performance monitoring
-
-::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/performance.png'
-link: ''
-delay: 3
----
-#title
-##### Optimization of site speed and performance
-
-::::
-::::offer-tile-md
---- 
-icon: '/img/icons/optimalisation.png'
-link: ''
-delay: 4
----
-#title
-##### Testing and optimization of technological processes
-
-::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/scaling.png'
-link: ''
-delay: 5
----
-#title
-##### Design and programming of new pages
-
-::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/gear_code.png'
-link: ''
-delay: 6
----
-#title
-##### Implementation of specialized modules and functionalities
-
-::::
-
-::::offer-tile-md
---- 
-icon: '/img/icons/overlay.svg'
-link: ''
-delay: 7
----
-#title
-##### Integrate with external systems
-
-::::
-:::
-
-:::effect-appear-md
-::::block-header-md
----
-center: true
-maxWidth: 690
-class: mb-5
----
-
-#title
-##### Do you need more extensive support?
-
-::::
-
-::::button-main-md
----
-link: 'https://www.webo.agency/contact'
-title: 'Get in touch'
-class: 'mx-auto'
----
-
 :::
 ::
 
@@ -189,34 +100,188 @@ classes: mb-10 tablet:mb-20
 ---
 
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
-center: true
-maxWidth: 650
-class: mb-20
+class: mb-10 tablet:mb-20 
+maxWidth: 510
 ---
 
 #subtitle
-*2/* Support stron i sklepów www
+*2/* Comprehensive technical support for the website and store
+
+#title
+### What do we do as part of the *support service?*
+
+::::
+:::
+
+:::block-offer-tiles-md
+---
+tilesTight: true
+---
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-site.svg'
+---
+#title
+##### We take care of system and module updates
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-store.svg'
+delay: 1
+---
+#title
+##### We optimize the speed and efficiency of the website
+
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 2
+---
+#title
+##### We design and implement new subpages and functionalities
+ 
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 3
+---
+#title
+##### We optimize IT processes and implement automation
+ 
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 4
+---
+#title
+##### We program dedicated modules
+ 
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 5
+---
+#title
+##### We integrate the website with external systems
+ 
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 6
+---
+#title
+##### We monitor operation and respond to failures
+ 
+::::
+
+::::offer-tile-md
+--- 
+icon: '/img/icons/services-apps.svg'
+delay: 7
+---
+#title
+##### We increase safety
+ 
+::::
+:::
+
+:::block-bg-map-md
+---
+class: -z-10
+---
+:::
+::
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+:::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+:::
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
+
+::::block-cta-md
+---
+maxWidth: 650
+button.link: https://www.webo.agency/contact
+button.title: 'Get in touch'
+button.isWide: true
+class: tablet:mb-36 [&_.description]:desktop:!text-lg
+---
+
+#title
+#### Do you need more *extensive support?*
+
+#description
+Contact us and take advantage of a free consultation during which we will discuss your project.
+
+::::
+:::
+::
+
+
+::page-section-md
+---
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+---
+
+
+:::effect-appear-md
+---
+class: relative z-20
+---
+
+::::block-header-md
+---
+maxWidth: 600
+class: mb-10 tablet:mb-20 [&_.title]:!max-w-[500px]
+textWhite: true
+center: true
+---
+
+#subtitle
+*3/* Benefits of ongoing website support
 
 #title
 ### What do you gain by entrusting us with *website maintenance?*
 
 ::::
-:::
-
-
-
-
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+:::::block-list-ul-md
 ---
-iconUrl: '/img/icons/analytics.png'
-iconInline: true
+class: mb-10 tablet:mb-20 flex flex-wrap justify-center gap-5 tablet:[&>li]:w-[calc(50%_-_10px)] desktop:[&>li]:w-[calc(33.3333%_-_14px)]
+---
+
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/coder.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
@@ -225,164 +290,75 @@ iconInline: true
 #description
 You don't have to look for help from the IT team every time risking the quality of execution, you have a proven and experienced team always at hand.
 
-:::::::
 ::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::tile-dark-icon-md
 ---
-iconUrl: '/img/icons/dev.png'
-iconInline: true
+iconUrl: '/img/icons/siren.svg'
+center: true
+iconDecorated: true
 ---
 
 #title
-#### We work in a test environment
+#### Instant responses to failures
 
 #description
-Before publishing the changes, we prepare all the work in a special development environment - this protects the continuity of the production site (published on the Internet).
+In the event of a failure (especially in an online store), time is of the essence. With a permanent supervisor, the response is almost immediate - sometimes you won't even notice the failure.
 
-:::::::
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/calendar.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Planning and control over development
+
+#description
+Thanks to constant support, you can plan your work in advance. Do you need a landing page for a campaign? Or maybe you are considering a new functionality? You have a team that will complete the work on your schedule.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/shield.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Technological security
+
+#description
+Constant support = constant development. We run, among others: event monitoring, environment and security system updates, code optimization and many other activities that affect the security and performance of the website.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/chat.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Consulting on UX and IT issues
+
+#description
+If you need advice, you can hit us up. We will answer every question and advise you on matters related to your website and more - we provide knowledge.
+
 ::::::
 :::::
+:::
 
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+#full
+:::effect-appear-md
+::::prose-figure
 ---
-iconUrl: '/img/icons/helpdesk.png'
-iconInline: true
+src: '/img/content-images/wsparcie-i-rozwoj/section3.png'
+rounded: false
 ---
-
-#title
-#### We provide a personalized HelpDesk system
-
-#description
-Allowing you to add tasks, set priority, view the status of work and communicate with your IT team - all at your fingertips in one place.
-:::::::
-::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/info.png'
-iconInline: true
----
-
-#title
-#### We advise on all IT and UX issues
-
-#description
-If you need advice, you can hit us. We will answer any questions and advise you on issues related to your website and more - we are at your service with our knowledge.
-
-:::::::
-::::::
-:::::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/files.png'
-iconInline: true
----
-
-#title
-#### Report monthly on hours worked
-
-#description
-At the end of each month, we send a report with a summary of the work including a list of tasks performed during the month, the level of completion and a summary of hours/tasks worked.
-:::::::
-::::::
-
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/chatting.png'
-iconInline: true
----
-
-#title
-#### We propose changes and explain why they are needed
-
-#description
-You don't have to spend time checking if everything is ok with the site and if any action needs to be taken. We monitor the status of the site and let you know if any work needs to be done.
-
-:::::::
-::::::
-:::::
-::
-
-
-::page-section-md
----
-classes: mb-[100px] tablet:mb-[200px]
----
-
-::::block-background-md
----
-class: overflow-hidden tablet:overflow-visible
----
-
-:::::block-columns-1-1-md
----
-class: mx-default
----
-
-#left
-::::::effect-appear-md
----
-class: relative z-20
----
-:::::::block-header-md
----
-maxWidth: 690
-class: mb-10
----
-
-#subtitle
-*3/* Drupal, Wordpress, Prestashop support
-
-#title
-### We support websites and stores made on *popular platforms*.
-
-#description
-We specialize in the maintenance and programming of websites, pages and stores built on open source platforms: CMS Drupal, Wordpress CMS, Prestashop.
-
-:::::::
-
-:::::::img-decorated-md
----
-imgUrl: '/img/content-images/support-tech.png'
-decoration: false
-class: phone:!mb-8 tablet:!mb-0
----
-:::::::
-
-::::::
-
-#right
-::::::effect-appear-md
----
-class: h-full relative z-10
----
-:::::::img-decorated-md
----
-imgUrl: '/img/content-images/support-mockups.png'
-decoration: false
-class: phone-wide:!w-3/4 tablet:!w-full tablet:!pl-10 desktop:!pl-20 !w-full tablet:h-full tablet:flex items-center drop-shadow-2xl shadow-black
----
-:::::::
-::::::
-:::::
 ::::
+:::
 ::
 
 
