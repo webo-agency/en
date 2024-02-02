@@ -470,17 +470,17 @@ tabNames:
 ---
 ::::block-swiper-tabs-slide-md
 ---
-number: '01.'
-class:
+icon: '/img/icons/magnifier.svg'
 ---
-#left
 :::::block-header-md
 ---
-maxWidth: 900
+maxWidth: 700
 ---
 
+#title
+#### 01. Requirements analysis
+
 #description
-##### Requirements analysis
 This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
 
 **During this stage:**
@@ -492,45 +492,22 @@ This is the first step we need to take in order to create a website. During our 
 **After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
 
 :::::
-
-
-#right
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide01.png'
-class: shadow-2xl shadow-black/10
-decoration: false
----
-:::::
-
-
-#right_parallax
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide01_bg.png'
-class: -mt-10
-decoration: false
----
-
-
-:::::
 ::::
 
 
 ::::block-swiper-tabs-slide-md
 ---
-number: '02.'
-class:
+icon: '/img/icons/www-uxui.svg'
 ---
-#left
 :::::block-header-md
 ---
-maxWidth: 900
+maxWidth: 700
 ---
 
+#title
+#### 02. UX/UI Design
 
 #description
-##### UX/UI Design
 During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
 
 **During this stage:**
@@ -540,42 +517,21 @@ During this stage, we work on the appearance of the website. We start by analyzi
 **Once the final look is approved, the project is ready for the programming stage**
 
 :::::
-
-
-#right
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide02.png'
-decoration: false
----
-:::::
-
-
-#right_parallax
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide02_bg.png'
-decoration: false
----
-
-
-:::::
 ::::
 
 ::::block-swiper-tabs-slide-md
 ---
-number: '03.'
-class:
+icon: '/img/icons/www-code.svg'
 ---
-#left
 :::::block-header-md
 ---
-maxWidth: 900
+maxWidth: 700
 ---
 
+#title
+#### 03. Development
 
 #description
-##### Development
 After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
 
 **During this stage:**
@@ -586,44 +542,23 @@ After approving the interface design, we begin work on the comprehensive impleme
 **Once the programming stage is complete, we submit the website for QA.**
 
 :::::
-
-
-#right
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide03.png'
-decoration: false
----
-:::::
-
-
-#right_parallax
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide03_bg.png'
-decoration: false
----
-
-
-:::::
 ::::
 
 
 
 ::::block-swiper-tabs-slide-md
 ---
-number: '04.'
-class:
+icon: '/img/icons/www-tests.svg'
 ---
-#left
 :::::block-header-md
 ---
-maxWidth: 900
+maxWidth: 700
 ---
 
+#title
+#### 04. QA & Publishing
 
 #description
-##### QA & Publishing
 In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
 
 **During this stage:**
@@ -633,43 +568,22 @@ In this stage, we thoroughly check the performance of the website. We perform te
 **After receiving the green light for publication from the client, we will kick off!**
 
 :::::
-
-
-#right
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide04.png'
-decoration: false
----
-:::::
-
-
-#right_parallax
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide04_bg.png'
-decoration: false
----
-
-
-:::::
 ::::
 
 
 ::::block-swiper-tabs-slide-md
 ---
-number: '05.'
-class:
+icon: '/img/icons/www-support.svg'
 ---
-#left
 :::::block-header-md
 ---
-maxWidth: 900
+maxWidth: 700
 ---
 
+#title
+#### 05. Maintenance & growth
 
 #description
-##### Maintenance & growth
 Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
 
 **As part of our support service, we handle the following work:**
@@ -682,30 +596,7 @@ Publication of the site is often only the beginning, and during the use of the s
 **Once the scope of support is agreed we begin a long-term relationship**
 
 :::::
-
-
-#right
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide05.png'
-class: shadow-2xl shadow-black/10
-decoration: false
----
-:::::
-
-
-#right_parallax
-:::::img-decorated-md
----
-imgUrl: '/img/content-images/strony-internetowe/slide05_bg.png'
-class: -mt-10
-decoration: false
----
-
-
-:::::
 ::::
-
 
 :::
 ::

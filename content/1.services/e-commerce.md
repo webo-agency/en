@@ -456,205 +456,239 @@ rounded: false
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[150px]
+classes: mb-10 tablet:mb-20
 ---
-::::block-columns-1-1-md
+:::block-columns-5-7-md
 ---
-reverseMobile: true
+class: mb-10
 ---
-
 
 #left
-:::::block-list-ol-md
-::::::list-item-ol-active-md
+::::effect-appear-md
+:::::block-header-md
+---
+maxWidth: 480
+---
+
+#subtitle
+*5/* Stages of implementing an online store
 
 #title
-#### Collecting requirements
+### See how we create *online stores*
 
-#description
-This is the first step we need to take to create a e-commerce. We get to know all the requirements and your company, its customers, industry and competitors.
-
-::::::
-::::::list-item-ol-active-md
-
-#title
-#### Analysis of received information
-
-#description
-During this stage, we organize all the data received, analyze the needs and assumptions provided, and begin conceptual work.
-
-::::::
-::::::list-item-ol-active-md
-
-#title
-#### Interface UX/UI Design
-
-#description
-We lay out the user paths, design the information architecture and prototype, ending with the finished look of the site. We are in constant contact with you.
-
-::::::
-::::::list-item-ol-active-md
-
-#title
-#### Website implementation
-
-#description
-We install the designed solution in the selected technology. At each stage, we report on our progress. The result is a website ready for publication.
-
-::::::
-::::::list-item-ol-active-md
-
-#title
-#### Testing and publishing
-
-#description
-Before the site is published it is thoroughly tested. Ultimately, you approve if your new site is to start an adventure on the web.
-::::::
-::::::list-item-ol-active-md
-
-#title
-#### Maintenance & growth
-
-#description
-After the implementation work is completed, we do not leave your site without care. We continue to work on development and improvement, also responding to failures.
-::::::
 :::::
-
+::::
 
 #right
-::::::block-header-md
----
-class: sticky top-1/3 mb-20 tablet:mb-0
----
+::::effect-appear-md
+The number of factors that need to be taken into account when creating online stores is very large. All this to ensure that each element is well thought out and refined. This requires an analysis of assumptions and knowledge in the field of design and programming, and everything should be connected in a refined process that guarantees high quality of workmanship.
+::::
+:::
 
+#full
 
-#subtitle
-*4/* Refined process
+:::block-swiper-tabs-md
+---
+tabNames:
+    - Requirements analysis
+    - UX/UI Design
+    - Development
+    - QA & publishing
+    - Maintenance & growth
+---
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/magnifier.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
 
 #title
-## We approach e-commerce development *in stages*
+#### 01. Requirements analysis
 
 #description
-We make online stores according to a developed process, in close cooperation with the client - after all, it's your website!
+This is the first step we need to take to create an online store. During the first conversation, we thoroughly learn about your needs and project assumptions.
 
+**During this stage:**
+- We run video workshops
+- We select the best technology and solutions tailored to your project
+- We prepare a cost estimate, which includes a detailed implementation method and technology stack
+- We determine the project duration and delivery deadlines<br>
+
+**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
+
+:::::
+::::
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-uxui.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 02. UX/UI Design
+
+#description
+During this stage we work on the graphic design. We start our work by analyzing the habits of the target group (your customers) and the competition - all in order to create ideal shopping conditions for your customers. Then we develop mood boards (inspiration boards), designate user paths (user flow), design UX mockups, ending with the final appearance of your website.
+
+**During this stage:**
+- You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
+- You will accept individual stages of the implementation of your store's project - from mood boards to the final look.<br>
+
+**Once the final look is approved, the project is ready for the programming stage**
+
+:::::
+::::
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-code.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 03. Development
+
+#description
+After accepting the interface design, we start working on the comprehensive implementation of the online store in the selected technology. We work from configuring the technical infrastructure, through installing the required tools, to fully programming the website.
+
+**During this stage:**
+- You will have a live preview of the site in the development environment, which will give you full control over the project
+- We will configure the technical infrastructure needed for the efficient operation of the website
+- We will develop the website with all the required features and integrations e.g. GA4.<br>
+
+**Once the programming stage is complete, we submit the store for QA.**
+
+:::::
+::::
+
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-tests.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 04. QA & Publishing
+
+#description
+At this stage, we thoroughly check the operation of the online store. We perform tests on many devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that all functions work as expected. After passing internal tests, we submit the website for your verification - this is the moment to refine the project and submit any comments before publication.
+
+**During this stage:**
+- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the store on multiple devices
+- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
+
+**After receiving the green light for publication from the client, we will kick off!**
+
+:::::
+::::
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-support.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 05. Maintenance & growth
+
+#description
+The publication of the store is just the beginning, while using the store, ideas for new functionalities, tabs and improvements appear - at this point we cannot forget about necessary updates or monitoring performance, security and stability.
+
+**As part of our support service, we handle the following work:**
+- Update the environment (system) as part of maintenance
+- Monitoring the security and speed of the site
+- Design and development of the website
+- Designing and implementing new functionalities and dedicated modules
+- Responding to potential failures<br>
+
+**Once the scope of support is agreed we begin a long-term relationship**
+
+:::::
+::::
+
+:::
+::
+
+
+::page-section-md
+---
+classes: mb-20 tablet:mb-[100px] static-content
+---
+
+:::block-columns-1-1-md
+---
+class: items-center
+---
+
+#left
+
+::::effect-appear-md
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/sklepy-internetowe/section6.png'
+decoration: false
+class: tablet:!pr-5 mb-5 phone-wide:mx-auto phone:w-full phone-wide:!w-[80%] tablet:!w-full
+---
+
+:::::
+::::
+
+#right
+::::effect-appear-md
+:::::block-header-md
+---
+maxWidth: 700
+class: mb-10 tablet:mb-16 tablet:mt-10
+---
+
+#subtitle
+::::::prose-p-3
+*6/* Technical support and development
 ::::::
-::::
-::
-
-::page-section-md
----
-id: o-nas
-class: mb-[100px] tablet:mb-[200px]
----
-:::block-bg-map-md
-:::
-
-:::effect-appear-md
-::::block-header-md
----
-class: relative z-10 mb-10 tablet:mb-20
-maxWidth: 570
----
-
-#subtitle
-*5/* Business benefits
 
 #title
-### Why should you *work with us.*
+### What else do you <br> need to know?
 
 #description
-We are engaged in comprehensive implementation of digital solutions for business. If you want to run and grow your business online, we know how to do it!
-
-::::
-:::
-
-:::block-icons-md
+::::::prose-p-3
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+--- 
+Creating an online store is just the beginning, we are starting an adventure that is full of challenges. Marketing campaigns, sales optimization, development of new ideas, race with the competition. We will be happy to support you in this.
+::::::
+::::::prose-p-4
 ---
-::::icon-tile-md
+class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-iconUrl: '/img/icons/icn_chart.svg'
-delay: 0
----
-
-#title
-##### We achieve business goals
-
-#description
-As a technology partner, we analyze your business assumptions before starting the project - they are the most important.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/uxui.svg'
-delay: 1
----
-
-#title
-##### We care about user
-#description
-We base each project on the needs of users. As a result, we deliver intuitive websites, combined with a unique design.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/arrows.svg'
-delay: 2
----
-
-#title
-##### We focus on your growth
-
-#description
-The goal of running a business is to grow it. We create scalable solutions, ensuring that your website is ready for your success.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/gears.svg'
-delay: 3
----
-
-#title
-##### We automate processes
-
-#description
-We develop sites with automation, saving you time and money needed to manage the site.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/AZ.svg'
-delay: 4
----
-
-#title
-##### We work comprehensively
-
-#description
-From initial discussions, to site design and implementation, to development and support. We provide services at every stage of the product lifecycle.
-
-::::
-::::icon-tile-md
----
-iconUrl: '/img/icons/partnership.svg'
-delay: 5
----
-
-#title
-##### We build partnerships
-
-#description
-We care about your business. In cooperation, we focus on transparency and trust so that everyone is satisfied with the actions taken.
-
+For the above-mentioned tasks, it is worth having a trusted and experienced team of designers and programmers who are ready to act whenever the need arises.
+::::::
+:::::
 ::::
 :::
 ::
 
 ::page-section-md
 ---
-id: realizacje
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
@@ -664,10 +698,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Case study
+*7/* Case study
 
 #title
-### We are proud <br> of the *projects we have completed.*
+### We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -698,7 +732,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*-/* Our clients
+*8/* Our clients
 
 #title
 ### Get to know the companies that *trusted us*
