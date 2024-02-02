@@ -1,1 +1,0 @@
-import{r as o}from"./slot.EJ7Jp1Kn.js";import{k as r,b as s,c as t}from"./entry.zydDV-Eq.js";import"./node.uMQX-T_c.js";const c={},n={class:"block-bg"};function a(e,l){return s(),t("div",n,[o(e.$slots,"default")])}const i=r(c,[["render",a]]);export{i as default};
