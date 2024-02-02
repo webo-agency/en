@@ -13,101 +13,181 @@ hreflangs:
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 660
-descriptionWidth: 660
+headerWidth: 550
+descriptionWidth: 440
 isSecondSvg: true
 ---
 
 #subtitle
-*-/* E-commerce 
+*-/* E-commerce B2B and B2C
 
 #title
-## Powerful, intuitive and development-ready *online store*
+## Online stores
 
 #description
-We provide the tools you need to <u> sell online </u>.
+We design and implement great-looking and efficient online stores with a smooth purchasing process.
 
 #right
 :::block-banner-decoration-md
 ---
-rotate_bl: 90
-rotate_tr: 90
-svgUrl_bl: '/img/svg-square.svg'
-svgUrl_tr: '/img/svg-arc.svg'
+svgUrl_bl: '/img/svg-arc.svg'
+svgUrl_tr: '/img/svg-square.svg'
 ---
 :::
 ::
 
+
 ::page-section-md
-:::effect-appear-md
-::::block-header-md
 ---
-class: mb-10 tablet:mb-20
+classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden static-content
+---
+:::block-columns-1-1-md
+---
+class: items-center
+---
+
+#left
+::::effect-appear-md
+---
+class: relative z-20
+---
+:::::block-header-md
+---
+maxWidth: 690
 ---
 
 #subtitle
-*1/* We use proven solutions
+::::::prose-p-3
+*1/* We focus on functionality and efficiency
+::::::
 
 #title
-### What kind of stores do we *create?*
+### We deliver stably operating stores *prepared for development*
 
 #description
-We combine store performance with an intuitive shopping process. We create online stores on popular platforms, ready for further development and expansion.
+:::::prose-p-3
+---
+class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+--- 
+An online store is often the heart of a business. Imagine that your business is growing, more and more customers are visiting your online store and you need new functions. We think about such situations from the very beginning, from choosing the platform, through preparing the infrastructure, to **designing and programming the store** enabling development.
+:::::
 
+:::::prose-p-4
+---
+class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+---
+We also pay special attention to the stability of the system. We use modern tools to ensure continuity of sales - uninterrupted operation is the basis that directly affects profitability.
+:::::
+::::
+
+#right
+::::effect-appear-md
+---
+class: relative z-10
+---
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/sklepy-internetowe/section1-right-img.png'
+decoration: false
+class: tablet:!pl-0 !mb-0 
+---
+:::::
 ::::
 :::
 ::
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[100px] overflow-hidden 
+classes: mb-5 tablet:mb-20
 ---
 :::effect-appear-md
 
-::::block-offer-tiles-md
+:::svg-bg-dots
+---
+decoration: true
+class: tablet:-top-20 right-0
+---
+:::
 
-:::::offer-tile-md
+::::block-header-md
+---
+center: true
+maxWidth: 560
+class: mb-10 tablet:mb-[60px]
+---
+
+#subtitle
+*2/* Tailored solutions for online stores
+
+#title
+### On what platforms do we *create online stores?*
+::::
+:::
+
+:::block-offer-tiles-md
+
+::::offer-tile-md
 --- 
-icon: '/img/icons/presta.svg'
-link: ''
+icon: '/img/icons/wordpress.svg'
+link: 'https://www.webo.agency/contact'
 ---
 #title
 ##### Prestashop
 
-:::::
+#description
+One of the most popular e-commerce platforms with over 300 built-in functions and an extensive library of ready-made modules. A great solution for medium-sized online stores.
 
-:::::offer-tile-md
+#readMoreText
+Read more
+::::
+
+
+
+::::offer-tile-md
 --- 
 icon: '/img/icons/drupal.svg'
-link: ''
+link: 'https://www.webo.agency/contact'
 delay: 1
 ---
 #title
-##### Drupal
+##### DrupalCommerce
 
+#description
+Modern online stores created in one of the safest content management systems. Efficient systems with unlimited development possibilities and numerous integrations.
 
-:::::
+#readMoreText
+Read more
+::::
 
-:::::offer-tile-md
+::::offer-tile-md
 --- 
-icon: '/img/icons/woo.svg'
-link: ''
+icon: '/img/icons/wordpress-headles.svg'
+link: 'https://www.webo.agency/contact'
 delay: 2
 ---
 #title
-##### Woocommerce
+##### WooCommerce
 
+#description
+The most popular e-commerce solution in the world. An ideal solution for small and medium-sized online stores with standard sales functions.
 
-:::::
+#readMoreText
+Read more
 ::::
-
 :::
 ::
+
 
 ::page-section-md
 ---
 class: mb-[100px] tablet:mb-[150px]
 ---
+::::svg-decorated
+---
+decoration: true
+class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
+---
+::::
 :::effect-appear-md
 ::::block-cta-md
 ---
@@ -129,236 +209,246 @@ Find out which solution will be optimal for your business
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px]
+classes: mb-10 tablet:mb-14
 ---
-
-
-::::block-columns-5-7-md
-
-#left
 
 :::effect-appear-md
-:::::img-decorated-md
+::::block-header-md
 ---
-imgUrl: '/img/content-images/services-stats.png'
----
-
-:::::
-:::
-
-#right
-
-:::effect-appear-md
-:::::block-header-md
----
-maxWidth: 450
-descriptionFullWidth: true
-class: mb-10
+center: true
+maxWidth: 800
+class: mb-20
 ---
 
 #subtitle
-*2/* Our standards
+*3/* Implementation of online stores
 
 #title
-### Designed for you and *your customers*
+### What can we do for you?
 
 #description
-We design a user-centered design interface that follows the newest standards. We focus on a smooth and intuitive shopping process, ease of store management and meeting your business needs.
+Depending on your project requirements, we can deliver
 
-:::::
+::::
 :::
 
-
-
-
-:::::block-columns-1-1-md
+:::block-columns-1-1-md
 
 #left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+
+::::effect-appear-md
+:::::block-list-ul-md
 ---
-iconUrl: '/img/icons/translation.svg'
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/translation_bg.svg'
+iconBig: true
+animated: false
 ---
 
 #title
-#### Multi-language stores
+#### Multilingual and multi-currency stores
 
 #description
-We provide online stores that allow development with new sales markets, differing in currency, payment or shipping options.
+We provide online stores enabling the sale of products on foreign markets. Depending on your needs, stores may differ in language, payment and delivery methods, or product offering.
 
-:::::::
 ::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/overlay.svg'
+iconUrl: '/img/icons/uxui_bg.svg'
+iconBig: true
+animated: false
 ---
 
 #title
-#### System integrations
+#### A tailor-made store UX/UI design
+
 
 #description
-We integrate stores with payment gateways, shipping options, sales management systems, analytics and other features.
+When designing an online store, we focus on shopping comfort. Your customer will easily find the product they are interested in, go through a clear product card and an intuitive purchasing process - the easier it is, the better for the user and your business.
 
-:::::::
 ::::::
-:::::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
+::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/functionality.svg'
+iconUrl: '/img/icons/gear_code_bg.svg'
+iconBig: true
+animated: false
 ---
 
 #title
-#### Advanced features
+#### Advanced functionalities and modules
 
 #description
-New features to increase sales or automate processes. We even provide advanced solutions to support your business.
+If your store needs unusual functions that will help you stay ahead of the competition, you can also count on us. We are a team for special tasks and we are not afraid of challenges. We will be happy to design and implement dedicated solutions for you.
 
-:::::::
-::::::
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/block-gears.svg'
----
-
-#title
-#### Easy store management
-
-#description
-The admin panel is often the center of your business, with the right integrations and configuration it will be simple and intuitive.
-
-:::::::
-::::::
-:::::
-
-:::::block-columns-1-1-md
-
-#left
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/arrows.svg'
----
-
-#title
-#### Scalable solutions
-
-#description
-We look to the future. We use solutions and technologies that provide extensive opportunities to grow your business online.
-
-:::::::
-::::::
-
-
-#right
-::::::effect-appear-md
-:::::::icon-tile-static-md
----
-iconUrl: '/img/icons/uxui.svg'
----
-
-#title
-#### Intuitive interface
-
-#description
-With user-centered design, we create intuitive online stores with a seamless sales process.
-
-:::::::
 ::::::
 :::::
 ::::
+
+
+#right
+::::effect-appear-md
+:::::block-list-ul-md
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/integration_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Integration with external systems
+
+#description
+We implement, among others: warehouse management systems, payment and delivery gateways, marketing and customer service automation, accounting and ERP systems and many others.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/configurator_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Product configurators
+
+#description
+If your business offers the production of custom-made products, we can create a tool that will allow customers to personalize it themselves. Based on the selected features, they will receive an updated price and a 3D or 2D visualization of the product.
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/process_bg.svg'
+iconBig: true
+animated: false
+---
+
+#title
+#### Automation of technological processes
+
+#description
+Automatic generation of a sales report or VAT verification when users create an account are just some of the automations we can offer you to save the time needed to administer the store.
+
+::::::
+:::::
+::::
+:::
 ::
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
 ---
+
+
 :::effect-appear-md
-::::block-background-md
-:::::block-header-md
 ---
-center: true
+class: relative z-20
+---
+
+::::block-header-md
+---
 maxWidth: 690
-class: mb-10
+class: mb-10 tablet:mb-20
+textWhite: true
+center: true
 ---
 
 #subtitle
-*3/* Technologies
 
 #title
-### We use the best *solutions*
+### Why does high quality of an online store *pay off?*
+
+::::
+:::::block-list-ul-md
+---
+class: mb-10 flex flex-wrap justify-center gap-5 tablet:[&>li]:w-[calc(50%_-_10px)] desktop:[&>li]:w-[calc(33.3333%_-_14px)]
+---
+
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/rocket.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### 30% faster page loading
 
 #description
-We use open source solutions, thanks to which, after the project is completed, the software is completely handed over to the client.
+Which directly affects positioning and, above all, conversion. Google reports show that users abandon the store when it takes more than 4 seconds to load → abandon = they will not buy.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/promotion.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Lower marketing costs
+
+#description
+The Google algorithm promotes fast and high-quality online stores. The higher the store's rating, the cheaper the cost of clicking on the ad and the higher the position in the search results.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/stability.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Stable operation even for many years
+
+#description
+Quality implementation means certainty of operation, among others: without performance failures or errors blocking the opening of the store, which is especially important during marketing campaigns.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/support.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Lower cost of maintaining the store
+
+#description
+Support cost = number of permanent maintenance tasks per month. The better the store is made, the fewer unexpected events that require an IT team. You can focus on promoting and developing.
+
+::::::
+::::::tile-dark-icon-md
+---
+iconUrl: '/img/icons/secure.svg'
+center: true
+iconDecorated: true
+---
+
+#title
+#### Highest security
+
+#description
+The online store stores a lot of different data, e.g. customers' personal data or payment data. Thanks to modern tools, we minimize the risk of attacks and your customers can make purchases safely.
+
+::::::
 
 :::::
+:::
 
-
-
-:::::block-logos-circular-swiper-md
-::::::icon-logo-circular-md
+#full
+:::effect-appear-md
+::::prose-figure
 ---
-iconUrl: '/img/logos/presta.svg'
-title: Prestashop
+src: '/img/content-images/sklepy-internetowe/section4.png'
+rounded: false
 ---
-
-::::::
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/drupal.png'
-title: Drupal CMS
----
-
-::::::
-
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/vue.svg'
-title: Vue
----
-
-::::::
-
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/tailwind.svg'
-title: TailwindCSS
----
-
-::::::
-
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/symfony.png'
-title: Symfony
----
-
-::::::
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/js.svg'
-title: JavaScript
----
-
-::::::
-::::::icon-logo-circular-md
----
-iconUrl: '/img/logos/cloudflare.svg'
-title: Cloudflare
----
-
-::::::
-:::::
 ::::
 :::
 ::
