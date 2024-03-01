@@ -360,7 +360,7 @@ icon: '/img/icons/uxui-teamwork.svg'
 #### 01. Workshops
 
 #description
-Discovery phase, i.e. collecting requirements - in the first step, we invite you to an conversation during which we get to know all the requirements of the project, your company and users of the future website, store or application.
+Discovery phase, i.e. collecting requirements - in the first step, we invite you to an conversation during which we get to know all the requirements of the project, your company and users of the future website, store or application. 
 
 :::::
 ::::
