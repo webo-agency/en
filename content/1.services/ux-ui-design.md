@@ -338,17 +338,23 @@ Designing website interfaces may seem complicated, when you contract us to desig
 :::
 
 #full
-:::effect-appear-md
-::::block-process-md
+:::block-swiper-tabs-md
 ---
-decoration: false
-topNavigation: true
-disableSwiperBreakpoint: true
+slidesNarrow: true
+tabNames:
+    - Workshops
+    - Assumption analysis
+    - Prototype design
+    - Verification / testing
+    - Interface design
+    - Implementation and development
 ---
-:::::process-tile-arrow-md
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/teamwork.svg'
+icon: '/img/icons/uxui-teamwork.svg'
 ---
+:::::block-header-md
 
 #title
 #### 01. Workshops
@@ -357,10 +363,13 @@ icon: '/img/icons/teamwork.svg'
 Discovery phase, i.e. collecting requirements - in the first step, we invite you to an conversation during which we get to know all the requirements of the project, your company and users of the future website, store or application.
 
 :::::
-:::::process-tile-arrow-md
+::::
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/analysis.svg'
+icon: '/img/icons/uxui-analysis.svg'
 ---
+:::::block-header-md
 
 #title
 #### 02. Assumption analysis
@@ -369,10 +378,14 @@ icon: '/img/icons/analysis.svg'
 Analysis of the received information - during this stage we organize the received data. We analyze the provided requirements and ideas, then begin work designing user persona, site map and user flow, among other things.
 
 :::::
-:::::process-tile-arrow-md
+::::
+
+
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/prototyping.svg'
+icon: '/img/icons/uxui-prototyping.svg'
 ---
+:::::block-header-md
 
 #title
 #### 03. Prototype design
@@ -381,10 +394,12 @@ icon: '/img/icons/prototyping.svg'
 Creating a product concept - in the next step, we design the information architecture, sketch the first views, ending with UX mockups (prototype/site skeleton).
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/exam.svg'
+icon: '/img/icons/uxui-exam.svg'
 ---
+:::::block-header-md
 
 #title
 #### 04. Verification / testing
@@ -393,10 +408,12 @@ icon: '/img/icons/exam.svg'
 At this stage, we check if the prototype fulfills the goals and requirements and whether it fits the user’s needs, then we make fixes and verify it again.
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/design-proto.svg'
+icon: '/img/icons/uxui-design.svg'
 ---
+:::::block-header-md
 
 #title
 #### 05. Interface design
@@ -405,10 +422,12 @@ icon: '/img/icons/design-proto.svg'
 Based on the accepted prototype, we design the graphic design of the website/store relying on the visual branding and current trends.
 
 :::::
-:::::process-tile-arrow-md
+::::
+::::block-swiper-tabs-slide-md
 ---
-icon: '/img/icons/shuttle.svg'
+icon: '/img/icons/uxui-shuttle.svg'
 ---
+:::::block-header-md
 
 #title
 #### 06. Implementation and development
