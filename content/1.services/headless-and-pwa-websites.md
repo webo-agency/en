@@ -158,7 +158,7 @@ class: block desktop:hidden top-0 right-0
 ---
 maxWidth: 730
 button.link: https://www.webo.agency/contact
-button.title: 'Skontaktuj się z nami'
+button.title: 'GET IN TOUCH'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
@@ -478,7 +478,7 @@ class:  tablet:mt-[50px] tablet:pl-2.5
 icon: '/img/icons/wordpress.svg'
 ---
 #title
-#### Standardowa strona
+#### Standard website
 
 #content
 :::::block-list-ul-md
