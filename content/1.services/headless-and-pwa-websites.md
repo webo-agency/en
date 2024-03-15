@@ -53,7 +53,7 @@ class: items-center
 *1/* Using WordPress as a backend
 
 #title
-### Czym jest Headless CMS
+### What is Headless CMS
 
 #description
 ::::::prose-p-4
