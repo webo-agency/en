@@ -1,0 +1,1 @@
+import{l as t,b as s,c as o,D as c}from"./entry.e2Hrwscv.js";const n={},r={class:"text-green-main not-italic"};function a(e,l){return s(),o("em",r,[c(e.$slots,"default")])}const f=t(n,[["render",a]]);export{f as default};
