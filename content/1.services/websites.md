@@ -1,6 +1,9 @@
 ---
 name: Websites
 description: Beautifully designed websites, ensuring high performance, code quality, and security..
+meta:
+    title: Solid websites
+    description: We provide tailor-made and efficient websites, designing an individual look for you and programming from scratch so that it works stably for years.
 showInNav: true
 draft: false
 public: true

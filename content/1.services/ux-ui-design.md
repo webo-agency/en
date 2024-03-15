@@ -1,6 +1,9 @@
 ---
 name: UX/UI Design
 description: User-centered design of websites, e-commerce & apps.
+meta:
+    title: UX/UI design of websites and online stores
+    description: We design websites to be simple, quick and intuitive to use. We create unconventional design that matches the company's image, based on the best UX/UI practices.
 showInNav: true
 hreflangs:
     EN: '/services/ux-ui-design'
