@@ -1,6 +1,9 @@
 ---
 name: Support & development
 description: Technical support and development of your website / e-commerce.
+meta:
+    title: Technical support and development of websites and online stores
+    description: We provide comprehensive support for websites and online stores. From updates, through expansion and programming of dedicated modules and subpages, to security and speed monitoring and response in the event of failure.
 showInNav: true
 draft: false
 public: true

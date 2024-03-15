@@ -48,6 +48,6 @@ general:
         - type: behance
           link: https://www.behance.net/webo_agency
 head:
-    title: Webo - Websites and e-commerce in new technologies
-    description: Digital solutions such as websites or design built according to the agile process
+    title: Specialists in solid websites and e-commerce
+    description: We specialize in designing and coding high-quality, modern websites and online stores. No templates or ready-made products - from scratch, according to the documentation, as it should be.
 ---
