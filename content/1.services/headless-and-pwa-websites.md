@@ -356,6 +356,198 @@ hoverEffect: false
 
 ::page-section-md
 ---
+classes: mb-10 tablet:mb-20
+---
+:::effect-appear-md
+::::block-header-md
+---
+maxWidth: 845
+class: mb-20
+---
+
+#subtitle
+*5/* Stages of Website Development
+
+#title
+### We approach website development *in stages*
+
+#description
+Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
+
+::::
+:::
+
+#full
+
+:::block-swiper-tabs-md
+---
+tabNames:
+    - Requirements analysis
+    - UX/UI Design
+    - Development
+    - QA & publishing
+    - Maintenance & growth
+---
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/magnifier.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 01. Requirements analysis
+
+#description
+This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
+
+**During this stage:**
+- We run video workshops
+- We select the best technology and solutions tailored to your project
+- We prepare a cost estimate, which includes a detailed implementation method and technology stack
+- We determine the project duration and delivery deadlines<br>
+
+**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
+
+:::::
+::::
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-uxui.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 02. UX/UI Design
+
+#description
+During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
+
+**During this stage:**
+- You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
+- You will approve each stage of your website project - from moodboards to the final look.<br>
+
+**Once the final look is approved, the project is ready for the programming stage**
+
+:::::
+::::
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-code.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 03. Development
+
+#description
+After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
+
+**During this stage:**
+- You will have a live preview of the site in the development environment, which will give you full control over the project
+- We will configure the technical infrastructure needed for the efficient operation of the website
+- We will develop the website with all the required features and integrations e.g. GA4.<br>
+
+**Once the programming stage is complete, we submit the website for QA.**
+
+:::::
+::::
+
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-tests.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 04. QA & Publishing
+
+#description
+In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
+
+**During this stage:**
+- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the site on multiple devices
+- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
+
+**After receiving the green light for publication from the client, we will kick off!**
+
+:::::
+::::
+
+
+::::block-swiper-tabs-slide-md
+---
+icon: '/img/icons/www-support.svg'
+---
+:::::block-header-md
+---
+maxWidth: 700
+---
+
+#title
+#### 05. Maintenance & growth
+
+#description
+Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
+
+**As part of our support service, we handle the following work:**
+- Update the environment (system) as part of maintenance
+- Monitoring the security and speed of the site
+- Design and development of the website
+- Designing and implementing new functionalities and dedicated modules
+- Responding to potential failures<br>
+
+**Once the scope of support is agreed we begin a long-term relationship**
+
+:::::
+::::
+
+:::
+::
+
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+center: true
+class: mb-[50px] tablet:mb-[100px]
+---
+
+#subtitle
+*7/* Our clients
+
+#title
+### Get to know the companies that *trusted us*
+
+::::
+:::
+:::block-brands-before-footer-md
+:::
+::
+
+
+::page-section-md
+---
 id: realizacje
 class: mb-[80px] tablet:mb-[130px]
 ---
@@ -366,10 +558,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*5/* We have developed websites using a headless architecture
+*6/* Our website projects
 
 #title
-### Our Headless and PWA *Projects*
+### We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -377,9 +569,6 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-selectedSlugs:
-    - isw
-    - 5gmadetogether
 moreBtn.url: 'https://www.webo.agency/case-studies'
 moreBtn.linktitle: See all projects
 ---
@@ -400,7 +589,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Our clients
+*7/* Our clients
 
 #title
 ### Get to know the companies that *trusted us*
@@ -410,6 +599,17 @@ class: mb-[50px] tablet:mb-[100px]
 :::block-brands-before-footer-md
 :::
 ::
+::page-section-md
+---
+class: mb-20 tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-form-before-footer-md
+::::
+:::
+::
+
+
 ::page-section-md
 ---
 class: mb-20 tablet:mb-[130px]
