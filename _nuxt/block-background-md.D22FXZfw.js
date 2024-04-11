@@ -1,1 +1,0 @@
-import{l as t,b as o,c as s,D as r}from"./entry.CKSIvJ0M.js";const a={},c={class:"py-5 tablet:py-[60px] bg-gray-light rounded-[5px] w-full relative z-10"};function l(e,n,d,p,_,f){return o(),s("div",c,[r(e.$slots,"default")])}const u=t(a,[["render",l]]);export{u as default};
