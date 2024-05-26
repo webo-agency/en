@@ -1,6 +1,9 @@
 ---
 name: Wordpress websites
 description: Wordpress websites
+meta:
+    title: Solid Wordpress websites
+    description: We provide tailor-made and efficient Wordpress websites, designing an individual look for you and programming from scratch so that it works stably for years.
 showInNav: false
 draft: false
 public: true
