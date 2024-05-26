@@ -1,6 +1,6 @@
 ---
-name: Strony Wordpress
-description: Strony Wordpress
+name: Wordpress websites
+description: Wordpress websites
 showInNav: false
 draft: false
 public: true
@@ -19,10 +19,10 @@ isSecondSvg: true
 #subtitle
 
 #title
-## Stworzymy stronę internetową Wordpress dla Twojej firmy
+## We will create a WordPress website for your business
 
 #description
-Szukasz doświadczonego zespołu od Wordpressa, który zaprojektuje i zakoduje Twoją stronę od podstaw? Dobrze trafiłeś!
+Are you looking for an experienced Wordpress team that will design and code your website from scratch? You've come to the right place!
 
 #right
 :::block-banner-decoration-md
@@ -49,20 +49,20 @@ class: items-center
 :::::block-header-md
 
 #subtitle
-*1/*  Projektowanie i programowanie w Wordpress
+*1/* WordPress Design and Development
 
 #title
-### Tworzymy solidne strony oparte na Wordpressie
+### We create solid websites based on Wordpress
 
 #description
 ::::::prose-p-4
 ---
 class: mb-10
 ---
-Wordpress CMS jest najpopularniejszym systemem zarządzania treścią stron internetowych na świecie. Bardzo dobrze znamy ten system a na dodatek łączymy go z nowoczesnymi rozwiązaniami i technologiami.
+WordPress CMS is the most popular content management system for websites in the world. We know this system very well and combine it with modern solutions and technologies.
 ::::::
 ::::::prose-p-4
-Zaprojektujemy dla Ciebie indywidualny wygląd strony, pasujący do Twojej marki i odpowiadający wymaganiom oraz zakodujemy od podstaw - zgodnie z dokumentacją techniczą, bez słabych wydajnościowo szablonów czy gotowców.
+We will design a unique look for your website that fits your brand and meets your requirements. We will code it from scratch according to technical documentation, without using low-performance templates or pre-made solutions.
 ::::::
 
 :::::
@@ -93,10 +93,10 @@ center: true
 ---
 
 #subtitle
-*2/* Kompleksowa realizacja Wordpress
+*2/* Comprehensive WordPress Implementation
 
 #title
-### Co możesz nam zlecić?
+### What can you commission us to do?
 
 #description
 
@@ -109,7 +109,7 @@ center: true
 icon: '/img/icons/wordpress-icon1.svg'
 ---
 #title
-##### Stworzenie nowej strony Wordpress
+##### Creating a new Wordpress website
 
 #description
 
@@ -121,7 +121,7 @@ icon: '/img/icons/wordpress-icon2.svg'
 delay: 1
 ---
 #title
-##### Rozbudowa strony internetowej Wordpress
+##### Expansion of a WordPress website
 
 #description
 
@@ -133,7 +133,7 @@ icon: '/img/icons/wordpress-icon3.svg'
 delay: 2
 ---
 #title
-##### Programowanie wtyczek i pluginów Wordpress
+##### WordPress plugin and extension development
 
 #description
 
@@ -145,7 +145,7 @@ icon: '/img/icons/wordpress-icon4.svg'
 delay: 3
 ---
 #title
-##### Konfiguratory Wordpress i dedykowane rozwiązania
+##### Wordpress configurators and dedicated solutions
 
 #description
 
@@ -157,7 +157,7 @@ icon: '/img/icons/wordpress-icon5.svg'
 delay: 4
 ---
 #title
-##### Optymalizacja wydajności i naprawa błędów
+##### Performance optimization and bug fixing
 
 #description
 
@@ -169,7 +169,7 @@ icon: '/img/icons/wordpress-icon6.svg'
 delay: 5
 ---
 #title
-##### Wsparcie techniczne Wordpress
+##### WordPress technical support
 
 #description
 
@@ -213,10 +213,10 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Szukasz solidnego *zespołu od Wordpress?*
+#### Are you looking for an experienced *UX/UI design team?*
 
 #description
-Umów się na bezpłatną konsultację i opowiedz nam więcej o swoim projekcie
+Schedule a free consultation and tell us more about your project
 
 ::::
 :::
@@ -242,10 +242,10 @@ center: true
 ---
 
 #subtitle
-*3/* Dlaczego warto nam zaufać?
+*3/* Why should you trust us?
 
 #title
-### Jakie są nasze *strony Wordpress?*
+### What are our *WordPress websites* like?
 
 ::::
 
@@ -275,20 +275,20 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-##### Programowane od podstaw - bez użycia słabych wydajnościowo szablonów
+##### Programmed from scratch - without using low-performance templates
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-Gotowe szablony często zawierają dużo niepotrzebnego kodu i funkcji, które m.in. zmniejszają wydajność strony i ograniczają jej bezpieczeństwo. W Webo stawiamy na programowanie stron od podstaw, przemyślane funkcję i optymalny kod, co pozwala na osiągnięcie znacznie wyższych wyników wydajnościowych oraz wysoką elastyczność w modyfikacjach i rozbudowie. 
+Ready-made templates often contain a lot of unnecessary code and functions that can decrease website performance and compromise its security. At Webo, we focus on programming websites from scratch, with well-thought-out features and optimal code, allowing us to achieve significantly higher performance results and offering high flexibility in modifications and expansions.
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-Dodatkowo dzięki naszemu podejściu ograniczasz koszty utrzymania strony, zwiększasz jej bezpieczeństwo (w końcu śmieciowy kod szablonowy posiada wiele luk) oraz minimalizujesz ryzyko awarii, które nie są porządane szczególnie podczas trwających kampanii marketingowych.
+Additionally, thanks to our approach, you reduce website maintenance costs, increase its security (after all, junk template code has many vulnerabilities) and minimize the risk of failures, which are not desirable, especially during ongoing marketing campaigns.
 :::::::
 ::::::
 :::::
@@ -344,20 +344,20 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-##### Zaprojektowany indywidualnie dla Twojej firmy i jej potrzeb
+##### Individually designed for your company and its needs
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-Czy chciałbyś aby Twoja strona wyglądała jak 1000 innych stron w internecie? Lub aby nie spełniała potrzeb Twojego biznesu i oczekiwań klientów?  Jeśli odpowiedź to ,,nie” już wiesz dlaczego tak ważne jest aby projekt UX/UI strony internetowej był przygotowany indywidualnie dla Twojej firmy.
+Would you like your website to look like 1000 other websites on the Internet? Or that it does not meet the needs of your business and customer expectations? If the answer is "no," then you already know why it's so important for the UX/UI design of your website to be tailored individually to your company.
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-Odpowiednie przygotowany projekt strony przynosi szereg korzyści m.in. zwiększa zaangażowanie klientów, przyśpiesza proces podejmowania decyzji zakupowej, wzmacnia wizerunek marki w internecie i zmniejsza koszty prac programistycznych.
+A properly prepared website design brings several benefits, including increased customer engagement, faster decision-making process for purchases, strengthening brand image on the Internet, and reducing programming costs.
 :::::::
 ::::::
 :::::
@@ -386,20 +386,20 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-##### Stabilnie działające przez lata i przygotowanie do rozwoju
+##### Stable operation over the years and ready for growth
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-Strona internetowa jest inwestycją, która ma przynosić Twojej firmie korzyści a nie być kulą u nogi. Naszym zadaniem jest stworzenie strony stabilnie działającej przez lata, bez obaw o wydajność czy dostępność dla potencjalnych klientów.
+A website is an investment that should bring benefits to your company and not be a burden. Our task is to create a website that will work stably for years, without worrying about performance or availability for potential customers.
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-Wysokiej jakości kod w połączeniu z nowoczesnymi narzędziami i technologią daje także dużą elastyczność w dalszej rozbudowie i zmniejsza ryzyko komplikacji, dzięki czemu koszt rozwoju strony będzie znacznie mniejszy.
+High-quality code combined with modern tools and technology also provides great flexibility for further expansion and reduces the risk of complications, resulting in significantly lower development costs for the website.
 :::::::
 ::::::
 :::::
@@ -421,7 +421,7 @@ class: w-full
 ---
 class: text-[#FFF] text-3xl font-semibold !mb-10 pt-[60px] border-t-[1px] border-t-gray-dark
 ---
-Bezwzględnie stawiamy na:
+We absolutely prioritize:
 ::::
 ::::block-list-ul-md
 ---
@@ -436,7 +436,7 @@ class: desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Zgodność z dokumentacją techniczną Wordpress
+#### Compatibility with WordPress technical documentation
 
 #description
 
@@ -450,7 +450,7 @@ class: desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Wielokrotne testy przed publikacją
+#### Multiple tests before publication
 
 #description
 
@@ -464,7 +464,7 @@ class:  desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Łatwość obsługi i zarządzania treścią
+#### Ease of use and content management
 
 #description
 
@@ -478,30 +478,22 @@ class:  desktop:min-h-[270px] w-1/3
 ---
 classes: mb-10 tablet:mb-20
 ---
-:::block-columns-5-7-md
+:::effect-appear-md
+::::block-header-md
 ---
-class: mb-10
----
-
-#left
-::::effect-appear-md
-:::::block-header-md
----
-maxWidth: 480
+maxWidth: 845
+class: mb-20
 ---
 
 #subtitle
-*4/* Etapy realizacji strony Wordpress
+*4/* Stages of WordPress website development
 
 #title
-### Jak krok po kroku przebiega realizacja strony Wordpress?
+### How does the step-by-step process of WordPress website development proceed?
 
-:::::
-::::
+#description
+Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
 
-#right
-::::effect-appear-md
-Do stworzenia nowoczesnej strony internetowej potrzeba szerokiej wiedzy z zakresu technologii i projektowania nastawionego na użytkownika oraz wypracowanego procesu, który zapewnia realizację założeń bez obsuw czasowych i w ustalonym budżecie.
 ::::
 :::
 
@@ -510,11 +502,11 @@ Do stworzenia nowoczesnej strony internetowej potrzeba szerokiej wiedzy z zakres
 :::block-swiper-tabs-md
 ---
 tabNames:
-    - Analiza założeń
-    - Projektowanie
-    - Programowanie
-    - Testy i publikacja
-    - Wsparcie i rozwój
+    - Requirements analysis
+    - UX/UI Design
+    - Development
+    - QA & publishing
+    - Maintenance & growth
 ---
 ::::block-swiper-tabs-slide-md
 ---
@@ -526,18 +518,18 @@ maxWidth: 700
 ---
 
 #title
-#### 01. Analiza założeń
+#### 01. Requirements analysis
 
 #description
-Jest to pierwszy krok jaki musimy wykonać w celu realizacji strony internetowej. Podczas pierwszej rozmowy dokładnie poznajemy Twoje potrzeby oraz założenia projektu.
+This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
 
-**Podczas tego etapu:**
-- Przeprowadzamy videowarsztaty
-- Dobieramy najlepszą technologię i rozwiązania, optymalne dla Twojego projektu
-- Przygotowujemy kosztorys, który zawiera szczegółowy sposób realizacji oraz stack technologiczny
-- Określamy czas trwania projektu i terminy odbioru<br>
+**During this stage:**
+- We run video workshops
+- We select the best technology and solutions tailored to your project
+- We prepare a cost estimate, which includes a detailed implementation method and technology stack
+- We determine the project duration and delivery deadlines<br>
 
-**Po akceptacji kosztorysu, proponowanych rozwiązań i terminów, podpisujemy umowę o współpracy i przechodzimy do realizacji.**
+**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
 
 :::::
 ::::
@@ -553,16 +545,16 @@ maxWidth: 700
 ---
 
 #title
-#### 02. Projektowanie interfejsu UX/UI
+#### 02. UX/UI Design
 
 #description
-Podczas tego etapu pracujemy nad wyglądem strony www. Prace zaczynamy od przeanalizowania przyzwyczajeń grupy docelowej (Twoich klientów) oraz otoczenia rynkowego - wszystko po to aby użytkownicy z łatwością odnaleźli się na nowej stronie. Następnie  opracowujemy moodboardy (tablice inspiracji), wytyczamy ścieżki użytkownika (user flow), projektujemy makiety UX, kończąc na finalnym wyglądzie Twojej strony.
+During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
 
-**Podczas tego etapu:**
-- Będziesz mieć wgląd w każdy etap pracy projektowej i bezpośredni kontakt z doświadczonym projektantem UX/UI.
-- Będziesz akceptować poszczególne etapy realizacji projektu Twojej strony www - od moodboardów po finalny wygląd.<br>
+**During this stage:**
+- You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
+- You will approve each stage of your website project - from moodboards to the final look.<br>
 
-**Po akceptacji finalnego wyglądu, projekt jest gotowy do etapu programowania**
+**Once the final look is approved, the project is ready for the programming stage**
 
 :::::
 ::::
@@ -577,17 +569,17 @@ maxWidth: 700
 ---
 
 #title
-#### 03. Prace programistyczne
+#### 03. Development
 
 #description
-Po zaakceptowaniu projektu interfejsu, rozpoczynamy prace nad kompleksowym wdrożeniem strony internetowej w wybranej technologii. Działamy od konfiguracji infrastruktury technicznej, przez instalacje wymaganych narzędzi po zaprogramowanie strony.
+After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
 
-**Podczas tego etapu:**
-- Będziesz mieć stały podgląd strony w środowisku developerskim, który zapewni pełną kontrolę nad projektem
-- Skonfigurujemy infrastrukturę techniczną potrzebną do wydajnego działania strony internetowej
-- Zaprogramujemy stronę www wraz ze wszystkimi wymaganymi funkcjami i integracjami np. GA4.<br>
+**During this stage:**
+- You will have a live preview of the site in the development environment, which will give you full control over the project
+- We will configure the technical infrastructure needed for the efficient operation of the website
+- We will develop the website with all the required features and integrations e.g. GA4.<br>
 
-**Po zakończeniu etapu programowania, przekazujemy stronę www do testów.**
+**Once the programming stage is complete, we submit the website for QA.**
 
 :::::
 ::::
@@ -604,16 +596,16 @@ maxWidth: 700
 ---
 
 #title
-#### 04. Testy i publikacja
+#### 04. QA & Publishing
 
 #description
-W tym etapie gruntownie sprawdzamy działanie strony internetowej. Testy wykonujemy na wielu urządzeniach i rozdzielczościach ekranu (od najmniejszych smartfonów po wyświetlacze FHD), wszystko po to aby mieć pewność że wszystko działa jak należy. Po przejściu wewnętrznych testów, przekazujemy stronę do weryfikacji klientowi - to moment na dopracowanie projektu i zgłaszanie wszelkich uwag przed publikacją.
+In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
 
-**Podczas tego etapu:**
-- Sprawdzamy działanie każdej funkcji, wydajność strony, konfiguracje infrastruktury oraz wyświetlanie strony na wielu urządzeniach.
-- Przekazujemy stronę do weryfikacji klientowi, wykonujemy wszelkie poprawki aby przygotować stronę do publikacji.<br>
+**During this stage:**
+- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the site on multiple devices
+- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
 
-**Po otrzymaniu od klienta zielonego światła na publikację, startujemy!**
+**After receiving the green light for publication from the client, we will kick off!**
 
 :::::
 ::::
@@ -629,17 +621,19 @@ maxWidth: 700
 ---
 
 #title
-#### 05. Wsparcie i rozwój
+#### 05. Maintenance & growth
 
 #description
-Często publikacja strony to dopiero początek, a podczas użytkowania strony pojawiają sie pomysły na nowe funkcjonalności, zakładki czy ulepszenia - w tym miejscu nie możemy także zapomnieć o koniecznych aktualizacjach czy monitorowaniu wydajności, bezpieczeństwa czy stabilności działania.
+Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
 
-**W ramach usługi wsparcia zajmujemy się następującymi pracami:**
-- Aktualizacja środowiska (systemu) w ramach konserwacji
-- Monitorowanie bezpieczeństwa i szybkości strony
-- Projektowanie i rozbudowa strony
-- Projektowanie i wdrażanie nowych funkcjonalności i dedykowanych modułów
-- Reagowanie na ewentualne awarie<br>
+**As part of our support service, we handle the following work:**
+- Update the environment (system) as part of maintenance
+- Monitoring the security and speed of the site
+- Design and development of the website
+- Designing and implementing new functionalities and dedicated modules
+- Responding to potential failures<br>
+
+**Once the scope of support is agreed we begin a long-term relationship**
 
 :::::
 ::::
@@ -683,20 +677,20 @@ class: mb-10
 ---
 
 #subtitle
-*5/* Zalety Wordpress CMS
+*5/* Advantages of Wordpress CMS
 
 #title
-### Dlaczego warto wybrać Wordpress?
+### Why choose WordPress?
 
 #description
 ::::::prose-p-4
 ---
 class: mb-10
 ---
-Jest to system zarządzania treścią który oferuje ogromne możliwości. Dzięki jego elastyczności możemy stworzyć zarówno firmową stronę internetową, sklep e-commerce czy rozbudowany serwis informacyjny. Zaletą Wordpressa jest także jego skalowalność, bez problemu można wybrać ten system z założeniem dalszej (nawet znacznej) rozbudowy strony w przyszłości - konieczne jest jednak odpowiednie podejście i jakość wykonania.
+It is a content management system that offers enormous possibilities. Thanks to its flexibility, we can create a company website, an e-commerce store or an extensive information service. Another advantage of Wordpress is its scalability, you can easily choose this system with the assumption of further (even significant) expansion of the website in the future - however, an appropriate approach and quality of workmanship are necessary.
 ::::::
 ::::::prose-p-4
-Wordpress to na pewno systemem przyjazny dla SEO, dzięki liczym wbudowanym rozwiązaniom oraz rozszerzeniom, Twoja strona będzie osiągać lepsze wyniki w wyszukiwarce Google. Korzystanie z tego systemu CMS jest naprawde proste, a w razie trudności i problemów można liczyć na wsparcie licznej społeczności.
+Wordpress is definitely an SEO-friendly system, thanks to numerous built-in solutions and extensions, your website will achieve better results in the Google search engine. Using this CMS is really simple, and in case of any difficulties or problems, you can count on the support of a large community.
 ::::::
 :::::
 ::::
@@ -733,10 +727,10 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Potrzebujesz ekspertów od Wordpress którzy *zakodują Twoją stronę?*
+#### Do you need Wordpress experts to *code your website?*
 
 #description
-Jeśli posiadasz już projekt strony www ale szukasz specjalistów którzy ją zakodują (bez półśrodków) umów się na bezpłatną konsultację!
+If you already have a website design but are looking for specialists who will code it (without half-measures), make an appointment for a free consultation!
 
 ::::
 :::
@@ -754,22 +748,19 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Nasze ostatnie realizacje
+*6/* Our website projects
 
 #title
-### Jesteśmy dumni <br> z *wykonanych projektów*
+### We are proud of the projects *we've completed*
 
 ::::
 :::
 
 :::block-cases-md
 ---
-contentFolder: realizacje
-selectedSlugs:
-    - isw
-    - 5gmadetogether
-moreBtn.url: 'https://www.webo.agency/realizacje'
-moreBtn.linktitle: Zobacz wszystkie projekty
+contentFolder: case-studies
+moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.linktitle: See all projects
 ---
 
 :::
@@ -788,10 +779,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Nasi klienci
+*7/* Our clients
 
 #title
-### Poznaj firmy które *nam zaufały*
+### Get to know the companies that *trusted us*
 
 ::::
 :::
