@@ -1,0 +1,1 @@
+import{l as o,b as s,c,D as t}from"./jaJKsMWl.js";const a={name:"BlockIconsMdc"},n={class:"flex flex-wrap relative z-10"};function r(e,l,d,f,p,_){return s(),c("ul",n,[t(e.$slots,"default")])}const u=o(a,[["render",r]]);export{u as default};
