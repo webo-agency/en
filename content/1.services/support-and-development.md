@@ -39,7 +39,7 @@ svgUrl_br: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden static-content
+classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden
 ---
 :::block-columns-1-1-md
 ---
@@ -57,9 +57,7 @@ maxWidth: 690
 ---
 
 #subtitle
-::::::prose-p-3
 ### *1/* Guaranteed availability of specialists
-::::::
 
 #title
 ## Focus on business, leave the website *to the specialists*
@@ -500,7 +498,7 @@ After the end of each month, we send a report with a summary of work, including 
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px] static-content
+classes: mb-20 tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-header-md
@@ -511,9 +509,7 @@ class: mb-20
 ---
 
 #subtitle
-:::::prose-p3
 ### *5/* A tailored solution
-:::::
 
 #title
 ## We offer convenient *methods of cooperation*
@@ -577,7 +573,7 @@ You only pay when you need our support, you can count on our advice and support 
 
 ::page-section-md
 ---
-classes: mb-[100px] tablet:mb-[150px] static-content
+classes: mb-[100px] tablet:mb-[150px]
 ---
 
 :::block-columns-1-1-md
@@ -607,9 +603,7 @@ class: mb-10 tablet:mb-16
 ---
 
 #subtitle
-::::::prose-p-3
 ### *6/* Help desk
-::::::
 
 #title
 ## HelpDesk, *your command system*

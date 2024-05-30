@@ -193,7 +193,7 @@ center: true
 ---
 
 #title
-### Benefits of headless websites for your company
+## Benefits of headless websites for your company
 
 ::::
 :::::block-list-ul-md
