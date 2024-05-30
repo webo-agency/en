@@ -7,7 +7,7 @@ settings:
 dependencies:
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/9cf5a98eadb635f38f129a81d5d4b183e4bbc328(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.12)(vue@3.4.27)(webpack@5.91.0)
+    version: github.com/webo-agency/www/25f5a45451293b22c0d76b1c4f0e021ed7884aa9(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.12)(vue@3.4.27)(webpack@5.91.0)
   nuxt:
     specifier: ^3.9.0
     version: 3.9.0(vite@5.2.12)
@@ -11955,11 +11955,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/9cf5a98eadb635f38f129a81d5d4b183e4bbc328(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.12)(vue@3.4.27)(webpack@5.91.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/9cf5a98eadb635f38f129a81d5d4b183e4bbc328}
-    id: github.com/webo-agency/www/9cf5a98eadb635f38f129a81d5d4b183e4bbc328
+  github.com/webo-agency/www/25f5a45451293b22c0d76b1c4f0e021ed7884aa9(@nuxt/devtools@1.0.8)(@vue/compiler-core@3.4.27)(h3@1.11.1)(markdown-it@14.1.0)(postcss@8.4.38)(vite@5.2.12)(vue@3.4.27)(webpack@5.91.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/25f5a45451293b22c0d76b1c4f0e021ed7884aa9}
+    id: github.com/webo-agency/www/25f5a45451293b22c0d76b1c4f0e021ed7884aa9
     name: '@webo-agency/theme'
-    version: 3.7.33
+    version: 3.7.34
     requiresBuild: true
     dependencies:
       '@nuxt/content': 2.12.0(nuxt@3.9.0)(vue@3.4.27)
