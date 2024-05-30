@@ -484,10 +484,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*-/* Our clients
+### *-/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

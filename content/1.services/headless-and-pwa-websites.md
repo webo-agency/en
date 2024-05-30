@@ -20,7 +20,7 @@ isSecondSvg: true
 *-/* Nowa technologia stron www
 
 #title
-## Wordpress + Headless websites
+# Wordpress + Headless websites
 
 #description
 Combining the functionality and ease of editing of WordPress CMS with modern architecture, your website will gain rocket-powered engines.
@@ -50,10 +50,10 @@ class: items-center
 :::::block-header-md
 
 #subtitle
-*1/* Using WordPress as a backend
+### *1/* Using WordPress as a backend
 
 #title
-### What is Headless CMS
+## What is Headless CMS
 
 #description
 ::::::prose-p-4
@@ -115,10 +115,10 @@ class: mb-10
 ---
 
 #subtitle
-*2/* Headless WordPress CMS
+### *2/* Headless WordPress CMS
 
 #title
-### We create Headless <br> websites based on *WordPress CMS*
+## We create Headless <br> websites based on *WordPress CMS*
 
 #description
 ::::::prose-p-4
@@ -270,10 +270,10 @@ class: mb-20
 ---
 
 #subtitle
-*3/* Headless CMS why is it worth it?
+### *3/* Headless CMS why is it worth it?
 
 #title
-### What else will you gain with Headless architecture?
+## What else will you gain with Headless architecture?
 
 ::::
 
@@ -399,10 +399,10 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Take it to the next level
+### *4/* Take it to the next level
 
 #title
-### Headless Wordpress vs Standard website
+## Headless Wordpress vs Standard website
 
 ::::
 
@@ -551,10 +551,10 @@ class: mb-20
 ---
 
 #subtitle
-*5/* Stages of Website Development
+### *5/* Stages of Website Development
 
 #title
-### We approach website development *in stages*
+## We approach website development *in stages*
 
 #description
 Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
@@ -721,10 +721,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Our website projects
+### *6/* Our website projects
 
 #title
-### We are proud of the projects *we've completed*
+## We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -752,10 +752,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Our clients
+### *7/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

@@ -12,10 +12,10 @@ bgUrl: './img/contact_bg.png'
 ---
 
 #subtitle
-*-/* Contact
+## *-/* Contact
 
 #title
-## Contact us and *implement your project*
+# Contact us and *implement your project*
 
 #description
 Fill out the form below. We'll be happy to answer all your questions!
@@ -34,10 +34,10 @@ maxWidth: 280
 ---
 
 #subtitle
-*1/* Let's do it
+### *1/* Let's do it
 
 #title
-### What can we *do* for you?
+## What can we *do* for you?
 
 :::
 :::block-form-md
@@ -229,10 +229,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*-/* Our clients
+### *-/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::
