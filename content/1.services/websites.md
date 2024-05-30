@@ -41,7 +41,7 @@ svgUrl_tr: '/img/svg-arc.svg'
 
 ::page-section-md
 ---
-classes: mb-5 tablet:mb-32 static-content
+classes: mb-5 tablet:mb-32
 ---
 
 :::block-columns-1-1-md
@@ -56,9 +56,7 @@ class: mb-20
 ---
 
 #subtitle
-::::::prose-p-3
 ### *1/* Professional websites
-::::::
 
 #title
 ## Experienced team *for special tasks*
@@ -371,7 +369,7 @@ center: true
 ---
 
 #title
-### Why does a high-quality website *pay off?*
+## Why does a high-quality website *pay off?*
 
 ::::
 :::::block-list-ul-md

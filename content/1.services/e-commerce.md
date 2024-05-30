@@ -42,7 +42,7 @@ svgUrl_tr: '/img/svg-square.svg'
 
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden static-content
+classes: pt-20 mb-5 tablet:mb-[150px] overflow-hidden
 ---
 :::block-columns-1-1-md
 ---
@@ -60,9 +60,7 @@ maxWidth: 690
 ---
 
 #subtitle
-::::::prose-p-3
 ### *1/* We focus on functionality and efficiency
-::::::
 
 #title
 ## We deliver stably operating stores *prepared for development*
@@ -635,7 +633,7 @@ The publication of the store is just the beginning, while using the store, ideas
 
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[100px] static-content
+classes: mb-20 tablet:mb-[100px]
 ---
 
 :::block-columns-1-1-md
@@ -665,9 +663,7 @@ class: mb-10 tablet:mb-16 tablet:mt-10
 ---
 
 #subtitle
-::::::prose-p-3
 ### *6/* Technical support and development
-::::::
 
 #title
 ## What else do you <br> need to know?
