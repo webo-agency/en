@@ -22,7 +22,7 @@ isSecondSvg: true
 #subtitle
 
 #title
-## We will create a WordPress website for your business
+# We will create a WordPress website for your business
 
 #description
 Are you looking for an experienced Wordpress team that will design and code your website from scratch? You've come to the right place!
@@ -52,10 +52,10 @@ class: items-center
 :::::block-header-md
 
 #subtitle
-*1/* WordPress Design and Development
+### *1/* WordPress Design and Development
 
 #title
-### We create solid websites based on Wordpress
+## We create solid websites based on Wordpress
 
 #description
 ::::::prose-p-4
@@ -96,10 +96,10 @@ center: true
 ---
 
 #subtitle
-*2/* Comprehensive WordPress Implementation
+### *2/* Comprehensive WordPress Implementation
 
 #title
-### What can you commission us to do?
+## What can you commission us to do?
 
 #description
 
@@ -245,10 +245,10 @@ center: true
 ---
 
 #subtitle
-*3/* Why should you trust us?
+### *3/* Why should you trust us?
 
 #title
-### What are our *WordPress websites* like?
+## What are our *WordPress websites* like?
 
 ::::
 
@@ -489,10 +489,10 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Stages of WordPress website development
+### *4/* Stages of WordPress website development
 
 #title
-### How does the step-by-step process of WordPress website development proceed?
+## How does the step-by-step process of WordPress website development proceed?
 
 #description
 Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
@@ -680,10 +680,10 @@ class: mb-10
 ---
 
 #subtitle
-*5/* Advantages of Wordpress CMS
+### *5/* Advantages of Wordpress CMS
 
 #title
-### Why choose WordPress?
+## Why choose WordPress?
 
 #description
 ::::::prose-p-4
@@ -751,10 +751,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Our website projects
+### *6/* Our website projects
 
 #title
-### We are proud of the projects *we've completed*
+## We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -782,10 +782,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Our clients
+### *7/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

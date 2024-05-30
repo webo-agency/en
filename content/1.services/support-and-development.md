@@ -23,7 +23,7 @@ isSecondSvg: true
 *-/* Website technical support
 
 #title
-## Support and development for websites / e-commerce
+# Support and development for websites / e-commerce
 
 #description
 If you need constant supervision over your website or store and you are also planning expansion or optimization work, this offer is for you.
@@ -58,11 +58,11 @@ maxWidth: 690
 
 #subtitle
 ::::::prose-p-3
-*1/* Guaranteed availability of specialists
+### *1/* Guaranteed availability of specialists
 ::::::
 
 #title
-### Focus on business, leave the website *to the specialists*
+## Focus on business, leave the website *to the specialists*
 
 #description
 :::::prose-p-3
@@ -110,10 +110,10 @@ maxWidth: 510
 ---
 
 #subtitle
-*2/* Comprehensive technical support for the website and store
+### *2/* Comprehensive technical support for the website and store
 
 #title
-### What do we do as part of the *support service?*
+## What do we do as part of the *support service?*
 
 ::::
 :::
@@ -269,10 +269,10 @@ center: true
 ---
 
 #subtitle
-*3/* Benefits of ongoing website support
+### *3/* Benefits of ongoing website support
 
 #title
-### What do you gain by entrusting us with *website maintenance?*
+## What do you gain by entrusting us with *website maintenance?*
 
 ::::
 :::::block-list-ul-md
@@ -380,10 +380,10 @@ class: mb-20
 ---
 
 #subtitle
-*4/* Solid support for the website and online store
+### *4/* Solid support for the website and online store
 
 #title
-### We provide the highest standards of *technical support*
+## We provide the highest standards of *technical support*
 
 ::::
 :::
@@ -512,11 +512,11 @@ class: mb-20
 
 #subtitle
 :::::prose-p3
-*5/* A tailored solution
+### *5/* A tailored solution
 :::::
 
 #title
-### We offer convenient *methods of cooperation*
+## We offer convenient *methods of cooperation*
 
 ::::
 :::
@@ -608,11 +608,11 @@ class: mb-10 tablet:mb-16
 
 #subtitle
 ::::::prose-p-3
-*6/* Help desk
+### *6/* Help desk
 ::::::
 
 #title
-### HelpDesk, *your command system*
+## HelpDesk, *your command system*
 
 #description
 ::::::prose-p-3
@@ -646,10 +646,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*7/* Our latest projects
+### *7/* Our latest projects
 
 #title
-### We are proud <br> of the *projects we have completed.*
+## We are proud <br> of the *projects we have completed.*
 
 ::::
 :::
@@ -678,10 +678,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*8/* Our clients
+### *8/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

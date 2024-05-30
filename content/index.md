@@ -49,7 +49,7 @@ maxWidth: 640
 ---
 
 #subtitle
-*1/* Services
+### *1/* Services
 
 #title
 ## We provide *internet solutions for companies*
@@ -186,10 +186,10 @@ image.url: '/img/content-images/1solutions.png'
 imageMobile.url: '/img/content-images/1solutions_mobile.png'
 ---
 #subtitle
-*2/* Scalable solutions
+### *2/* Scalable solutions
 
 #title
-### We'll choose the best solution for *your business*
+## We'll choose the best solution for *your business*
 
 #description
 We approach each project individually, analyzing its specific needs. We utilize the latest technologies while also supporting popular solutions.
@@ -270,10 +270,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*3/* Case studies
+### *3/* Case studies
 
 #title
-### We are proud of the projects <br>*we've completed*
+## We are proud of the projects <br>*we've completed*
 
 ::::
 :::
@@ -304,10 +304,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*4/* Our approach
+### *4/* Our approach
 
 #title
-### Why is it worth *trusting us?*
+## Why is it worth *trusting us?*
 
 #description
 ::::::prose-p-3
@@ -455,10 +455,10 @@ text: See all our reviews
 :::::block-header-md
 
 #subtitle
-*5/* Reviews
+### *5/* Reviews
 
 #title
-### We are recommended by *small and medium-sized enterprises*
+## We are recommended by *small and medium-sized enterprises*
 :::::
 ::::
 :::
@@ -558,10 +558,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*6/* Our clients
+### *6/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

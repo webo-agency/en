@@ -24,7 +24,7 @@ isSecondSvg: true
 *-/* User Experience Design
 
 #title
-## UX/UI design
+# UX/UI design
 
 #description
 We design websites and online stores 
@@ -62,10 +62,10 @@ maxWidth: 690
 ---
 
 #subtitle
-*1/* What is UX/UI design?
+### *1/* What is UX/UI design?
 
 #title
-### We design to make using websites *simple, fast, and enjoyable*
+## We design to make using websites *simple, fast, and enjoyable*
 
 #description
 :::::prose-p-4
@@ -106,10 +106,10 @@ maxWidth: 640
 ---
 
 #subtitle
-*2/* Designing websites and e-commerce
+### *2/* Designing websites and e-commerce
 
 #title
-### What can we <br> *design* for you?
+## What can we <br> *design* for you?
 
 #description
 We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
@@ -218,10 +218,10 @@ center: true
 ---
 
 #subtitle
-*3/* Why is UX important?
+### *3/* Why is UX important?
 
 #title
-### What are the benefits of *UX/UI design?*
+## What are the benefits of *UX/UI design?*
 
 #description
 The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
@@ -328,10 +328,10 @@ class: mb-10 tablet:mb-[60px]
 ---
 
 #subtitle
-*4/* UX/UI design process
+### *4/* UX/UI design process
 
 #title
-### What does the  <br> *UX/UI design process* look like?
+## What does the  <br> *UX/UI design process* look like?
 
 #description
 :::::prose-p3
@@ -458,10 +458,10 @@ class: mb-20
 ---
 
 #subtitle
-*5/* Complex UX/UI design
+### *5/* Complex UX/UI design
 
 #title
-### What do we deliver as part of the *UX/UI project?*
+## What do we deliver as part of the *UX/UI project?*
 
 ::::
 :::
@@ -600,10 +600,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Our latest projects
+### *6/* Our latest projects
 
 #title
-### We are proud <br> of the *projects we have completed.*
+## We are proud <br> of the *projects we have completed.*
 
 ::::
 :::
@@ -636,10 +636,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Our clients
+### *7/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::

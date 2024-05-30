@@ -25,7 +25,7 @@ isSecondSvg: true
 *-/* E-commerce B2B and B2C
 
 #title
-## Online stores
+# Online stores
 
 #description
 We design and implement great-looking and efficient online stores with a smooth purchasing process.
@@ -61,11 +61,11 @@ maxWidth: 690
 
 #subtitle
 ::::::prose-p-3
-*1/* We focus on functionality and efficiency
+### *1/* We focus on functionality and efficiency
 ::::::
 
 #title
-### We deliver stably operating stores *prepared for development*
+## We deliver stably operating stores *prepared for development*
 
 #description
 :::::prose-p-3
@@ -120,10 +120,10 @@ class: mb-10 tablet:mb-[60px]
 ---
 
 #subtitle
-*2/* Tailored solutions for online stores
+### *2/* Tailored solutions for online stores
 
 #title
-### On what platforms do we *create online stores?*
+## On what platforms do we *create online stores?*
 ::::
 :::
 
@@ -135,7 +135,7 @@ icon: '/img/icons/wordpress.svg'
 link: 'https://www.webo.agency/contact'
 ---
 #title
-##### Prestashop
+#### Prestashop
 
 #description
 One of the most popular e-commerce platforms with over 300 built-in functions and an extensive library of ready-made modules. A great solution for medium-sized online stores.
@@ -153,7 +153,7 @@ link: 'https://www.webo.agency/contact'
 delay: 1
 ---
 #title
-##### DrupalCommerce
+#### DrupalCommerce
 
 #description
 Modern online stores created in one of the safest content management systems. Efficient systems with unlimited development possibilities and numerous integrations.
@@ -169,7 +169,7 @@ link: 'https://www.webo.agency/contact'
 delay: 2
 ---
 #title
-##### WooCommerce
+#### WooCommerce
 
 #description
 The most popular e-commerce solution in the world. An ideal solution for small and medium-sized online stores with standard sales functions.
@@ -224,10 +224,10 @@ class: mb-20
 ---
 
 #subtitle
-*3/* Implementation of online stores
+### *3/* Implementation of online stores
 
 #title
-### What can we do for you?
+## What can we do for you?
 
 #description
 Depending on your project requirements, we can deliver
@@ -363,7 +363,7 @@ center: true
 #subtitle
 
 #title
-### Why does high quality of an online store *pay off?*
+## Why does high quality of an online store *pay off?*
 
 ::::
 :::::block-list-ul-md
@@ -474,10 +474,10 @@ maxWidth: 480
 ---
 
 #subtitle
-*5/* Stages of implementing an online store
+### *5/* Stages of implementing an online store
 
 #title
-### See how we create *online stores*
+## See how we create *online stores*
 
 :::::
 ::::
@@ -666,11 +666,11 @@ class: mb-10 tablet:mb-16 tablet:mt-10
 
 #subtitle
 ::::::prose-p-3
-*6/* Technical support and development
+### *6/* Technical support and development
 ::::::
 
 #title
-### What else do you <br> need to know?
+## What else do you <br> need to know?
 
 #description
 ::::::prose-p-3
@@ -701,10 +701,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*7/* Case study
+### *7/* Case study
 
 #title
-### We are proud of the projects *we've completed*
+## We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -735,10 +735,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*8/* Our clients
+### *8/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::
