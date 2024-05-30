@@ -23,7 +23,7 @@ isSecondSvg: true
 *-/* Solid websites
 
 #title
-## Websites
+# Websites
 
 #description
 We create tailored websites, designing an individual look for you and coding from scratch.
@@ -57,11 +57,11 @@ class: mb-20
 
 #subtitle
 ::::::prose-p-3
-*1/* Professional websites
+### *1/* Professional websites
 ::::::
 
 #title
-### Experienced team *for special tasks*
+## Experienced team *for special tasks*
 
 :::::
 
@@ -119,10 +119,10 @@ class: mb-20
 ---
 
 #subtitle
-*2/* Dedicated solutions for websites
+### *2/* Dedicated solutions for websites
 
 #title
-### We create websites *on platforms*
+## We create websites *on platforms*
 ::::
 :::
 
@@ -237,10 +237,10 @@ class: mb-20
 ---
 
 #subtitle
-*3/* The highest website standards?
+### *3/* The highest website standards?
 
 #title
-### When creating websites, we focus on
+## When creating websites, we focus on
 
 ::::
 :::
@@ -449,10 +449,10 @@ class: mb-20
 ---
 
 #subtitle
-*5/* Stages of Website Development
+### *5/* Stages of Website Development
 
 #title
-### We approach website development *in stages*
+## We approach website development *in stages*
 
 #description
 Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
@@ -620,10 +620,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-*6/* Our website projects
+### *6/* Our website projects
 
 #title
-### We are proud of the projects *we've completed*
+## We are proud of the projects *we've completed*
 
 ::::
 :::
@@ -651,10 +651,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-*7/* Our clients
+### *7/* Our clients
 
 #title
-### Get to know the companies that *trusted us*
+## Get to know the companies that *trusted us*
 
 ::::
 :::
