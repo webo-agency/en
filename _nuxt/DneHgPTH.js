@@ -1,0 +1,1 @@
+import{r as t}from"./C0MC3ylS.js";import{q as s,f as o,g as r,h as a}from"./CgsqtpGp.js";import"./Dnd51l0P.js";const c={},n={class:"subtitle"};function l(e,f){return o(),r("div",null,[a("span",n,[t(e.$slots,"default")])])}const p=s(c,[["render",l]]);export{p as default};

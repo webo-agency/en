@@ -1,0 +1,1 @@
+import{q as o,f as s,g as t,E as c}from"./CgsqtpGp.js";const a={name:"BlockIconsMdc"},n={class:"flex flex-wrap relative z-10"};function r(e,l,f,d,p,_){return s(),t("ul",n,[c(e.$slots,"default")])}const u=o(a,[["render",r]]);export{u as default};
