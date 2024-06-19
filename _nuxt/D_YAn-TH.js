@@ -1,0 +1,1 @@
+import{q as o,f as t,g as s,E as c}from"./CgsqtpGp.js";const r={},n={class:"block-quote"};function a(e,l){return t(),s("blockquote",n,[c(e.$slots,"default")])}const f=o(r,[["render",a]]);export{f as default};
