@@ -24,8 +24,6 @@ footer:
           link: https://www.webo.agency/case-studies
         - title: Reviews
           link: https://www.webo.agency/#reviews
-        - title: Blog
-          link: https://www.webo.agency/blog
         - title: Contact
           link: https://www.webo.agency/contact
 general:
