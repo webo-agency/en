@@ -51,7 +51,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
           phone: (formData.get("phone") || "").toString(),
           description: (formData.get("description") || "").toString(),
           service: (formData.get("service") || 0).toString(),
-          email: (formData.get("mail") || "").toString(),
+          mail: (formData.get("mail") || "").toString(),
           subject: "Webo.agency | Contact from : " + (formData.get("name") || "").toString()
         };
 
@@ -64,7 +64,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
           subject: '{{subject}}'
         };
 
-        let to = vars.email;
+        let to = vars.mail;
 
         return fetch(context.env.EMAIL_LABS_URL, {
           method: 'POST',
@@ -79,7 +79,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+to+"][vars][company]="+decodeURIComponent(vars.company)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][phone]="+decodeURIComponent(vars.phone)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
-            "&to" + new URLSearchParams("["+to+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
+            "&to" + new URLSearchParams("["+to+"][vars][email]="+decodeURIComponent(vars.mail)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][service]="+decodeURIComponent(vars.service)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"]").toString()+
@@ -87,17 +87,9 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][company]="+decodeURIComponent(vars.company)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][phone]="+decodeURIComponent(vars.phone)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
+            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][email]="+decodeURIComponent(vars.mail)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][service]="+decodeURIComponent(vars.service)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"]").toString()+
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][name]="+decodeURIComponent(vars.name)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][company]="+decodeURIComponent(vars.company)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][phone]="+decodeURIComponent(vars.phone)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][service]="+decodeURIComponent(vars.service)).toString()
+            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][service]="+decodeURIComponent(vars.service)).toString()
         }).then(result => new Response(
          JSON.stringify(result) + '|||' + context.env.EMAIL_LABS_URL + '|||' +  JSON.stringify(dataObject) + '|||' +  JSON.stringify(vars),{
             headers: {...corsHeaders}
