@@ -61,7 +61,8 @@ export const onRequest: PagesFunction<Env> = (context) => {
           from: context.env.EMAIL_FROM,
           template_id: '641c8100',
           reply_to: context.env.EMAIL_REPLY_TO,
-          from_name: "Webo.Agency"
+          from_name: "Webo.Agency",
+          subject: '{{subject}}'
         };
 
         let to = vars.email;
@@ -81,7 +82,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+to+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
             "&to" + new URLSearchParams("["+to+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
-            "&to" + new URLSearchParams("["+to+"][vars][acceptance]="+decodeURIComponent(vars.service)).toString() +
+            "&to" + new URLSearchParams("["+to+"][vars][service]="+decodeURIComponent(vars.service)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"]").toString()+
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][name]="+decodeURIComponent(vars.name)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][company]="+decodeURIComponent(vars.company)).toString() +
@@ -89,7 +90,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][acceptance]="+decodeURIComponent(vars.service)).toString() +
+            "&to" + new URLSearchParams("["+context.env.EMAIL_REPLY_TO+"][vars][service]="+decodeURIComponent(vars.service)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"]").toString()+
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][name]="+decodeURIComponent(vars.name)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][company]="+decodeURIComponent(vars.company)).toString() +
@@ -97,7 +98,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][description]="+decodeURIComponent(vars.description)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][email]="+decodeURIComponent(vars.email)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
-            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][acceptance]="+decodeURIComponent(vars.service)).toString()
+            "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][service]="+decodeURIComponent(vars.service)).toString()
         }).then(result => new Response(
          'Message has been sent' + JSON.stringify(result),{
             headers: {...corsHeaders}
