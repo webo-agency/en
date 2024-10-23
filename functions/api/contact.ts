@@ -31,7 +31,6 @@ const JSONResponse = (message, status = 200) => {
 }
 
 export const onRequest: PagesFunction<Env> = (context) => {
-  return new Response(`Thank you for your submission`);
   return staticFormInterceptorPlugin({
     respondWith: async ({ formData }) => {
         let email_copy = "test@webo.agency";
