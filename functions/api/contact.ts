@@ -100,7 +100,7 @@ export const onRequest: PagesFunction<Env> = (context) => {
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][subject]="+decodeURIComponent(vars.subject)).toString() +
             "&to" + new URLSearchParams("["+context.env.EMAIL_COPY+"][vars][service]="+decodeURIComponent(vars.service)).toString()
         }).then(result => new Response(
-         'Message has been sent' + JSON.stringify(result),{
+         JSON.stringify(result),{
             headers: {...corsHeaders}
           }
         ))
