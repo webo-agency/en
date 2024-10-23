@@ -38,7 +38,6 @@ const JSONResponse = (message, status = 200) => {
 export const onRequest: PagesFunction<Env> = (context) => {
   return staticFormInterceptorPlugin({
     respondWith: async ({ formData }) => {
-      let email_copy = "test@webo.agency";
               // Change this to what you want for CORS
         const corsHeaders = {
           "Access-Control-Allow-Origin": "*",
