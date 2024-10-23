@@ -31,7 +31,6 @@ const JSONResponse = (message, status = 200) => {
 }
 
 export const onRequest: PagesFunction<Env> = (context) => {
-  return new Response('OK');
   return staticFormsPlugin({
     respondWith: async ({ formData }) => {
 
