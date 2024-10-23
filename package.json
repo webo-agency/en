@@ -14,7 +14,7 @@
   "dependencies": {
     "@cloudflare/pages-plugin-static-forms": "^1.0.3",
     "@webo-agency/theme": "github:webo-agency/www#main",
-    "nuxt": "^3.9.0"
+    "nuxt": "^3.13.2"
   },
   "devDependencies": {
     "@nuxthq/studio": "^1.0.0"
