@@ -8,6 +8,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "dev-f": "npx wrangler pages dev . --compatibility-date=2024-10-23",
     "deploy": "pnpm run generate"
   },
   "packageManager": "pnpm@8.5.1",
