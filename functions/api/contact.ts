@@ -27,7 +27,7 @@ const JSONResponse = (message, status = 200) => {
   return new Response(JSON.stringify(response), headers)
 }
 
-export const onRequest = (context) => {
+export const onRequestPost = (context) => {
   return staticFormsPlugin({
     respondWith: async ({ formData }) => {
 
