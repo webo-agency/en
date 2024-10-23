@@ -13,7 +13,7 @@ importers:
         version: 1.0.3
       '@webo-agency/theme':
         specifier: github:webo-agency/www#main
-        version: https://codeload.github.com/webo-agency/www/tar.gz/f4a4dfa9063dc68bdcfd6a6c9d344d320d56cee0(@nuxt/devtools@1.6.0(rollup@4.18.0)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3))(@parcel/watcher@2.4.1)(@types/node@22.7.9)(@unocss/webpack@0.60.4(rollup@4.18.0)(webpack@5.92.0))(@vue/compiler-core@3.5.12)(axios@1.7.2)(encoding@0.1.13)(h3@1.13.0)(ioredis@5.4.1)(magicast@0.3.5)(markdown-it@14.1.0)(postcss@8.4.47)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3)(webpack@5.92.0)
+        version: https://codeload.github.com/webo-agency/www/tar.gz/fcac1e28fc7c1c389a73ca55a778a216562b1c6c(@nuxt/devtools@1.6.0(rollup@4.18.0)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3))(@parcel/watcher@2.4.1)(@types/node@22.7.9)(@unocss/webpack@0.60.4(rollup@4.18.0)(webpack@5.92.0))(@vue/compiler-core@3.5.12)(axios@1.7.2)(encoding@0.1.13)(h3@1.13.0)(ioredis@5.4.1)(magicast@0.3.5)(markdown-it@14.1.0)(postcss@8.4.47)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3)(webpack@5.92.0)
       nuxt:
         specifier: ^3.13.2
         version: 3.13.2(@parcel/watcher@2.4.1)(@types/node@22.7.9)(encoding@0.1.13)(ioredis@5.4.1)(magicast@0.3.5)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(webpack-sources@3.2.3)
@@ -1733,9 +1733,9 @@ packages:
   '@webassemblyjs/wast-printer@1.12.1':
     resolution: {integrity: sha512-+X4WAlOisVWQMikjbcvY2e0rwPsKQ9F688lksZhBcPycBBuii3O7m8FACbDMWDojpAqvjIncrG8J0XHKyQfVeA==}
 
-  '@webo-agency/theme@https://codeload.github.com/webo-agency/www/tar.gz/f4a4dfa9063dc68bdcfd6a6c9d344d320d56cee0':
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/f4a4dfa9063dc68bdcfd6a6c9d344d320d56cee0}
-    version: 3.7.395
+  '@webo-agency/theme@https://codeload.github.com/webo-agency/www/tar.gz/fcac1e28fc7c1c389a73ca55a778a216562b1c6c':
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/fcac1e28fc7c1c389a73ca55a778a216562b1c6c}
+    version: 3.7.41
 
   '@xtuc/ieee754@1.2.0':
     resolution: {integrity: sha512-DX8nKgqcGwsc0eJSqYt5lwP4DH5FlHnmuWWBRy7X0NcaGR0ZtuyeESgMwTYVEtxmsNGY+qit4QYT/MIYTOTPeA==}
@@ -7580,7 +7580,7 @@ snapshots:
       '@webassemblyjs/ast': 1.12.1
       '@xtuc/long': 4.2.2
 
-  '@webo-agency/theme@https://codeload.github.com/webo-agency/www/tar.gz/f4a4dfa9063dc68bdcfd6a6c9d344d320d56cee0(@nuxt/devtools@1.6.0(rollup@4.18.0)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3))(@parcel/watcher@2.4.1)(@types/node@22.7.9)(@unocss/webpack@0.60.4(rollup@4.18.0)(webpack@5.92.0))(@vue/compiler-core@3.5.12)(axios@1.7.2)(encoding@0.1.13)(h3@1.13.0)(ioredis@5.4.1)(magicast@0.3.5)(markdown-it@14.1.0)(postcss@8.4.47)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3)(webpack@5.92.0)':
+  '@webo-agency/theme@https://codeload.github.com/webo-agency/www/tar.gz/fcac1e28fc7c1c389a73ca55a778a216562b1c6c(@nuxt/devtools@1.6.0(rollup@4.18.0)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3))(@parcel/watcher@2.4.1)(@types/node@22.7.9)(@unocss/webpack@0.60.4(rollup@4.18.0)(webpack@5.92.0))(@vue/compiler-core@3.5.12)(axios@1.7.2)(encoding@0.1.13)(h3@1.13.0)(ioredis@5.4.1)(magicast@0.3.5)(markdown-it@14.1.0)(postcss@8.4.47)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3)(webpack@5.92.0)':
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
       '@nuxt/content': 2.9.0(ioredis@5.4.1)(magicast@0.3.5)(nuxt@3.13.2(@parcel/watcher@2.4.1)(@types/node@22.7.9)(encoding@0.1.13)(ioredis@5.4.1)(magicast@0.3.5)(rollup@4.18.0)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.9(@types/node@22.7.9)(terser@5.36.0))(webpack-sources@3.2.3))(rollup@4.18.0)(vue@3.5.12(typescript@5.6.3))(webpack-sources@3.2.3)
