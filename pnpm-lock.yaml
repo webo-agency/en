@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1)
+    version: github.com/webo-agency/www/5c9b7650a68142dfebda5b49a294df5d5fb69fe8(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1)
   nuxt:
     specifier: ^3.13.2
     version: 3.14.159(typescript@5.6.3)(vite@5.4.10)
@@ -1308,9 +1308,9 @@ packages:
       '@unocss/preset-icons': 0.62.4
       '@unocss/preset-mini': 0.62.4
       '@unocss/reset': 0.62.4
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/integrations': 11.2.0(focus-trap@7.6.2)(vue@3.5.13)
-      '@vueuse/nuxt': 11.2.0(nuxt@3.14.159)(vue@3.5.13)
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/integrations': 11.3.0(focus-trap@7.6.2)(vue@3.5.13)
+      '@vueuse/nuxt': 11.3.0(nuxt@3.14.159)(vue@3.5.13)
       defu: 6.1.4
       focus-trap: 7.6.2
       splitpanes: 3.1.5
@@ -1441,7 +1441,7 @@ packages:
       '@vue/devtools-kit': 7.6.4
       birpc: 0.2.19
       consola: 3.2.3
-      cronstrue: 2.51.0
+      cronstrue: 2.52.0
       destr: 2.0.3
       error-stack-parser-es: 0.1.5
       execa: 7.2.0
@@ -1467,7 +1467,7 @@ packages:
       tinyglobby: 0.2.10
       unimport: 3.13.2
       vite: 5.4.10
-      vite-plugin-inspect: 0.8.7(@nuxt/kit@3.14.1592)(vite@5.4.10)
+      vite-plugin-inspect: 0.8.8(@nuxt/kit@3.14.1592)(vite@5.4.10)
       vite-plugin-vue-inspector: 5.1.3(vite@5.4.10)
       which: 3.0.1
       ws: 8.18.0
@@ -2377,7 +2377,7 @@ packages:
   /@types/http-proxy@1.17.15:
     resolution: {integrity: sha512-25g5atgiVNTIv0LBDTg1H74Hvayx0ajtJPLLcYE3whFv75J0pWNtOBzaXJQgDTmrX1bx5U9YC2w/n65BN1HwRQ==}
     dependencies:
-      '@types/node': 22.9.0
+      '@types/node': 22.9.1
     dev: false
 
   /@types/json-schema@7.0.15:
@@ -2402,12 +2402,6 @@ packages:
 
   /@types/node@17.0.45:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
-    dev: false
-
-  /@types/node@22.9.0:
-    resolution: {integrity: sha512-vuyHg81vvWA1Z1ELfvLko2c8f34gyA0zaic0+Rllc5lbCnbSyuvb2Oxpm6TAUAC/2xZN3QGqxBNggD1nNR2AfQ==}
-    dependencies:
-      undici-types: 6.19.8
     dev: false
 
   /@types/node@22.9.1:
@@ -3159,12 +3153,12 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/core@11.2.0(vue@3.5.13):
-    resolution: {integrity: sha512-JIUwRcOqOWzcdu1dGlfW04kaJhW3EXnnjJJfLTtddJanymTL7lF1C0+dVVZ/siLfc73mWn+cGP1PE1PKPruRSA==}
+  /@vueuse/core@11.3.0(vue@3.5.13):
+    resolution: {integrity: sha512-7OC4Rl1f9G8IT6rUfi9JrKiXy4bfmHhZ5x2Ceojy0jnd3mHNEvV4JaRygH362ror6/NZ+Nl+n13LPzGiPN8cKA==}
     dependencies:
       '@types/web-bluetooth': 0.0.20
-      '@vueuse/metadata': 11.2.0
-      '@vueuse/shared': 11.2.0(vue@3.5.13)
+      '@vueuse/metadata': 11.3.0
+      '@vueuse/shared': 11.3.0(vue@3.5.13)
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
       - '@vue/composition-api'
@@ -3195,8 +3189,8 @@ packages:
       vue: 3.5.13(typescript@5.6.3)
     dev: false
 
-  /@vueuse/integrations@11.2.0(focus-trap@7.6.2)(vue@3.5.13):
-    resolution: {integrity: sha512-zGXz3dsxNHKwiD9jPMvR3DAxQEOV6VWIEYTGVSB9PNpk4pTWR+pXrHz9gvXWcP2sTk3W2oqqS6KwWDdntUvNVA==}
+  /@vueuse/integrations@11.3.0(focus-trap@7.6.2)(vue@3.5.13):
+    resolution: {integrity: sha512-5fzRl0apQWrDezmobchoiGTkGw238VWESxZHazfhP3RM7pDSiyXy18QbfYkILoYNTd23HPAfQTJpkUc5QbkwTw==}
     peerDependencies:
       async-validator: ^4
       axios: ^1
@@ -3236,8 +3230,8 @@ packages:
       universal-cookie:
         optional: true
     dependencies:
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/shared': 11.2.0(vue@3.5.13)
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/shared': 11.3.0(vue@3.5.13)
       focus-trap: 7.6.2
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
@@ -3249,8 +3243,8 @@ packages:
     resolution: {integrity: sha512-IGa5FXd003Ug1qAZmyE8wF3sJ81xGLSqTqtQ6jaVfkeZ4i5kS2mwQF61yhVqojRnenVew5PldLyRgvdl4YYuSw==}
     dev: false
 
-  /@vueuse/metadata@11.2.0:
-    resolution: {integrity: sha512-L0ZmtRmNx+ZW95DmrgD6vn484gSpVeRbgpWevFKXwqqQxW9hnSi2Ppuh2BzMjnbv4aJRiIw8tQatXT9uOB23dQ==}
+  /@vueuse/metadata@11.3.0:
+    resolution: {integrity: sha512-pwDnDspTqtTo2HwfLw4Rp6yywuuBdYnPYDq+mO38ZYKGebCUQC/nVj/PXSiK9HX5otxLz8Fn7ECPbjiRz2CC3g==}
     dev: false
 
   /@vueuse/metadata@9.13.0:
@@ -3277,14 +3271,14 @@ packages:
       - webpack-sources
     dev: false
 
-  /@vueuse/nuxt@11.2.0(nuxt@3.14.159)(vue@3.5.13):
-    resolution: {integrity: sha512-4Mp1SXpXy8KRKY7lJqN4AuiMkun9IUVGt02t2SBk1hf/RVe4U6AIR2ukmHws0uYvjIGIhlGNv4o6ayTK/7ELWQ==}
+  /@vueuse/nuxt@11.3.0(nuxt@3.14.159)(vue@3.5.13):
+    resolution: {integrity: sha512-FxtRTgFmsoASamR3lOftv/r11o1BojF9zir8obbTnKamVZdlQ5rgJ0hHgVbrgA6dlMuEx/PzwqAmiKNFdU4oCQ==}
     peerDependencies:
       nuxt: ^3.0.0
     dependencies:
       '@nuxt/kit': 3.14.1592(magicast@0.3.5)
-      '@vueuse/core': 11.2.0(vue@3.5.13)
-      '@vueuse/metadata': 11.2.0
+      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vueuse/metadata': 11.3.0
       local-pkg: 0.5.1
       nuxt: 3.14.159(typescript@5.6.3)(vite@5.4.10)
       vue-demi: 0.14.10(vue@3.5.13)
@@ -3326,8 +3320,8 @@ packages:
       - vue
     dev: false
 
-  /@vueuse/shared@11.2.0(vue@3.5.13):
-    resolution: {integrity: sha512-VxFjie0EanOudYSgMErxXfq6fo8vhr5ICI+BuE3I9FnX7ePllEsVrRQ7O6Q1TLgApeLuPKcHQxAXpP+KnlrJsg==}
+  /@vueuse/shared@11.3.0(vue@3.5.13):
+    resolution: {integrity: sha512-P8gSSWQeucH5821ek2mn/ciCk+MS/zoRKqdQIM3bHq6p7GXDAJLmnRRKmF5F65sAVJIfzQlwR3aDzwCn10s8hA==}
     dependencies:
       vue-demi: 0.14.10(vue@3.5.13)
     transitivePeerDependencies:
@@ -3674,7 +3668,7 @@ packages:
       postcss: ^8.1.0
     dependencies:
       browserslist: 4.24.2
-      caniuse-lite: 1.0.30001680
+      caniuse-lite: 1.0.30001683
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.1.1
@@ -3690,7 +3684,7 @@ packages:
       postcss: ^8.1.0
     dependencies:
       browserslist: 4.24.2
-      caniuse-lite: 1.0.30001680
+      caniuse-lite: 1.0.30001683
       fraction.js: 4.3.7
       normalize-range: 0.1.2
       picocolors: 1.1.1
@@ -3730,7 +3724,7 @@ packages:
     dependencies:
       bare-events: 2.5.0
       bare-path: 2.1.3
-      bare-stream: 2.3.2
+      bare-stream: 2.4.0
     dev: false
     optional: true
 
@@ -3746,8 +3740,8 @@ packages:
     dev: false
     optional: true
 
-  /bare-stream@2.3.2:
-    resolution: {integrity: sha512-EFZHSIBkDgSHIwj2l2QZfP4U5OcD4xFAOwhSb/vlr9PIqyGJGvB/nfClJbcnh3EY4jtPE4zsb5ztae96bVF79A==}
+  /bare-stream@2.4.0:
+    resolution: {integrity: sha512-sd96/aZ8LjF1uJbEHzIo1LrERPKRFPEy1nZ1eOILftBxrVsFDAQkimHIIq87xrHcubzjNeETsD9PwN0wp+vLiQ==}
     dependencies:
       streamx: 2.20.2
     dev: false
@@ -3837,8 +3831,8 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001680
-      electron-to-chromium: 1.5.63
+      caniuse-lite: 1.0.30001683
+      electron-to-chromium: 1.5.64
       node-releases: 2.0.18
       update-browserslist-db: 1.1.1(browserslist@4.24.2)
 
@@ -3927,13 +3921,13 @@ packages:
     resolution: {integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==}
     dependencies:
       browserslist: 4.24.2
-      caniuse-lite: 1.0.30001680
+      caniuse-lite: 1.0.30001683
       lodash.memoize: 4.1.2
       lodash.uniq: 4.5.0
     dev: false
 
-  /caniuse-lite@1.0.30001680:
-    resolution: {integrity: sha512-rPQy70G6AGUMnbwS1z6Xg+RkHYPAi18ihs47GH0jcxIG7wArmPgY3XbS2sRdBbxJljp3thdT8BIqv9ccCypiPA==}
+  /caniuse-lite@1.0.30001683:
+    resolution: {integrity: sha512-iqmNnThZ0n70mNwvxpEC2nBJ037ZHZUoBI5Gorh1Mw6IlEAZujEoU1tXA628iZfzm7R9FvFzxbfdgml82a3k8Q==}
 
   /ccount@2.0.1:
     resolution: {integrity: sha512-eyrF0jiFpY+3drT6383f1qhkbGsLSifNAjA61IUjZjmLCWjItY6LB9ft9YhoDgwfmclB2zhu51Lc7+95b8NRAg==}
@@ -4277,6 +4271,11 @@ packages:
     hasBin: true
     dev: false
 
+  /cronstrue@2.52.0:
+    resolution: {integrity: sha512-NKgHbWkSZXJUcaBHSsyzC8eegD6bBd4O0oCI6XMIJ+y4Bq3v4w7sY3wfWoKPuVlq9pQHRB6od0lmKpIqi8TlKA==}
+    hasBin: true
+    dev: false
+
   /cross-fetch@3.1.8:
     resolution: {integrity: sha512-cvA+JwZoU0Xq+h6WkMvAUqPEYy92Obet6UdKLfW60qn99ftItKjB5T+BkyWOFWe2pUyfQ+IJHmpOTznqk1M6Kg==}
     dependencies:
@@ -4285,14 +4284,6 @@ packages:
       - encoding
     dev: false
 
-  /cross-spawn@7.0.5:
-    resolution: {integrity: sha512-ZVJrKKYunU38/76t0RMOulHOnUcbU9GbpWKAOZ0mhjr7CX6FVrH+4FrAapSOekrgFQ3f/8gwMEuIft0aKq6Hug==}
-    engines: {node: '>= 8'}
-    dependencies:
-      path-key: 3.1.1
-      shebang-command: 2.0.0
-      which: 2.0.2
-
   /cross-spawn@7.0.6:
     resolution: {integrity: sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==}
     engines: {node: '>= 8'}
@@ -4300,7 +4291,6 @@ packages:
       path-key: 3.1.1
       shebang-command: 2.0.0
       which: 2.0.2
-    dev: false
 
   /crossws@0.3.1:
     resolution: {integrity: sha512-HsZgeVYaG+b5zA+9PbIPGq4+J/CJynJuearykPsXx4V/eMhyQ5EDVg3Ak2FBZtVXCiOLu/U7IiwDHTr9MA+IKw==}
@@ -4707,8 +4697,8 @@ packages:
     resolution: {integrity: sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==}
     dev: false
 
-  /electron-to-chromium@1.5.63:
-    resolution: {integrity: sha512-ddeXKuY9BHo/mw145axlyWjlJ1UBt4WK3AlvkT7W2AbqfRQoacVoRUCF6wL3uIx/8wT9oLKXzI+rFqHHscByaA==}
+  /electron-to-chromium@1.5.64:
+    resolution: {integrity: sha512-IXEuxU+5ClW2IGEYFC2T7szbyVgehupCWQe5GNh+H065CD6U6IFN0s4KeAMFGNmQolRU4IV7zGBWSYMmZ8uuqQ==}
 
   /emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -4965,7 +4955,7 @@ packages:
     resolution: {integrity: sha512-VyhnebXciFV2DESc+p6B+y0LjSm0krU4OgJN44qFAhBY0TJ+1V61tYD2+wHusZ6F9n5K+vl8k0sTy7PEfV4qpg==}
     engines: {node: '>=16.17'}
     dependencies:
-      cross-spawn: 7.0.5
+      cross-spawn: 7.0.6
       get-stream: 8.0.1
       human-signals: 5.0.0
       is-stream: 3.0.0
@@ -10076,8 +10066,8 @@ packages:
       - supports-color
     dev: false
 
-  /vite-plugin-inspect@0.8.7(@nuxt/kit@3.14.1592)(vite@5.4.10):
-    resolution: {integrity: sha512-/XXou3MVc13A5O9/2Nd6xczjrUwt7ZyI9h8pTnUMkr5SshLcb0PJUOVq2V+XVkdeU4njsqAtmK87THZuO2coGA==}
+  /vite-plugin-inspect@0.8.8(@nuxt/kit@3.14.1592)(vite@5.4.10):
+    resolution: {integrity: sha512-aZlBuXsWUPJFmMK92GIv6lH7LrwG2POu4KJ+aEdcqnu92OAf+rhBnfMDQvxIJPEB7hE2t5EyY/PMgf5aDLT8EA==}
     engines: {node: '>=14'}
     peerDependencies:
       '@nuxt/kit': '*'
@@ -10095,7 +10085,7 @@ packages:
       open: 10.1.0
       perfect-debounce: 1.0.0
       picocolors: 1.1.1
-      sirv: 2.0.4
+      sirv: 3.0.0
       vite: 5.4.10
     transitivePeerDependencies:
       - rollup
@@ -10527,11 +10517,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d}
-    id: github.com/webo-agency/www/1b7e5d4f41782aa0f6f056e476189af2c3b5b82d
+  github.com/webo-agency/www/5c9b7650a68142dfebda5b49a294df5d5fb69fe8(@nuxt/devtools@1.6.1)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(typescript@5.6.3)(vite@5.4.10)(vue@3.5.13)(webpack@5.96.1):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/5c9b7650a68142dfebda5b49a294df5d5fb69fe8}
+    id: github.com/webo-agency/www/5c9b7650a68142dfebda5b49a294df5d5fb69fe8
     name: '@webo-agency/theme'
-    version: 3.7.50
+    version: 3.7.51
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
