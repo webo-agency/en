@@ -52,10 +52,10 @@ maxWidth: 640
 ### *1/* Services
 
 #title
-## We provide *internet solutions for companies*
+## What can we *do for you*
 
 #description
-We deliver optimal digital products. We are curious about your needs - they are the foundation of the solutions we offer.
+We know two things: **technology and design**. As a result, we realise **tailor-made websites**, taking care of the **highest quality**. With us, you will implement:
 ::::
 :::
 
@@ -71,7 +71,7 @@ delay: 1
 ##### Websites
 
 #description
-We create fast, modern and functional websites where your customers will quickly find what they are looking for.
+Solidly coded websites, designed to meet the needs of your business and achieve specific goals.
 
 #readMoreText
 Read more
@@ -87,7 +87,7 @@ link: 'https://www.webo.agency/services/e-commerce'
 ##### E-commerce
 
 #description
-Online stores with a seamless purchasing process, tailored to your company's needs. We create stores ready for further growth and expansion.
+Online stores with a seamless purchasing process, tailored to the individual needs of your business. We deliver shops that are prepared for further growth and expansion.
 
 #readMoreText
 Read more
