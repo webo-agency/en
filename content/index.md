@@ -176,87 +176,7 @@ Contact us. Let's talk!
 :::
 ::
 
-::page-section-md
----
-class: w-full mb-[100px] tablet:mb-[200px] bg-gray-light
----
-:::block-columns-img-md
----
-image.url: '/img/content-images/1solutions.png'
-imageMobile.url: '/img/content-images/1solutions_mobile.png'
----
-#subtitle
-### *2/* Scalable solutions
 
-#title
-## We'll choose the best solution for *your business*
-
-#description
-We approach each project individually, analyzing its specific needs. We utilize the latest technologies while also supporting popular solutions.
-:::
-
-:::effect-appear-md
-::::block-logos-slider-md
----
-class: pb-10 desktop:pb-[70px]
----
-
-:::::icon-logo-md
----
-imgUrl: /img/logos/drupal.png
-title: Drupal
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/vue.svg
-title: Vue
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/nuxt.svg
-title: Nuxt
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/tailwind.svg
-title: TailwindCSS
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/node.svg
-title: NodeJS
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/js.svg
-title: JavaScript
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/presta.svg
-title: PrestaShop
----
-:::::
-:::::icon-logo-md
----
-imgUrl: /img/logos/cloudflare.svg
-title: Cloudflare
----
-:::::
-
-
-#title
-Technologies we use
-
-::::
-:::
-::
 
 ::page-section-md
 ---
@@ -270,7 +190,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *3/* Case studies
+### *2/* Case studies
 
 #title
 ## We are proud of the projects <br>*we've completed*
@@ -290,7 +210,7 @@ moreBtn.linktitle: See all projects
 
 ::page-section-md
 ---
-class: bg-gray-darkest relative z-10 overflow-hidden mb-[100px] tablet:mb-[200px] pt-10 tablet:pt-[100px] [&_.right]:relative [&_.right]:flex [&_.right]:items-end
+class: bg-gray-darkest relative z-10 overflow-hidden pt-10 tablet:pt-[100px] [&_.right]:relative [&_.right]:flex [&_.right]:items-end
 ---
 
 :::block-columns-1-1-md
@@ -304,7 +224,7 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *4/* Our approach
+### *3/* Our approach
 
 #title
 ## Why is it worth *trusting us?*
@@ -315,6 +235,13 @@ class: mb-10 tablet:mb-20
 class: px-5 tablet:px-10
 ---
 Our team consists of solid scientific minds. We know technology like nothing else, we work with hard data, not guesswork.
+:::::::button-secondary-md
+---
+link: 'https://www.webo.agency/about-us'
+title: 'Learn more'
+---
+ 
+:::::::
 ::::::
 :::::
 ::::
@@ -420,6 +347,208 @@ class: mt-0 !pl-0 !mb-0 !w-[70%] !ml-0
 :::
 ::
 
+::page-section-md
+---
+classes: py-[100px] mb-10 tablet:mb-20 bg-green-gray
+---
+:::block-header-two-cols-md
+---
+class: mb-14
+maxWidth: 652
+decoration: false
+---
+
+#subtitle
+### *4/* Technologies we use
+
+#title
+## Wybierzemy najlepsze rozwiązanie *dla Twojego projektu*
+
+#description
+We approach each project **individually**, analysing its needs and **selecting optimal solutions**. We only use proven systems such as Wordpres / Drupal / Prestashop, **combining them with the latest technologies**.
+:::
+
+:::block-columns-2-5-md
+
+#left
+::::effect-appear-md
+:::::block-technologies-grid-md
+---
+tilesTight: false
+---
+#title
+Platformy
+
+#content
+::::::technology-tile-md
+--- 
+icon: '/img/icons/drupal-black.svg'
+---
+#title
+##### Drupal
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/presta-black.svg'
+---
+#title
+##### Prestashop
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/wordpress-black.svg'
+---
+#title
+##### Wordpress
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/woo-black.svg'
+---
+#title
+##### WooCommerce
+::::::
+:::::
+::::
+
+#right
+::::effect-appear-md
+:::::block-technologies-grid-md
+---
+tilesTight: true
+---
+#title
+Technologie
+
+#content
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/js-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### JavaScript
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/tailwind-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### Tailwind
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/php-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### PHP
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/nuxt-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### NUXT
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/nodejs-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### NodeJS
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/restapi-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### RestApi
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/typescript-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### TypeScript
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/threejs-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### ThreeJS
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/symfony-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### Symfony
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/vue-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### Vue.js
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/git-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### Git
+::::::
+
+::::::technology-tile-md
+--- 
+icon: '/img/icons/cloudflare-black.svg'
+link: ''
+tilesSmall: true
+---
+#title
+##### Cloudflare
+::::::
+:::::
+::::
+:::
+::
+
 
 ::page-section-md
 ---
@@ -466,6 +595,36 @@ text: See all our reviews
 #full
 :::effect-appear-md
 ::::block-opinions-md
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Wojciech Szamocki
+
+#title
+Marketing Department - **Thoro / SOLLUX**
+
+#message
+I recommend working with Webo. They **do tasks reliably** and **seek the best solutions**.
+
+:::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Łukasz Jarota
+
+#title
+Marketing Department - **CEO Agencja Grow**
+
+#message
+Working with the team is amazing. A **guarantee of quality**, **responsiveness and creativity**. Highly recommended!
+
+:::::
 :::::opinion-md
 ---
 rating: 5
