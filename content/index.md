@@ -619,7 +619,7 @@ rating: 5
 Łukasz Jarota
 
 #title
-Marketing Department - **CEO Agencja Grow**
+CEO & CO-OWNER - **Agencja Grow**
 
 #message
 Working with the team is amazing. A **guarantee of quality**, **responsiveness and creativity**. Highly recommended!
