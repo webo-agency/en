@@ -148,7 +148,7 @@ Describe your project
 #buttontext
 Send message
 #policytext
-We process data in accordance with our **privacy policy.**
+I agree to receive commercial information delivered electronically by Webo and to the processing of my personal data in accordance with the **[privacy policy](https://www.webo.agency/privacy-policy)**
 
 #thanksMessage
 ### Thank you for sending your message
