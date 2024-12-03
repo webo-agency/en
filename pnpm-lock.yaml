@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/2dcc5565032aa3cc647f0c76243f45c074b79840(@nuxt/devtools@1.6.2)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.2)(vue@3.5.13)(webpack@5.96.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
+    version: github.com/webo-agency/www/66708468201fd3edf0081d54305cf724fcd15bf7(@nuxt/devtools@1.6.2)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.2)(vue@3.5.13)(webpack@5.96.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
   nuxt:
     specifier: ^3.13.2
     version: 3.14.159(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.2)
@@ -4994,7 +4994,7 @@ packages:
   /bare-stream@2.4.2:
     resolution: {integrity: sha512-XZ4ln/KV4KT+PXdIWTKjsLY+quqCaEtqqtgGJVPw9AoM73By03ij64YjepK0aQvHSWDb6AfAZwqKaFu68qkrdA==}
     dependencies:
-      streamx: 2.20.2
+      streamx: 2.21.0
     dev: false
     optional: true
 
@@ -11005,8 +11005,8 @@ packages:
     resolution: {integrity: sha512-Bc3YwwCB+OzldMxOXJIIvC6cPRWr/LxOp48CdQTOkPyk/t4JWWJbrilwBd7RJzKV8QW7tJkcgAmeuLLJugl5/w==}
     dev: false
 
-  /streamx@2.20.2:
-    resolution: {integrity: sha512-aDGDLU+j9tJcUdPGOaHmVF1u/hhI+CsGkT02V3OKlHDV7IukOI+nTWAGkiZEKCO35rWN1wIr4tS7YFr1f4qSvA==}
+  /streamx@2.21.0:
+    resolution: {integrity: sha512-Qz6MsDZXJ6ur9u+b+4xCG18TluU7PGlRfXVAAjNiGsFrBUt/ioyLkxbFaKJygoPs+/kW4VyBj0bSj89Qu0IGyg==}
     dependencies:
       fast-fifo: 1.3.2
       queue-tick: 1.0.1
@@ -11331,7 +11331,7 @@ packages:
     dependencies:
       b4a: 1.6.7
       fast-fifo: 1.3.2
-      streamx: 2.20.2
+      streamx: 2.21.0
     dev: false
 
   /tar@6.2.1:
@@ -13040,11 +13040,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/2dcc5565032aa3cc647f0c76243f45c074b79840(@nuxt/devtools@1.6.2)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.2)(vue@3.5.13)(webpack@5.96.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/2dcc5565032aa3cc647f0c76243f45c074b79840}
-    id: github.com/webo-agency/www/2dcc5565032aa3cc647f0c76243f45c074b79840
+  github.com/webo-agency/www/66708468201fd3edf0081d54305cf724fcd15bf7(@nuxt/devtools@1.6.2)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.2)(vue@3.5.13)(webpack@5.96.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/66708468201fd3edf0081d54305cf724fcd15bf7}
+    id: github.com/webo-agency/www/66708468201fd3edf0081d54305cf724fcd15bf7
     name: '@webo-agency/theme'
-    version: 3.7.58
+    version: 3.7.59
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3

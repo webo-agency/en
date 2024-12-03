@@ -601,13 +601,28 @@ rating: 5
 ---
 
 #author
-Wojciech Szamocki
+Radosław Cyganek
 
 #title
-Marketing Department - **Thoro / SOLLUX**
+Executive - **Proton Multimedia**
 
 #message
-I recommend working with Webo. They **do tasks reliably** and **seek the best solutions**.
+Thanks to Webo's work, my client achieved higher positions in search engines, **improved user satisfaction and increased their engagement**. The company proactively **managed risk** and provided an alternative solution to achieve the client's goals. Their **responsiveness and creativity** were commendable.
+
+:::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Adam Przebinda
+
+#title
+Member of the Board - **DeltaHR**
+
+#message
+A highly professional company, individual approach to the client, **good and continuous communication** that allows for real-time project monitoring. **Every detail meticulously refined** just as I expected, I can confidently and with a clear conscience recommend them. **Knowledge, client approach, project timeline** - everything 10/10.
 
 :::::
 :::::opinion-md
@@ -623,6 +638,21 @@ CEO & CO-OWNER - **Agencja Grow**
 
 #message
 Working with the team is amazing. A **guarantee of quality**, **responsiveness and creativity**. Highly recommended!
+
+:::::
+:::::opinion-md
+---
+rating: 5
+---
+
+#author
+Wojciech Szamocki
+
+#title
+Marketing Department - **Thoro / SOLLUX**
+
+#message
+I recommend working with Webo. They **do tasks reliably** and **seek the best solutions**.
 
 :::::
 :::::opinion-md
@@ -668,36 +698,6 @@ Owner - **Caffe wasyl**
 
 #message
 **Thanks to Webo, I saved my business.**, They implemented my online store **within a month**. May there be more people like them!
-
-:::::
-:::::opinion-md
----
-rating: 5
----
-
-#author
-Adam Przebinda
-
-#title
-Member of the Board - **DeltaHR**
-
-#message
-A highly professional company, individual approach to the client, **good and continuous communication** that allows for real-time project monitoring. **Every detail meticulously refined** just as I expected, I can confidently and with a clear conscience recommend them. **Knowledge, client approach, project timeline** - everything 10/10.
-
-:::::
-:::::opinion-md
----
-rating: 5
----
-
-#author
-Radosław Cyganek
-
-#title
-Executive - **Proton Multimedia**
-
-#message
-Thanks to Webo's work, my client achieved higher positions in search engines, **improved user satisfaction and increased their engagement**. The company proactively **managed risk** and provided an alternative solution to achieve the client's goals. Their **responsiveness and creativity** were commendable.
 
 :::::
 ::::
