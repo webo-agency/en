@@ -2,7 +2,7 @@
 draft: true
 ---
 
-
+::effect-appear-md
 :::block-form-md
 ---
 darkContainer: true
@@ -112,3 +112,4 @@ class: hidden tablet:block max-w-full mt-10 tablet:mt-0 tablet:pl-10 desktop:pl-
 ::::
 
 :::
+::
