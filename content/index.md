@@ -203,6 +203,11 @@ class: mb-10 tablet:mb-20
 contentFolder: case-studies
 moreBtn.url: 'https://www.webo.agency/case-studies'
 moreBtn.linktitle: See all projects
+selectedSlugs:
+    - 5gmadetogether
+    - isw
+    - wallsociety
+    - mutiny-group
 ---
 
 :::
