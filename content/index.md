@@ -32,7 +32,7 @@ classes: mb-[50px] tablet:mb-[80px] pt-[80px] desktop:pt-[120px]
 :::svg-decorated
 ---
 decoration: true
-class: bottom-0 right-[10%] scale-x-[-1]
+class: bottom-0 right-[10%] scale-x-[-1] 
 ---
 :::
 :::svg-bg-dots
