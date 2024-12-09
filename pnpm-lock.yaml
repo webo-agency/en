@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
+    version: github.com/webo-agency/www/eb4ee78a821bab1a0303d0474e576d1ffdc4c926(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
   nuxt:
     specifier: ^3.13.2
     version: 3.14.159(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)
@@ -95,7 +95,7 @@ packages:
       '@babel/traverse': 7.25.9
       '@babel/types': 7.26.0
       convert-source-map: 2.0.0
-      debug: 4.3.7
+      debug: 4.4.0(supports-color@9.4.0)
       gensync: 1.0.0-beta.2
       json5: 2.2.3
       semver: 6.3.1
@@ -200,7 +200,7 @@ packages:
     engines: {node: '>=6.9.0'}
     dependencies:
       '@babel/traverse': 7.25.9
-      '@babel/types': 7.26.0
+      '@babel/types': 7.26.3
     transitivePeerDependencies:
       - supports-color
 
@@ -1168,7 +1168,7 @@ packages:
       '@babel/parser': 7.26.2
       '@babel/template': 7.25.9
       '@babel/types': 7.26.0
-      debug: 4.3.7
+      debug: 4.4.0(supports-color@9.4.0)
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
@@ -5856,7 +5856,6 @@ packages:
     dependencies:
       ms: 2.1.3
       supports-color: 9.4.0
-    dev: false
 
   /decode-named-character-reference@1.0.2:
     resolution: {integrity: sha512-O8x12RzrUF8xyVcY0KJowWsmaJxQbmy0/EtnNtHRpsOcT7dFk5W598coHqBVpmWo1oQQfsCqfCmkZN5DJrZVdg==}
@@ -11278,7 +11277,6 @@ packages:
   /supports-color@9.4.0:
     resolution: {integrity: sha512-VL+lNrEoIXww1coLPOmiEmK/0sGigko5COxI09KzHc2VJXJsQ37UaQ+8quuxjDeA7+KnLGTWRyOXSLLR2Wb4jw==}
     engines: {node: '>=12'}
-    dev: false
 
   /supports-preserve-symlinks-flag@1.0.0:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
@@ -13111,11 +13109,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/d95604c92deb265d8ab7affc1945ce47ce9a92a4}
-    id: github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4
+  github.com/webo-agency/www/eb4ee78a821bab1a0303d0474e576d1ffdc4c926(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/eb4ee78a821bab1a0303d0474e576d1ffdc4c926}
+    id: github.com/webo-agency/www/eb4ee78a821bab1a0303d0474e576d1ffdc4c926
     name: '@webo-agency/theme'
-    version: 3.7.66
+    version: 3.7.67
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
