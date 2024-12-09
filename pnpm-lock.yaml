@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/00220db061c05e9e6d56926661221722dcfe4bc0(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
+    version: github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0)
   nuxt:
     specifier: ^3.13.2
     version: 3.14.159(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)
@@ -13111,11 +13111,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/00220db061c05e9e6d56926661221722dcfe4bc0(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/00220db061c05e9e6d56926661221722dcfe4bc0}
-    id: github.com/webo-agency/www/00220db061c05e9e6d56926661221722dcfe4bc0
+  github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4(@nuxt/devtools@1.6.3)(@vue/compiler-core@3.5.13)(browserslist@4.24.2)(h3@1.13.0)(markdown-it@14.1.0)(postcss@8.4.49)(rollup@2.79.2)(typescript@5.6.3)(vite@6.0.3)(vue@3.5.13)(webpack@5.97.1)(workbox-build@7.3.0)(workbox-window@7.3.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/d95604c92deb265d8ab7affc1945ce47ce9a92a4}
+    id: github.com/webo-agency/www/d95604c92deb265d8ab7affc1945ce47ce9a92a4
     name: '@webo-agency/theme'
-    version: 3.7.65
+    version: 3.7.66
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
