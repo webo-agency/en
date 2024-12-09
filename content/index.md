@@ -7,7 +7,7 @@ sitemap:
 ---
 ::block-hero-md
 ---
-button.title: Read more
+button.title: Read about Webo
 button.link: https://www.webo.agency/services/websites
 ---
 
@@ -243,7 +243,7 @@ Our team consists of solid scientific minds. We know technology like nothing els
 :::::::button-secondary-md
 ---
 link: 'https://www.webo.agency/about-us'
-title: 'Learn more'
+title: 'Learn more about us'
 ---
  
 :::::::
