@@ -47,7 +47,7 @@ export const onRequest = (context) => {
           acceptance: (formData.get("acceptance") || 0).toString(),
           service: (formData.get("service") || 0).toString(),
           email: (formData.get("mail") || "").toString(),
-          subject: `Thank you for contact ${formData.get("name") || ""}`
+          subject: `Thank you for contact, ${formData.get("name") || ""}`
         };
 
         let dataObject = {
