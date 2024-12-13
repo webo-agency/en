@@ -1,25 +1,25 @@
 <mjml>
     <mj-head>
-     <mj-font name="Montserrat"
-       href="https://fonts.googleapis.com/css?family=Montserrat" />
+     <mj-font name="Roboto"
+       href="https://fonts.googleapis.com/css?family=Roboto" />
    </mj-head>
   <mj-body background-color="#fff">
     <mj-section>
       <mj-column>
-        <mj-text font-weight="bold" align="center" color="#000" font-family="Montserrat" padding-bottom="10px">
+        <mj-text font-weight="bold" align="center" color="#000" font-family="Roboto" padding-bottom="10px">
             <h1>Thank you for contacting us!</h1>
         </mj-text>
-        <mj-text align="center" font-size="16px" color="#000" font-family="Montserrat" padding-bottom="0px">
+        <mj-text align="center" font-size="16px" color="#000" font-family="Roboto" padding-bottom="0px">
             We will reply to your message as soon as possible.
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-weight="bold" color="#000" font-family="Montserrat" padding-bottom="0px">
+        <mj-text font-weight="bold" color="#000" font-family="Roboto" padding-bottom="0px">
             <h2>Form data:</h2>
         </mj-text>
-        <mj-text font-size="14px" color="#000" font-family="Montserrat" padding-bottom="60px">
+        <mj-text font-size="14px" color="#000" font-family="Roboto" padding-bottom="60px">
             <b>Name:</b> {{name}}<br><br>
             <b>Company:</b> {{company}}<br><br>
             <b>Phone:</b> {{phone}}<br><br>
@@ -32,7 +32,7 @@
     <mj-section background-color="#010302" background-url="https://www.webo.agency/img/mail/mail-footer-bg.png" background-size="150px" background-repeat="no-repeat" background-position="bottom right">
       <mj-column>
         <mj-image padding-bottom="40px" width="100px" src="https://www.webo.agency/img/mail/mail-footer-logo.png"></mj-image>
-        <mj-text align="center" font-size="13px" color="#fff" font-family="Montserrat"><a href="https://www.webo.agency" style="color: #fff;text-decoration:none;">Webo agency<a></mj-text>
+        <mj-text align="center" font-size="13px" color="#fff" font-family="Roboto"><a href="https://www.webo.agency" style="color: #fff;text-decoration:none;">Webo agency<a></mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
