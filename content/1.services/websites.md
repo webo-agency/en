@@ -31,17 +31,16 @@ We create tailored websites, designing an individual look for you and coding fro
 #right
 :::block-banner-decoration-md
 ---
-rotate_bl: 90
-rotate_tr: 90
-svgUrl_bl: '/img/svg-square.svg'
-svgUrl_tr: '/img/svg-arc.svg'
+svgUrl_tl: '/img/svg-arc.svg'
+svgUrl_br: '/img/svg-square.svg'
 ---
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: mb-5 tablet:mb-32
+classes: mb-10 desktop:mb-[200px]
 ---
 
 :::block-columns-1-1-md
@@ -52,29 +51,28 @@ classes: mb-5 tablet:mb-32
 ---
 center: false
 maxWidth: 700
-class: mb-20
+class: mb-[60px]
 ---
 
 #subtitle
-### *1/* Professional websites
+### *1/* Quality matters to us
 
 #title
-## Experienced team *for special tasks*
-
+## We create robust websites <br>*for ambitious companies*.
 :::::
 
 :::::prose-p-3
 ---
-class: max-w-[650px] [&_p]:desktop:!mb-5 [&_p]:!leading-8
+class: max-w-[650px] mb-5 [&_p]:!leading-8
 --- 
-We don't use templates or ready-made solutions. We implement websites from scratch, using only proven and modern technologies, as well as clear technological processes. This allows us to ensure the highest quality, performance, and security. 
+We do not use templates or off-the-shelf products. We program **websites from scratch**, using only **proven and modern technologies** and clear processes and standardisation. This ensures the highest quality, performance and security, **guaranteeing stable website performance**, for years to come.
 :::::
 
 :::::prose-p-4
 ---
-class: static-content max-w-[650px]
+class: static-content max-w-[650px] mb-5 [&_p]:!leading-[28px]
 --- 
-From the UX/UI design of the website, through backend and frontend development, to post-launch support, we provide services at every stage of the product life.
+From a design workshop during which we choose the optimal technology, to **UX strategy and website interface design**, programming implementation, to **development and technical support** - with us you will comprehensively realise a website that will be a solid tool for your business.
 :::::
 ::::
 
@@ -83,17 +81,99 @@ From the UX/UI design of the website, through backend and frontend development, 
 ---
 class: h-full relative
 ---
-:::::img-decorated-md
+
+:::::effect-parallax-md
+---
+parallaxScale: 0.1
+startBottom: true
+class: overflow-hidden desktop:overflow-visible
+---
+
+::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-internetowe/section1-right-img.png'
 decoration: false
-class: tablet:w-auto !w-full desktop:scale-[1.1] desktop-wide:scale-[1.2] fullHd:scale-[1.3] tablet:!pl-14 desktop-wide:!pl-20
+class: tablet:w-auto !w-full desktop:mt-[-230px] desktop:-mr-10 tablet:!pl-20 desktop-wide:!pl-20
 ---
+::::::
 :::::
 ::::
 :::
 ::
 
+::page-section-md
+---
+classes: mb-5 tablet:mb-32
+---
+
+:::block-columns-1-1-md
+---
+class: w-auto [&_div.left]:!basis-[40%] [&_div.right]:!basis-[60%]
+reverseMobile: true
+---
+
+
+#left
+::::effect-appear-md
+---
+class: h-full relative
+---
+
+:::::effect-parallax-md
+---
+parallaxScale: 0.09
+startBottom: true
+class: overflow-hidden desktop:overflow-visible
+---
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-internetowe/section2-left-img.png'
+decoration: false
+class: desktop:!pr-16 !w-full
+---
+::::::
+:::::
+::::
+
+#right
+::::effect-appear-md
+:::::block-header-md
+---
+center: false
+maxWidth: 700
+class: mb-[60px] desktop:mt-[100px]
+---
+
+#subtitle
+### *2/* What websites do we deliver?
+
+#title
+## Websites, platforms and dedicated web solutions
+:::::
+
+:::::prose-p-3
+---
+class: max-w-full mb-10 [&_p]:!leading-8 desktop:[&_p]:text-lg
+--- 
+Whether you need a **sales landing page**, a dedicated web solution or an **extensive website** for your business - our team are flesh-and-blood developers with experience in **the most complex projects**. We will be happy to realise for you:
+:::::
+
+:::::prose-p-3
+---
+class: max-w-full bg-green-gray p-5 tablet:p-10 mb-10 [&_p]:!leading-8 desktop:text-[20px] !font-semibold [&_p]:!leading-[40px]
+--- 
+*/*&nbsp;Landing page&nbsp;&nbsp;&nbsp; */*&nbsp;Websites for companies and&nbsp;institutions&nbsp;&nbsp; */*&nbsp;Educational platforms&nbsp;&nbsp; &nbsp; */*&nbsp;Websites&nbsp;&nbsp;&nbsp; */*&nbsp;Information platforms&nbsp;&nbsp;&nbsp; */*&nbsp;Websites with&nbsp;WCAG&nbsp;2.1&nbsp;&nbsp;&nbsp; */*&nbsp;Dedicated solutions
+:::::
+::::
+:::
+
+:::svg-bg-dots
+---
+decoration: true
+class: tablet:top-0 right-0
+---
+:::
+::
 
 ::page-section-md
 ---
@@ -101,14 +181,6 @@ classes: mb-5 tablet:mb-[100px]
 ---
 
 :::effect-appear-md
-
-:::svg-bg-dots
----
-decoration: true
-class: tablet:-top-64 right-0
----
-:::
-
 ::::block-header-md
 ---
 center: true
@@ -132,15 +204,16 @@ icon: '/img/icons/wordpress.svg'
 link: 'https://www.webo.agency/services/wordpress-websites'
 ---
 #title
-##### Wordpress
+#### Wordpress
 
 #description
 The most popular and easiest to use content management system, perfect for company websites, small portals and landing pages.
 
 #readMoreText
 Read more
-
 ::::
+
+
 
 ::::offer-tile-md
 --- 
@@ -149,7 +222,7 @@ link: 'https://www.webo.agency/contact'
 delay: 1
 ---
 #title
-##### Drupal
+#### Drupal
 
 #description
 A flexible and incredibly scalable content management system that can be used to successfully create extensive corporate websites, advanced websites and institutional websites.
@@ -165,7 +238,7 @@ link: 'https://www.webo.agency/contact'
 delay: 2
 ---
 #title
-##### Wordpress + Headless
+#### Wordpress + Headless
 
 #description
 Traditional Wordpress combined with new technology = ultra-fast page loading, highest security, multi-channel and unlimited scaling.
@@ -189,18 +262,11 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ---
 :::
 
-::::svg-bg-dots
----
-decoration: true
-class: block desktop:hidden top-0 right-0
----
-::::
-
 ::::block-cta-md
 ---
 maxWidth: 800
 button.link: https://www.webo.agency/contact
-button.title: 'GET IN TOUCH'
+button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36
 ---
@@ -215,16 +281,11 @@ Find out which solution will be optimal for your business
 :::
 ::
 
+
 ::page-section-md
 ---
 classes: mb-10 tablet:mb-20
 ---
-
-:::block-bg-map-md
----
-class: -z-10
----
-:::
 
 :::effect-appear-md
 ::::block-header-md
@@ -235,7 +296,7 @@ class: mb-20
 ---
 
 #subtitle
-### *3/* The highest website standards?
+### *4/* The highest website standards?
 
 #title
 ## When creating websites, we focus on
@@ -245,7 +306,7 @@ class: mb-20
 
 :::block-columns-1-1-md
 ---
-class: mb-10 tablet:mb-20 pb-20 tablet:pb-[100px]
+class: mb-10 tablet:mb-20
 ---
 
 #left
@@ -257,8 +318,9 @@ decoration: false
 ---
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/doc_bg.svg'
+iconUrl: '/img/icons/doc_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -271,8 +333,9 @@ We always rely on the technical documentation of the solutions we use. Thanks to
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/uxui_bg.svg'
+iconUrl: '/img/icons/uxui_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -286,8 +349,9 @@ In interface design, your requirements and user needs are crucial to us. We desi
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/scaling_bg.svg'
+iconUrl: '/img/icons/scaling_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -306,8 +370,9 @@ The goal of running a business is its development. We prioritize long-term solut
 :::::block-list-ul-md
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/code_bg.svg'
+iconUrl: '/img/icons/code_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -320,8 +385,9 @@ Webo is a team of real-life programmers, we do not use poor-quality ready-made p
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/weight_bg.svg'
+iconUrl: '/img/icons/weight_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -334,8 +400,9 @@ Our task is to provide a stable website. This is an investment that is intended 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/tests_bg.svg'
+iconUrl: '/img/icons/tests_bg_gray.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -350,9 +417,12 @@ We carry out detailed quality and functioning checks of the website. We perform 
 :::
 ::
 
+
+
+
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px]
 ---
 
 :::effect-appear-md
@@ -362,14 +432,14 @@ class: relative z-20
 
 ::::block-header-md
 ---
-maxWidth: 590
+maxWidth: 690
 class: mb-10 tablet:mb-20
 textWhite: true
 center: true
 ---
 
 #title
-## Why does a high-quality website *pay off?*
+## Why does a high-quality<br> website *pay off?*
 
 ::::
 :::::block-list-ul-md
@@ -419,20 +489,29 @@ iconDecorated: true
 Qualitative implementation means certainty of the website's operation, among others: no performance issues or errors blocking opening and maximizing data security.
 
 ::::::
+
 :::::
 :::
 
 #full
 :::effect-appear-md
-::::prose-figure
+::::effect-parallax-md
+---
+parallaxScale: 0.08
+startBottom: true
+class: overflow-hidden
+---
+:::::prose-figure
 ---
 src: '/img/content-images/strony-internetowe/section4.png'
 rounded: false
 ---
-
+:::::
 ::::
 :::
 ::
+
+
 
 
 ::page-section-md
@@ -440,21 +519,21 @@ rounded: false
 classes: mb-10 tablet:mb-20
 ---
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
-maxWidth: 845
-class: mb-20
+class: mb-10 tablet:mb-20 [&_.description]:!text-base
+maxWidth: 640
+decoration: false
 ---
 
 #subtitle
-### *5/* Stages of Website Development
+## *6/* Stages of Website Development
 
 #title
 ## We approach website development *in stages*
 
 #description
 Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
-
 ::::
 :::
 
@@ -546,7 +625,6 @@ After approving the interface design, we begin work on the comprehensive impleme
 ::::
 
 
-
 ::::block-swiper-tabs-slide-md
 ---
 icon: '/img/icons/www-tests.svg'
@@ -602,7 +680,21 @@ Publication of the site is often only the beginning, and during the use of the s
 :::
 ::
 
+::::block-cta-md
+---
+maxWidth: 640
+button.link: https://www.webo.agency/kontakt
+button.title: 'Get in touch'
+button.isWide: true
+class: tablet:mb-36
+---
 
+#title
+#### Need a *solid website,* to help your business grow?
+
+#description
+Make an appointment for a free consultation and talk to an expert.
+::::
 
 
 
@@ -614,14 +706,14 @@ class: mb-[80px] tablet:mb-[130px]
 :::effect-appear-md
 ::::block-header-md
 ---
-class: mb-10 tablet:mb-20
+class: mb-10 tablet:mb-20 max-w-[500px]
 ---
 
 #subtitle
-### *6/* Our website projects
+### *7/* Our latest projects
 
 #title
-## We are proud of the projects *we've completed*
+## See our realisations of sites *that we are proud of*.
 
 ::::
 :::
@@ -631,11 +723,13 @@ class: mb-10 tablet:mb-20
 contentFolder: case-studies
 moreBtn.url: 'https://www.webo.agency/case-studies'
 moreBtn.linktitle: See all projects
+selectedSlugs:
+    - 5gmadetogether
+    - isw
 ---
 
 :::
 ::
-
 
 ::page-section-md
 ---
@@ -649,7 +743,7 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *7/* Our clients
+### *8/* Our clients
 
 #title
 ## Get to know the companies that *trusted us*
@@ -663,8 +757,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::
