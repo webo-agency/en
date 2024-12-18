@@ -31,7 +31,7 @@ footer:
 general:
     lang: EN
     brandName: Webo agency
-    address: ul. Lipowa 58C, 44-100 Gliwice
+    address: ul. Zwycięstwa 10, 44-100 Gliwice
     mail: info@webo.agency
     tel: '+48721733397'
     clutchLink: https://clutch.co/profile/webo

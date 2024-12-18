@@ -212,7 +212,7 @@ class: mb-20 tablet:mb-[130px]
 
 - **NIP:** 631 261 36 26
 - **REGON:** 382 471 232
-- **Adres:** Lipowa 58C, <br> 44-100 Gliwice, Poland
+- **Adres:** Zwycięstwa 10, <br> 44-100 Gliwice, Poland
 
 :::
 ::
