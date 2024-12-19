@@ -65,14 +65,14 @@ maxWidth: 690
 #description
 :::::prose-p-3
 ---
-class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-5 [&_p]:!leading-8 [&_p]:!mb-0
 --- 
 Website administration is a time-consuming task - including updates, responding to failures and development work. What if you had an experienced team that would take over your responsibilities, advise on UX and IT and complete the work faster?
 :::::
 
 :::::prose-p-4
 ---
-class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-0 [&_p]:!leading-7 [&_p]:!mb-0 text-base
 ---
 Technical support means, above all, saving the time you spend on running a website, but also security and freedom in planning development. In the event of a failure, you do not have to waste valuable time looking for help, and whenever the need for development arises, you have an experienced team of designers and programmers at hand who will be happy to implement your plans.
 :::::
@@ -261,7 +261,7 @@ class: relative z-20
 ::::block-header-md
 ---
 maxWidth: 600
-class: mb-10 tablet:mb-20 [&_.title]:!max-w-[500px]
+class: mb-10 tablet:mb-20
 textWhite: true
 center: true
 ---
@@ -402,6 +402,7 @@ decoration: false
 ---
 iconUrl: '/img/icons/ide_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -417,6 +418,7 @@ Before publishing the changes, we prepare all work in a special development envi
 class: tablet:mb-8 desktop:mb-6
 iconUrl: '/img/icons/phone_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -431,6 +433,7 @@ We assign an individual supervisor for your website, whom you can call or write 
 ---
 iconUrl: '/img/icons/timer_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -452,6 +455,7 @@ We give you full control - we start implementation when you give us the green li
 ---
 iconUrl: '/img/icons/headset_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -466,6 +470,7 @@ Thanks to it, you can add tasks, set priorities, view work status and communicat
 ---
 iconUrl: '/img/icons/support_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -480,6 +485,7 @@ After the end of each month, we send a report with a summary of work, including 
 ---
 iconUrl: '/img/icons/file_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -531,13 +537,13 @@ icon: '/img/icons/services-calendar.svg'
 #content
 :::::prose-p3
 ---
-class: mb-5
+class: mb-5 leading-8 text-lg
 --- 
 In the subscription model, we establish a package of hours that you can use each month for the work of specialists (designers and programmers). The number of hours in the package is selected individually based on your needs and website development plans.
 :::::
 :::::prose-p4
 ---
-class: mb-0
+class: mb-0 leading-7
 --- 
 You don't have to worry about our availability, you can freely plan your work on the website. Regardless of our workload, a package of hours is guaranteed every month.
 :::::
@@ -555,13 +561,13 @@ icon: '/img/icons/services-worktime.svg'
 #content
 :::::prose-p3
 ---
-class: mb-5
+class: mb-5 leading-8 text-lg
 --- 
 If you have smaller needs and do not plan constant monthly work on the website, we understand that. In the flexible model, we carry out work on an order basis, each time setting a completion date.
 :::::
 :::::prose-p4
 ---
-class: tablet:mb-16 desktop:mb-20
+class: tablet:mb-16 desktop:mb-20 leading-7
 ---
 You only pay when you need our support, you can count on our advice and support in the event of a failure, and at the same time you avoid fixed costs.
 :::::
@@ -611,13 +617,13 @@ class: mb-10 tablet:mb-16
 #description
 ::::::prose-p-3
 ---
-class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-5 [&_p]:!leading-8 [&_p]:!mb-0
 --- 
 Regardless of the cooperation model you choose, you will receive access to our reporting system using the JIRA tool.
 ::::::
 ::::::prose-p-4
 ---
-class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-0 [&_p]:!leading-7 text-base [&_p]:!mb-0
 ---
 Thanks to HelpDesk, you can add tasks, set priorities, view work status and communicate with the IT team - all at hand in one place. At the end of the month, we prepare a report on the work performed, which includes the time and estimation of each task.
 ::::::
@@ -686,8 +692,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::

@@ -321,7 +321,7 @@ rounded: false
 class: mb-[50px] tablet:mb-[100px]
 ---
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
 maxWidth: 840
 class: mb-10 tablet:mb-[60px]
@@ -482,6 +482,7 @@ decoration: false
 ---
 iconUrl: '/img/icons/journey_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -496,6 +497,7 @@ Defines the emotions experienced by users while interacting with the interface. 
 ---
 iconUrl: '/img/icons/path_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -511,6 +513,7 @@ This is a diagram defining the path that user must follow on the website in orde
 ---
 iconUrl: '/img/icons/design-system_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -532,6 +535,7 @@ This is a collection of guidelines and standard elements (e.g. different version
 ---
 iconUrl: '/img/icons/architecture_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -546,6 +550,7 @@ Information architecture is responsible for organizing and dividing the content 
 ---
 iconUrl: '/img/icons/ui-design_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -560,6 +565,7 @@ It is a graphical presentation of the arrangement elements on a page, that allow
 ---
 iconUrl: '/img/icons/project_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -650,8 +656,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::

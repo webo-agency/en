@@ -70,7 +70,7 @@ We do not use templates or off-the-shelf products. We program **websites from sc
 
 ::::::prose-p-4
 ---
-class: text-base max-w-[650px] mb-5 [&_p]:!leading-[28px]
+class: text-base max-w-[650px] mb-5 [&_p]:!leading-7
 --- 
 From a design workshop during which we choose the optimal technology, to **UX strategy and website interface design**, programming implementation, to **development and technical support** - with us you will comprehensively realise a website that will be a solid tool for your business.
 ::::::
@@ -522,7 +522,7 @@ classes: mb-10 tablet:mb-20
 :::effect-appear-md
 ::::block-header-two-cols-md
 ---
-class: mb-10 tablet:mb-20 [&_.description]:!text-base
+class: mb-10 [&_.description]:!text-base
 maxWidth: 640
 decoration: false
 ---

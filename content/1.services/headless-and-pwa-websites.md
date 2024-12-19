@@ -58,11 +58,14 @@ class: items-center
 #description
 ::::::prose-p-4
 ---
-class: mb-10
+class: mb-5 leading-8
 ---
 Websites built with **Headless architecture** involve separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is done through APIs.
 ::::::
 ::::::prose-p-4
+---
+class: leading-7 text-base
+---
 This solution allows you, among other things, to **publish content across multiple channels** such as a website and a mobile application. Additionally, you significantly enhance the performance and **security of the website**, because the user only has access to the frontend layer while the entire system is lighter and **much faster**.
 ::::::
 
@@ -123,11 +126,14 @@ class: mb-10
 #description
 ::::::prose-p-4
 ---
-class: mb-10
+class: mb-5 leading-8
 ---
 Our solution is a combination of **headless architecture** with the popular **WordPress CMS** solution. With it, you can continue to use WordPress with all its elements and enjoy all the benefits of a modern architecture.
 ::::::
 ::::::prose-p-4
+---
+class: leading-7 text-base
+---
 You gain ultra-speed, performance, security, and multi-channel capabilities, while still being able to benefit from the functionality and ease of editing of WP.
 ::::::
 :::::
@@ -249,7 +255,7 @@ Headless CMS allows you to deliver content not only to traditional websites, but
 :::effect-appear-md
 ::::prose-figure
 ---
-src: '/img/content-images/wsparcie-i-rozwoj/section3.png'
+src: '/img/content-images/strony-headless-pwa/fullwidth.png'
 rounded: false
 ---
 ::::
@@ -544,10 +550,10 @@ animated: false
 classes: mb-10 tablet:mb-20
 ---
 :::effect-appear-md
-::::block-header-md
+::::block-header-two-cols-md
 ---
+class: mb-20 [&_.description]:!text-base
 maxWidth: 845
-class: mb-20
 ---
 
 #subtitle
@@ -766,8 +772,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::

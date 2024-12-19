@@ -68,14 +68,14 @@ maxWidth: 690
 #description
 :::::prose-p-3
 ---
-class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-5 [&_p]:!leading-8 [&_p]:!mb-0
 --- 
 An online store is often the heart of a business. Imagine that your business is growing, more and more customers are visiting your online store and you need new functions. We think about such situations from the very beginning, from choosing the platform, through preparing the infrastructure, to **designing and programming the store** enabling development.
 :::::
 
 :::::prose-p-4
 ---
-class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-0 [&_p]:!leading-7 [&_p]:!mb-0 text-base
 ---
 We also pay special attention to the stability of the system. We use modern tools to ensure continuity of sales - uninterrupted operation is the basis that directly affects profitability.
 :::::
@@ -246,6 +246,7 @@ decoration: false
 ---
 iconUrl: '/img/icons/translation_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -260,6 +261,7 @@ We provide online stores enabling the sale of products on foreign markets. Depen
 ---
 iconUrl: '/img/icons/uxui_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -275,6 +277,7 @@ When designing an online store, we focus on shopping comfort. Your customer will
 ---
 iconUrl: '/img/icons/gear_code_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -296,6 +299,7 @@ If your store needs unusual functions that will help you stay ahead of the compe
 ---
 iconUrl: '/img/icons/integration_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -310,6 +314,7 @@ We implement, among others: warehouse management systems, payment and delivery g
 ---
 iconUrl: '/img/icons/configurator_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -324,6 +329,7 @@ If your business offers the production of custom-made products, we can create a 
 ---
 iconUrl: '/img/icons/process_bg.svg'
 iconBig: true
+iconLeft: true
 animated: false
 ---
 
@@ -671,13 +677,13 @@ class: mb-10 tablet:mb-16 tablet:mt-10
 #description
 ::::::prose-p-3
 ---
-class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-5 [&_p]:!leading-8 [&_p]:!mb-0
 --- 
 Creating an online store is just the beginning, we are starting an adventure that is full of challenges. Marketing campaigns, sales optimization, development of new ideas, race with the competition. We will be happy to support you in this.
 ::::::
 ::::::prose-p-4
 ---
-class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
+class: mb-0 [&_p]:!leading-7 [&_p]:!mb-0 text-base
 ---
 For the above-mentioned tasks, it is worth having a trusted and experienced team of designers and programmers who are ready to act whenever the need arises.
 ::::::
@@ -745,8 +751,6 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 class: mb-20 tablet:mb-[130px]
 ---
-:::effect-appear-md
-::::block-form-before-footer-md
-::::
+:::block-form-before-footer-md
 :::
 ::

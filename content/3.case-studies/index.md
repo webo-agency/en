@@ -46,6 +46,9 @@ link: 'https://www.is-wireless.com/'
 
 #description
 :::::prose-p3
+---
+class: leading-8
+---
 **is-wireless.com** is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security.
 :::::
 

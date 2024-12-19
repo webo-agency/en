@@ -97,6 +97,7 @@ Fill out the form
 ---
 name: name
 type: text
+required: true
 ---
 
 #placeholder
@@ -107,6 +108,7 @@ Your name
 ---
 name: company
 type: text
+required: true
 ---
 
 #placeholder
@@ -116,6 +118,7 @@ Company name
 ::::form-field-md
 ---
 type: email
+required: true
 ---
 
 #placeholder
@@ -127,6 +130,7 @@ Your e-mail adress
 ---
 name: phone
 type: tel
+required: true
 ---
 
 #placeholder
@@ -138,6 +142,7 @@ Phone number
 ---
 name: description
 type: textarea
+required: true
 ---
 
 #placeholder
