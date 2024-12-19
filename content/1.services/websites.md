@@ -59,20 +59,21 @@ class: mb-[60px]
 
 #title
 ## We create robust websites <br>*for ambitious companies*.
-:::::
 
-:::::prose-p-3
+#description
+::::::prose-p-3
 ---
 class: max-w-[650px] mb-5 [&_p]:!leading-8
 --- 
 We do not use templates or off-the-shelf products. We program **websites from scratch**, using only **proven and modern technologies** and clear processes and standardisation. This ensures the highest quality, performance and security, **guaranteeing stable website performance**, for years to come.
-:::::
+::::::
 
-:::::prose-p-4
+::::::prose-p-4
 ---
-class: static-content max-w-[650px] mb-5 [&_p]:!leading-[28px]
+class: text-base max-w-[650px] mb-5 [&_p]:!leading-[28px]
 --- 
 From a design workshop during which we choose the optimal technology, to **UX strategy and website interface design**, programming implementation, to **development and technical support** - with us you will comprehensively realise a website that will be a solid tool for your business.
+::::::
 :::::
 ::::
 
