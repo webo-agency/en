@@ -11,12 +11,12 @@
     "dev-f": "npx wrangler pages dev . --compatibility-date=2024-10-23",
     "deploy": "pnpm run generate",
     "generate-mail": "mjml ./mail/template.mjml --config.beautify true --config.minify true -o ./mail/template.html"
-
   },
   "packageManager": "pnpm@8.5.1",
   "dependencies": {
     "@cloudflare/pages-plugin-static-forms": "^1.0.3",
     "@webo-agency/theme": "github:webo-agency/www#main",
+    "email-validator": "^2.0.4",
     "mjml": "^4.15.3",
     "nuxt": "^3.13.2"
   },
