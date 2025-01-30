@@ -98,7 +98,7 @@ export const onRequest = (context) => {
         let receiverObject = {
           config:{
             ...senderObject.config,
-            reply_to: context.env.EMAIL_REPLY_TO,
+            reply_to: vars.email,
           },
           vars: {
             ...vars,
