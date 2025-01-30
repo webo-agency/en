@@ -103,6 +103,9 @@ I agree to receive commercial information delivered electronically by Webo and t
 #thanksDescription
 We will respond to your message within 24 hours
 
+#errorMessage
+Unfortunately, we have a temporary problem with the operation of the form. Send an email to <a href="mailo:info@webo.agency">info@webo.agency</a>.
+
 #side
 ::::svg-decor-big-md
 ---
