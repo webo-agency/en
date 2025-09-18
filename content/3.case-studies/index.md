@@ -2,8 +2,8 @@
 name: Case studies
 showInNav: true
 hreflangs:
-    EN: '/case-studies'
-    PL: '/realizacje'
+    EN: '/case-studies/'
+    PL: '/realizacje/'
 
 ---
 ::page-section-md
@@ -108,7 +108,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 ---
 

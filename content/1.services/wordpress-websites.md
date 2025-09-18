@@ -8,8 +8,8 @@ showInNav: false
 draft: false
 public: true
 hreflangs:
-    EN: '/services/wordpress-websites'
-    PL: '/uslugi/strony-wordpress'
+    EN: '/services/wordpress-websites/'
+    PL: '/uslugi/strony-wordpress/'
 ---
 ::block-banner-md
 ---
@@ -209,8 +209,8 @@ class: block desktop:hidden top-0 right-0
 ::::block-cta-md
 ---
 maxWidth: 730
-button.link: https://www.webo.agency/contact
-button.title: 'Skontaktuj się z nami'
+button.link: https://webo.agency/contact/
+button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
@@ -723,7 +723,7 @@ class: block desktop:hidden top-0 right-0
 ::::block-cta-md
 ---
 maxWidth: 730
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Skontaktuj się z nami'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
@@ -762,7 +762,7 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
 

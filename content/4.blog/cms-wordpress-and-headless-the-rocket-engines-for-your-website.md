@@ -6,8 +6,8 @@ category:
     - Technology
 image.url: '/img/blog-images/webo_blog_headless_wp.jpg'
 hreflangs:
-    EN: '/blog/cms-wordpress-and-headless-the-rocket-engines-for-your-website'
-    PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www'
+    EN: '/blog/cms-wordpress-and-headless-the-rocket-engines-for-your-website/'
+    PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www/'
 public: true
 draft: false
 ---
@@ -108,7 +108,7 @@ class: mb-20 tablet:mb-[100px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/blog'
+url: 'https://webo.agency/blog/'
 linktitle: See all posts
 ---
 
@@ -134,7 +134,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 maxWidth: 560

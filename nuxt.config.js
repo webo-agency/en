@@ -5,6 +5,6 @@ export default defineNuxtConfig({
   target: "static",
   modules: ["@nuxthq/studio"],
   site:{
-    url: 'https://www.webo.agency',
+    url: 'https://webo.agency',
   },
 });

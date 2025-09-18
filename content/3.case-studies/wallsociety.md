@@ -14,6 +14,6 @@ public: false
 draft: true
 tile_order: 10
 hreflangs:
-    EN: '/case-studies/wallsociety'
-    PL: '/realizacje/wallsociety'
+    EN: '/case-studies/wallsociety/'
+    PL: '/realizacje/wallsociety/'
 ---

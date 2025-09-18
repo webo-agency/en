@@ -5,8 +5,8 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/services/headless-and-pwa-websites'
-    PL: '/uslugi/strony-headless-pwa'
+    EN: '/services/headless-and-pwa-websites/'
+    PL: '/uslugi/strony-headless-pwa/'
 ---
 ::block-banner-md
 ---
@@ -163,7 +163,7 @@ class: block desktop:hidden top-0 right-0
 ::::block-cta-md
 ---
 maxWidth: 730
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'GET IN TOUCH'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
@@ -738,7 +738,7 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
 

@@ -13,8 +13,8 @@ tile_order: 2
 public: true
 hreflangs:
     # EN: '/case-studies/eurostal-configurator'
-    PL: '/realizacje/eurostal-konfigurator'
-fallback: https://webo.pl/realizacje/eurostal-konfigurator
+    PL: '/realizacje/eurostal-konfigurator/'
+fallback: https://webo.pl/realizacje/eurostal-konfigurator/
 ---
 
 
@@ -407,7 +407,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Skontaktuj się'
 ---
 

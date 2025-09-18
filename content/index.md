@@ -8,7 +8,7 @@ sitemap:
 ::block-hero-md
 ---
 button.title: Read about Webo
-button.link: https://www.webo.agency/services/websites
+button.link: https://webo.agency/services/websites/
 ---
 
 #subtitle
@@ -64,7 +64,7 @@ We know two things: **technology and design**. As a result, we realise **tailor-
 ---
 icon: '/img/icons/services-site.svg'
 technologies: '/img/icons/websites-technologies.svg'
-link: 'https://www.webo.agency/services/websites'
+link: 'https://webo.agency/services/websites/'
 delay: 1
 ---
 #title
@@ -81,7 +81,7 @@ Read more
 ---
 icon: '/img/icons/services-store.svg'
 technologies: '/img/icons/stores-technologies.svg'
-link: 'https://www.webo.agency/services/e-commerce'
+link: 'https://webo.agency/services/e-commerce/'
 ---
 #title
 ### E-commerce
@@ -114,7 +114,7 @@ Read more
 ---
 icon: '/img/icons/services-support.svg'
 technologies: '/img/icons/support-technologies.svg'
-link: 'https://www.webo.agency/services/support-and-development'
+link: 'https://webo.agency/services/support-and-development/'
 delay: 4
 ---
 #title
@@ -131,7 +131,7 @@ Read more
 ---
 icon: '/img/icons/services-uxui.svg'
 technologies: '/img/icons/uxui-technologies.svg'
-link: 'https://www.webo.agency/services/ux-ui-design'
+link: 'https://webo.agency/services/ux-ui-design/'
 delay: 5
 ---
 #title
@@ -160,7 +160,7 @@ class: block desktop:hidden top-0 right-0
 ::::
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-[150px] 
@@ -201,7 +201,7 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 selectedSlugs:
     - 5gmadetogether
@@ -242,7 +242,7 @@ class: px-5 tablet:px-10
 Our team consists of solid scientific minds. We know technology like nothing else, we work with hard data, not guesswork.
 :::::::button-secondary-md
 ---
-link: 'https://www.webo.agency/about-us'
+link: 'https://webo.agency/about-us/'
 title: 'Learn more about us'
 ---
  

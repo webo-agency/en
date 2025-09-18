@@ -6,8 +6,8 @@ category:
     - Design
 image.url: '/img/blog-images/webo_blog_ux.jpg'
 hreflangs:
-    EN: '/blog/what-is-ux-all-about-and-why-is-it-so-important'
-    PL: '/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne'
+    EN: '/blog/what-is-ux-all-about-and-why-is-it-so-important/'
+    PL: '/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne/'
 public: true
 draft: false
 ---
@@ -80,7 +80,7 @@ class: mb-20 tablet:mb-[100px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/blog'
+url: 'https://webo.agency/blog/'
 linktitle: See all posts
 ---
 
@@ -105,7 +105,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 maxWidth: 560

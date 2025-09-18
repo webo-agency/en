@@ -13,8 +13,8 @@ public: false
 draft: true
 hreflangs:
     # EN: '/case-studies/oravio'
-    PL: '/realizacje/oravio'
-fallback: https://webo.pl/realizacje/oravio
+    PL: '/realizacje/oravio/'
+fallback: https://webo.pl/realizacje/oravio/
 ---
 
 
@@ -275,7 +275,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Skontaktuj się'
 ---
 

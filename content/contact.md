@@ -3,8 +3,8 @@ name: Get in touch
 showInNav: true
 navButton: true
 hreflangs:
-    EN: '/contact'
-    PL: '/kontakt'
+    EN: '/contact/'
+    PL: '/kontakt/'
 ---
 ::block-banner-md
 ---
@@ -153,7 +153,7 @@ Describe your project
 #buttontext
 Send message
 #policytext
-I agree to receive commercial information delivered electronically by Webo and to the processing of my personal data in accordance with the **[privacy policy](https://www.webo.agency/privacy-policy)**
+I agree to receive commercial information delivered electronically by Webo and to the processing of my personal data in accordance with the **[privacy policy](https://webo.agency/privacy-policy/)**
 
 #thanksMessage
 ### Thank you for sending your message

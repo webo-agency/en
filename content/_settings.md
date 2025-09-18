@@ -1,33 +1,33 @@
 ---
 footer:
-    privacyPolicyLink: https://www.webo.agency/privacy-policy
+    privacyPolicyLink: https://webo.agency/privacy-policy/
     privacyPolicyTitle: Privacy policy
     servicesTitle: Services
     servicesMenu: 
         - title: E-commerce
-          link: https://www.webo.agency/services/e-commerce
+          link: https://webo.agency/services/e-commerce/
         - title: Strony www
-          link: https://www.webo.agency/services/websites
+          link: https://webo.agency/services/websites/
         - title: Web apps
           link: ''
         - title: MVP
           link: ''
         - title: Support & development
-          link: 'https://www.webo.agency/services/support-and-development'
+          link: 'https://webo.agency/services/support-and-development/'
         - title: UX/UI Design
-          link: 'https://www.webo.agency/services/ux-ui-design'
+          link: 'https://webo.agency/services/ux-ui-design/'
     brandTitle: Brand
     brandMenu: 
         - title: About us
-          link: https://www.webo.agency/about-us
+          link: https://webo.agency/about-us/
         - title: Case studies
-          link: https://www.webo.agency/case-studies
+          link: https://webo.agency/case-studies/
         - title: Reviews
-          link: https://www.webo.agency/#reviews
+          link: https://webo.agency/#reviews
         - title: Blog
-          link: https://www.webo.agency/blog
+          link: https://webo.agency/blog/
         - title: Contact
-          link: https://www.webo.agency/contact
+          link: https://webo.agency/contact/
 general:
     lang: EN
     brandName: Webo agency

@@ -2,8 +2,8 @@
 name: Blog
 showInNav: true
 hreflangs:
-    EN: '/blog'
-    PL: '/blog'
+    EN: '/blog/'
+    PL: '/blog/'
 sitemap:
     changefreq: daily
 ---
@@ -74,7 +74,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 maxWidth: 560

@@ -8,8 +8,8 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/services/websites'
-    PL: '/uslugi/strony-internetowe'
+    EN: '/services/websites/'
+    PL: '/uslugi/strony-internetowe/'
 ---
 ::block-banner-md
 ---
@@ -202,7 +202,7 @@ class: mb-20
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress.svg'
-link: 'https://www.webo.agency/services/wordpress-websites'
+link: 'https://webo.agency/services/wordpress-websites/'
 ---
 #title
 #### Wordpress
@@ -219,7 +219,7 @@ Read more
 ::::offer-tile-md
 --- 
 icon: '/img/icons/drupal.svg'
-link: 'https://www.webo.agency/contact'
+link: 'https://webo.agency/contact/'
 delay: 1
 ---
 #title
@@ -235,7 +235,7 @@ Read more
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress-headles.svg'
-link: 'https://www.webo.agency/contact'
+link: 'https://webo.agency/contact/'
 delay: 2
 ---
 #title
@@ -266,7 +266,7 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ::::block-cta-md
 ---
 maxWidth: 800
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36
@@ -684,7 +684,7 @@ Publication of the site is often only the beginning, and during the use of the s
 ::::block-cta-md
 ---
 maxWidth: 640
-button.link: https://www.webo.agency/kontakt
+button.link: https://webo.agency/kontakt/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36
@@ -722,7 +722,7 @@ class: mb-10 tablet:mb-20 max-w-[500px]
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 selectedSlugs:
     - 5gmadetogether

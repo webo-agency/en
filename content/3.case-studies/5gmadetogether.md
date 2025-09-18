@@ -15,8 +15,8 @@ tile_order: 1
 public: true
 draft: false
 hreflangs:
-    EN: '/case-studies/5gmadetogether'
-    PL: '/realizacje/5gmadetogether'
+    EN: '/case-studies/5gmadetogether/'
+    PL: '/realizacje/5gmadetogether/'
 ---
 
 
@@ -348,7 +348,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 ---
 

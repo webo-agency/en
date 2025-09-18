@@ -1,7 +1,7 @@
 ---
 hreflangs:
-    EN: '/privacy-policy'
-    PL: '/polityka-prywatnosci'
+    EN: '/privacy-policy/'
+    PL: '/polityka-prywatnosci/'
 ---
 
 ::page-section-md
@@ -42,7 +42,7 @@ innerContainerClasses: px-0 !max-w-5xl
 
 ## §3 Cookies
 
-1. The website www.webo.agency uses cookies. These are small text files sent by the web server and stored by the browser's computer software. When the browser reconnects to the website, the website recognises the type of device from which the user is connecting. The parameters only allow the server that created them to read the information they contain. Cookies therefore facilitate the use of previously visited sites.
+1. The website webo.agency uses cookies. These are small text files sent by the web server and stored by the browser's computer software. When the browser reconnects to the website, the website recognises the type of device from which the user is connecting. The parameters only allow the server that created them to read the information they contain. Cookies therefore facilitate the use of previously visited sites.
 2. The information collected relates to the IP address, the type of browser used, the language, the type of operating system, the Internet service provider, the time and date information, the location and the information sent to the site via the contact form.
 3. The data collected is used to monitor and review how users use our sites in order to improve the site by providing a more efficient and seamless navigation experience. We monitor user information using the Google Analytics tool, which records user behaviour on the site.
 4. Cookies identify the user so that the content of the site they use is tailored to their needs. By remembering your preferences, it makes it possible to tailor targeted advertising to you. We use cookies to ensure the highest standard of comfort on our website, and the data collected is used only within Webo Maciej Zawadzki to optimise operations.

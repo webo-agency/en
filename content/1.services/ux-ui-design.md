@@ -6,8 +6,8 @@ meta:
     description: We design websites to be simple, quick and intuitive to use. We create unconventional design that matches the company's image, based on the best UX/UI practices.
 showInNav: true
 hreflangs:
-    EN: '/services/ux-ui-design'
-    PL: '/uslugi/projektowanie-ux-ui'
+    EN: '/services/ux-ui-design/'
+    PL: '/uslugi/projektowanie-ux-ui/'
 draft: false
 public: true
 ---
@@ -121,7 +121,7 @@ We love challenges and problem solving, we specialize in designing interfaces fo
 ::::offer-tile-md
 --- 
 icon: '/img/icons/services-site.svg'
-link: 'https://www.webo.agency/services/websites'
+link: 'https://webo.agency/services/websites/'
 ---
 #title
 ##### Websites and landing pages
@@ -131,7 +131,7 @@ link: 'https://www.webo.agency/services/websites'
 ::::offer-tile-md
 --- 
 icon: '/img/icons/services-store.svg'
-link: 'https://www.webo.agency/services/e-commerce'
+link: 'https://webo.agency/services/e-commerce/'
 delay: 1
 ---
 #title
@@ -181,7 +181,7 @@ class: block desktop:hidden top-0 right-0
 ::::block-cta-md
 ---
 maxWidth: 700
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
@@ -622,7 +622,7 @@ selectedSlugs:
     - 5gmadetogether
     - oravio
     - proton
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
 

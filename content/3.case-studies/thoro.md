@@ -14,6 +14,6 @@ public: false
 draft: true
 tile_order: 9
 hreflangs:
-    EN: '/case-studies/thoro'
-    PL: '/realizacje/thoro'
+    EN: '/case-studies/thoro/'
+    PL: '/realizacje/thoro/'
 ---

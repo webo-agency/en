@@ -8,8 +8,8 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/services/e-commerce'
-    PL: '/uslugi/sklepy-internetowe'
+    EN: '/services/e-commerce/'
+    PL: '/uslugi/sklepy-internetowe/'
 ---
 
 
@@ -130,7 +130,7 @@ class: mb-10 tablet:mb-[60px]
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress.svg'
-link: 'https://www.webo.agency/contact'
+link: 'https://webo.agency/contact/'
 ---
 #title
 #### Prestashop
@@ -147,7 +147,7 @@ Read more
 ::::offer-tile-md
 --- 
 icon: '/img/icons/drupal.svg'
-link: 'https://www.webo.agency/contact'
+link: 'https://webo.agency/contact/'
 delay: 1
 ---
 #title
@@ -163,7 +163,7 @@ Read more
 ::::offer-tile-md
 --- 
 icon: '/img/icons/wordpress-headles.svg'
-link: 'https://www.webo.agency/contact'
+link: 'https://webo.agency/contact/'
 delay: 2
 ---
 #title
@@ -193,7 +193,7 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ::::block-cta-md
 ---
 maxWidth: 800
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 ---
 
@@ -714,7 +714,7 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 selectedSlugs:
     - feeby

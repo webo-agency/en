@@ -6,8 +6,8 @@ category:
     - Technology
 image.url: '/img/blog-images/webo_blog_speed.jpg'
 hreflangs:
-    EN: '/blog/what-affects-page-loading-speed-and-why-is-it-so-important'
-    PL: '/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne'
+    EN: '/blog/what-affects-page-loading-speed-and-why-is-it-so-important/'
+    PL: '/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne/'
 public: true
 draft: false
 ---
@@ -96,7 +96,7 @@ class: mb-20 tablet:mb-[100px]
 :::effect-appear-md
 ::::block-header-link-md
 ---
-url: 'https://www.webo.agency/blog'
+url: 'https://webo.agency/blog/'
 linktitle: See all posts
 ---
 
@@ -121,7 +121,7 @@ class: mb-[50px] tablet:mb-[100px]
 :::effect-appear-md
 ::::block-cta-md
 ---
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 maxWidth: 560

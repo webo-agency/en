@@ -8,8 +8,8 @@ showInNav: true
 draft: false
 public: true
 hreflangs:
-    EN: '/services/support-and-development'
-    PL: '/uslugi/wsparcie-i-rozwoj'
+    EN: '/services/support-and-development/'
+    PL: '/uslugi/wsparcie-i-rozwoj/'
 ---
 ::block-banner-md
 ---
@@ -230,7 +230,7 @@ class: block desktop:hidden top-0 right-0
 ::::block-cta-md
 ---
 maxWidth: 650
-button.link: https://www.webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
@@ -657,7 +657,7 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
-moreBtn.url: 'https://www.webo.agency/case-studies'
+moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
 
