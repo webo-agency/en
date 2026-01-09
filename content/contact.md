@@ -1,7 +1,4 @@
 ---
-name: Get in touch
-showInNav: true
-navButton: true
 hreflangs:
     EN: '/contact/'
     PL: '/kontakt/'

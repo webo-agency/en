@@ -1,7 +1,7 @@
 ---
-name: Headless & PWA Website
-description: New website technology - maximum performance and security.
-showInNav: true
+meta:
+    title: Headless CMS WordPress -  Webo.agency
+    description: Headless CMS - maximum performance and flexibility. Choose modern solutions - check out our offer!
 draft: false
 public: true
 hreflangs:

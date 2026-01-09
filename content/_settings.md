@@ -1,4 +1,71 @@
 ---
+nav:
+  - title: Services
+    link: https://webo.agency/#services
+    items:
+    - title: Websites
+      link: https://webo.agency/services/websites/
+      items:
+        - title: Wordpress websites
+          link: 'https://webo.agency/services/wordpress-websites/'       
+        - title: WordPress programming
+          link: ''       
+        - title: Headless & PWA Website
+          link: 'https://webo.agency/services/headless-and-pwa-websites/'
+        - title: Landing page creation
+          link: ''       
+        - title: WordPress support
+          link: ''       
+    - title: E-commerce
+      link: https://webo.agency/services/e-commerce/
+      items:
+        - title: WooCommerce
+          link: ''       
+        - title: Prestashop
+          link: ''       
+        - title: Product configurators
+          link: ''       
+        - title: Support and development
+          link: 'https://webo.agency/services/support-and-development/'       
+    - title: UX/UI Design
+      link: 'https://webo.agency/services/ux-ui-design/'
+    - title: Technologies
+      link: ''
+      type: 'section'
+      items:
+          - icon: '/img/icons/js-black.svg'
+            name: JavaScript
+          - icon: '/img/icons/typescript-black.svg'
+            name: TypeScript
+          - icon: '/img/icons/tailwind-black.svg'
+            name: Tailwind
+          - icon: '/img/icons/threejs-black.svg'
+            name: ThreeJS
+          - icon: '/img/icons/php-black.svg'
+            name: PHP
+          - icon: '/img/icons/symfony-black.svg'
+            name: Symfony
+          - icon: '/img/icons/nuxt-black.svg'
+            name: Nuxt
+          - icon: '/img/icons/vue-black.svg'
+            name: Vue.js
+          - icon: '/img/icons/nodejs-black.svg'
+            name: NodeJS
+          - icon: '/img/icons/git-black.svg'
+            name: Git
+          - icon: '/img/icons/restapi-black.svg'
+            name: RestApi
+          - icon: '/img/icons/cloudflare-black.svg'
+            name: Cloudflare
+  - title: About us
+    link: https://webo.agency/about-us
+  - title: Case studies
+    link: https://webo.agency/case-studies
+  - title: Blog
+    link: https://webo.agency/blog
+  - title: Get in touch
+    link: https://webo.agency/contact
+    type: 'button'
 footer:
     privacyPolicyLink: https://webo.agency/privacy-policy/
     privacyPolicyTitle: Privacy policy
@@ -41,8 +108,6 @@ general:
     socials:
         - type: facebook
           link: https://facebook.com/meet.webo/
-        - type: instagram
-          link: https://www.instagram.com/weboagency/
         - type: linkedin
           link: https://www.linkedin.com/company/webo-agency/
         - type: behance

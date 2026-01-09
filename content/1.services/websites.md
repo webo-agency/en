@@ -1,10 +1,7 @@
 ---
-name: Websites
-description: Beautifully designed websites, ensuring high performance, code quality, and security..
 meta:
-    title: Solid websites
-    description: We provide tailor-made and efficient websites, designing an individual look for you and programming from scratch so that it works stably for years.
-showInNav: true
+    title: Website creation - professional websites - Webo.agency
+    description: Modern websites for businesses, compliant with SEO and UX. Attract new customers - request a quote today!
 draft: false
 public: true
 hreflangs:

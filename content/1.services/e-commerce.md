@@ -1,10 +1,7 @@
 ---
-name: E-commerce
-description: Easy-to-use online stores with a smooth sales process.
 meta:
-    title: Efficient B2B and B2C online stores
-    description: We design and implement great-looking and intuitive online stores with a smooth purchasing process and many integrations, prepared for further development and expansion.
-showInNav: true
+    title: Creating online stores - professional e-commerce solutions - Webo.agency
+    description: We create professional online stores - responsive, fast, and secure. Start selling online!
 draft: false
 public: true
 hreflangs:

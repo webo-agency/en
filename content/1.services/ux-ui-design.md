@@ -1,10 +1,7 @@
 ---
-name: UX/UI Design
-description: User-centered design of websites, e-commerce & apps.
 meta:
-    title: UX/UI design of websites and online stores
-    description: We design websites to be simple, quick and intuitive to use. We create unconventional design that matches the company's image, based on the best UX/UI practices.
-showInNav: true
+    title: UX/UI website design - Webo.agency
+    description: We design intuitive interfaces that increase conversion rates. Take care of your website's UX - order an audit or design!
 hreflangs:
     EN: '/services/ux-ui-design/'
     PL: '/uslugi/projektowanie-ux-ui/'

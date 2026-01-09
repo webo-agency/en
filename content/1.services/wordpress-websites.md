@@ -1,10 +1,7 @@
 ---
-name: Wordpress websites
-description: Wordpress websites
 meta:
-    title: Solid Wordpress websites
-    description: We provide tailor-made and efficient Wordpress websites, designing an individual look for you and programming from scratch so that it works stably for years.
-showInNav: false
+    title: WordPress website creation - websites for businesses - Webo.agency
+    description: We design and implement WordPress websites tailored to your needs. Start building your brand online!
 draft: false
 public: true
 hreflangs:
