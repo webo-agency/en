@@ -17,7 +17,7 @@ nav:
         - title: WordPress support
           link: ''       
     - title: E-commerce
-      link: https://webo.agency/services/e-commerce/
+      link: 'https://webo.agency/services/e-commerce/'
       items:
         - title: WooCommerce
           link: ''       
