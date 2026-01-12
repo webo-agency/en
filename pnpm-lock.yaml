@@ -6,7 +6,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/7e1a32b9fecfbda5fcc1a63cadcb600d7bd65ef2(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.26)(browserslist@4.28.1)(h3@1.15.4)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(typescript@5.6.3)(vite@6.4.1)(vue@3.5.26)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0)
+    version: github.com/webo-agency/www/abe353420550910e73506682e683be6293a8ccae(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.26)(browserslist@4.28.1)(h3@1.15.4)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(typescript@5.6.3)(vite@6.4.1)(vue@3.5.26)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0)
   email-validator:
     specifier: ^2.0.4
     version: 2.0.4
@@ -2545,8 +2545,8 @@ packages:
     dev: false
     optional: true
 
-  /@iconify-json/carbon@1.2.15:
-    resolution: {integrity: sha512-9tW0nZY5QtKkMhuYzW09BM1345SyXNuA+gx2ub0j/fnfHOD5XVimMJ/D76H3tTez25NJbPYCLIQoFhvJc1HVBQ==}
+  /@iconify-json/carbon@1.2.16:
+    resolution: {integrity: sha512-R50UiC4NgPdnoSI3OzaZ/PzKYFVHAsAi3tENWgxvTxjYND3WHiUiG0qfJ0dPuaxwIW/l/2TnZwMPbbedd/+qIQ==}
     dependencies:
       '@iconify/types': 2.0.0
     dev: false
@@ -3092,7 +3092,7 @@ packages:
     peerDependencies:
       '@nuxt/devtools': 1.7.0
     dependencies:
-      '@iconify-json/carbon': 1.2.15
+      '@iconify-json/carbon': 1.2.16
       '@iconify-json/logos': 1.2.10
       '@iconify-json/ri': 1.2.7
       '@iconify-json/tabler': 1.2.26
@@ -3106,10 +3106,10 @@ packages:
       '@unocss/preset-mini': 0.65.4
       '@unocss/reset': 0.65.4
       '@vueuse/core': 12.8.2(typescript@5.6.3)
-      '@vueuse/integrations': 12.8.2(focus-trap@7.7.1)(typescript@5.6.3)
+      '@vueuse/integrations': 12.8.2(focus-trap@7.8.0)(typescript@5.6.3)
       '@vueuse/nuxt': 12.8.2(nuxt@3.14.159)(typescript@5.6.3)
       defu: 6.1.4
-      focus-trap: 7.7.1
+      focus-trap: 7.8.0
       splitpanes: 3.2.0(vue@3.5.26)
       unocss: 0.65.4(@unocss/webpack@0.65.4)(postcss@8.5.6)(rollup@2.79.2)(vite@6.4.1)(vue@3.5.26)
       v-lazy-show: 0.3.0(@vue/compiler-core@3.5.26)
@@ -4635,8 +4635,8 @@ packages:
       undici-types: 6.20.0
     dev: false
 
-  /@types/node@25.0.3:
-    resolution: {integrity: sha512-W609buLVRVmeW693xKfzHeIV6nJGGz98uCPfeXI1ELMLXVeKYZ9m15fAMSaUPBHYLGFsVRcMmSCksQOrZV9BYA==}
+  /@types/node@25.0.6:
+    resolution: {integrity: sha512-NNu0sjyNxpoiW3YuVFfNz7mxSQ+S4X2G28uqg2s+CzoqoQjLPsWSbsFFyztIAqt2vb8kfEAsJNepMGPTxFDx3Q==}
     dependencies:
       undici-types: 7.16.0
     dev: false
@@ -5563,7 +5563,7 @@ packages:
       vue: 3.5.26(typescript@5.6.3)
     dev: false
 
-  /@vueuse/integrations@12.8.2(focus-trap@7.7.1)(typescript@5.6.3):
+  /@vueuse/integrations@12.8.2(focus-trap@7.8.0)(typescript@5.6.3):
     resolution: {integrity: sha512-fbGYivgK5uBTRt7p5F3zy6VrETlV9RtZjBqd1/HxGdjdckBgBM4ugP8LHpjolqTj14TXTxSK1ZfgPbHYyGuH7g==}
     peerDependencies:
       async-validator: ^4
@@ -5606,7 +5606,7 @@ packages:
     dependencies:
       '@vueuse/core': 12.8.2(typescript@5.6.3)
       '@vueuse/shared': 12.8.2(typescript@5.6.3)
-      focus-trap: 7.7.1
+      focus-trap: 7.8.0
       vue: 3.5.26(typescript@5.6.3)
     transitivePeerDependencies:
       - typescript
@@ -6100,7 +6100,7 @@ packages:
       postcss: ^8.1.0
     dependencies:
       browserslist: 4.28.1
-      caniuse-lite: 1.0.30001763
+      caniuse-lite: 1.0.30001764
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.6
@@ -6339,7 +6339,7 @@ packages:
     hasBin: true
     dependencies:
       baseline-browser-mapping: 2.9.14
-      caniuse-lite: 1.0.30001763
+      caniuse-lite: 1.0.30001764
       electron-to-chromium: 1.5.267
       node-releases: 2.0.27
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
@@ -6494,8 +6494,8 @@ packages:
   /caniuse-lite@1.0.30001696:
     resolution: {integrity: sha512-pDCPkvzfa39ehJtJ+OwGT/2yvT2SbjfHhiIW2LWOAcMQ7BzwxT/XuyUp4OTOd0XFWA6BKw0JalnBHgSi5DGJBQ==}
 
-  /caniuse-lite@1.0.30001763:
-    resolution: {integrity: sha512-mh/dGtq56uN98LlNX9qdbKnzINhX0QzhiWBFEkFfsFO4QyCvL8YegrJAazCwXIeqkIob8BlZPGM3xdnY+sgmvQ==}
+  /caniuse-lite@1.0.30001764:
+    resolution: {integrity: sha512-9JGuzl2M+vPL+pz70gtMF9sHdMFbY9FJaQBi186cHKH3pSzDvzoUJUPV6fqiKIMyXbud9ZLg4F3Yza1vJ1+93g==}
     dev: false
 
   /ccount@2.0.1:
@@ -8151,8 +8151,8 @@ packages:
     resolution: {integrity: sha512-GX+ysw4PBCz0PzosHDepZGANEuFCMLrnRTiEy9McGjmkCQYwRq4A/X786G/fjM/+OjsWSU1ZrY5qyARZmO/uwg==}
     dev: false
 
-  /focus-trap@7.7.1:
-    resolution: {integrity: sha512-Pkp8m55GjxBLnhBoT6OXdMvfRr4TjMAKLvFM566zlIryq5plbhaTmLAJWTGR0EkRwLjEte1lCOG9MxF1ipJrOg==}
+  /focus-trap@7.8.0:
+    resolution: {integrity: sha512-/yNdlIkpWbM0ptxno3ONTuf+2g318kh2ez3KSeZN5dZ8YC6AAmgeWz+GasYYiBJPFaYcSAPeu4GfhUaChzIJXA==}
     dependencies:
       tabbable: 6.4.0
     dev: false
@@ -9513,7 +9513,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 25.0.3
+      '@types/node': 25.0.6
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
@@ -16175,11 +16175,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/7e1a32b9fecfbda5fcc1a63cadcb600d7bd65ef2(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.26)(browserslist@4.28.1)(h3@1.15.4)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(typescript@5.6.3)(vite@6.4.1)(vue@3.5.26)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/7e1a32b9fecfbda5fcc1a63cadcb600d7bd65ef2}
-    id: github.com/webo-agency/www/7e1a32b9fecfbda5fcc1a63cadcb600d7bd65ef2
+  github.com/webo-agency/www/abe353420550910e73506682e683be6293a8ccae(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.26)(browserslist@4.28.1)(h3@1.15.4)(markdown-it@14.1.0)(postcss@8.5.6)(rollup@2.79.2)(typescript@5.6.3)(vite@6.4.1)(vue@3.5.26)(webpack@5.104.1)(workbox-build@7.4.0)(workbox-window@7.4.0):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/abe353420550910e73506682e683be6293a8ccae}
+    id: github.com/webo-agency/www/abe353420550910e73506682e683be6293a8ccae
     name: '@webo-agency/theme'
-    version: 3.7.89
+    version: 3.7.90
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
