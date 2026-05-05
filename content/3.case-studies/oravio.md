@@ -1,24 +1,20 @@
 ---
-introduction.title: 'ORAVIO - E-commerce UX/UI design for the premium-grade sonic toothbrush manufacturer'
-introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design a user-friendly interface that highlights the key product features.
-'
+introduction.title: 'UX/UI of the online store of a premium sonic toothbrush manufacturer'
+introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design an easy-to-use interface, highlighting the most important product features.'
 type:
     - E-commerce
     - UX/UI
+technologies:
+    - Wordpress CMS
 image.url: '/img/case-studies/Oravio-bg.png'
 logo.url: '/img/logos/Oravio.png'
 tile_hidden: false
-tile_order: 4
-public: false
-draft: true
+tile_order: 6
+public: true
 hreflangs:
-    # EN: '/case-studies/oravio'
+    EN: '/case-studies/oravio/'
     PL: '/realizacje/oravio/'
-fallback: https://webo.pl/realizacje/oravio/
 ---
-
-
-
 
 ::page-section-md
 ---
@@ -33,15 +29,14 @@ link: '/'
 ---
 
 #title
-## UX/UI Sklepu internetowego producenta szczoteczek sonicznych klasy premium
+## UX/UI of the online store of a premium sonic toothbrush manufacturer
 
 #description
-**Oravio** to to polski producent wysokiej jakości szczoteczek sonicznych. Naszym zadaniem było zaprojektowanie **łatwego w obsłudze interfejsu**, eksponującego najważniejsze cechy produktu.
+**Oravio** is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design an **easy-to-use interface**, highlighting the most important product features.
 
-<!-- TODO: tags shold be taken from the data on top of .md file -->
 #tags
 - E-commerce
-- Projektowanie UX/UI
+- UX/UI Design
 
 ::::
 :::
@@ -68,12 +63,12 @@ class: mx-default items-center
 ---
 
 #left
-### **O kliencie**
+### **About the client**
 
 :::::prose-p3
-Firma Oravio produkuje wysokiej klasy, stylowe i niezwykle eleganckie szczoteczeki soniczne, wykorzystywane do higieny jamy ustnej zarówno na co dzień, w podróży jak i podczas leczenia ortodontycznego. Dzięki dużemu zróżnicowaniu oferty, Oravio dociera do szerokiego grona odbiorców, dbając nie tylko o piekny uśmiech ale przede wszystkim o zdrowie swoich klientów.
+The Oravio company produces high-class, stylish and extremely elegant sonic toothbrushes, used for oral hygiene both daily, on the road and during orthodontic treatment. Thanks to a large diversification of the offer, Oravio reaches a wide range of recipients, taking care not only of a beautiful smile but above all of the health of its clients.
 
-Najważniejszymi cechami produktu są wykonanie z **trwałych i bezpiecznych materiałów, wydajne czyszczenie, precyzja, funkcjonalność i styl.**
+The most important features of the product are made of **durable and safe materials, efficient cleaning, precision, functionality and style.**
 :::::
 
 #right
@@ -96,10 +91,10 @@ class: static-content mb-10 desktop:mb-20
 class: mx-default
 ---
 
-### **Wyzwanie i cele**
+### **Challenge and goals**
 
 ::::prose-p3
-Najważniejszym zadaniem zleconym przez naszego klienta było **zaprojektowanie nowego sklepu internetowego**. Całość interfejsu miała pasować do nowoczesnego charakteru marki i odzwierciedlać jej główne cechy. Przede wszystkim nowy sklep miał być **łatwy w obsłudze dla użytkowników**. 
+The most important task commissioned by our client was to **design a new online store**. The entire interface was to fit the modern character of the brand and reflect its main features. Above all, the new store was to be **easy to use for users**. 
 ::::
 :::
 ::
@@ -124,10 +119,10 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-### **Projekt**
+### **Project**
 
 ::::prose-p3
-Podczas projektowania sklepu, szczególną uwagę zwróciliśmy na minimalizm, nowoczesność i detale szczoteczek. Dzięki połączeniu tych 3 cech stworzyliśmy **niepowtarzalny interfejs**, który w estetyczny i pasujący do marki sposób, **eksponuje najważniejsze cechy produktu**.
+During the design of the store, we paid special attention to minimalism, modernity and the details of the toothbrushes. By combining these 3 features, we created a **unique interface** that, in an aesthetic way that fits the brand, **highlights the most important product features**.
 ::::
 :::
 ::
@@ -141,7 +136,7 @@ class: static-content mb-[50px] tablet:mb-[120px]
 class: mx-default
 ---
 
-#### **Kolorystyka:**
+#### **Color palette:**
 :::
 
 :::effect-appear-md
@@ -186,27 +181,27 @@ imgUrl: '/img/content-images/case-oravio-img6.png'
 :::::
 
 #right
-#### **Realizacja**
+#### **Realization**
 
 :::::prose-p3
-Prace nad projektem UX/UI rozpoczęliśmy od **omówienia szczegółów** oraz zapoznania się z **koncepcją i założeniami klienta**. Projektując sklep  przeszliśmy przez następujące etapy: 
+We started work on the UX/UI project by **discussing the details** and getting acquainted with the **client's concept and assumptions**. When designing the store, we went through the following stages:
 :::::
 
 1. ::::::prose-p3
-**Analiza otrzymanych informacji i założeń** (zapoznanie się z wymogami projektu)
+**Analysis of information and assumptions received** (getting acquainted with project requirements)
 ::::::
 2. ::::::prose-p3
-**Opracowanie tablic inspiracji (tzw. moodboardów)** (pasujących do koncepcji marki Oravio)
+**Development of inspiration boards (so-called moodboards)** (matching the Oravio brand concept)
 ::::::
 3. ::::::prose-p3
-**Zaprojektowanie strony głównej** (na podstawie założeń projektowych i moodboardów)
+**Home page design** (based on design assumptions and moodboards)
 ::::::
 4. ::::::prose-p3
-**Zaprojektowanie podstron sklepu** (po zaakceptowaniu strony głównej przez klienta)
+**Store subpages design** (after the client accepted the home page)
 ::::::
 
 :::::prose-p3
-Podczas prac projektowych klient na bieżąco informowany był o postępach w realizacji oraz brał udział w konsultacjach. Takie podejście pozwoliło na dostarczenie **projektu sklepu internetowego, spełniające oczekiwania** firmy Oravio, w optymalnym czasie. 
+During the project work, the client was kept informed about progress and participated in consultations. This approach allowed for the delivery of an **online store design that meets the expectations** of Oravio, in an optimal time. 
 :::::
 ::::
 :::
@@ -246,12 +241,12 @@ center: true
 ---
 
 #title
-### **Opinia klienta**
+### **Client opinion**
 
 #content
 
 :::::prose-p3
-Webo pomogło nam w przelaniu naszych wizji sklepu internetowego na realny, **dobrze odbierany przez klientów** i przede wszystkim sprawnie działający sklep! Dziękujemy i **polecamy Webo!** : )
+Webo helped us translate our visions of an online store into a real, **well-received by customers** and, above all, smoothly operating store! Thank you and **we recommend Webo!** : )
 :::::
 
 #author
@@ -276,16 +271,49 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://webo.agency/contact/
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #title
 #### Are you interested in our offer?
 
 #description
-Get in touch and start collaborating!
+Contact us and start cooperation
 
 ::::
+:::
+::
+
+::page-section-md
+---
+id: case-studies
+class: mb-[80px] tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+class: mb-10 tablet:mb-20
+---
+
+#subtitle
+### *-/* Our recent projects
+
+#title
+## See our other *online store projects*
+
+::::
+:::
+
+:::block-cases-md
+---
+contentFolder: case-studies
+moreBtn.url: 'https://webo.agency/case-studies/'
+moreBtn.linktitle: See all projects
+selectedSlugs:
+    - thoro
+    - mancraft
+---
+
 :::
 ::
 
@@ -304,7 +332,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

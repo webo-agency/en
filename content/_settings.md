@@ -6,23 +6,23 @@ nav:
     - title: Websites
       link: https://webo.agency/services/websites/
       items:
-        - title: Wordpress websites
+        - title: WordPress websites
           link: 'https://webo.agency/services/wordpress-websites/'       
-        - title: WordPress programming
-          link: ''       
+        - title: WordPress development
+          link: 'https://webo.agency/services/wordpress-development/'       
         - title: Headless & PWA Website
-          link: 'https://webo.agency/services/headless-and-pwa-websites/'
+          link: 'https://webo.agency/services/headless-and-pwa-websites/'       
         - title: Landing page creation
-          link: ''       
+          link: 'https://webo.agency/services/landing-pages/'       
         - title: WordPress support
-          link: ''       
+          link: 'https://webo.agency/services/wordpress-support/'       
     - title: E-commerce
       link: 'https://webo.agency/services/e-commerce/'
       items:
-        - title: WooCommerce
-          link: ''       
-        - title: Prestashop
-          link: ''       
+        - title: WooCommerce stores
+          link: 'https://webo.agency/services/woocommerce/'       
+        - title: Prestashop stores
+          link: 'https://webo.agency/services/prestashop/'       
         - title: Product configurators
           link: ''       
         - title: Support and development
@@ -57,6 +57,8 @@ nav:
             name: RestApi
           - icon: '/img/icons/cloudflare-black.svg'
             name: Cloudflare
+  - title: For agencies
+    link: https://webo.agency/services/website-and-e-commerce-outsourcing/       
   - title: About us
     link: https://webo.agency/about-us
   - title: Case studies
@@ -73,7 +75,7 @@ footer:
     servicesMenu: 
         - title: E-commerce
           link: https://webo.agency/services/e-commerce/
-        - title: Strony www
+        - title: Websites
           link: https://webo.agency/services/websites/
         - title: Web apps
           link: ''
@@ -104,7 +106,7 @@ general:
     clutchLink: https://clutch.co/profile/webo
     googleRating: 5
     googleRatingLink: https://www.google.com/search?q=webo+gliwice&sca_esv=581867933&ei=avdRZdPPHbCVxc8PqvGHwAM&ved=0ahUKEwjTrJKs38CCAxWwSvEDHar4ATgQ4dUDCBA&uact=5&oq=webo+gliwice&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdlYm8gZ2xpd2ljZTICECZIsdsJUPXHCVj1xwlwAngAkAEAmAFXoAFXqgEBMbgBA8gBAPgBAeIDBBgBIEGIBgE&sclient=gws-wiz-serp#lrd=0x471131b61b903edb:0xe16af5e90276dac,1,,,,
-    googleRatingText: Read our reviews
+    googleRatingText: Read reviews
     socials:
         - type: facebook
           link: https://facebook.com/meet.webo/
@@ -115,4 +117,6 @@ general:
 head:
     title: Specialists in solid websites and e-commerce
     description: We specialize in designing and coding high-quality, modern websites and online stores. No templates or ready-made products - from scratch, according to the documentation, as it should be.
+    image:
+        url: '/img/featured_image.webp'    
 ---

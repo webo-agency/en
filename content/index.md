@@ -3,16 +3,63 @@ hreflangs:
     EN: '/'
     PL: '/'
 sitemap:
-    priority: 1
+  priority: 1
+meta:
+    title: Specialists in solid websites and e-commerce - Webo.agency
+    description: 'We know two things: technology and UX/UI design. Thanks to this, we realize tailor-made websites, ensuring the highest quality of workmanship.'
 ---
 ::block-hero-md
 ---
-button.title: Read about Webo
+button.title: Find out more
 button.link: https://webo.agency/services/websites/
+logosText: "They trusted us:"
+logos:
+    - alt: 'IS-Wireless'
+      src: '/img/logos/isw.svg'
+
+    - alt: 'Thoro'
+      src: '/img/logos/thoro.svg'      
+
+    - alt: 'Agencja Grow'
+      src: '/img/logos/grow.svg'
+
+    - alt: 'Etisoft'
+      src: '/img/logos/etisoft.svg'    
+
+    - alt: 'Sollux'
+      src: '/img/logos/sollux.svg'  
+
+    - alt: 'GetSales'
+      src: '/img/logos/getsales.png'     
+
+    - alt: 'Mancraft'
+      src: '/img/logos/Mancraft.svg'
+
+    - alt: '5G Made Together'
+      src: '/img/logos/5G.svg'
+
+    - alt: 'Sellineo'
+      src: '/img/logos/sellineo.svg'
+
+    - alt: 'Agencja Echo'
+      src: '/img/logos/echo.svg'      
+
+    - alt: 'DeltaHR'
+      src: '/img/logos/DeltaHR.png'         
+
+    - alt: 'Velair'
+      src: '/img/logos/velair.png'      
+
+    - alt: 'Eurostal'
+      src: '/img/logos/Eurostal.svg'            
+
+    - alt: 'Feeby'
+      src: '/img/logos/Feeby.png'
 ---
 
 #subtitle
- Welcome in Webo
+ Welcome to Webo
+
 
 #title
 # We deliver *solid websites*
@@ -22,17 +69,17 @@ Created without templates but hand-coded, in accordance with the documentation, 
 
 ::
 
-
 ::page-section-md
 ---
 id: services
-classes: mb-[50px] tablet:mb-[80px] pt-[80px] desktop:pt-[120px]
+classes: mb-[50px] tablet:mb-[80px] pt-[80px] desktop:pt-[100px] 
 ---
+
 :::effect-appear-md
 :::svg-decorated
 ---
 decoration: true
-class: bottom-0 right-[10%] scale-x-[-1] 
+class: bottom-0 right-[10%] scale-x-[-1]
 ---
 :::
 :::svg-bg-dots
@@ -44,7 +91,7 @@ class: tablet:top-56 right-0
 
 ::::block-header-two-cols-md
 ---
-class: mb-10 [&_h2]:!text-3xl [&_h2]:tablet:!text-4xl [&_h2]:desktop:!text-5xl
+class: mb-14 [&_h2]:!text-3xl [&_h2]:tablet:!text-4xl [&_h2]:desktop:!text-5xl
 maxWidth: 640
 ---
 
@@ -52,10 +99,11 @@ maxWidth: 640
 *1/* Services
 
 #title
-## What can we *do for you*
+## What can we <br> *do for you?*
 
 #description
-We know two things: **technology and design**. As a result, we realise **tailor-made websites**, taking care of the **highest quality**. With us, you will implement:
+We know two things: **technology and design**. Thanks to this, we realize **tailor-made websites**, taking care of the **highest quality of workmanship**. With us you will realize:
+
 ::::
 :::
 
@@ -71,10 +119,10 @@ delay: 1
 ### Websites
 
 #description
-Solidly coded websites, designed to meet the needs of your business and achieve specific goals.
+Solidly coded websites, designed with your business needs and specific goals in mind.
 
 #readMoreText
-Read more
+Find out more
 ::::
 
 ::::offer-tile-md
@@ -84,13 +132,13 @@ technologies: '/img/icons/stores-technologies.svg'
 link: 'https://webo.agency/services/e-commerce/'
 ---
 #title
-### E-commerce
+### E-commerce stores
 
 #description
-Online stores with a seamless purchasing process, tailored to the individual needs of your business. We deliver shops that are prepared for further growth and expansion.
+E-commerce with a smooth shopping process, adapted to the individual needs of your company. We provide stores prepared for further development and expansion.
 
 #readMoreText
-Read more
+Find out more
 ::::
 
 ::::offer-tile-md
@@ -101,13 +149,13 @@ link: ''
 delay: 2
 ---
 #title
-### Web apps
+### Web applications
 
 #description
-Customized for specific purposes in your company. User-friendly and easy to manage.
+Dedicated to special applications in your company. User-friendly and simple to manage.
 
 #readMoreText
-Read more
+Find out more
 ::::
 
 ::::offer-tile-md
@@ -121,10 +169,10 @@ delay: 4
 ### Support and development
 
 #description
-Thanks to this, you will secure resources, maximize efficiency and reduce website maintenance costs.
+Thanks to which you will secure resources, maximize performance and reduce the costs of maintaining a website.
 
 #readMoreText
-Read more
+Find out more
 ::::
 
 ::::offer-tile-md
@@ -138,17 +186,18 @@ delay: 5
 ### UX/UI Design
 
 #description
-Thanks to this, you will increase customer engagement, stand out on the market and simplify the use of your website/online store.
+Thanks to which you will increase customer engagement, stand out on the market and simplify the use of your website / online store.
 
 #readMoreText
-Read more
+Find out more
+
 ::::
 :::
 ::
 
 ::page-section-md
 ---
-class: mb-[100px] tablet:mb-[100px]
+class: mb-[100px]
 ---
 :::effect-appear-md
 
@@ -158,6 +207,7 @@ decoration: true
 class: block desktop:hidden top-0 right-0
 ---
 ::::
+
 ::::block-cta-md
 ---
 button.link: https://webo.agency/contact/
@@ -167,10 +217,10 @@ class: tablet:mb-[150px]
 ---
 
 #title
-#### Are you looking for special forces for your website?
+#### Looking for another service?
 
 #description
-Contact us. Let's talk!
+Book a free consultation, let's talk!
 
 ::::
 :::
@@ -180,20 +230,20 @@ Contact us. Let's talk!
 
 ::page-section-md
 ---
-id: realizacje
-class: mb-[80px] tablet:mb-[130px]
+id: case-studies
+class: mb-[80px] tablet:mb-[100px]
 ---
 :::effect-appear-md
 ::::block-header-md
 ---
-class: mb-10 tablet:mb-20
+class: mb-[100px] tablet:mb-20
 ---
 
 #subtitle
-### *2/* Case studies
+### *2/* Our case studies
 
 #title
-## We are proud of the projects <br>*we've completed*
+## We are proud <br> of *completed projects*
 
 ::::
 :::
@@ -204,10 +254,10 @@ contentFolder: case-studies
 moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 selectedSlugs:
-    - 5gmadetogether
+    - velair
     - isw
-    - wallsociety
-    - mutiny-group
+    - sellineo
+    - thoro
 ---
 
 :::
@@ -232,18 +282,18 @@ class: mb-10 tablet:mb-20
 ### *3/* Our approach
 
 #title
-## Why is it worth *trusting us?*
+## Why you should <br> *trust us?*
 
 #description
 ::::::prose-p-3
 ---
 class: px-5 tablet:px-10
 ---
-Our team consists of solid scientific minds. We know technology like nothing else, we work with hard data, not guesswork.
+Our team consists of solid analytical minds. We know technology like nothing else, we work on hard data, not assumptions.
 :::::::button-secondary-md
 ---
 link: 'https://webo.agency/about-us/'
-title: 'Learn more about us'
+title: 'Find out more'
 ---
  
 :::::::
@@ -266,7 +316,7 @@ delay: 0
 ### We always rely on technical documentation
 
 #description
-Thanks to this, our websites are efficient and safe, and the website code is properly optimized.
+Thanks to which our pages are efficient and safe, and the page code is properly optimized.
 
 :::::
 :::::tile-dark-icon-md
@@ -277,11 +327,11 @@ class: mt-0 tablet:mt-5
 ---
 
 #title
-### We are a team for special tasks
+### We are a special tasks team
 
 #description
 There are no impossible things 
-and problems that cannot be solved - we have proven this many times
+and problems that cannot be solved - we have proven it many times
 
 :::::
 :::::tile-dark-icon-md
@@ -291,10 +341,10 @@ delay: 1
 ---
 
 #title
-### We create websites that are stable for years to come
+### We create websites that operate stably for years
 
 #description
-We pay attention to detail and the quality of our work, we rely on hand-programmed sites, without junk code
+We care about details and the quality of our work, we focus on hand-coded websites, without junk code
 
 :::::
 :::::tile-dark-icon-md
@@ -304,10 +354,10 @@ delay: 3
 ---
 
 #title
-### We repeatedly test before publication
+### We test multiple times before publication
 
 #description
-Before publishing, we thoroughly check the performance of the site, both manually and using automated tests.
+Before publication, we thoroughly check the operation of the website, both manually and using automated tests.
 
 :::::
 ::::
@@ -359,18 +409,18 @@ classes: py-[100px] mb-10 tablet:mb-20 bg-green-gray
 :::block-header-two-cols-md
 ---
 class: mb-14
-maxWidth: 652
+maxWidth: 682
 decoration: false
 ---
 
 #subtitle
-### *4/* Technologies we use
+### *4/* Technologies used
 
 #title
-## Wybierzemy najlepsze rozwiązanie *dla Twojego projektu*
+## We will choose the best solution *for your project*
 
 #description
-We approach each project **individually**, analysing its needs and **selecting optimal solutions**. We only use proven systems such as Wordpres / Drupal / Prestashop, **combining them with the latest technologies**.
+We approach each project **individually**, analyzing its needs and&nbsp;**selecting optimal solutions**. We use only proven systems such as Wordpress / Drupal / Prestashop, **combining them with the latest technologies**.
 :::
 
 :::block-columns-2-5-md
@@ -570,10 +620,9 @@ Cloudflare
 :::
 ::
 
-
 ::page-section-md
 ---
-id: reviews
+id: opinie
 class: mb-[50px] tablet:mb-[100px]
 ---
 
@@ -590,6 +639,7 @@ shrinkMobile: true
 class: mt-6 tablet:mt-0
 ---
 ::::
+
 ::::widget-rating-google
 ---
 border: true
@@ -603,22 +653,68 @@ text: See all our reviews
 #left
 ::::effect-appear-md
 :::::block-header-md
+---
+maxWidth: 715
+---
 
 #subtitle
-### *5/* Reviews
+### *5/*  Reviews
 
 #title
-## We are recommended by *small and medium-sized enterprises*
+## We are recommended by *small and medium enterprises*
 :::::
 ::::
 :::
 
+
+
 #full
 :::effect-appear-md
 ::::block-opinions-md
+
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/isw.png'
+opinionSource: '/img/icons/clutch.svg'
+---
+
+
+#author
+Rafał Sanecki
+
+#title
+Head of Marketing - **IS-Wireless**<br>
+
+#message
+Webo delivered a **stable and scalable website**, effectively supporting us in achieving our goals. The team regularly provided updates, **kept us informed of project progress and was transparent**. Ultimately, Webo's **technical experience and effective communication** were the hallmark of their work.
+
+:::::
+
+:::::opinion-md
+---
+rating: 5
+avatar: '/img/logos/velair.png'
+opinionSource: '/img/icons/google.svg'
+---
+
+
+#author
+Mateusz Pienkowski
+
+#title
+Owner - **Velair**<br>
+
+#message
+Great cooperation – **very efficient communication, accurate ideas** and insights, fast, efficiently and in a **very pleasant atmosphere**. The page **looks great, everything works as it should**. I recommend it with a clear conscience!
+
+:::::
+
+:::::opinion-md
+---
+rating: 5
+avatar: '/img/logos/Mancraft.png'
+opinionSource: '/img/icons/clutch.svg'
 ---
 
 #author
@@ -626,30 +722,34 @@ Radosław Cyganek
 
 #title
 Executive - **Proton Multimedia**<br>
-Administrator IT - **Mancraft**
+IT Administrator - **Mancraft**
 
 #message
-Thanks to Webo's work, my client achieved higher positions in search engines, **improved user satisfaction and increased their engagement**. The company proactively **managed risk** and provided an alternative solution to achieve the client's goals. Their **responsiveness and creativity** were commendable.
+Thanks to Webo's work, my client achieved higher search engine rankings, **improved user satisfaction and increased engagement**. The company proactively **managed risks** and provided an alternative solution to achieve the client's goals. Their **responsiveness and creativity** were commendable.
 
 :::::
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/DeltaHR.png'
+opinionSource: '/img/icons/google.svg'
 ---
 
 #author
 Adam Przebinda
 
 #title
-Member of the Board - **DeltaHR**
+Member of the board - **DeltaHR**
 
 #message
-A highly professional company, individual approach to the client, **good and continuous communication** that allows for real-time project monitoring. **Every detail meticulously refined** just as I expected, I can confidently and with a clear conscience recommend them. **Knowledge, client approach, project timeline** - everything 10/10.
+A very professional company, individual approach to the client, **good and continuous contact** which allows to control the work on the project on an ongoing basis. **Every detail refined** exactly as I expected, I can boldly and with a clear conscience recommend. **Knowledge, approach to the client, implementation time** - everything 10/10.
 
 :::::
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/grow.svg'
+opinionSource: '/img/icons/google.svg'
 ---
 
 #author
@@ -659,12 +759,14 @@ rating: 5
 CEO & CO-OWNER - **Agencja Grow**
 
 #message
-Working with the team is amazing. A **guarantee of quality**, **responsiveness and creativity**. Highly recommended!
+Cooperation with the team is amazing. **Guarantee of quality**, **responsiveness and creativity**. I highly recommend!
 
 :::::
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/thoro.svg'
+opinionSource: '/img/icons/google.svg'
 ---
 
 #author
@@ -674,27 +776,33 @@ Wojciech Szamocki
 Marketing Department - **Thoro / SOLLUX**
 
 #message
-I recommend working with Webo. They **do tasks reliably** and **seek the best solutions**.
+I recommend cooperation with Webo. **They reliably perform the assumed tasks** and **look for the best solutions**.
 
 :::::
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/Swistak.png'
+opinionSource: '/img/icons/google.svg'
 ---
 
+#message
+I ordered a **website** from Webo. Already at the **needs research stage, you could feel the professionalism**. I am a **satisfied customer** and I use my website in contacts with my clients :)
+
 #author
-Bartłomiej Świstak Piotrowski
+Bartłomiej Piotrowski
 
 #title
 Business Strategy Consultant - **Krakowski świstak**
 
-#message
-In Webo, I ordered a website. **Right from the needs assessment stage, I could feel the professionalism**. I am a satisfied customer and use my website in my interactions with my clients. :)
+
 
 :::::
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/logos/Oravio.png'
+opinionSource: '/img/icons/google.svg'
 ---
 
 #author
@@ -704,22 +812,25 @@ Natalia Ryfa
 Business manager - **Oravio**
 
 #message
-Webo helped us bring our vision for the online store to life, creating a store that is **well-received by customers** and, above all, functions smoothly! Thank you, and we **highly recommend Webo!** : )
+They helped us turn our vision of an online store into a real, **well-received by customers** and above all efficiently operating store! Thank you and **we recommend Webo!** : )
 
 :::::
+
 :::::opinion-md
 ---
 rating: 5
+avatar: '/img/content-images/eurostal_avatar.png'
+opinionSource: '/img/icons/google.svg'
 ---
 
 #author
-Adam Wasilewski
+Dawid Jasek
 
 #title
-Owner - **Caffe wasyl**
+Sales Manager - **Eurostal**
 
 #message
-**Thanks to Webo, I saved my business.**, They implemented my online store **within a month**. May there be more people like them!
+Great cooperation in creating the website and configurator. WEBO is a **professional team that meets deadlines** and has a great approach to the client. Everything works flawlessly, I recommend!
 
 :::::
 ::::
@@ -742,7 +853,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *6/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::
@@ -752,7 +863,7 @@ class: mb-[50px] tablet:mb-[100px]
 
 ::page-section-md
 ---
-class: mb-20 tablet:mb-[130px]
+class: mb-20 tablet:mb-[100px]
 ---
 :::block-form-before-footer-md
 :::

@@ -7,6 +7,7 @@ draft: true
 ---
 darkContainer: true
 decoration: true
+class: tablet:!flex-row-reverse
 ---
 
 #header
@@ -19,7 +20,7 @@ titleUnderline: true
 ## Let's talk about *your website*
 
 #description
-**Write to us and arrange a <u>free consultation</u>.** Together we will discuss the requirements of your project and plan its implementation.
+**Write to us and schedule a <u>free consultation</u>.** Together we will discuss your project requirements and plan the implementation.
 ::::
 
 #fields
@@ -31,7 +32,7 @@ required: true
 ---
 
 #placeholder
-Name
+Full name
 
 ::::
 ::::form-field-md
@@ -95,22 +96,21 @@ Message content
 Send message
 
 #policytext
-I agree to receive commercial information delivered electronically by Webo and to the processing of my personal data in accordance with the **[privacy policy](https://webo.agency/privacy-policy/)**
+I agree to receive commercial information provided electronically by Webo and to the processing of my personal data in accordance with the **[privacy policy](https://webo.agency/privacy-policy/)**
 
 #thanksMessage
-### Thank you for sending your message
+### Thank you for sending the message
 
 #thanksDescription
-We will respond to your message within 24 hours
+We will respond to your message within 24h
 
 #errorMessage
-Unfortunately, we have a temporary problem with the operation of the form. Send an email to <a href="mailo:info@webo.agency">info@webo.agency</a>.
+Unfortunately, we are having a temporary problem with the form. Please send a message to <a href="mailto:info@webo.agency">info@webo.agency</a>.
 
 #side
 ::::svg-decor-big-md
 ---
 class: hidden tablet:block max-w-full mt-10 tablet:mt-0 tablet:pl-10 desktop:pl-20
-
 ---
 ::::
 

@@ -1,9 +1,8 @@
 ---
-introduction.title: 'IS-Wireless - Headless website for a Polish 5G network solutions provider'
-introduction.description: 'It is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security
-'
+introduction.title: 'Headless website for a Polish 5G network solutions provider'
+introduction.description: 'is-wireless.com is a modern website operating based on CMS WordPress. The whole thing was made in headless mode for maximum speed.'
 type:
-    - Website
+    - Websites
     - UX/UI
 technologies:
     - TailwindCSS
@@ -13,8 +12,8 @@ image.url: '/img/case-studies/IS-Wireless-bg.png'
 logo.url: '/img/logos/isw.png'
 tile_hidden: false
 tile_order: 3
-public: false
-draft: true
+public: true
+draft: false
 ---
 
 ::page-section-md
@@ -26,22 +25,22 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ---
 class: mx-default
 logoUrl: '/img/logos/isw.svg'
-link: '/'
+link: 'https://is-wireless.com/'
 ---
 
 #title
-## Strona interntowa w trybie headless dla polskiego dostawcy rozwiązań sieciowych 5G
+## Headless website for a Polish 5G network solutions provider
 
 #description
-**is-wireless.com** to nowoczesna strona www działająca w oparciu o CMS Wordpress. Całość wykonana została w trybie headless, w celu maksymalnego przyśpieszenia.
+**is-wireless.com** is a modern website operating based on CMS WordPress. The whole thing was made in headless mode for maximum speed.
 
 #buttontext
-Zobacz online
+See online
 
 #tags
 - E-commerce
-- Wsparcie
-- Projektowanie UX/UI
+- Support
+- UX/UI Design
 
 ::::
 :::
@@ -68,12 +67,12 @@ class: mx-default
 ---
 
 #left
-### **O kliencie**
+### **About the client**
 
 :::::prose-p3
-Feeby to polski producent **tapet**
+IS-Wireless is a Polish provider of 5G network solutions.
 
-Prócz standardowej oferty marka Feeby współpracuje ze znanymi artystami z całego świata, wzbogacjając tym samym katalog produktów o unikalne dekoracje dla swoich klientów.
+In addition to the standard offer, IS-Wireless cooperates with well-known artists from all over the world, thus enriching the product catalog with unique decorations for its clients.
 :::::
 
 #right
@@ -95,7 +94,7 @@ class: static-content mb-10 desktop:mb-20
 class: mx-default
 ---
 
-### **Wyzwanie i cele**
+### **Challenge and goals**
 
 ::::prose-p3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -123,15 +122,15 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-#### **Kluczowe obszary działania**
+#### **Key areas of activity**
 
 ::::prose-p3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ::::
 
-- Lista
-- Tu
-- Jest
+- Item
+- Here
+- Is
 
 ::::prose-p3
 ---
@@ -181,7 +180,7 @@ class: static-content mb-[50px] tablet:mb-[120px]
 class: mx-default
 ---
 
-### **Zastosowane rozwiązanie**
+### **Solution applied**
 
 ::::prose-p3
 ---
@@ -221,7 +220,7 @@ class: mx-default
 #left
 ::::effect-appear-md
 
-#### **Wykorzystane technologie**
+#### **Technologies used**
 
 :::::prose-p3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -269,7 +268,7 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-### **Realizacja**
+### **Realization**
 
 ::::prose-p3
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -287,7 +286,7 @@ class: static-content mb-[50px] tablet:mb-[130px]
 class: mx-default
 ---
 #left
-#### **Najwyższy poziom bezpieczeństwa i wydajności dzięki Headless**
+#### **Highest level of security and performance thanks to Headless**
 
 ::::prose-p3
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -323,15 +322,15 @@ imgUrl: '/img/case-studies/Mancraft.jpg'
 :::::
 
 #right
-#### **Redesign kluczowych elementów**
+#### **Redesign of key elements**
 
 :::::prose-p3
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :::::
 
-- Lista
-- Tu
-- Jest
+- Item
+- Here
+- Is
 
 ::::
 :::
@@ -382,24 +381,24 @@ refer: 5
 :::::block-opinion-md
 
 #title
-### **Opinia klienta**
+### **Client opinion**
 
 #content
 
-::::::prose-p3
+:::::prose-p3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 **Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.**
-::::::
+:::::
 
 #author
 
 #### **Rafał Kowalski**
 
 #authorTitle
-::::::prose-p6
+:::::prose-p6
 Marketing and Sales Executive - IS-Wireless
-::::::
+:::::
 :::::
 ::::
 :::
@@ -413,14 +412,15 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://webo.agency/contact/
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #title
 #### Are you interested in our offer?
 
 #description
-Get in touch and start collaborating!
+Contact us and start cooperation
+
 ::::
 :::
 ::
@@ -440,7 +440,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

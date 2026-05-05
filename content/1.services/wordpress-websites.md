@@ -1,7 +1,7 @@
 ---
 meta:
-    title: WordPress website creation - websites for businesses - Webo.agency
-    description: We design and implement WordPress websites tailored to your needs. Start building your brand online!
+  title: WordPress website development - WWW sites for companies - Webo.agency
+  description: We design and implement WordPress sites tailored to your needs. Start building your brand online!
 draft: false
 public: true
 hreflangs:
@@ -11,18 +11,19 @@ hreflangs:
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 550
+headerWidth: 680
 descriptionWidth: 550
 isSecondSvg: true
 ---
 
 #subtitle
 
+
 #title
-# We will create a WordPress website for your business
+# We will create a *solid WordPress website* for your company
 
 #description
-Are you looking for an experienced Wordpress team that will design and code your website from scratch? You've come to the right place!
+Are you looking for an experienced WordPress team to design and code your site from scratch? You've come to the right place!
 
 #right
 :::block-banner-decoration-md
@@ -49,20 +50,23 @@ class: items-center
 :::::block-header-md
 
 #subtitle
-### *1/* WordPress Design and Development
+### *1/* Design and programming in WordPress
 
 #title
-## We create solid websites based on Wordpress
+## In delivering sites *we&nbsp;focus&nbsp;on&nbsp;quality*
 
 #description
 ::::::prose-p-4
 ---
 class: mb-10
 ---
-WordPress CMS is the most popular content management system for websites in the world. We know this system very well and combine it with modern solutions and technologies.
+WordPress CMS is the most popular website content management system in the world. We know this system very well and, in addition, we combine it with modern solutions and technologies.
 ::::::
 ::::::prose-p-4
-We will design a unique look for your website that fits your brand and meets your requirements. We will code it from scratch according to technical documentation, without using low-performance templates or pre-made solutions.
+---
+class: text-base
+---
+We will design an individual site appearance for you, matching your brand and meeting the requirements, and we will code it from scratch - according to the technical documentation, without poor-performance templates or ready-mades.
 ::::::
 
 :::::
@@ -70,9 +74,9 @@ We will design a unique look for your website that fits your brand and meets you
 #right
 :::::img-decorated-md
 ---
-class: hidden desktop:block [&_.block]:scale-[1.6] [&_.block]:ml-[-20px] [&_.block_picture]:absolute desktop-wide:[&_.block_picture]:bottom-[-220px] desktop:[&_.block_picture]:bottom-[-100px] fullHd:[&_.block_picture]:bottom-[-240px] 
+class: block _hidden desktop:block [&_.block]:scale-[1.2] [&_.block]:ml-[-20px] desktop:[&_.block_picture]:absolute desktop-wide:[&_.block_picture]:bottom-[-220px] desktop:[&_.block_picture]:bottom-[-100px] fullHd:[&_.block_picture]:bottom-[-240px] 
 decoration: false
-imgUrl: '/img/content-images/strony-wordpress/laptop_mockup.png'
+imgUrl: '/img/content-images/strony-wordpress/laptop_mockup_3.webp'
 ---
 :::::
 ::::
@@ -93,10 +97,10 @@ center: true
 ---
 
 #subtitle
-### *2/* Comprehensive WordPress Implementation
+### *2/* Comprehensive WordPress implementation
 
 #title
-## What can you commission us to do?
+## What can you commission us?
 
 #description
 
@@ -109,7 +113,7 @@ center: true
 icon: '/img/icons/wordpress-icon1.svg'
 ---
 #title
-##### Creating a new Wordpress website
+#### Creating a new&nbsp;WordPress site
 
 #description
 
@@ -121,7 +125,7 @@ icon: '/img/icons/wordpress-icon2.svg'
 delay: 1
 ---
 #title
-##### Expansion of a WordPress website
+#### Expansion of a WordPress website
 
 #description
 
@@ -133,7 +137,7 @@ icon: '/img/icons/wordpress-icon3.svg'
 delay: 2
 ---
 #title
-##### WordPress plugin and extension development
+#### Programming WordPress widgets and&nbsp;plugins
 
 #description
 
@@ -145,7 +149,7 @@ icon: '/img/icons/wordpress-icon4.svg'
 delay: 3
 ---
 #title
-##### Wordpress configurators and dedicated solutions
+#### WordPress configurators and&nbsp;dedicated solutions
 
 #description
 
@@ -157,7 +161,7 @@ icon: '/img/icons/wordpress-icon5.svg'
 delay: 4
 ---
 #title
-##### Performance optimization and bug fixing
+#### Performance optimization and&nbsp;bug fixing
 
 #description
 
@@ -169,7 +173,7 @@ icon: '/img/icons/wordpress-icon6.svg'
 delay: 5
 ---
 #title
-##### WordPress technical support
+#### WordPress technical support
 
 #description
 
@@ -213,7 +217,7 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Are you looking for an experienced *UX/UI design team?*
+#### Looking for a solid *WordPress team?*
 
 #description
 Schedule a free consultation and tell us more about your project
@@ -242,10 +246,10 @@ center: true
 ---
 
 #subtitle
-### *3/* Why should you trust us?
+### *3/* Why is it worth trusting us?
 
 #title
-## What are our *WordPress websites* like?
+## We care about quality, *and&nbsp;you?*
 
 ::::
 
@@ -275,31 +279,42 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-##### Programmed from scratch - without using low-performance templates
+#### We program from scratch - without using poor&nbsp;performance templates
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-Ready-made templates often contain a lot of unnecessary code and functions that can decrease website performance and compromise its security. At Webo, we focus on programming websites from scratch, with well-thought-out features and optimal code, allowing us to achieve significantly higher performance results and offering high flexibility in modifications and expansions.
+Ready-made templates often contain a lot of unnecessary code and functions that, among other things, reduce site performance and limit its security. At Webo, we focus on programming sites from scratch, well-thought-out functions and optimal code, which allows achieving much higher performance results and high flexibility in modifications and expansion. 
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-Additionally, thanks to our approach, you reduce website maintenance costs, increase its security (after all, junk template code has many vulnerabilities) and minimize the risk of failures, which are not desirable, especially during ongoing marketing campaigns.
+Additionally, thanks to our approach, you limit site maintenance costs, increase its security (after all, junk template code has many vulnerabilities) and minimize the risk of failures, which are not desirable especially during ongoing marketing campaigns.
 :::::::
 ::::::
 :::::
 
 #right
 :::::effect-appear-md
+---
+class: relative
+---
+
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/wsparcie-wordpress/decor-square.svg'
+decoration: false
+class: mx-auto !mb-0 !p-0 !w-[100px] tablet:!w-[100px] h-[100px] !absolute !bottom-[-50px] tablet:!bottom-[20px] right-[-10px] tablet:!right-[-50px]
+---
+::::::
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-wordpress/dark-laptop.png'
 decoration: false
-class: w-full
+class: w-full z-0
 ---
 
 ::::::
@@ -308,17 +323,29 @@ class: w-full
 
 ::::block-columns-1-1-md
 ---
+reverseMobile: true
 class: mb-16
 ---
 
 #left
 
 :::::effect-appear-md
+---
+class: relative
+---
+
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/wsparcie-wordpress/decor-circle.svg'
+decoration: false
+class: mx-auto !mb-0 !p-0 hidden tablet:!block !w-[122px] tablet:!w-[122px] h-[122px] !absolute !top-[-50px] tablet:!top-[120px] left-[-10px] tablet:!left-[-70px] z-0
+---
+::::::
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-wordpress/dark-laptop2.png'
 decoration: false
-class: w-full
+class: w-full z-0
 ---
 
 ::::::
@@ -344,20 +371,20 @@ class: ml-0 !pl-0 !mb-5 !w-20
 :::::::
 
 #title
-##### Individually designed for your company and its needs
+#### We design individually for&nbsp;your&nbsp;company&nbsp;and&nbsp;its&nbsp;needs
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-Would you like your website to look like 1000 other websites on the Internet? Or that it does not meet the needs of your business and customer expectations? If the answer is "no," then you already know why it's so important for the UX/UI design of your website to be tailored individually to your company.
+Would you like your site to look like 1000 other sites on the internet? Or not meet your business needs and customer expectations? If the answer is "no," you already know why it's so important for the website UX/UI design to be prepared individually for your company.
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-A properly prepared website design brings several benefits, including increased customer engagement, faster decision-making process for purchases, strengthening brand image on the Internet, and reducing programming costs.
+A properly prepared site design brings a number of benefits, including increasing customer engagement, accelerating the purchasing decision-making process, strengthening the brand image on the internet and reducing the costs of programming works.
 :::::::
 ::::::
 :::::
@@ -386,31 +413,42 @@ class: ml-0 !mb-5 !w-20 tablet:!w-[160px] desktop:!w-[200px]
 :::::::
 
 #title
-##### Stable operation over the years and ready for growth
+#### We create sites that work stably for years&nbsp;and&nbsp;are prepared for development
 
 #description
 :::::::prose-p-3
 ---
 class: mb-5 [&_p]:!leading-loose [&_p]:!mb-0
 --- 
-A website is an investment that should bring benefits to your company and not be a burden. Our task is to create a website that will work stably for years, without worrying about performance or availability for potential customers.
+A website is an investment that is supposed to bring benefits to your company and not be a weight. Our task is to create a site that works stably for years, without worries about performance or accessibility for potential customers.
 :::::::
 :::::::prose-p-4
 ---
 class: mb-0 [&_p]:!leading-loose [&_p]:!mb-0
 ---
-High-quality code combined with modern tools and technology also provides great flexibility for further expansion and reduces the risk of complications, resulting in significantly lower development costs for the website.
+High-quality code in combination with modern tools and technology also gives great flexibility in further expansion and reduces the risk of complications, so the cost of site development will be much lower.
 :::::::
 ::::::
 :::::
 
 #right
 :::::effect-appear-md
+---
+class: relative
+---
+
+::::::img-decorated-md
+---
+imgUrl: '/img/content-images/wsparcie-wordpress/decor-square.svg'
+decoration: false
+class: mx-auto !mb-0 !p-0 !w-[100px] tablet:!w-[100px] h-[100px] !absolute !bottom-[-50px] tablet:!bottom-[20px] left-[-10px] tablet:!left-[70px]
+---
+::::::
 ::::::img-decorated-md
 ---
 imgUrl: '/img/content-images/strony-wordpress/dark-laptop3.png'
 decoration: false
-class: w-full
+class: w-full z-0
 ---
 ::::::
 :::::
@@ -421,7 +459,7 @@ class: w-full
 ---
 class: text-[#FFF] text-3xl font-semibold !mb-10 pt-[60px] border-t-[1px] border-t-gray-dark
 ---
-We absolutely prioritize:
+We absolutely focus on:
 ::::
 ::::block-list-ul-md
 ---
@@ -431,12 +469,11 @@ class: mb-10 gap-5 columns-1 flex flex-col tablet:flex-row _tablet:columns-3 [&_
 :::::tile-dark-icon-md
 ---
 iconUrl: '/img/icons/code-page.svg'
-delay: 0
 class: desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Compatibility with WordPress technical documentation
+#### Compliance with WordPress technical documentation
 
 #description
 
@@ -445,12 +482,12 @@ class: desktop:min-h-[270px] w-1/3
 :::::tile-dark-icon-md
 ---
 iconUrl: '/img/icons/gears.svg'
-delay: 3
+delay: 1
 class: desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Multiple tests before publication
+#### Multiple tests before&nbsp;publication
 
 #description
 
@@ -459,12 +496,12 @@ class: desktop:min-h-[270px] w-1/3
 :::::tile-dark-icon-md
 ---
 iconUrl: '/img/icons/pencil.svg'
-delay: 1
+delay: 2
 class:  desktop:min-h-[270px] w-1/3
 ---
 
 #title
-#### Ease of use and content management
+#### Ease of use and&nbsp;content&nbsp;management
 
 #description
 
@@ -478,22 +515,31 @@ class:  desktop:min-h-[270px] w-1/3
 ---
 classes: mb-10 tablet:mb-20
 ---
-:::effect-appear-md
-::::block-header-md
+:::block-columns-1-1-md
 ---
-maxWidth: 845
-class: mb-20
+class: mb-10
+---
+
+#left
+::::effect-appear-md
+:::::block-header-md
+---
+maxWidth: 580
+class: mb-7
 ---
 
 #subtitle
-### *4/* Stages of WordPress website development
+### *4/* Stages of WordPress site implementation
 
 #title
-## How does the step-by-step process of WordPress website development proceed?
+## How does the *website implementation* work step by step?
 
-#description
-Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
+:::::
+::::
 
+#right
+::::effect-appear-md
+Creating a modern website requires extensive knowledge of technology and user-oriented design, as well as a developed process that ensures fulfillment of assumptions without time delays and within the established budget.
 ::::
 :::
 
@@ -502,11 +548,11 @@ Creating a modern website requires a wide range of technical knowledge and user-
 :::block-swiper-tabs-md
 ---
 tabNames:
-    - Requirements analysis
-    - UX/UI Design
-    - Development
-    - QA & publishing
-    - Maintenance & growth
+    - Assumptions analysis
+    - Design
+    - Programming
+    - Testing and publication
+    - Support and development
 ---
 ::::block-swiper-tabs-slide-md
 ---
@@ -518,18 +564,18 @@ maxWidth: 700
 ---
 
 #title
-#### 01. Requirements analysis
+#### 01. Assumptions analysis
 
 #description
-This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
+This is the first step we must take to implement a website. During the first conversation, we learn your needs and project assumptions in detail.
 
 **During this stage:**
-- We run video workshops
-- We select the best technology and solutions tailored to your project
-- We prepare a cost estimate, which includes a detailed implementation method and technology stack
-- We determine the project duration and delivery deadlines<br>
+- We conduct video workshops
+- We choose the best technology and solutions, optimal for your project
+- We prepare a budget that includes a detailed implementation method and technological stack
+- We determine the duration of the project and acceptance dates<br>
 
-**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
+**After accepting the quote, proposed solutions and dates, we sign a cooperation agreement and proceed to implementation.**
 
 :::::
 ::::
@@ -545,16 +591,16 @@ maxWidth: 700
 ---
 
 #title
-#### 02. UX/UI Design
+#### 02. UX/UI Interface Design
 
 #description
-During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
+During this stage, we work on the look of the website. We start by analyzing the habits of the target group (your customers) and the market environment - all so that users can easily find their way around the new site. Then we develop moodboards (inspiration boards), trace user paths (user flow), design UX wireframes, ending with the final look of your site.
 
 **During this stage:**
 - You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
-- You will approve each stage of your website project - from moodboards to the final look.<br>
+- You will accept individual stages of your website project - from moodboards to the final look.<br>
 
-**Once the final look is approved, the project is ready for the programming stage**
+**After accepting the final look, the project is ready for the programming stage.**
 
 :::::
 ::::
@@ -569,17 +615,17 @@ maxWidth: 700
 ---
 
 #title
-#### 03. Development
+#### 03. Programming works
 
 #description
-After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
+After approving the interface design, we begin work on the comprehensive implementation of the website in the chosen technology. We act from configuring the technical infrastructure, through installing required tools to programming the site.
 
 **During this stage:**
-- You will have a live preview of the site in the development environment, which will give you full control over the project
-- We will configure the technical infrastructure needed for the efficient operation of the website
-- We will develop the website with all the required features and integrations e.g. GA4.<br>
+- You will have a constant view of the site in the development environment, which will provide full control over the project
+- We will configure the technical infrastructure needed for efficient website operation
+- We will program the website along with all required functions and integrations, e.g., GA4.<br>
 
-**Once the programming stage is complete, we submit the website for QA.**
+**After completing the programming stage, we pass the website for testing.**
 
 :::::
 ::::
@@ -596,16 +642,16 @@ maxWidth: 700
 ---
 
 #title
-#### 04. QA & Publishing
+#### 04. Testing and publication
 
 #description
-In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
+In this stage, we thoroughly check the operation of the website. We perform tests on many devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as it should. After passing internal tests, we pass the site to the client for verification - this is the moment for refining the project and reporting any comments before publication.
 
 **During this stage:**
-- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the site on multiple devices
-- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
+- We check the operation of every function, site performance, infrastructure configuration and site display on many devices.
+- We pass the site to the client for verification, we perform any corrections to prepare the site for publication.<br>
 
-**After receiving the green light for publication from the client, we will kick off!**
+**After receiving a green light for publication from the client, we start!**
 
 :::::
 ::::
@@ -621,23 +667,20 @@ maxWidth: 700
 ---
 
 #title
-#### 05. Maintenance & growth
+#### 05. Support and development
 
 #description
-Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
+Often, the publication of the site is just the beginning, and during the use of the site, ideas for new functionalities, tabs or improvements appear - at this point, we cannot forget about necessary updates or monitoring performance, security or stability of operation.
 
-**As part of our support service, we handle the following work:**
-- Update the environment (system) as part of maintenance
-- Monitoring the security and speed of the site
-- Design and development of the website
+**As part of the support service, we deal with the following works:**
+- Environment (system) update as part of maintenance
+- Monitoring security and site speed
+- Designing and expanding the site
 - Designing and implementing new functionalities and dedicated modules
-- Responding to potential failures<br>
-
-**Once the scope of support is agreed we begin a long-term relationship**
+- Reacting to any failures<br>
 
 :::::
 ::::
-
 :::
 ::
 
@@ -653,13 +696,28 @@ classes: mb-20 tablet:mb-[100px]
 
 ::::effect-appear-md
 ---
-class: relative z-10 overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
+class: relative overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
 ---
+
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/strony-wordpress/wordpress-laptop.png'
+imgUrl: '/img/content-images/strony-wordpress/decor_code.svg'
 decoration: false
-class: tablet:mb-20 !mb-0
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[100px] tablet:!w-[230px] !absolute top-1/3 right-0
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_quarter_circle.svg'
+decoration: false
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[122px] !absolute bottom-[100px] left-[-61px]
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/laptop_mockup_4_4.webp'
+decoration: false
+class: tablet:mb-20 !mb-10 z-0
 ---
 
 :::::
@@ -673,29 +731,318 @@ class: relative z-20
 ---
 :::::block-header-md
 ---
+maxWidth: 680
 class: mb-10
 ---
 
 #subtitle
-### *5/* Advantages of Wordpress CMS
+### *5/* Advantages of WordPress CMS
 
 #title
-## Why choose WordPress?
+## Professional WordPress site construction - *a solid base for your business*
 
 #description
 ::::::prose-p-4
 ---
 class: mb-10
 ---
-It is a content management system that offers enormous possibilities. Thanks to its flexibility, we can create a company website, an e-commerce store or an extensive information service. Another advantage of Wordpress is its scalability, you can easily choose this system with the assumption of further (even significant) expansion of the website in the future - however, an appropriate approach and quality of workmanship are necessary.
+More and more companies decide on **creating a website in WordPress** because this system combines simplicity of use with huge technical possibilities. However, the key is who and how implements such a project. At Webo, we do not use ready-made templates - each **WordPress site is created from scratch**, exactly for the requirements of a given business.
 ::::::
 ::::::prose-p-4
-Wordpress is definitely an SEO-friendly system, thanks to numerous built-in solutions and extensions, your website will achieve better results in the Google search engine. Using this CMS is really simple, and in case of any difficulties or problems, you can count on the support of a large community.
+---
+class: mb-10
+---
+Instead of taking shortcuts, we offer fully **dedicated WordPress site creation**, which means an individual graphic design, clean and optimized code and full control over the functionality and performance of the site. Thanks to this, you have the certainty that your site not only looks great but also works fast, is secure and ready for further development.
+::::::
+::::::prose-p-4
+As a **company creating WordPress sites from scratch**, we perfectly understand the needs of modern businesses – from simple company services, through extensive information platforms, to integrations with external systems and dedicated modules. We combine **UX/UI design**, front-end and back-end programming and SEO optimization, creating complete online solutions.
 ::::::
 :::::
 ::::
 ::
 
+::page-section-md
+---
+classes: mb-10 tablet:mb-20
+---
+
+:::block-columns-1-1-md
+---
+class: mb-20
+---
+
+#left
+::::effect-appear-md
+:::::block-header-md
+---
+maxWidth: 520
+class: mb-5
+---
+
+#subtitle
+### *6/* What we can do for you
+
+#title
+## WordPress site creation - *more than a CMS*
+
+:::::
+::::
+
+#right
+::::effect-appear-md
+---
+class: h-full flex items-center
+---
+
+For many clients, WordPress is associated with a simple content editor. Meanwhile, in the hands of experienced developers, it is a very flexible system that, with the right approach, enables the construction of scalable, secure and effective sites. Our projects meet these assumptions thanks to, among others:
+::::
+:::
+
+:::block-columns-1-1-1-md
+---
+class: mb-10 tablet:mb-20 tablet:gap-[30px]
+---
+
+#left
+::::effect-appear-md
+:::::block-list-ul-md
+---
+decoration: false
+---
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/uxui_bg_gray.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### individually designed graphic interfaces
+
+#description
+
+::::::
+
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/icon-code-gray.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### programming of dedicated themes and functions
+
+#description
+
+::::::
+:::::
+::::
+
+
+#center-col
+::::effect-appear-md
+:::::block-list-ul-md
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/icon-tree.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### well-thought-out and tailored system architecture
+
+#description
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/icon-integration.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### integrations with external systems (CRM, ERP, API)
+
+#description
+
+::::::
+:::::
+::::
+
+#right
+::::effect-appear-md
+:::::block-list-ul-md
+---
+decoration: false
+---
+
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/icon-cube.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### modern technological solutions
+#description
+
+::::::
+::::::list-item-ul-active-md
+---
+iconUrl: '/img/icons/icon-docs.svg'
+iconBig: true
+iconLeft: false
+animated: false
+class: text-left [&_h4]:text-lg [&_h4]:tablet:text-xl !min-h-[150px] tablet:!max-h-[180px]
+---
+
+#title
+#### full compliance with WCAG, GDPR and WordPress technical documentation
+
+#description
+
+::::::
+:::::
+::::
+:::
+::
+
+
+::page-section-md
+---
+class: mb-[100px] tablet:mb-[100px]
+---
+:::effect-appear-md
+
+::::svg-bg-dots
+---
+decoration: true
+class: block desktop:hidden top-0 right-0
+---
+::::
+
+::::block-cta-md
+---
+maxWidth: 1300
+class: tablet:mb-36 [&_.description]:desktop:!text-lg !p-[40px] border border-[#DEE7E5] [&_a]:hidden
+---
+
+#title
+#### We realize that creating a website on WordPress is not just "building a site" – it's a process that begins *with learning your goals and ends with a ready-to-use tool supporting your business online.*
+
+#description
+
+::::
+:::
+::
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: bg-green-gray relative
+---
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-arc.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[80px] tablet:!w-[122px] !absolute top-[20px] tablet:!top-[50px] left-[20px] tablet:!left-[50px] z-0
+---
+::::
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-square.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[60px] tablet:!w-[100px] !absolute bottom-[20px] tablet:!bottom-[50px] right-[20px] tablet:!right-[50px] z-0
+---
+::::
+
+::::block-faq-md
+
+#header
+:::::block-header-md
+---
+maxWidth: 900
+class: mb-[50px] text-center relative
+---
+
+#subtitle
+### *7/* Everything worth knowing before starting and developing a WordPress site
+
+#title
+## Frequently Asked Questions (FAQ)
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### How much does it cost to create a website on WordPress?
+
+#description
+The cost of creating a website in WordPress depends on the project's complexity. A simple company website starts from several thousand PLN. In the case of a dedicated WordPress site with individual design, additional functionalities and SEO optimization, the cost is set individually based on consultation.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Do you create WordPress sites from scratch?
+
+#description
+Yes, **website creation** in our execution means a tailor-made graphic design and programming from scratch, without the use of ready-made templates. Thanks to this, you have full control over appearance and functionality, and your site is fast, secure and tailored to the business.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Can I edit content on the site myself?
+
+#description
+Yes, this is one of the main advantages of the WordPress system. After implementing the site, you will receive access to a simple administrative panel, thanks to which you will easily update content, add new subpages, blog posts or photos.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Do you also offer support after implementation?
+
+#description
+Yes. As a **company creating WordPress sites**, we provide not only project implementation, but also technical support, updates, monitoring and the possibility of further site expansion – according to your needs.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### How long does it take to implement a WordPress site?
+
+#description
+The average implementation time is from 3 to 6 weeks – depending on the project scope. More extensive **dedicated WordPress sites** may require more time due to interface design, function programming and testing.
+
+:::::
+::::
+:::
+::
 
 ::page-section-md
 ---
@@ -721,16 +1068,16 @@ class: block desktop:hidden top-0 right-0
 ---
 maxWidth: 730
 button.link: https://webo.agency/contact/
-button.title: 'Skontaktuj się z nami'
+button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Do you need Wordpress experts to *code your website?*
+#### Need WordPress experts who&nbsp;*will&nbsp;code&nbsp;your site?*
 
 #description
-If you already have a website design but are looking for specialists who will code it (without half-measures), make an appointment for a free consultation!
+If you already have a website project but are looking for specialists who will code it (no half-measures), schedule a free consultation!
 
 ::::
 :::
@@ -738,7 +1085,7 @@ If you already have a website design but are looking for specialists who will co
 
 ::page-section-md
 ---
-id: realizacje
+id: case-studies
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
@@ -748,10 +1095,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *6/* Our website projects
+### *8/* Our recent projects
 
 #title
-## We are proud of the projects *we've completed*
+## We are proud <br> of *completed projects*
 
 ::::
 :::
@@ -759,6 +1106,9 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
+selectedSlugs:
+    - mutiny-group
+    - isw
 moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
@@ -779,10 +1129,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *7/* Our clients
+### *9/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Caffe Wasyl - E-commerce website built on WordPress + WooCommerce, delivered in a very short timeframe'
-introduction.description: 'Caffe Wasyl is an e-commerce offering coffee and tea blends for connoisseurs. Our task was to create an online store and launch sales within a month from the initial request.'
+introduction.title: 'Online store based on WordPress + WooCommerce delivered in a very short time'
+introduction.description: 'CaffeWasyl is an online store offering coffee and tea blends for gourmets. Our task was to create an online store and launch sales within a month of the request.'
 type:
     - E-commerce
     - Support

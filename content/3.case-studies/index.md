@@ -3,6 +3,9 @@ hreflangs:
     EN: '/case-studies/'
     PL: '/realizacje/'
 
+meta:
+    title: Case Studies
+    description: 'See our implementations of websites and online stores for companies from various industries. Check how we help develop business online. See our portfolio!'     
 ---
 ::page-section-md
 ---
@@ -16,11 +19,11 @@ center: true
 
 #subtitle
 :::::prose-p3 
-*-/* Case studies 
+*-/* Case Studies 
 :::::
 
 #title
-## See the projects we are *proud of*
+## See projects we *are proud of*
 
 ::::
 :::
@@ -40,22 +43,23 @@ link: 'https://www.is-wireless.com/'
 ---
 
 #title
-#### IS-Wireless - Headless website for a Polish 5G network solutions provider
+#### Headless website for a Polish 5G network solution provider
 
 #description
 :::::prose-p3
 ---
 class: leading-8
 ---
-**is-wireless.com** is a modern website built on the WordPress CMS platform, developed with a headless architecture for maximum performance and security.
+**is-wireless.com** is a modern website operating based on **CMS WordPress**. The whole thing was made in **headless** mode, in order to maximize speed.
 :::::
 
 #buttontext
-View online
+See online
 
 ::::
 :::
 ::
+
 
 
 
@@ -69,7 +73,7 @@ class: mb-[50px] tablet:mb-[150px]
 contentFolder: case-studies
 filters:
     - E-commerce
-    - Website
+    - Websites
     - Support/Development
     - UX/UI
 technologies:
@@ -114,7 +118,7 @@ button.title: 'Get in touch'
 #### Are you interested in our offer?
 
 #description
-Get in touch and start collaborating!
+Contact us and start cooperation
 
 
 ::::
@@ -133,10 +137,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *-/* Our clients
+*-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+### Meet companies that *trusted us*
 
 ::::
 :::

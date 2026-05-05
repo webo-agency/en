@@ -1,7 +1,7 @@
 ---
 meta:
-    title: UX/UI website design - Webo.agency
-    description: We design intuitive interfaces that increase conversion rates. Take care of your website's UX - order an audit or design!
+  title: Website UX/UI Design - Webo.agency
+  description: We design intuitive interfaces that increase conversion. Take care of your website's UX - order an audit or design!
 hreflangs:
     EN: '/services/ux-ui-design/'
     PL: '/uslugi/projektowanie-ux-ui/'
@@ -9,85 +9,112 @@ draft: false
 public: true
 ---
 
+
+
+
 ::block-banner-md
 ---
 bgImg: false
-headerWidth: 600
-descriptionWidth: 600
+headerWidth: 720
+descriptionWidth: 475
 isSecondSvg: true
+showClientsLogos: true
+class: desktop:mb-[120px] desktop:pt-[100px] !h-auto
 ---
 
 #subtitle
 *-/* User Experience Design
 
 #title
-# UX/UI design
+# Website UX/UI Design
 
 #description
-We design websites and online stores 
+We design intuitive website, store and web application interfaces, increasing conversion and user engagement.
+
+#clientsLogos
+:::effect-appear-md
+---
+class: -mt-4
+---
+::::prose-p-3
+---
+class: mb-4 font-semibold text-lg
+---
+We designed for, among others:
+::::
+
+::::block-brands-md
+---
+class: mb-10 desktop:mb-0 !justify-start desktop:flex-nowrap !gap-x-7 [&_picture]:opacity-90
+logos:
+    - link: ''
+      imgUrl: '/img/logos/sollux_2.svg'
+    - link: ''
+      imgUrl: '/img/logos/franko.svg'      
+    - link: ''
+      imgUrl: '/img/logos/isw_2.svg'    
+    - link: ''
+      imgUrl: '/img/logos/aldi_2.svg'     
+    - link: ''
+      imgUrl: '/img/logos/getsales_2.svg'                     
+---
+::::
+:::
 
 #right
 :::block-banner-decoration-md
 ---
 rotate_bl: 90
 rotate_tr: 90
-svgUrl_bl: '/img/svg-square.svg'
 svgUrl_tr: '/img/svg-arc.svg'
 ---
 :::
 ::
 
 
-
 ::page-section-md
 ---
-classes: pt-20 mb-5 tablet:mb-20 overflow-hidden
+classes: mb-[100px] tablet:mb-[200px] overflow-x-clip overflow-y-visible
 ---
-:::block-columns-1-1-md
+:::effect-appear-md
+::::block-columns-1-1-md
 ---
+reverseMobile: true
 class: items-center
 ---
 
 #left
-::::effect-appear-md
----
-class: relative z-20
----
+
 :::::block-header-md
----
-maxWidth: 690
----
 
 #subtitle
 ### *1/* What is UX/UI design?
 
 #title
-## We design to make using websites *simple, fast, and enjoyable*
+## Designing websites for user experience
 
 #description
-:::::prose-p-4
+::::::prose-p-4
 ---
-class: mb-10
+class: mb-5 leading-8
 ---
-UX/UI design is a way of designing, among others websites, which requires close collaboration between the design team, developers, users and the business. It involves many activities in the area of user experience (UX) and user interface (UI), on the way to creating websites that not only look great but are also easy to use, engage users and effective in achieving business goals.
+UX/UI design is a way of designing websites, among others, that requires close cooperation between the design team, programmers, users and business. It covers many activities in the area of user experience (UX) and user interface (UI), on the way to creating websites that not only look great but are also easy to use, engaging users and effective in achieving business goals.
+::::::
+
 :::::
-::::
 
 #right
-::::effect-appear-md
----
-class: relative z-10
----
 :::::img-decorated-md
 ---
-imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.png'
+class: hidden desktop:block [&_.block]:scale-[1.1] [&_.block]:ml-[-20px] [&_.block_picture]:absolute desktop-wide:[&_.block_picture]:bottom-[-220px] desktop:[&_.block_picture]:bottom-[-100px] fullHd:[&_.block_picture]:bottom-[-240px] 
 decoration: false
-class: tablet:!pl-0 !mb-0 !-mx-10 tablet:!ml-0 desktop:!-ml-10 tablet:!-mr-40 desktop:!-mr-56 tablet:!-mt-40 !w-auto
+imgUrl: '/img/content-images/projektowanie-uxui/section1-right-img.webp'
 ---
 :::::
 ::::
 :::
 ::
+
 
 
 ::page-section-md
@@ -103,13 +130,13 @@ maxWidth: 640
 ---
 
 #subtitle
-### *2/* Designing websites and e-commerce
+### *2/* Website and online store design
 
 #title
 ## What can we <br> *design* for you?
 
 #description
-We love challenges and problem solving, we specialize in designing interfaces for the Internet, focusing not only on appearance but also on practical use and functionality. We would love to design:
+We love challenges and solving problems, we specialize in designing interfaces for the internet, focusing not only on appearance but also practical use and functionality. We will be happy to design:
 
 ::::
 :::
@@ -121,7 +148,10 @@ icon: '/img/icons/services-site.svg'
 link: 'https://webo.agency/services/websites/'
 ---
 #title
-##### Websites and landing pages
+#### Websites and landing pages
+
+#description
+We create fast, modern and functional websites where your customer will quickly find what they are looking for
 
 ::::
 
@@ -132,7 +162,10 @@ link: 'https://webo.agency/services/e-commerce/'
 delay: 1
 ---
 #title
-##### E-commerce and web portals
+#### E-commerce stores and web portals
+
+#description
+We create fast, modern and functional websites where your customer will quickly find what they are looking for
 
 ::::
 
@@ -143,7 +176,10 @@ link: ''
 delay: 2
 ---
 #title
-##### Web applications and configurators 
+#### Web applications and configurators 
+
+#description
+We create fast, modern and functional websites where your customer will quickly find what they are looking for
  
 ::::
 :::
@@ -177,7 +213,7 @@ class: block desktop:hidden top-0 right-0
 
 ::::block-cta-md
 ---
-maxWidth: 700
+maxWidth: 730
 button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
@@ -185,7 +221,7 @@ class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Are you looking for an experienced <br> *UX/UI design team?*
+#### Are you looking for an experienced *UX/UI design team?*
 
 #description
 Contact us and take advantage of a free consultation during which we will discuss your project.
@@ -197,7 +233,7 @@ Contact us and take advantage of a free consultation during which we will discus
 
 ::page-section-md
 ---
-classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[200px]
+classes: bg-gray-darkest pt-10 tablet:pt-[100px] mb-[100px] tablet:mb-[100px]
 ---
 
 
@@ -218,10 +254,10 @@ center: true
 ### *3/* Why is UX important?
 
 #title
-## What are the benefits of *UX/UI design?*
+## What are the benefits of&nbsp;*UX/UI design?*
 
 #description
-The appearance and functionality of your website are crucial - within the first few seconds of visiting a website, users decide whether they will stay there. Thanks to UX/UI you will influence
+The appearance and operation of your website matter immensely - users decide in the first second whether to stay on the site. Thanks to UX/UI, you will influence:
 
 ::::
 :::::block-list-ul-md
@@ -237,10 +273,10 @@ iconDecorated: true
 ---
 
 #title
-#### The increase in customer engagement
+#### Increased customer engagement
 
 #description
-among others thanks to the refined information architecture and visual layer users will be inclined to come back to your website and stay longer
+Among others, thanks to refined information architecture and visual layer, users will be happy to return to your site and stay on it longer
 
 ::::::
 ::::::tile-dark-icon-md
@@ -254,7 +290,7 @@ iconDecorated: true
 #### Achieving business goals
 
 #description
-regardless of whether you sell products or run a website, a properly designed interface will help you achieve the goals you set for your website.
+Regardless of whether you sell products or run a web portal, a properly designed interface will help achieve the goals you set for the site. 
 
 ::::::
 ::::::tile-dark-icon-md
@@ -268,7 +304,7 @@ iconDecorated: true
 #### ROI increase
 
 #description
-thanks to intuitive handling and appropriate navigation paths, user can easily finds the information he needs and you increase the chances of selling your product or service
+Thanks to intuitive operation and appropriate navigation paths, the user easily reaches the needed information, and you increase the chances of selling your product or service
 
 ::::::
 ::::::tile-dark-icon-md
@@ -282,7 +318,7 @@ iconDecorated: true
 #### Reducing development costs
 
 #description
-extensive knowledge of technology allows you to design the interface taking into account its limitations, while maintaining the functionality and ease of use of the website
+Broad knowledge in technology allows designing the interface taking into account its limitations, while maintaining functionality and ease of use of the site
 
 ::::::
 ::::::tile-dark-icon-md
@@ -293,10 +329,10 @@ iconDecorated: true
 ---
 
 #title
-#### Improving the brand image
+#### Strengthening brand image
 
 #description
-building an attractive appearance based on existing visual identification will make your website remembered for longer and associated only with your company
+Building an attractive look based on existing visual identity will make your website remembered for longer and associated only with your company
 
 ::::::
 :::::
@@ -306,16 +342,17 @@ building an attractive appearance based on existing visual identification will m
 :::effect-appear-md
 ::::prose-figure
 ---
-src: '/img/content-images/projektowanie-uxui/section3.png'
+src: '/img/content-images/projektowanie-uxui/section3.webp'
 rounded: false
 ---
 ::::
 :::
 ::
 
+
 ::page-section-md
 ---
-class: mb-[50px] tablet:mb-[100px]
+class: mb-[50px] tablet:mb-[150px]
 ---
 :::effect-appear-md
 ::::block-header-two-cols-md
@@ -328,11 +365,11 @@ class: mb-10 tablet:mb-[60px]
 ### *4/* UX/UI design process
 
 #title
-## What does the  <br> *UX/UI design process* look like?
+## What does the <br> *UX/UI design process* look like?
 
 #description
 :::::prose-p3
-Designing website interfaces may seem complicated, when you contract us to design your website you can expect us to follow an iterative process:
+Designing website interfaces may seem complicated, by commissioning us to design your website you can expect action according to an iterative process:
 :::::
 ::::
 :::
@@ -343,7 +380,7 @@ Designing website interfaces may seem complicated, when you contract us to desig
 slidesNarrow: true
 tabNames:
     - Workshops
-    - Assumption analysis
+    - Assumptions analysis
     - Prototype design
     - Verification / testing
     - Interface design
@@ -360,7 +397,7 @@ icon: '/img/icons/uxui-teamwork.svg'
 #### 01. Workshops
 
 #description
-Discovery phase, i.e. collecting requirements - in the first step, we invite you to an conversation during which we get to know all the requirements of the project, your company and users of the future website, store or application. 
+Discovery phase, i.e., gathering requirements - in the first step we invite you for a conversation during which we learn all project assumptions, your company and the users of the future website, store or application.
 
 :::::
 ::::
@@ -372,10 +409,10 @@ icon: '/img/icons/uxui-analysis.svg'
 :::::block-header-md
 
 #title
-#### 02. Assumption analysis
+#### 02. Assumptions analysis
 
 #description
-Analysis of the received information - during this stage we organize the received data. We analyze the provided requirements and ideas, then begin work designing user persona, site map and user flow, among other things.
+Analysis of received information - during this stage we organize the received data. We analyze the provided assumptions and ideas, then we start work developing, among others, personas (user profile), sitemap or user flow (user paths).
 
 :::::
 ::::
@@ -391,7 +428,7 @@ icon: '/img/icons/uxui-prototyping.svg'
 #### 03. Prototype design
 
 #description
-Creating a product concept - in the next step, we design the information architecture, sketch the first views, ending with UX mockups (prototype/site skeleton).
+Creation of the product concept - in the next step we design the information architecture, sketch the first views, ending with UX wireframes (prototype/website skeleton).
 
 :::::
 ::::
@@ -405,7 +442,7 @@ icon: '/img/icons/uxui-exam.svg'
 #### 04. Verification / testing
 
 #description
-At this stage, we check if the prototype fulfills the goals and requirements and whether it fits the user’s needs, then we make fixes and verify it again.
+At this stage we check whether the prototype meets the goals and assumptions and whether it responds to user needs, then we introduce corrections and re-verify.
 
 :::::
 ::::
@@ -419,7 +456,7 @@ icon: '/img/icons/uxui-design.svg'
 #### 05. Interface design
 
 #description
-Based on the accepted prototype, we design the graphic design of the website/store relying on the visual branding and current trends.
+Based on the accepted prototype, we design the graphic layout of the website/store based on the brand's visual identity and current trends.
 
 :::::
 ::::
@@ -433,7 +470,7 @@ icon: '/img/icons/uxui-shuttle.svg'
 #### 06. Implementation and development
 
 #description
-After passing the design process, it’s time for implementation and product development - at this stage we implement the best developed solution in order to further improve it, while confronting the market.
+After passing the design process, it is time for product implementation and development - here we implement the best developed solution for its further improvement, during confrontation with the market
 
 :::::
 ::::
@@ -441,10 +478,9 @@ After passing the design process, it’s time for implementation and product dev
 ::
 
 
-
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: 
 ---
 :::effect-appear-md
 ::::block-header-md
@@ -455,10 +491,10 @@ class: mb-20
 ---
 
 #subtitle
-### *5/* Complex UX/UI design
+### *5/* Comprehensive UX/UI project
 
 #title
-## What do we deliver as part of the *UX/UI project?*
+## What do we deliver as part of a *UX/UI project?*
 
 ::::
 :::
@@ -477,7 +513,7 @@ decoration: false
 ---
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/journey_bg.svg'
+iconUrl: '/img/icons/journey_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -487,12 +523,12 @@ animated: false
 #### Customer Journey
 
 #description
-Defines the emotions experienced by users while interacting with the interface. Thanks to proper use, we can identify areas requiring improvement on our website, store or application.
+Defines the emotions accompanying users when using the interface. Thanks to proper use, we can identify areas requiring improvement on our website, store or application.
 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/path_bg.svg'
+iconUrl: '/img/icons/path_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -503,12 +539,12 @@ animated: false
 
 
 #description
-This is a diagram defining the path that user must follow on the website in order to complete a task e.g. purchasing a product in an online store
+This is a diagram defining the path the user must take on the website to perform a task, e.g., purchasing a product in an online store
 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/design-system_bg.svg'
+iconUrl: '/img/icons/design_system_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -518,7 +554,7 @@ animated: false
 #### Design system
 
 #description
-This is a collection of guidelines and standard elements (e.g. different versions of buttons, windows and components) that can be used when designing new subpages in the future.
+This is a collection of guidelines and standard elements (e.g., different versions of buttons, windows and components) that can be used for "designing more" subpages in the future.
 
 ::::::
 :::::
@@ -530,7 +566,7 @@ This is a collection of guidelines and standard elements (e.g. different version
 :::::block-list-ul-md
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/architecture_bg.svg'
+iconUrl: '/img/icons/architecture_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -540,12 +576,12 @@ animated: false
 #### Information architecture
 
 #description
-Information architecture is responsible for organizing and dividing the content on the website to facilitate the user's search for the necessary materials.
+Information architecture is responsible for organizing and dividing content on the site to facilitate searching for necessary materials by the user.
 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/ui-design_bg.svg'
+iconUrl: '/img/icons/ui_design_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
@@ -555,22 +591,22 @@ animated: false
 #### Functional UX prototype
 
 #description
-It is a graphical presentation of the arrangement elements on a page, that allows to determine the function, type of content (including graphics, heading, paragraph or button) and the way the user interacts with the page.
+This is a graphic presentation of the layout of elements on the site, allowing to define functions, type of content (including graphics, header, paragraph or button) and the way the user interacts with the site.
 
 ::::::
 ::::::list-item-ul-active-md
 ---
-iconUrl: '/img/icons/project_bg.svg'
+iconUrl: '/img/icons/project_bg_2.svg'
 iconBig: true
 iconLeft: true
 animated: false
 ---
 
 #title
-#### UI design
+#### UI interface design
 
 #description
-It is a visual presentation of the final appearance of the website, designed with emphasis on consistency with the company's visual identification, aesthetics and the nature of the business.
+This is a visual presentation of the target look of the site, designed with emphasis on consistency with the company's visual identity, aesthetics and the nature of the business.
 
 ::::::
 :::::
@@ -578,14 +614,99 @@ It is a visual presentation of the final appearance of the website, designed wit
 :::
 ::
 
+
 ::page-section-md
 ---
-classes: mb-20 tablet:mb-[150px]
+classes: mb-[60px]
+---
+
+:::block-columns-1-1-md
+
+#left
+
+::::effect-appear-md
+---
+class: relative overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
+---
+
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_quarter_circle.svg'
+decoration: false
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[122px] !absolute bottom-[100px] left-[-61px]
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/projektowanie-uxui/mockup_tablet_2.webp'
+decoration: false
+class: tablet:mb-20 !mb-10 z-0
+---
+
+:::::
+::::
+
+#right
+
+::::effect-appear-md
+---
+class: relative z-20
+---
+:::::block-header-md
+---
+maxWidth: 700
+class: mb-10
+---
+
+#subtitle
+### *6/* Effects of good UX
+
+#title
+## Why is it worth investing in professional design?
+
+#description
+::::::prose-p-4
+---
+class: mb-10
+---
+In UX/UI design we look broadly - we analyze data, user habits and behaviors, take into account design standards and key business assumptions. We make sure to properly highlight competitive advantages, strengths of the offer and elements that have a real impact on purchasing decisions.
+::::::
+::::::prose-p-4
+---
+class: mb-10 text-base
+---
+A website is not just a point of contact, but a full-fledged tool supporting the development of the company, building its image and achieving business goals.
+::::::
+
+::::::prose-p-4
+---
+class: text-base
+---
+**Well-designed UX/UI is more than just user convenience. It is also:**
+::::::
+
+::::::prose-p-4
+---
+class: text-base max-w-[650px] mb-5 [&_p]:!leading-7 ml-3
+--- 
+
+&#x2022; shorter time to achieve the goal (e.g., purchase, contact),<br>
+&bull; higher conversion and lower bounce rate,<br>
+&#8226; greater user loyalty,<br>
+&#8226; better Google results thanks to the technical quality of the site.<br>
+::::::
+:::::
+::::
+::
+
+::page-section-md
+---
+classes: mb-5
 ---
 :::effect-appear-md
 ::::prose-figure
 ---
-src: /img/content-images/ui-components.png
+src: /img/content-images/projektowanie-uxui/section_img.webp
 ---
 ::::
 :::
@@ -593,7 +714,96 @@ src: /img/content-images/ui-components.png
 
 ::page-section-md
 ---
-id: realizacje
+classes: mb-[100px]
+---
+:::effect-appear-md
+::::prose-figure
+---
+src: /img/content-images/projektowanie-uxui/section_img_2.webp
+---
+::::
+:::
+::
+
+
+::page-section-md
+---
+class: mb-20 tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: bg-green-gray relative
+---
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-arc.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[80px] tablet:!w-[122px] !absolute top-[20px] tablet:!top-[50px] left-[20px] tablet:!left-[50px] z-0
+---
+::::
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-square.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[60px] tablet:!w-[100px] !absolute bottom-[20px] tablet:!bottom-[50px] right-[20px] tablet:!right-[50px] z-0
+---
+::::
+
+::::block-faq-md
+
+#header
+:::::block-header-md
+---
+maxWidth: 900
+class: mb-[50px] text-center relative
+---
+
+#subtitle
+### *7/* Everything you should know about UX/UI design
+
+#title
+## Frequently Asked Questions (FAQ)
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### What is the difference between UX and UI?
+
+#description
+UX (User Experience) focuses on user feelings and experience - their convenience, interface intuitiveness and navigation effectiveness. UI (User Interface) is the visual part - colors, typography, layout of elements. Together they create a consistent and effective website project.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Do I need UX/UI design if I already have a website?
+
+#description
+Yes, if you want to improve site efficiency, increase conversion, simplify the purchasing process or refresh the look according to user expectations. UX/UI design is also a great solution when you undergo rebranding and need to adapt the site to new visual identity. It's also a good starting point for a full website redesign.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### How long does the UX/UI design process take?
+
+#description
+Implementation time depends on the project size - for a small site it can be 2-3 weeks, for an extensive online store even 1-2 months. The key is to go through analysis, prototyping, testing and final design.
+
+:::::
+::::
+:::
+::
+
+::page-section-md
+---
+id: case-studies
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
@@ -603,10 +813,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *6/* Our latest projects
+### *8/* Our recent projects
 
 #title
-## We are proud <br> of the *projects we have completed.*
+## We are proud <br> of *completed projects*
 
 ::::
 :::
@@ -615,10 +825,8 @@ class: mb-10 tablet:mb-20
 ---
 contentFolder: case-studies
 selectedSlugs:
-    - feeby
-    - 5gmadetogether
-    - oravio
-    - proton
+    - get-sales
+    - sellineo
 moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
@@ -639,10 +847,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *7/* Our clients
+### *9/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

@@ -1,7 +1,6 @@
 ---
-introduction.title: 'Feeby - E-commerce for a Polish decoration manufacturer built using PrestaShop and Tailwind CSS'
-introduction.description: 'Feeby is a Polish decoration manufacturer with over 25 years of experience in the market. Our collaboration involves implementing and maintaining the store, as well as developing new functionalities.
-'
+introduction.title: 'Online store of a Polish decorations manufacturer based on PrestaShop and Tailwind CSS'
+introduction.description: 'Feeby is a Polish decorations manufacturer active on the market for over 25 years. Our cooperation consists of implementation, store maintenance, and development of new functionalities.'
 type:
     - UX/UI
     - E-commerce
@@ -14,11 +13,10 @@ image.url: '/img/case-studies/Feeby-bg.png'
 logo.url: '/img/logos/Feeby.png'
 tile_hidden: false
 tile_order: 7
-public: false
-draft: true
+public: true
+draft: false
 fallback: 'https://www.behance.net/gallery/149635813/Feeby-Home-decor-E-commerce?tracking_source=search_projects_recommended%7Cwebo.agency'
 ---
-
 
 ::page-section-md
 ---
@@ -33,16 +31,15 @@ link: '/'
 ---
 
 #title
-## Strona interntowa w trybie headless dla polskiego dostawcy rozwiązań sieciowych 5G
+## Online store based on the PrestaShop platform for a Polish home decor manufacturer
 
 #description
-**feeby.pl** to sklep internetowy działający w oparciu o platformę **Prestashop** oferujący ponad 7 000 produktów.
+**feeby.pl** is an online store operating based on the **PrestaShop** platform offering over 7,000 products.
 
-<!-- TODO: tags shold be taken from the data on top of .md file -->
 #tags
 - E-commerce
-- Projektowanie UX/UI
-- Wsparcie/Rozwój
+- UX/UI Design
+- Support/Development
 
 ::::
 :::
@@ -69,12 +66,12 @@ class: mx-default items-center
 ---
 
 #left
-### **O kliencie**
+### **About the client**
 
 :::::prose-p3
-Feeby to polski producent dekoracji działający na rynku od ponad 25 lat. Współpracuje z wieloma znanymi sieciami handlowymi, docierając ze swoimi produktami do klientów w polsce i za granicą. W swojej ofercie posiada ponad 7 000 produktów m.in. personalizowane fototapety, obrazy, plakaty i parawany spełniające najwyższe normy jakościowe. Od kilku dekad podążają za nowymi trendami w dekoracji wnętrz, stale poszerzając ofertę i rozwijając linie technologiczne.
+Feeby is a Polish decorations manufacturer active on the market for over 25 years. It cooperates with many well-known retail chains, reaching customers in Poland and abroad with its products. Its offer includes over 7,000 products, including personalized photo wallpapers, paintings, posters and screens meeting the highest quality standards. For several decades, they have been following new trends in interior decoration, constantly expanding the offer and developing technological lines.
 
-Prócz standardowej oferty marka Feeby **współpracuje ze znanymi artystami z całego świata**, wzbogacjając tym samym katalog produktów o unikalne dekoracje dla swoich klientów.
+In addition to the standard offer, the Feeby brand **cooperates with well-known artists from all over the world**, thus enriching the product catalog with unique decorations for its clients.
 :::::
 
 #right
@@ -96,10 +93,10 @@ class: static-content mb-10 desktop:mb-20
 class: mx-default
 ---
 
-### **Wyzwanie i cele**
+### **Challenge and goals**
 
 ::::prose-p3
-Firma Feeby zgłosiła się do nas po rekomendacji jednego z naszych dotychczasowych klientów. Wcześniej marka funkcjonowała w internecie na jednej ze znanych platform SAAS, która nie spełniała oczekiwań.
+The Feeby company approached us after a recommendation from one of our existing clients. Previously, the brand functioned on the internet on one of the well-known SaaS platforms, which did not meet expectations.
 ::::
 :::
 ::
@@ -124,18 +121,18 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-#### **Kluczowe obszary działania**
+#### **Key areas of activity**
 
 ::::prose-p3
-Głównym założeniem w realizacji sklepu było stworzenie intuicyjnego rozwiązania z płynnym procesem zakupowym. Prócz wymagań projektowych, wdrożyliśmy i zintegrowaliśmy sklep z popularnymi systemami płatności i wysyłki,  rozwinęliśmy funkcje zarządzania, a także przygotowaliśmy aplikację do dalszego rozwoju.
+The main assumption in the store implementation was to create an intuitive solution with a smooth purchasing process. In addition to the design requirements, we implemented and integrated the store with popular payment and shipping systems, developed management functions, and prepared the application for further development.
 ::::
 
-- **Przeprowadzenie badań jakościowych**, pozwalających zidentyfikować kluczowe problemy napotkane przez użytkowników.
-- **Analiza ekspercka UX** pod kątem poprawności podstawowych procesów i funkcji.
-- **Projekt prototypu (UX) i interfejsu (UI).**
-- **Wdrożenie sklepu** na platformie Prestashop.
-- **Integracje sklepu** z wymaganymi systemami płatności i wysyłki.
-- **Wsparcie i rozbudowa** sklepu o nowe funkcjonalności.
+- **Conducting qualitative research**, allowing to identify key problems encountered by users.
+- **UX expert analysis** in terms of the correctness of basic processes and functions.
+- **Prototype (UX) and interface (UI) design.**
+- **Store implementation** on the PrestaShop platform.
+- **Store integrations** with required payment and shipping systems.
+- **Support and expansion** of the store with new functionalities.
 
 :::
 ::
@@ -149,15 +146,15 @@ class: static-content mb-[50px] tablet:mb-[120px]
 class: mx-default
 ---
 
-### **Zastosowane rozwiązanie**
+### **Solution applied**
 
 ::::prose-p3
 ---
 class: mb-10 tablet:mb-20
 ---
-Projekt sklepu wraz z prototypem wykonany został przy użycziu programu Figma, który umożliwił klientowi pełny wgląd w proces projektowy w trybie rzeczywistym, kontrolę wprowadzanych zmian na różnych urzadzeniach.
+The store design along with the prototype was made using the Figma program, which enabled the client to have full insight into the design process in real time, control over implemented changes on various devices.
 
-Podczas wdożenia, kluczowym założeniem było zastosowanie platformy Prestashop, znanej klientowi. Wirtualizację środowiska oparliśmy o Docker, co umożliwiło nam automatyzację procesów (kompilację styli, optymalizację JS i powielanie błędów w środowisku lokalnym). Dzięki zastosowaniu rozwiązania Cloudflare podnieśliśmy poziom bezpieczeństwa, eliminując niebezpieczny ruch oraz nieautoryzowany dostęp do wewnętrznych zasobów sieciowych.
+During the implementation, the key assumption was to use the PrestaShop platform, known to the client. We based the environment virtualization on Docker, which enabled us to automate processes (style compilation, JS optimization and error duplication in the local environment). Thanks to the use of the Cloudflare solution, we increased the security level, eliminating dangerous traffic and unauthorized access to internal network resources.
 ::::
 :::
 
@@ -166,7 +163,7 @@ Podczas wdożenia, kluczowym założeniem było zastosowanie platformy Prestasho
 class: mx-default
 ---
 
-#### **Wykorzystane technologie**
+#### **Technologies used**
 
 :::
 :::effect-appear-md
@@ -217,10 +214,10 @@ class: static-content mb-10 tablet:mb-20
 class: mx-default
 ---
 
-### **Realizacja**
+### **Realization**
 
 ::::prose-p3
-Po ustaleniu szczegółów projektu, omówieniu założeń oraz zakresu pracy, rozpoczęliśmy realizację prac.
+After establishing the project details, discussing the assumptions and scope of work, we started the implementation work.
 ::::
 :::
 ::
@@ -237,13 +234,13 @@ class: mx-default items-center
 #left
 ::::effect-appear-md
 
-#### **Projekt UX/UI**
+#### **UX/UI Design**
 
 :::::prose-p3
 
-Największą grupą klientów sklepu Feeby są kobiety / matki w wieku 30+. Naszym założeniem było zaprojektowanie minimalistycznego, wygodnego w użytkowaniu sklepu pasującego do nowoczesnego charakteru marki ze szczególnym naciskiem na wersję mobilną.
+The largest group of Feeby store customers are women / mothers aged 30+. Our assumption was to design a minimalist, convenient-to-use store matching the modern character of the brand with particular emphasis on the mobile version.
 
-Podczas pracy projektowej przeszliśmy z klientem przez proces rozpoczynając od opracowania ścieżek poruszania się po sklepie, architektury informacji, zaprojektowania prototypu dochodzac ostatecznie do finalnego efektu jakim był docelowy projekt graficzny interfejsu. 
+During the design work, we went through a process with the client starting from developing paths for moving around the store, information architecture, designing a prototype, finally reaching the final result, which was the target graphic design of the interface. 
 
 :::::
 ::::
@@ -299,24 +296,24 @@ imgUrl: '/img/content-images/case-programmer.png'
 :::::
 
 #right
-#### **Wdrożenie**
+#### **Implementation**
 
 :::::prose-p3
-Działając wg metodologii Agile przechodziliśmy kilka iteracji w drodzę do oddania kolejnych etapów sklepu. Zgodnie z założeniem i potrzebami klienta, wdrożenie podzieliliśmy na 3 etapy, podczas których na bieżąco przekazywaliśmy informację o postępach prac:
+Acting according to the Agile methodology, we went through several iterations towards handing over subsequent stages of the store. According to the assumption and the client's needs, we divided the implementation into 3 stages, during which we provided information on the progress of work on an ongoing basis:
 :::::
 
 1. ::::::prose-p3
-**Uruchomienie sklepu w formie MVP** z kluczowymi funkcjonalnościami
+**Launching the store in MVP form** with key functionalities
 ::::::
 2. ::::::prose-p3
-**Wdrożenie kompletnych układów podstron** i rozbudowa o pozostałe funkcjonalności
+**Implementation of complete subpage layouts** and expansion with remaining functionalities
 ::::::
 3. ::::::prose-p3
-**Wdrożenie docelowych styli interfejsu / wyglądu sklepu**
+**Implementation of target interface styles / store appearance**
 ::::::
 
 :::::prose-p3
-Takie podejście pozwoliło na utrzymanie ciągłości działania sklepu, kontynuowanie sprzedaży oraz działań marketingowych po wygaśnięciu współpracy z platformą SAAS
+This approach allowed for maintaining the continuity of the store's operation, continuing sales and marketing activities after the expiration of cooperation with the SaaS platform.
 :::::
 ::::
 :::
@@ -340,11 +337,11 @@ maxWidth: 600
 ---
 
 #title
-#### Integracje
+#### Integrations
 
 #description
 :::::prose-p3
-Sklep Feeby wymagał wdrożenia licznych integracji i analityki, wśród najważniejszych znalazły się
+The Feeby store required the implementation of numerous integrations and analytics, among the most important were:
 :::::
 ::::
 
@@ -386,13 +383,13 @@ maxWidth: 700
 ---
 
 #title
-#### Współpraca powdrożeniowa
+#### Post-implementation cooperation
 
 #description
 :::::prose-p3
-Po pomyślnym wdrożeniu i opublikowaniu sklepu oraz dzięki zaufaniu jakim obdarzył nas klient, rozpoczęliśmy współpracę polegającą na wsparciu technicznym i rozbudowie.
+After successful implementation and publication of the store and thanks to the trust the client placed in us, we started cooperation consisting of technical support and expansion.
 
-W pierwszych miesiącach współpracy dostarczyliśmy konfigurator fototapet premium, dzięki któremu umożliwiliśmy użytkownikom sklepu dostosowanie produktu do indywidualnych preferencji. Kolejnymi pracami w ramach wsparcia były optymalizacja sklepu, aktualizacja środowiska Prestashop do nowszej wersji czy wdrożenie funkcjonalności usprawniających zarządzanie sklepem.
+In the first months of cooperation, we delivered a premium photo wallpaper configurator, thanks to which we enabled store users to adapt the product to individual preferences. Subsequent work as part of support included store optimization, updating the PrestaShop environment to a newer version or implementing functionalities improving store management.
 :::::
 
 ::::
@@ -428,23 +425,21 @@ refer: 5
 :::::block-opinion-md
 
 #title
-### **Opinia klienta**
+### **Client opinion**
 
 #content
 
 ::::::prose-p3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.**
+Webo helped us translate our visions of an online store into a real, **well-received by customers** and, above all, smoothly operating store! Thank you and **we recommend Webo!** : )
 ::::::
 
 #author
 
-#### **Rafał Kowalski**
+#### **Natalia Ryfa**
 
 #authorTitle
 ::::::prose-p6
-Marketing and Sales Executive - IS-Wireless
+Business manager - **Oravio**
 ::::::
 :::::
 ::::
@@ -459,19 +454,51 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://webo.agency/contact/
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #title
-#### Zainteresowała Cię nasza oferta?
+#### Are you interested in our offer?
 
 #description
-Skontaktuj się z nami i rozpocznij współpracę
+Contact us and start cooperation
 
 ::::
 :::
 ::
 
+::page-section-md
+---
+id: case-studies
+class: mb-[80px] tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+class: mb-10 tablet:mb-20
+---
+
+#subtitle
+### *-/* Our recent projects
+
+#title
+## See our other *online store projects*
+
+::::
+:::
+
+:::block-cases-md
+---
+contentFolder: case-studies
+moreBtn.url: 'https://webo.agency/case-studies/'
+moreBtn.linktitle: See all projects
+selectedSlugs:
+    - thoro
+    - mancraft
+---
+
+:::
+::
 
 ::page-section-md
 ---
@@ -488,7 +515,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

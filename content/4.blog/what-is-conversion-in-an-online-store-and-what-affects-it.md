@@ -1,10 +1,11 @@
 ---
 introduction.title: 'What is conversion in an online store and what affects it?'
 introduction.titleFormatted: 'What is conversion in an online store and <em>what affects it?</em>'
-introduction.description: 'Conversion is nothing else than the percentage of visitors to our store who perform the desired action (conversion goal), e.g. purchase a product.'
+introduction.description: 'Conversion is nothing more than a percentage indicator of visitors to our store who perform a desired action (conversion goal), e.g., purchase a product.'
 category:
     - Technology
 image.url: '/img/blog-images/webo_blog_conversion.jpg'
+date: 2025-01-26
 hreflangs:
     EN: '/blog/what-is-conversion-in-an-online-store-and-what-affects-it/'
     PL: '/blog/czym-jest-konwersja-w-sklepie-internetowym-i-co-na-nia-wplywa/'
@@ -21,6 +22,7 @@ class: mb-20 tablet:mb-[100px]
 ::::block-header-post-md
 ---
 bgUrl: /img/blog-images/webo_blog_conversion.jpg
+class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 
 #title
@@ -42,10 +44,10 @@ class: static-content mb-10
 class: mx-blog
 ---
 
-### **What is store conversion?**
+### **What is conversion in a store?**
 
 ::::prose-p3
-Conversion is nothing else than the percentage of visitors to our store who perform the desired action (conversion goal), e.g. purchase a product. This is a magic number that tells us how many of our guests become our customers. And of course, the higher the conversion, the better!
+Conversion is nothing more than a percentage indicator of visitors to our store who perform a desired action (conversion goal), e.g., purchase a product. It is a magic number that tells us how many people among our guests become our customers. And of course, the higher the conversion, the better!
 ::::
 
 :::
@@ -54,15 +56,16 @@ Conversion is nothing else than the percentage of visitors to our store who perf
 class: mx-blog
 ---
 
-#### **What could be the conversion goals? These include:**
+#### **What can conversion goals be? These include:**
 
 ::::prose-p3
-- Purchasing a product
+- Product purchase
 - Newsletter subscription
-- Adding an opinion about the store or product
-- Establishing contact by e-mail or telephone
-- Setting up a user account
+- Adding a review of the store or product
+- Contact via email or phone
+- Creating a user account
 ::::
+
 :::
 :::effect-appear-md
 ---
@@ -72,28 +75,29 @@ class: mx-blog
 #### **What affects conversion?**
 
 ::::prose-p3
-- Website condition - Our website must be clear, attractive and easy to use. Charging speed and efficiency are also very important, and safety is a priority - after all, customers tell us, among others: personal data and payment details! We also cannot forget about the basics, such as properly displaying the store on mobile devices or using appropriate functions that encourage the user to take action.
-- Clear presentation of the offer - An attractive offer and transparent sales conditions are the basis without which we will not achieve success. Take care of key sales information, inform the user about your competitive advantage, add attractive product photos and descriptions - people visiting our store cannot have any doubts about what they are buying and on what terms.
-- User experience - Does the user navigate the website easily? Is it easy to find in the product catalog? Does the product card have the appropriate information architecture? Does the user go through the purchasing process intuitively? These are just a few key questions whose answers can help us improve our shopping experience.
-- Marketing activities - Effective promotion, advertising and email campaigns directed to the appropriate target group can significantly influence conversion. Thanks to them, we direct the appropriate group of users to the store who are more likely to take advantage of our offer.
-- Customer experience - Effective sales on the Internet require the highest standards of customer service, from the first contact, through sales service, to opinions and recommendations of existing customers - all points of contact between the user and the brand influence the trust that potential customers will place in us.
+- Site status: Our site must be clear, attractive and easy to use. Loading speed and performance are also very important, and security is a priority - after all, customers provide us with personal data and payment details, among other things! We also cannot forget about the basics such as proper display of the store on mobile devices or using appropriate functions encouraging the user to act.
+- Clear offer presentation: An attractive offer and clear sales conditions are the basis without which we will not achieve success. Take care of key sales information, inform the user about your competitive advantage, add attractive product photos and descriptions - visitors to our store must have no doubt what and on what terms they are buying.
+- User experience: Does the user navigate the site easily? Do they easily find their way in the product catalog? Does the product card have the right information architecture? Does the user intuitively go through the purchasing process? These are just a few key questions the answer to which can help us improve the shopping experience.
+- Marketing activities: Effective promotion, advertising and email campaigns directed to the right target group can significantly affect conversion. Thanks to them, we direct the right group of users to the store, who are more likely to take advantage of our offer.
+- Customer experience: Effective sales on the internet require the highest standards of customer service, from the first contact, through sales service, to reviews and recommendations of existing customers - all touchpoints of the user with the brand affect the level of trust potential customers will place in us.
 ::::
 :::
+
 :::effect-appear-md
 ---
 class: mx-blog
 ---
 
-#### **So how do you ensure conversion in your store?**
+#### **So how to take care of conversion in your store?**
 
 ::::prose-p3
-- Study data: Analyze statistics, find out where customers abandon purchases and where they stay. This will help identify weak spots.
-- Test and Optimize: Run A/B tests to see which page changes bring the best results and fine-tune your page.
-- Listen to customers: Ask customers about their opinions and suggestions. This can provide valuable tips.
-- Be patient: Increasing conversions is a process. Don't expect instant results, but systematically work on improving your store.
-- Grow: The world of e-commerce is dynamic. Follow new trends and technologies, observe your competitors and ensure the attractiveness of your offer - you need to be up to date.
+- Research data: Analyze statistics, find out where customers give up on purchases and where they stay. This will help identify weak points.
+- Test and optimize: Conduct A/B tests to check which changes on the site bring the best results and adapt your site.
+- Listen to customers: Ask customers for their opinions and suggestions. This can provide valuable tips.
+- Be patient: Conversion growth is a process. Don't expect instant results, but systematically work on improving your store.
+- Develop: The world of e-commerce is dynamic. Follow new trends and technologies, observe the competition and take care of the attractiveness of the offer - you must be up to date. 
 
-This is just basic information about conversion - it is complex and requires a lot of time. Nevertheless, it is worth considering, sometimes improving conversions by a fraction of a percent can bring long-term benefits for your online store.
+This is only basic information on the topic of conversion - it is complex and requires a considerable amount of time. Nevertheless, it is worth looking into it; sometimes improving conversion by a fraction of a percent can bring long-term benefits to your online store.
 ::::
 :::
 ::
@@ -124,7 +128,7 @@ linktitle: See all posts
 ---
 
 #title
-#### Check out similar publications
+#### Check similar publications
 
 ::::
 ::::block-post-related
@@ -156,7 +160,7 @@ class: block [&_.title]:!mb-4  [&_p]:font-medium
 #### Need our help or a project quote?
 
 #description
-Contact us for a free consultation
+Contact us and take advantage of a free consultation
 
 ::::
 :::
@@ -177,7 +181,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

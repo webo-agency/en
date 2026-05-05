@@ -1,10 +1,11 @@
 ---
-introduction.title: 'What is Design System and why is it worth investing in?'
-introduction.titleFormatted: 'What is Design System and <em>why is it worth investing in?</em>'
-introduction.description: 'Design System is a set of guidelines and rules for the creation and operation of digital solutions (e.g. used on websites).'
+introduction.title: 'What is a Design System and why is it worth investing in?'
+introduction.titleFormatted: 'What is a Design System and <em>why is it worth investing in?</em>'
+introduction.description: 'A Design System is a set of guidelines and principles regarding the creation and operation of digital solutions (e.g., used on websites).'
 category:
     - Design
 image.url: '/img/blog-images/webo_blog_design_system.jpg'
+date: 2025-01-26
 hreflangs:
     EN: '/blog/what-is-design-system-and-why-is-it-worth-investing/'
     PL: '/blog/czym-jest-design-system-i-dlaczego-warto-w-niego-zainwestowac/'
@@ -21,10 +22,11 @@ class: mb-20 tablet:mb-[100px]
 ::::block-header-post-md
 ---
 bgUrl: /img/blog-images/webo_blog_design_system.jpg
+class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 
 #title
-# What is Design System and why is it worth investing in?
+# What is a Design System and why is it worth investing in?
 
 #tags
 - Design
@@ -42,10 +44,10 @@ class: static-content mb-10
 class: mx-blog
 ---
 
-### **Co to jest Design System?**
+### **What is a Design System?**
 
 ::::prose-p3
-Design System is a set of guidelines and rules for the creation and operation of digital solutions (e.g. used on websites). It describes the visual framework and the operation of individual interface elements, defining the direction of development but also limitations that help maintain consistency and a uniform appearance of the website, application or online store.
+A Design System is a set of guidelines and principles regarding the creation and operation of digital solutions (e.g., used on websites). It describes the visual framework and way of operation of individual interface elements, defining the direction of development but also limitations, helping to maintain consistency and a uniform look for a website, application or online store.
 ::::
 
 :::
@@ -54,7 +56,7 @@ Design System is a set of guidelines and rules for the creation and operation of
 class: mx-blog
 ---
 
-#### **Investing in a Design System on your website has many benefits, including:**
+#### **Investing in a Design System for a website has many benefits, including:**
 
 ::::prose-p3
 - Design efficiency - Having a set of ready-made components and design rules speeds up the process of designing new subpages or functions. Designers and developers don't have to reinvent the wheel every time, which can save a lot of time and resources.
@@ -65,6 +67,7 @@ class: mx-blog
 - Time and cost savings - Although the initial outlay on creating the system design may be significant, it will bring time and cost savings in the long run, especially when we plan to further develop the website/store after its implementation.
 ::::
 :::
+
 :::effect-appear-md
 ---
 class: mx-blog
@@ -104,7 +107,7 @@ linktitle: See all posts
 ---
 
 #title
-#### Check out similar publications
+#### Check similar publications
 
 ::::
 ::::block-post-related
@@ -135,7 +138,7 @@ class: block [&_.title]:!mb-4  [&_p]:font-medium
 #### Need our help or a project quote?
 
 #description
-Contact us for a free consultation
+Contact us and take advantage of a free consultation
 
 ::::
 :::
@@ -156,7 +159,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

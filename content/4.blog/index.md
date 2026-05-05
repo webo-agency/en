@@ -4,6 +4,9 @@ hreflangs:
     PL: '/blog/'
 sitemap:
     changefreq: daily
+meta:
+    title: Blog
+    description: 'Blog about websites, technologies and UX. Check tips, trends and practical advice that will help grow your online business. Read more!'    
 ---
 
 ::page-section-md
@@ -45,7 +48,7 @@ class: mb-[50px] tablet:mb-[100px]
 
 :::block-filter-posts-md
 ---
-allText: all
+allText: All
 contentFolder: blog
 filters:
     - Technology
@@ -56,7 +59,7 @@ filters:
 Categories:
 
 #loadMore
-Show more
+See more
 
 :::
 :::block-bg-map-md{class="-z-10 !-bottom-[200px] !top-auto !h-full"}
@@ -101,10 +104,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *-/* Our clients
+*-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+### Meet the companies that *trusted us*
 
 ::::
 :::

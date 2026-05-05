@@ -7,27 +7,47 @@ draft: true
 logos:
     - link: 'https://is-wireless.com/'
       imgUrl: '/img/logos/isw.svg'
-    - link: 'https://feeby.pl/'
-      imgUrl: '/img/logos/Feeby.png'
+
+    - link: 'https://shop-mancraft.com/'
+      imgUrl: '/img/logos/Mancraft.svg'
+
     - link: 'https://5gmadetogether.com/'
       imgUrl: '/img/logos/5G.svg'
-    - link: 'https://www.swistak-krakow.pl/'
-      imgUrl: '/img/logos/Swistak.svg'
-    - link: 'https://shop-mancraft.com/pl/'
-      imgUrl: '/img/logos/Mancraft.svg'
-    - link: 'https://oravio.pl/'
-      imgUrl: '/img/logos/Oravio.svg'
-    - link: 'https://eurostal-garage.it/'
-      imgUrl: '/img/logos/Eurostal.svg'
-    - link: 'https://www.przemijanie.pl/'
-      imgUrl: '/img/logos/Przemijanie.png'
-    - link: 'https://www.caffewasyl.pl/'
-      imgUrl: '/img/logos/CaffeWasyl.svg'
-    - link: 'https://www.forol.pl/'
-      imgUrl: '/img/logos/Forol.png'
+
+    - link: 'https://agencjagrow.pl/'
+      imgUrl: '/img/logos/grow.svg' 
+
+    - link: ''
+      imgUrl: '/img/logos/pansa.svg'   
+
+    - link: 'https://thoro.pl/'
+      imgUrl: '/img/logos/thoro.svg'      
+
+    - link: 'https://getsales.pl/'
+      imgUrl: '/img/logos/getsales.png'
+
+    - link: 'https://sollux-lighting.com/'
+      imgUrl: '/img/logos/sollux.svg'       
+
+    - link: ''
+      imgUrl: '/img/logos/aldi.svg'       
+
+    - link: 'https://agencjaecho.pl/'
+      imgUrl: '/img/logos/echo.svg'      
+
     - link: 'https://www.deltahr.pl/'
-      imgUrl: '/img/logos/DeltaHR.png'
-    - link: 'https://www.ultramaszyna.pl/'
-      imgUrl: '/img/logos/UltraMaszyna.svg'
+      imgUrl: '/img/logos/DeltaHR.png'         
+
+    - link: 'https://velair.pl/'
+      imgUrl: '/img/logos/velair.png'      
+
+    - link: 'https://etisoft.com.pl/'
+      imgUrl: '/img/logos/etisoft.svg'    
+
+    - link: 'https://eurostal-garage.it/'
+      imgUrl: '/img/logos/Eurostal.svg'            
+
+    - link: 'https://feeby.pl/'
+      imgUrl: '/img/logos/Feeby.png'
 ---
 ::

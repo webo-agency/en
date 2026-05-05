@@ -1,7 +1,7 @@
 ---
 meta:
-    title: Headless CMS WordPress -  Webo.agency
-    description: Headless CMS - maximum performance and flexibility. Choose modern solutions - check out our offer!
+    title: Headless CMS WordPress - Webo.agency
+    description: Headless CMS - maximum performance and flexibility. Choose modern solutions - check our offer!
 draft: false
 public: true
 hreflangs:
@@ -17,13 +17,13 @@ isSecondSvg: true
 ---
 
 #subtitle
-*-/* Nowa technologia stron www
+*-/* New website technology
 
 #title
-# Wordpress + Headless websites
+# WordPress + Headless Websites
 
 #description
-Combining the functionality and ease of editing of WordPress CMS with modern architecture, your website will gain rocket-powered engines.
+Meaning a combination of functionality and ease of editing of WordPress CMS with modern architecture, thanks to which your site will gain rocket engines.
 
 #right
 :::block-banner-decoration-md
@@ -60,13 +60,13 @@ class: items-center
 ---
 class: mb-5 leading-8
 ---
-Websites built with **Headless architecture** involve separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is done through APIs.
+Websites created in **Headless architecture** rely on separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is performed using a special API.
 ::::::
 ::::::prose-p-4
 ---
 class: leading-7 text-base
 ---
-This solution allows you, among other things, to **publish content across multiple channels** such as a website and a mobile application. Additionally, you significantly enhance the performance and **security of the website**, because the user only has access to the frontend layer while the entire system is lighter and **much faster**.
+Such a solution enables you, among others, to **publish content in many channels**, e.g., on a website and a mobile application. Additionally, you significantly increase the **performance and security of the website**, because the user only has access to the frontend layer, and the entire system is lighter and **much faster.**
 ::::::
 
 :::::
@@ -118,23 +118,23 @@ class: mb-10
 ---
 
 #subtitle
-### *2/* Headless WordPress CMS
+### *2/* WordPress Headless
 
 #title
-## We create Headless <br> websites based on *WordPress CMS*
+## We create Headless sites <br> *based on WordPress CMS*
 
 #description
 ::::::prose-p-4
 ---
 class: mb-5 leading-8
 ---
-Our solution is a combination of **headless architecture** with the popular **WordPress CMS** solution. With it, you can continue to use WordPress with all its elements and enjoy all the benefits of a modern architecture.
+Our solution is a combination of **headless architecture** with the popular **WordPress CMS** solution. Thanks to it, you can still use WordPress with all its elements and benefit from all the advantages of modern architecture.
 ::::::
 ::::::prose-p-4
 ---
 class: leading-7 text-base
 ---
-You gain ultra-speed, performance, security, and multi-channel capabilities, while still being able to benefit from the functionality and ease of editing of WP.
+You gain ultra-speed, performance, security, and multi-channel capability, and you can still use the functionality and ease of editing of WP.
 ::::::
 :::::
 ::::
@@ -164,16 +164,16 @@ class: block desktop:hidden top-0 right-0
 ---
 maxWidth: 730
 button.link: https://webo.agency/contact/
-button.title: 'GET IN TOUCH'
+button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36 [&_.description]:desktop:!text-lg
 ---
 
 #title
-#### Are you curious about *Headless architecture?*
+#### Interested in *Headless architecture?*
 
 #description
-Contact us and take advantage of a free consultation where we'll discuss your project.
+Contact us and take advantage of a free consultation during which we will discuss your project.
 
 ::::
 :::
@@ -199,7 +199,7 @@ center: true
 ---
 
 #title
-## Benefits of headless websites for your company
+## Benefits of headless sites for your company
 
 ::::
 :::::block-list-ul-md
@@ -219,7 +219,7 @@ class: test [&_div_div_div_picture]:scale-[1.5] _[&_div_div_div_picture]:pt-5 [&
 #### Higher performance
 
 #description
-Which directly affects positioning in Google results, as well as user experience - the bounce rate increases by 90% when the page loads in more than 3 seconds
+The loading speed and instant reloading of subpages is maintained even for very extensive sites. All thanks to the lightness of the system, which does not require generating content on the server every time.
 
 ::::::
 ::::::tile-dark-icon-md
@@ -232,7 +232,7 @@ iconDecorated: true
 #title
 #### Higher data security
 #description
-The separation of layers means that the user has minimal contact with the internal system and the database. As a result, websites built on headless architecture are much more resistant to attacks and external factors.
+Separating the layers means that the user has minimal contact with the internal system and the database. Thanks to this, sites made in headless architecture are much more resistant to attacks and external factors.
 
 ::::::
 ::::::tile-dark-icon-md
@@ -243,9 +243,9 @@ iconDecorated: true
 ---
 
 #title
-#### Multichannel
+#### Multi-channel capability
 #description
-Headless CMS allows you to deliver content not only to traditional websites, but also to mobile applications, e-commerce platforms or even IoT devices. This allows you to reach a wider audience by managing content from one panel.
+Headless CMS WordPress enables content delivery not only to traditional websites but also to mobile applications, e-commerce platforms, or even IoT devices. This allows reaching a wider audience while managing content from a single panel.
 
 ::::::
 :::::
@@ -276,10 +276,10 @@ class: mb-20
 ---
 
 #subtitle
-### *3/* Headless CMS why is it worth it?
+### *3/* Headless CMS - why is it worth it?
 
 #title
-## What else will you gain with Headless architecture?
+## What else will you gain thanks to Headless architecture?
 
 ::::
 
@@ -298,7 +298,7 @@ class: item !h-auto !pr-0
 #title
 ##### Reduction of IT infrastructure maintenance costs
 #description
-In headless, performance is based on the frontend layer, the website does not require maintaining an extensive server infrastructure, which significantly reduces costs.
+In headless, performance is based on the frontend layer, the site does not require maintaining an extensive server infrastructure, which significantly lowers costs.
 :::::
 
 :::::process-tile-md
@@ -313,7 +313,7 @@ class: item !h-auto !pr-0
 #title
 ##### Technological flexibility
 #description
-In Headless, you have full flexibility in choosing the technology used for presenting content (frontend), you're not limited by CMS system requirements.
+In Headless, you have full flexibility in choosing the technology used to present content (frontend), you are not limited by CMS system requirements. 
 :::::
 
 :::::process-tile-md
@@ -328,7 +328,7 @@ class: item !h-auto !pr-0
 #title
 ##### Higher marketing efficiency
 #description
-Content management is conducted from a single panel, which automatically distributes it to multiple channels, saving time on content updates in separate systems.
+Content management is conducted from a single panel that automatically sends it to many channels, saving you time in filling out content in separate systems.
 :::::
 
 #center-col
@@ -352,9 +352,9 @@ iconGradient: true
 class: item !h-auto !pr-0
 ---
 #title
-##### Increased user satisfaction
+##### Increase in user satisfaction
 #description
-Instant interaction with users, unlimited interface customization, and lightning-fast page switching enhance satisfaction while using the website.
+Instant interaction with users, the ability to unlimitedly customize the interface and instant switching between pages increases satisfaction while using the site.
 :::::
 
 :::::process-tile-md
@@ -367,9 +367,9 @@ iconGradient: true
 class: item !h-auto !pr-0
 ---
 #title
-##### Unlimited page scaling
+##### Unlimited website scaling
 #description
-Because in Headless CMS, the frontend and backend are separated, you can expand your website without limitations, without worrying about performance loss or backend constraints.
+Because in Headless CMS the frontend and backend are separated, you can expand your site without limits without worrying about loss of performance or backend limitations.
 :::::
 
 :::::process-tile-md
@@ -382,9 +382,9 @@ iconGradient: true
 class: item !h-auto !pr-0
 ---
 #title
-##### Independence of team work
+##### Team independence
 #description
-The headless architecture allows frontend developers to work independently, without interfering with the backend layer. Thanks to this, the development of websites is faster and more convenient, and teams have full freedom in choosing solutions.
+Headless architecture enables independent work of frontend developers without interfering with the backend layer. Thanks to this, site expansion is faster and more convenient, and teams have full freedom in choosing solutions.
 :::::
 ::::
 :::
@@ -400,15 +400,15 @@ classes: mb-10 tablet:mb-20
 ::::block-header-md
 ---
 center: true
-maxWidth: 540
+maxWidth: 820
 class: mb-20
 ---
 
 #subtitle
-### *4/* Take it to the next level
+### *4/* Go to the next level
 
 #title
-## Headless Wordpress vs Standard website
+## Headless WordPress vs Standard Site - what are the differences?
 
 ::::
 
@@ -421,7 +421,7 @@ class: tablet:pr-2.5 [&_div_div]:bg-black [&_div_div]:!text-white
 icon: '/img/icons/nuxt-dark.svg'
 ---
 #title
-#### Headless Wordpress
+#### Headless WordPress
 
 #content
 :::::block-list-ul-md
@@ -433,11 +433,11 @@ decoration: false
 iconUrl: '/img/icons/multichannels.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Multichannel</u>** - the ability to manage content from one place for many platforms, thanks to which you will save money on maintaining extensive infrastructure.
+**<u>Multichanneling</u>** - the ability to manage content from one place for many platforms, saving resources intended for maintaining an extensive infrastructure.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -445,11 +445,11 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/1s.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Ultra-fast page loading</u>** - The average loading time can drop below 1 second, thereby increasing user comfort and engagement.
+**<u>Ultra-fast page loading</u>** - Average loading time will drop even below 1s, increasing comfort and user engagement.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -457,11 +457,11 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/scalling.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Unlimited website scaling</u>** - The specificity of headless website construction means that expanding the site and its scope of operation does not affect the site's performance.
+**<u>Unlimited website scaling</u>** - The specifics of headless site construction mean that expanding the site and its scope of operation does not affect service performance.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -469,12 +469,14 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/shield2.svg'
 iconBig: false
 animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Highest security</u>** - Separating the layers means that the user has minimal contact with the internal system, thanks to which Headless provides higher security than standard websites in case of hacker attacks.
+**<u>Highest security</u>** - Separating the layers means that the user has minimal contact with the internal system, making Headless provide higher security than standard websites in the case of hacker attacks.
 
 ::::::
+:::::
 ::::
 
 #right
@@ -484,7 +486,7 @@ class:  tablet:mt-[50px] tablet:pl-2.5
 icon: '/img/icons/wordpress.svg'
 ---
 #title
-#### Standard website
+#### Standard site
 
 #content
 :::::block-list-ul-md
@@ -496,11 +498,11 @@ decoration: false
 iconUrl: '/img/icons/singlechannel.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Lack of multi-channel support</u>** - Traditional solutions allow you to create new websites only within the selected technology. Each channel requires a separate backend and content management system.
+**<u>No multichanneling</u>** - Traditional solutions only allow creating new pages within the chosen technology. Each channel requires a separate backend and content management system.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -508,11 +510,11 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/2s.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Fast page loading</u>** - If done properly, the average page loading speed can be about 2s, which is sufficient for most websites.
+**<u>Fast page loading</u>** - With proper execution, the average page loading speed can be around 2s, which is a sufficient result for most sites.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -520,11 +522,11 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/scalling2.svg'
 iconBig: false
 animated: false
-class: icon [&_div_div_picture]:pt-2.5
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>Limited page scaling</u>** - The possibilities for expanding a standard website depend on the chosen system and its limitations.
+**<u>Limited website scaling</u>** - The possibilities of expanding a standard website depend on the chosen system and its limitations.
 
 ::::::
 ::::::list-item-ul-active-md
@@ -532,13 +534,14 @@ class: icon [&_div_div_picture]:pt-2.5
 iconUrl: '/img/icons/shield2.svg'
 iconBig: false
 animated: false
+class: icon [&_div_div_picture]:pt-2.5 [&_div_div_div]:!min-h-fit [&_div_div]:flex-row [&_div_div]:gap-4
 ---
 
 #description
-**<u>High security</u>** - The website's security is based on encryption of data displayed on the website, which limits access to accounts, passwords or the database.
+**<u>High security</u>** - Website security relies on encrypting data displayed on the page, which limits the possibility of accessing accounts, passwords or the database.
 
 ::::::
-::::
+:::::
 ::::
 :::
 ::
@@ -547,37 +550,39 @@ animated: false
 
 ::page-section-md
 ---
-classes: mb-10 tablet:mb-20
+classes: mb-10 tablet:mb-[150px]
 ---
-:::effect-appear-md
-::::block-header-two-cols-md
+
+::::effect-appear-md
+:::::block-header-two-cols-md
 ---
-class: mb-20 [&_.description]:!text-base
-maxWidth: 845
+class: mb-10 [&_.description]:!text-base
+maxWidth: 590
 ---
 
 #subtitle
-### *5/* Stages of Website Development
+### *5/* Website implementation stages
 
 #title
-## We approach website development *in stages*
+## How does the website implementation process work?
 
 #description
-Creating a modern website requires a wide range of technical knowledge and user-centric design, as well as a well-established process that ensures the achievement of goals without time delays and within the agreed budget.
+Creating a modern website requires extensive knowledge of technology and user-oriented design, as well as a developed process that ensures fulfillment of assumptions without time delays and within the established budget.
 
+:::::
 ::::
-:::
+
 
 #full
 
 :::block-swiper-tabs-md
 ---
 tabNames:
-    - Requirements analysis
-    - UX/UI Design
-    - Development
-    - QA & publishing
-    - Maintenance & growth
+    - Assumptions analysis
+    - Design
+    - Programming
+    - Testing and publication
+    - Support and development
 ---
 ::::block-swiper-tabs-slide-md
 ---
@@ -589,18 +594,10 @@ maxWidth: 700
 ---
 
 #title
-#### 01. Requirements analysis
+#### 01. Assumptions analysis
 
 #description
-This is the first step we need to take in order to create a website. During our initial conversation, we thoroughly understand your needs and project requirements.
-
-**During this stage:**
-- We run video workshops
-- We select the best technology and solutions tailored to your project
-- We prepare a cost estimate, which includes a detailed implementation method and technology stack
-- We determine the project duration and delivery deadlines<br>
-
-**After the cost estimate, proposed solutions, and deadlines are approved, we sign a cooperation agreement and move on to implementation.**
+This is the first step we must take to implement a website. During the first conversation, we learn your needs and project assumptions in detail. <br> **During this stage:** <br> - We conduct video workshops <br> - We choose the best technology and solutions, optimal for your project <br> - We prepare a budget that includes a detailed implementation method and technological stack <br> - We determine the duration of the project and acceptance dates <br> **After accepting the quote, proposed solutions and dates, we sign a cooperation agreement and proceed to implementation.**
 
 :::::
 ::::
@@ -616,16 +613,10 @@ maxWidth: 700
 ---
 
 #title
-#### 02. UX/UI Design
+#### 02. UX/UI Interface Design
 
 #description
-During this stage, we work on the appearance of the website. We start by analyzing the habits of the target audience (your customers) and the market environment - all to ensure that users can easily navigate the new site. Then, we create mood boards (inspiration boards), outline user flows, design UX layouts, and finish with the final look of your website.
-
-**During this stage:**
-- You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer.
-- You will approve each stage of your website project - from moodboards to the final look.<br>
-
-**Once the final look is approved, the project is ready for the programming stage**
+During this stage, we work on the look of the website. We start by analyzing the habits of the target group (your customers) and the market environment - all so that users can easily find their way around the new site. Then we develop moodboards (inspiration boards), trace user paths (user flow), design UX wireframes, ending with the final look of your site. <br> **During this stage:** <br> - You will have insight into every stage of the design work and direct contact with an experienced UX/UI designer. <br> - You will accept individual stages of your website project - from moodboards to the final look. <br> **After accepting the final look, the project is ready for the programming stage.**
 
 :::::
 ::::
@@ -640,17 +631,10 @@ maxWidth: 700
 ---
 
 #title
-#### 03. Development
+#### 03. Programming works
 
 #description
-After approving the interface design, we begin work on the comprehensive implementation of the website in the selected technology. We work from the configuration of the technical infrastructure, through the installation of the required tools to the programming of the site.
-
-**During this stage:**
-- You will have a live preview of the site in the development environment, which will give you full control over the project
-- We will configure the technical infrastructure needed for the efficient operation of the website
-- We will develop the website with all the required features and integrations e.g. GA4.<br>
-
-**Once the programming stage is complete, we submit the website for QA.**
+After approving the interface design, we begin work on the comprehensive implementation of the website in the chosen technology. We act from configuring the technical infrastructure, through installing required tools to programming the site. <br> **During this stage:** <br> - You will have a constant view of the site in the development environment, which will provide full control over the project <br> - We will configure the technical infrastructure needed for efficient website operation <br> - We will program the website along with all required functions and integrations, e.g., GA4. <br> **After completing the programming stage, we pass the website for testing.**
 
 :::::
 ::::
@@ -667,16 +651,10 @@ maxWidth: 700
 ---
 
 #title
-#### 04. QA & Publishing
+#### 04. Testing and publication
 
 #description
-In this stage, we thoroughly check the performance of the website. We perform tests on multiple devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as expected. After passing the internal tests, we pass the website to the client for verification - this is the moment to refine the design and make any comments before publication.
-
-**During this stage:**
-- We check the performance of each function, the performance of the site, infrastructure configurations and the display of the site on multiple devices
-- We forward the site to the client for review, make any corrections to prepare the site for publication.<br>
-
-**After receiving the green light for publication from the client, we will kick off!**
+In this stage, we thoroughly check the operation of the website. We perform tests on many devices and screen resolutions (from the smallest smartphones to FHD displays), all to make sure that everything works as it should. After passing internal tests, we pass the site to the client for verification - this is the moment for refining the project and reporting any comments before publication. <br> **During this stage:** <br> - We check the operation of every function, site performance, infrastructure configuration and site display on many devices. <br> - We pass the site to the client for verification, we perform any corrections to prepare the site for publication. <br> **After receiving a green light for publication from the client, we start!**
 
 :::::
 ::::
@@ -692,19 +670,10 @@ maxWidth: 700
 ---
 
 #title
-#### 05. Maintenance & growth
+#### 05. Support and development
 
 #description
-Publication of the site is often only the beginning, and during the use of the site there are ideas for new features, tabs or improvements - at this point we can also not forget about necessary updates or monitoring of performance, security or stability of work.
-
-**As part of our support service, we handle the following work:**
-- Update the environment (system) as part of maintenance
-- Monitoring the security and speed of the site
-- Design and development of the website
-- Designing and implementing new functionalities and dedicated modules
-- Responding to potential failures<br>
-
-**Once the scope of support is agreed we begin a long-term relationship**
+Often, the publication of the site is just the beginning, and during the use of the site, ideas for new functionalities, tabs or improvements appear - at this point, we cannot forget about necessary updates or monitoring performance, security or stability of operation. <br> **As part of the support service, we deal with the following works:** <br> - Environment (system) update as part of maintenance <br> - Monitoring security and site speed <br> - Designing and expanding the site <br> - Designing and implementing new functionalities and dedicated modules <br> - Reacting to any failures
 
 :::::
 ::::
@@ -714,10 +683,164 @@ Publication of the site is often only the beginning, and during the use of the s
 
 
 
+::page-section-md
+---
+classes: mb-[60px]
+---
+
+:::block-columns-1-1-md
+
+#left
+
+::::effect-appear-md
+---
+class: relative overflow-hidden tablet:overflow-visible -mx-5 tablet:mx-0
+---
+
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_code.svg'
+decoration: false
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[100px] tablet:!w-[230px] !absolute top-1/3 right-0
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-wordpress/decor_quarter_circle.svg'
+decoration: false
+class: hidden desktop:block mx-auto !mb-0 !p-0 !w-[122px] !absolute bottom-[100px] left-[-61px]
+---
+:::::
+:::::img-decorated-md
+---
+imgUrl: '/img/content-images/strony-headless-pwa/mockup_tablet.webp'
+decoration: false
+class: tablet:mb-20 !mb-10 z-0
+---
+
+:::::
+::::
+
+#right
+
+::::effect-appear-md
+---
+class: relative z-20
+---
+:::::block-header-md
+---
+maxWidth: 680
+class: mb-10
+---
+
+#subtitle
+### *6/* Headless CMS WordPress
+
+#title
+## Modern approach to building sites and e-commerce - Headless WordPress
+
+#description
+::::::prose-p-4
+---
+class: mb-10
+---
+Traditional websites have their limitations. When the CMS system and frontend are strictly connected, it is difficult to achieve the highest performance, full technological flexibility, and multi-channel content distribution is basically impossible. **Headless CMS WordPress** allows you to use the friendly WordPress content management panel, while giving freedom in building the visual layer - using any frontend frameworks, such as Next.js (React) or Nuxt (Vue). Thanks to this, the page can load instantly, be perfectly tailored to mobile devices and scale without limits.
+::::::
+::::::prose-p-4
+---
+class: mb-10
+---
+Thanks to headless, you gain not only technological flexibility and multi-channel capability, but also greater resistance to errors and challenges related to traditional CMS systems. The layers are separated - which means greater security, easier testing, better SEO and great freedom in project development.
+::::::
+::::::prose-p-4
+If you care about performance, scalability and a technological backend that keeps up with the development of your company - **headless WordPress** is a solution worth considering.
+::::::
+:::::
+::::
+::
+
+
 
 ::page-section-md
 ---
-id: realizacje
+class: mb-20 tablet:mb-[100px]
+---
+
+:::effect-appear-md
+---
+class: bg-green-gray relative
+---
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-arc.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[80px] tablet:!w-[122px] !absolute top-[20px] tablet:!top-[50px] left-[20px] tablet:!left-[50px] z-0
+---
+::::
+
+::::img-decorated-md
+---
+imgUrl: '/img/svg-square.svg'
+decoration: false
+class: tablet:!pl-0 !mb-0 !w-[60px] tablet:!w-[100px] !absolute bottom-[20px] tablet:!bottom-[50px] right-[20px] tablet:!right-[50px] z-0
+---
+::::
+
+::::block-faq-md
+
+#header
+:::::block-header-md
+---
+maxWidth: 900
+class: mb-[50px] text-center relative
+---
+
+#subtitle
+### *7/* Everything worth knowing about Headless architecture
+
+#title
+## Frequently Asked Questions (FAQ)
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### How does headless WordPress differ from standard WordPress?
+
+#description
+In classic WordPress, the frontend (site appearance) and backend (content management panel) are connected. In **headless WordPress**, these layers are separated - WordPress acts as a CMS only for content management, and presentation takes place independently, e.g., via React or Next.js. This gives greater performance, flexibility and security.
+
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Is headless CMS suitable for everyone?
+
+#description
+Not for everyone. **Headless CMS** is an ideal solution for companies that need high performance, the highest level of security, multi-channel content publishing or plan dynamic development. For simple business card sites, it may be too extensive.
+:::::
+
+:::::block-expand-item-md
+
+#title
+##### Can I run an online store in a headless model?
+
+#description
+Yes. Headless e-commerce is an increasingly popular approach that allows building super-fast stores with an individual frontend and connection to systems such as WooCommerce, Magento or Shopify. Headless eliminates visual and technological limitations typical of standard platforms.
+
+:::::
+::::
+:::
+::
+
+
+
+::page-section-md
+---
+id: case-studies
 class: mb-[80px] tablet:mb-[130px]
 ---
 :::effect-appear-md
@@ -727,10 +850,10 @@ class: mb-10 tablet:mb-20
 ---
 
 #subtitle
-### *6/* Our website projects
+### *8/* Our recent projects
 
 #title
-## We are proud of the projects *we've completed*
+## We are proud <br> of *completed projects*
 
 ::::
 :::
@@ -738,6 +861,9 @@ class: mb-10 tablet:mb-20
 :::block-cases-md
 ---
 contentFolder: case-studies
+selectedSlugs:
+    - isw
+    - 5gmadetogether
 moreBtn.url: 'https://webo.agency/case-studies/'
 moreBtn.linktitle: See all projects
 ---
@@ -758,10 +884,10 @@ class: mb-[50px] tablet:mb-[100px]
 ---
 
 #subtitle
-### *7/* Our clients
+### *10/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

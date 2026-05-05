@@ -1,10 +1,10 @@
 ---
-introduction.title: 'Eurostal - UX/UI design for the e-commerce platform of a Polish metal garage manufacturer'
-introduction.description: 'Eurostal is a manufacturer of high-quality metal garages. Our task was to design an intuitive interface for their new online store, along with an expanded product configurator.
-'
+introduction.title: 'UX/UI design of an online store for a Polish manufacturer of tin garages'
+introduction.description: 'Eurostal is a manufacturer of high-quality tin garages. Our task was to design an intuitive interface for a new store along with an expanded product configurator.'
+
 type:
     - UX/UI
-    - Support
+    - Development
 technologies:
     - Wordpress CMS
 image.url: '/img/case-studies/Eurostal.jpg'

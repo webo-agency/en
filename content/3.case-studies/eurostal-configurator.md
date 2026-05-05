@@ -1,20 +1,19 @@
 ---
-introduction.title: 'Eurostal - dynamic 3D configurator for a Polish manufacturer of sheet metal garages'
-introduction.description: 'The Eurostal configurator enables full customization of sheet metal garages for customers from many countries. The implemented solution allows you to dynamically generate a 3D model of the garage based on the options selected by the user.'
+introduction.title: 'Eurostal - dynamic 3D configurator for a Polish tin garage manufacturer'
+introduction.description: 'The Eurostal configurator enables full customization of tin garages for customers from many countries. The implemented solution allows dynamic generation of a 3D garage model based on options selected by the user.'
 type:
-    - Web app
+    - Web application
 technologies:
     - Wordpress CMS
     - TailwindCSS
 image.url: '/img/case-studies/Eurostal-bg.png'
 logo.url: '/img/logos/Eurostal.png'
 tile_hidden: false
-tile_order: 2
+tile_order: 3
 public: true
 hreflangs:
-    # EN: '/case-studies/eurostal-configurator'
+    EN: '/case-studies/eurostal-configurator/'
     PL: '/realizacje/eurostal-konfigurator/'
-fallback: https://webo.pl/realizacje/eurostal-konfigurator/
 ---
 
 
@@ -31,16 +30,16 @@ link: 'https://eurostal.cz/p/nakonfigurujte-si-garaz/'
 ---
 
 #title
-## Eurostal - dynamiczny konfigurator 3D dla polskiego producenta garaży blaszanych
+## Eurostal - dynamic 3D configurator for a Polish tin garage manufacturer
 
 #description
-Konfigurator Eurostal umożliwia pełne dostosowanie garaży blaszanych dla klientów z wielu krajów. Wdrożone rozwiązanie pozwala dynamicznie generować model 3D garażu na podstawie opcji wybranych przez użytkownika.
+The Eurostal configurator enables full customization of tin garages for customers from many countries. The implemented solution allows dynamic generation of a 3D garage model based on options selected by the user.
 
 #buttontext
-Zobacz online
+See online
 
 #tags
-- Aplikacja internetowa
+- Web application
 
 ::::
 :::
@@ -64,7 +63,7 @@ class: static-content mb-10 tablet:mb-[90px]
 ---
 class: mx-default
 ---
-### **O kliencie**
+### **About the client**
 :::
 :::effect-appear-md
 ---
@@ -73,9 +72,9 @@ class: mx-default flex flex-col md:flex-row gap-10 lg:gap-20
 
 ::::prose-p3
 
-**Eurostal** działa na rynku od 2009 roku. Dzięki wieloletniemu doświadczeniu i wykwalifikowanej kadrze stał się liderem w produkcji lekkich konstrukcji stalowych. W ofercie Eurostal znajdują się garaże blaszane, hale, magazyny, domki narzędziowe i ogrodowe, wiaty na śmieci i drewno, kojce dla psów oraz różne, nawet najbardziej skomplikowane, nietypowe konstrukcje realizowane zawsze z myślą o spełnieniu kolejnej potrzeby klienta..
+**Eurostal** has been active on the market since 2009. Thanks to many years of experience and a qualified team, it has become a leader in the production of light steel structures. Eurostal's offer includes tin garages, halls, warehouses, tool and garden sheds, waste and wood shelters, dog pens and various, even the most complex, unusual structures realized always with the aim of meeting another customer need.
 
-Swoją działania prowadzi głównie poza granicami Polski (m.in. w Czechach, Słowacji na Węgrzech, w Rumunii oraz na terenie Niemiec i Włoch) gdzie zyskał uznanie tysięcy klientów. 
+It conducts its activities mainly outside Poland (including the Czech Republic, Slovakia, Hungary, Romania, as well as Germany and Italy) where it has gained the recognition of thousands of customers. 
 ::::
 
 ::::prose-bg
@@ -87,39 +86,39 @@ class: min-w-[280px] md:self-baseline !p-[30px] !mx-0 font-semibold
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Kraj_
+_Country_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**Polska**
+**Poland**
 ::::
 
 ::::prose-p6
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Branża_
+_Industry_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**Produkcja konstrukcji stalowych**
+**Production of steel structures**
 ::::
 
 ::::prose-p6
 ---
 class: uppercase [&_p]:!mb-2
 ---
-_Zakres prac_
+_Scope of work_
 ::::
 ::::prose-p4
 ---
 class: mx-0 [&_p]:!mb-4
 ---
-**Projektowanie UX/UI, Programowanie**
+**UX/UI Design, Programming**
 ::::
 :::
 ::
@@ -136,29 +135,29 @@ class: static-content mb-[50px] desktop:mb-[100px]
 class: mx-default
 ---
 
-### **Wyzwanie**
+### **Challenge**
 
-#### **Konfigurator 3D produktu na Woocommerce**
+#### **3D product configurator on WooCommerce**
 
 ::::prose-p3
-Przed wdrożeniem kofniguratora, użytkownik miał możliwość dokonania zamówienia tylko z dostępnej oferty produktowej. Stworzenie garażu na wymiar wymagało bezpośredniego kontaktu i omawiania szczegółów podczas rozmowy z handlowcem.
+Before implementing the configurator, the user could only place an order from the available product range. Creating a custom-made garage required direct contact and discussing details during a conversation with a salesperson.
 
-Zlecenie zgłoszone przez klienta polegało na przygotowaniu konfiguratora 3D garaży, który usprawni i skróci proces sprzedażowy. Stworzenie konfiguratora miało na celu umożliwienie użytkownikom swobodnego zaprojektowania swojego garażu, skracając tym samym czas pracy handlowców jaki musieli poświęcać na ustalanie szczegółów konstrukcji. 
+The commission submitted by the client consisted of preparing a 3D garage configurator that would streamline and shorten the sales process. Creating the configurator was intended to enable users to freely design their garage, thereby shortening the working time that sales representatives had to spend on establishing structural details. 
 ::::
 :::
 
 :::effect-appear-md
 ::::prose-bg{class='font-semibold'}
 :::::prose-p1
-**Zakres prac**
+**Scope of work**
 :::::
 
 :::::prose-p2
-- Projekt UX/UI konfiguratora
-- Wdrożenie silnika konfiguratora z wykorzystaniem biblioteki ThreeJS
-- Wdrożenie pól wyboru zgodnie z przygotowanym projektem
-- Połączenie rozwiązania Frontend z silnikiem konfiguratora
-- Wdrożenie konfiguratora w środowisku klienta
+- UX/UI design of the configurator
+- Implementation of the configurator engine using the ThreeJS library
+- Implementation of choice fields according to the prepared design
+- Connecting the Frontend solution with the configurator engine
+- Implementation of the configurator in the client's environment
 :::::
 ::::
 :::
@@ -174,10 +173,10 @@ class: static-content mb-[50px] tablet:mb-[100px]
 class: mx-default
 ---
 
-### **Kluczowe elementy**
+### **Key elements**
 
 ::::prose-p3
-Podczas pracy nad konfiguratorem, musieliśmy zwrócić szczególną uwagę na aspekt techniczny produkowanych przed klienta garaży. Wymiar konstrukcji uzależniony jest od wielu elementów, które do swoich potrzeb może dostosować użytkownik. Prócz aspektów technicznych bardzo ważne było umożliwienie podglądu garażu w trybie rzeczywistym.
+During the work on the configurator, we had to pay special attention to the technical aspect of the garages produced by the client. The dimension of the structure depends on many elements that the user can adapt to their needs. In addition to technical aspects, it was very important to enable a real-time preview of the garage.
 ::::
 :::
 
@@ -190,34 +189,34 @@ class: mx-default
 ---
 class: mx-0 [&_p]:mt-4
 ---
-**Zgodność parametrów technicznych garażu**
+**Compliance of garage technical parameters**
 
-Wszystkie parametry garażu muszą być spójne ze specyfikacją techniczną tak aby skonfigurowany garaż był zgodny z rzeczywistymi możliwościami produkcji. M.in. wysokość garażu uzależniona jest od wysokości wybranej bramy, rodzaj dachu i wysokości garażu wpływa na możliwość osadzenia drzwi, a stopień nachylenia dachu uzależniony jest od szerokości. Wszystkie zależności obliczane są na podstawie danych technicznych przekazanych przez klienta.
+All garage parameters must be consistent with the technical specification so that the configured garage complies with the actual production possibilities. E.g., the height of the garage depends on the height of the selected gate, the type of roof and the height of the garage affects the possibility of embedding the door, and the degree of roof inclination depends on the width. All dependencies are calculated based on technical data provided by the client.
 ::::
 
 2. ::::prose-p3
 ---
 class: mx-0 [&_p]:mt-4
 ---
-**Dynamiczny model 3D** 
+**Dynamic 3D model** 
 
-Jednym z głównych założeń była możliwość swobodnego oglądania garażu. Wymagało to stworzenia widoku 3D, dzięki któremu użytkownik może obracać garaż w dowolnym kierunu oraz przybliżać / oddalać widok za pomocą scrollowania. Zmiany w modelu generowane są automatycznie po wybraniu opcji przeż użytkownika, bez konieczności przeładowania strony.
+One of the main assumptions was the possibility of freely viewing the garage. This required the creation of a 3D view, thanks to which the user can rotate the garage in any direction and zoom in / out of the view by scrolling. Changes in the model are generated automatically after the user selects an option, without the need to reload the page.
 ::::
 3. ::::prose-p3
 ---
 class: mx-0 [&_p]:mt-4
 ---
-**Wybór wyposażenia** 
+**Equipment choice** 
 
-Konfigurując swój garaż użytkownik ma możliwość ustawienia wysokości i szerokości bramy oraz dostosowania jej położenia w poziomie. Jako opcja dostępne są także drzwi i okna które można swobodnie przesuwać w 2 płaszczyznach. Prócz tego użytkownik może wybrać rodzaj konstrukcji, kolor poszycia oraz dobrać akcesoria np. system alarmowy.
+When configuring their garage, the user has the possibility of setting the height and width of the gate and adapting its horizontal position. Doors and windows that can be freely moved in 2 planes are also available as an option. In addition, the user can choose the type of construction, color of the cladding and select accessories, e.g., an alarm system.
 ::::
 4. ::::prose-p3
 ---
 class: mx-0 [&_p]:mt-4
 ---
-**Automatyzacja wyceny** 
+**Price automation** 
 
-System konfguratora umożliwia rozbudowę o automatyczne obliczanie ceny, na bazie wybranych przez użytkownika parametrów, opcji i akcesoriów. Na ten moment, zgodnie z decyzją klienta, funkcjonalność jest wyłączona.
+The configurator system enables expansion with automatic price calculation based on parameters, options and accessories selected by the user. At this point, according to the client's decision, the functionality is disabled.
 ::::
 :::
 ::
@@ -231,7 +230,7 @@ class: static-content
 ---
 class: mx-default [&_h3]:!mb-0
 ---
-### **Pełna konfiguracja konstrukcji**
+### **Full structure configuration**
 :::
 ::
 
@@ -254,7 +253,7 @@ class: static-content
 ---
 class: mx-default [&_h3]:!mb-0
 ---
-### **Dobór dodatków i wybór kolorystyki**
+### **Selection of additions and choice of colors**
 :::
 ::
 
@@ -278,14 +277,14 @@ class: static-content mb-[50px] desktop:mb-[100px]
 class: mx-default
 ---
 
-### **Nasze rozwiązanie**
+### **Our solution**
 
-#### **Konfigurator produktu 3D z wykorzystaniem ThreeJS**
+#### **3D product configurator using ThreeJS**
 
 ::::prose-p3
-Z racji na to że sklep internetowy Eurostal zbudowany jest na platformie WooCommerce, musieliśmy zapewnić poprawność działania właśnie w tym systemie. Wdrożone rozwiązanie musiało umożliwić edycję parametrów konfiguratora z poziomu panelu administracyjnego Wordpress.
+Due to the fact that the Eurostal online store is built on the WooCommerce platform, we had to ensure proper operation in this system. The implemented solution had to enable editing configurator parameters from the WordPress administration panel.
 
-Bardzo duża ilość możliwych konfiguracji garażu uniemożliwiała skorzystanie z prostych form wizualizacji np. wgrania zdjęć różnych wersji garażu. Silnik konfiguratora Eurostal zbudowany został z wykorzystaniem biblioteki ThreeJS, która rysuje model 3D wykonując algorytm obliczający współrzędne. Oznacza to ze konfigurator nie potrzebuje wgrania gotowych zdjęć / renderów produktu - model 3D generowany jest w czasie rzeczywistym.
+A very large number of possible garage configurations made it impossible to use simple forms of visualization, e.g., uploading photos of different garage versions. The Eurostal configurator engine was built using the ThreeJS library, which draws a 3D model by executing an algorithm calculating coordinates. This means that the configurator does not need to upload ready-made photos / renders of the product - the 3D model is generated in real time.
 
 ::::
 :::
@@ -294,7 +293,7 @@ Bardzo duża ilość możliwych konfiguracji garażu uniemożliwiała skorzystan
 ---
 class: mx-default
 ---
-#### **Wykorzystane technologie**
+#### **Technologies used**
 :::
 
 :::effect-appear-md
@@ -330,11 +329,11 @@ class: -bottom-6 -left-32
 ---
 ::::
 
-### **Rezultat pracy**
+### **Result of work**
 ::::prose-p3
-Ostatnim etapem prac było wykonanie optymalizacji zdjęć które przyśpieszyło czas ładowania, dodanie prostego formularza kontaktowego oraz publikacja konfiguratora na kilku sklepach klienta.
+The last stage of work was performing photo optimization which accelerated the loading time, adding a simple contact form and publishing the configurator on several client stores.
 
-W efekcie prac nasz klient otrzymał gotowy konfigurator produktu który może być dowolnie rozbudowywany, zarówno o funkcje sprzedażowe, jak i konstrukcyjne wpływające na wygląd i specyfikę sprzedawanych garaży - zastosowana technologia nie stawia ograniczeń. 
+As a result of the work, our client received a ready-made product configurator that can be freely expanded, both with sales and structural functions affecting the appearance and specificity of the garages sold - the technology used does not impose limitations. 
 ::::
 :::
 ::
@@ -353,48 +352,33 @@ class: mb-[50px] tablet:mb-[100px]
 
 ::page-section-md
 ---
-class: static-content mb-[50px] tablet:mb-[100px] hidden
+class: static-content mb-[50px] tablet:mb-[100px]
 ---
 :::effect-appear-md
-::::block-columns-5-7-md
----
-class: mx-default
----
-
-#left
-:::::block-clutch
+::::block-opinion-md
 ---
 rating: 5
-quality: 5
-schedule: 5
-cost: 5
-refer: 5
+link: 'https://www.google.com/search?sa=X&sca_esv=950f1dd50efd152d&tbm=lcl&q=Webo+Opinie&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2NDA0NbQ0NLUwM7O0ANJGJiYbGBlfMXKHpyblK_gXZOZlpi5iReYBAMr9MB02AAAA&rldimm=1015191586698915244&hl=pl-PL&ved=2ahUKEwjvh8C7pfaOAxWRHxAIHUsvAXsQ9fQKegQISBAF&biw=1920&bih=1031&dpr=1#lkt=LocalPoiReviews'
+avatar: '/img/content-images/eurostal_avatar.png'
 ---
-:::::
-
-#right
-
-:::::block-opinion-md
 
 #title
-### **Opinia klienta**
+### **Client opinion**
 
 #content
 
-::::::prose-p3
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+:::::prose-p3
+Great cooperation in creating the site and the configurator. WEBO company are **professionals who meet deadlines** and have a great approach to the client. Everything works without a hitch, I recommend!
 
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.**
-::::::
+:::::
 
 #author
 
-#### **Jan Kowalski**
+#### **Dawid Jasek**
 
 #authorTitle
-::::::prose-p6
-JOB POSITION - **EUROSTALL**
-::::::
+:::::prose-p6
+Sales Manager - **Eurostal**
 :::::
 ::::
 :::
@@ -408,19 +392,51 @@ class: mb-[50px] tablet:mb-[100px]
 ::::block-cta-md
 ---
 button.link: https://webo.agency/contact/
-button.title: 'Skontaktuj się'
+button.title: 'Get in touch'
 ---
 
 #title
-#### Zainteresowała Cię nasza oferta?
+#### Are you interested in our offer?
 
 #description
-Skontaktuj się z nami i rozpocznij współpracę
+Contact us and start cooperation
 
 ::::
 :::
 ::
 
+::page-section-md
+---
+id: case-studies
+class: mb-[80px] tablet:mb-[130px]
+---
+:::effect-appear-md
+::::block-header-md
+---
+class: mb-10 tablet:mb-20
+---
+
+#subtitle
+### *-/* Our recent projects
+
+#title
+## See our other *website projects*
+
+::::
+:::
+
+:::block-cases-md
+---
+contentFolder: case-studies
+moreBtn.url: 'https://webo.agency/case-studies/'
+moreBtn.linktitle: See all projects
+selectedSlugs:
+    - isw
+    - mutiny-group
+---
+
+:::
+::
 
 ::page-section-md
 ---
@@ -437,7 +453,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

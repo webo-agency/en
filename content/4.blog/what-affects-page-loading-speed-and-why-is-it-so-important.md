@@ -1,10 +1,11 @@
 ---
-introduction.title: 'What affects page loading speed and why is it so important?'
-introduction.titleFormatted: 'What affects page loading speed and <em>why is it so important?</em>'
-introduction.description: 'Page loading speed is not just a technical issue, it is the foundation of our online presence. It significantly affects conversion and indexation in search engines, and thus translates into the marketing budget.'
+introduction.title: 'What affects website loading speed and why is it so important?'
+introduction.titleFormatted: 'What affects website loading speed and <em>why is it so important?</em>'
+introduction.description: 'Website loading speed is not just a technical issue, it is the foundation of our online presence. It significantly affects conversion and indexing in search engines and thus translates into the marketing budget.'
 category:
     - Technology
 image.url: '/img/blog-images/webo_blog_speed.jpg'
+date: 2025-01-26
 hreflangs:
     EN: '/blog/what-affects-page-loading-speed-and-why-is-it-so-important/'
     PL: '/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne/'
@@ -21,10 +22,11 @@ class: mb-20 tablet:mb-[100px]
 ::::block-header-post-md
 ---
 bgUrl: /img/blog-images/webo_blog_speed.jpg
+class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 
 #title
-# What affects page loading speed and why is it so important?
+# What affects website loading speed and why is it so important?
 
 #tags
 - Technology
@@ -46,10 +48,10 @@ class: mx-blog
 
 ::::prose-p3
 Cloudflare and Google reports tell us clearly:
-- Nearly half of users expect a website to load in 2 seconds or less.
-- Each additional 0.5 second reduces visits to subsequent subpages by 20%.
-- If a website doesn't open within 3 seconds, 53% of users will leave it.
-Additionally, page loading speed affects SEO and website indexation in the search engine. Google rewards quality, speed and usability - the better condition our website is in, the better scoring we will receive.
+- Nearly half of users expect a website to load within 2 seconds and less.
+- Every additional 0.5 seconds is a 20% drop in visits to subsequent subpages.
+- If a site doesn't open within 3 seconds, 53% of users will leave it.
+Additionally, page loading speed affects SEO and site indexing in search engines. Google rewards quality, speed and usability - the better state our site is in, the better scoring we will receive.
 ::::
 
 :::
@@ -58,17 +60,17 @@ Additionally, page loading speed affects SEO and website indexation in the searc
 class: mx-blog
 ---
 
-#### **Co wpływa na szybkość ładowania strony?**
+#### **What affects website loading speed?**
 
 ::::prose-p3
-- Website code: Let's ensure clean, optimized code, use of proven practices and reference to documentation. Let's avoid excessive use of scripts and plugins.
-- Media Size: Large images and media can slow down your page significantly. Graphics optimization is key.
-- Server: An efficient server, properly scalable and adapted to the needs of the website, helps provide users with quick access to content.
-- HTTP request minimization: Fewer requests = faster loading. By ensuring the optimal number of CSS and JS files, we limit the number of queries needed to load the page.
-- Using CDN: Content Delivery Network (CDN) can speed up access to website resources.
-- Technology used: The use of the best libraries and solutions allows the client to shorten the page rendering time at the last step before the possibility of interaction.
-- Monitoring and testing: Regularly checking the website's performance allows you to identify problems and quickly respond to the team.
-Page loading speed is not just a technical issue, it is the foundation of our online presence. It significantly affects conversion and indexation in search engines, and thus translates into the marketing budget, e.g. Google Ads or SEO, that we must allocate to attracting customers through our website. Therefore, it is worth investing in optimization and ensuring that our website works as efficiently as possible.
+- Page code: Let's ensure clean, optimized code, applying proven practices and relying on documentation. Avoid excessive use of scripts and plugins.
+- Media size: Large images and multimedia can significantly slow down the site. Graphic optimization is key.
+- Server: An efficient server, appropriately scalable and adapted to the needs of the site, helps ensure users have quick access to content.
+- Minimization of HTTP requests: Fewer requests = faster loading. By taking care of the optimal amount of CSS and JS files, we limit the number of requests needed to load the page.
+- Use of CDN: A Content Delivery Network (CDN) can speed up access to site resources.
+- Technology applied: The use of the best libraries and solutions allows for shortening the page rendering time on the client's side at the last step before the possibility of interaction.
+- Monitoring and testing: Regular checks of site performance allow for identification of problems and quick team reaction.
+Website loading speed is not just a technical issue, it is the foundation of our online presence. It significantly affects conversion and indexing in search engines and thus translates into the marketing budget, e.g., Google Ads or SEO that we must allocate to acquire a customer through our website. Therefore, it is worth investing in optimization and ensuring that our site works as efficiently as possible. 
 
 
 ::::
@@ -101,7 +103,7 @@ linktitle: See all posts
 ---
 
 #title
-#### Check out similar publications
+#### Check similar publications
 
 ::::
 ::::block-post-related
@@ -132,7 +134,7 @@ class: block [&_.title]:!mb-4  [&_p]:font-medium
 #### Need our help or a project quote?
 
 #description
-Contact us for a free consultation
+Contact us and take advantage of a free consultation
 
 ::::
 :::
@@ -153,7 +155,7 @@ class: mb-[50px] tablet:mb-[100px]
 ### *-/* Our clients
 
 #title
-## Get to know the companies that *trusted us*
+## Meet the companies that *trusted us*
 
 ::::
 :::

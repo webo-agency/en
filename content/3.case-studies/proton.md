@@ -1,9 +1,8 @@
 ---
-introduction.title: 'Proton Multimedia - Modern website for an IT services provider'
-introduction.description: 'Proton Multimedia provides IT services for home and business clients. Our task was to deliver a high-quality website that reduces the time needed for users to find services and make contact.
-'
+introduction.title: 'Proton Multimedia - Website of an IT service provider for households and companies'
+introduction.description: 'Proton Multimedia provides IT support services for companies and households. Our work consisted of delivering a high-quality website using modern solutions.'
 type:
-    - Website
+    - Websites
     - UX/UI
 technologies:
     - TailwindCSS
@@ -13,8 +12,8 @@ technologies:
 image.url: '/img/case-studies/Proton-bg.png'
 logo.url: '/img/logos/Proton.png'
 tile_hidden: false
-tile_order: 5
-public: false
-draft: true
+tile_order: 7
+public: true
+draft: false
 fallback: 'https://www.behance.net/gallery/105506995/Proton-Multimedia-IT-Services?tracking_source=search_projects_recommended%7Cwebo.agency'
 ---
