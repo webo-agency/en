@@ -60,13 +60,13 @@ nav:
   - title: For agencies
     link: https://webo.agency/services/website-and-e-commerce-outsourcing/       
   - title: About us
-    link: https://webo.agency/about-us
+    link: https://webo.agency/about-us/
   - title: Case studies
-    link: https://webo.agency/case-studies
+    link: https://webo.agency/case-studies/
   - title: Blog
-    link: https://webo.agency/blog
+    link: https://webo.agency/blog/
   - title: Get in touch
-    link: https://webo.agency/contact
+    link: https://webo.agency/contact/
     type: 'button'
 footer:
     privacyPolicyLink: https://webo.agency/privacy-policy/

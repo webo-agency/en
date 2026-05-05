@@ -759,7 +759,7 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ::::block-cta-md
 ---
 maxWidth: 1024
-button.link: https://webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 class: mx-auto [&_.title]:max-w-[480px] [&_.title]:!mx-auto
 ---

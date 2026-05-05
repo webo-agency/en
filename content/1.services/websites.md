@@ -273,7 +273,7 @@ class: top-20 right-[15%] fullHd:right-[20%] scale-x-[-1.6] scale-y-[1.6]
 ::::block-cta-md
 ---
 maxWidth: 800
-button.link: https://webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36
@@ -859,7 +859,7 @@ Yes. After implementation, we offer technical care, updates and support in expan
 ::::block-cta-md
 ---
 maxWidth: 700
-button.link: https://webo.agency/contact
+button.link: https://webo.agency/contact/
 button.title: 'Get in touch'
 button.isWide: true
 class: tablet:mb-36
