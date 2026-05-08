@@ -5,7 +5,10 @@ introduction.description: 'Website loading speed is not just a technical issue, 
 category:
     - Technology
 image.url: '/img/blog-images/webo_blog_speed.jpg'
-date: 2025-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2025-01-26
 hreflangs:
     EN: '/blog/what-affects-page-loading-speed-and-why-is-it-so-important/'
     PL: '/blog/co-wplywa-na-szybkosc-ladowania-strony-i-dlaczego-to-takie-wazne/'
@@ -28,9 +31,6 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 #title
 # What affects website loading speed and why is it so important?
 
-#tags
-- Technology
-
 ::::
 :::
 ::
@@ -39,30 +39,35 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 class: static-content mb-10
 ---
-:::effect-appear-md
+
+:::block-columns-blog-sidebar-md
+
+#left
+
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 ### **Why is speed important?**
 
-::::prose-p3
+:::::prose-p3
 Cloudflare and Google reports tell us clearly:
 - Nearly half of users expect a website to load within 2 seconds and less.
 - Every additional 0.5 seconds is a 20% drop in visits to subsequent subpages.
 - If a site doesn't open within 3 seconds, 53% of users will leave it.
 Additionally, page loading speed affects SEO and site indexing in search engines. Google rewards quality, speed and usability - the better state our site is in, the better scoring we will receive.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 #### **What affects website loading speed?**
 
-::::prose-p3
+:::::prose-p3
 - Page code: Let's ensure clean, optimized code, applying proven practices and relying on documentation. Avoid excessive use of scripts and plugins.
 - Media size: Large images and multimedia can significantly slow down the site. Graphic optimization is key.
 - Server: An efficient server, appropriately scalable and adapted to the needs of the site, helps ensure users have quick access to content.
@@ -73,21 +78,19 @@ class: mx-blog
 Website loading speed is not just a technical issue, it is the foundation of our online presence. It significantly affects conversion and indexing in search engines and thus translates into the marketing budget, e.g., Google Ads or SEO that we must allocate to acquire a customer through our website. Therefore, it is worth investing in optimization and ensuring that our site works as efficiently as possible. 
 
 
+:::::
 ::::
-:::
-::
 
-::page-section-md
+#right
+
+::::block-post-share
 ---
-class: mb-20
----
-:::block-post-share
----
-shareText: 'Share:'
-tags:
-    - Technology
+shareText: 'Share the article:'
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 
+::::
 :::
 ::
 

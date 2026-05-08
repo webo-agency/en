@@ -5,7 +5,10 @@ introduction.description: 'In e-commerce, UX is not an addition to design, but o
 category:
     - Technology
 image.url: '/img/blog-images/blog_webo_ux_w_e_commerce.webp'
-date: 2026-01-15
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-01-15
 hreflangs:
     EN: '/blog/ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store/'
     PL: '/blog/ux-w-e-commerce-jak-realnie-poprawic-doswiadczenie-uzytkownika-w-sklepie-online/'
@@ -289,22 +292,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Maciej Z.
-authorAvatar: /img/content-images/avatar-maciej.webp
-postDate: 15.01.2026
 shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - UX/UI Design
-    - Online stores
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 :::::
 ::::

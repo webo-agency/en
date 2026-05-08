@@ -5,7 +5,10 @@ introduction.description: 'In short, UX (from User Experience) is all the experi
 category:
     - Design
 image.url: '/img/blog-images/webo_blog_ux.jpg'
-date: 2025-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2025-01-26
 hreflangs:
     EN: '/blog/what-is-ux-all-about-and-why-is-it-so-important/'
     PL: '/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne/'
@@ -28,9 +31,6 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 #title
 # What is UX and why is it so important?
 
-#tags
-- Design
-
 ::::
 :::
 ::
@@ -39,14 +39,19 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 class: static-content mb-10
 ---
-:::effect-appear-md
+
+:::block-columns-blog-sidebar-md
+
+#left
+
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 ### **What is UX?**
 
-::::prose-p3
+:::::prose-p3
 In short, UX (short for User Experience) is all the experiences, thoughts, and emotions that accompany a user while using a digital product, e.g., a website. UX design is therefore a way of designing interfaces that takes into account the users' needs, their habits and skills as well as the business assumptions regarding the site. All this so that the user can navigate the site easily, without any problems finding the information they are looking for.
 
 This sounds quite complicated, but an iterative process comes to our aid, which at Webo looks like this:
@@ -58,21 +63,19 @@ This sounds quite complicated, but an iterative process comes to our aid, which 
 - After going through the design process, it's time for product implementation and development – here we implement the best developed solution for its further improvement during confrontation with the market.
 
 At every stage, contact with our client is very important, as they verify whether the project assumptions have been met, while at the same time reporting their comments and accepting each subsequent stage.
+:::::
 ::::
-:::
-::
 
-::page-section-md
+#right
+
+::::block-post-share
 ---
-class: mb-20
----
-:::block-post-share
----
-shareText: 'Share:'
-tags:
-    - Design
+shareText: 'Share the article:'
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 
+::::
 :::
 ::
 

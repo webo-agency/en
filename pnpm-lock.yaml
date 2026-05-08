@@ -6,7 +6,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/832b306c755840e0b5e1a32250012c27d9abdc04(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.34)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.1.1)(postcss@8.5.14)(typescript@5.6.3)(vite@6.4.2)(vue@3.5.34)(webpack@5.106.2)
+    version: github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.34)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.1.1)(postcss@8.5.14)(typescript@5.6.3)(vite@6.4.2)(vue@3.5.34)(webpack@5.106.2)
   email-validator:
     specifier: ^2.0.4
     version: 2.0.4
@@ -3212,8 +3212,8 @@ packages:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
     dev: false
 
-  /@types/node@25.6.0:
-    resolution: {integrity: sha512-+qIYRKdNYJwY3vRCZMdJbPLJAtGjQBudzZzdzwQYkEPQd+PJGixUL5QfvCLDaULoLv+RhT3LDkwEfKaAkgSmNQ==}
+  /@types/node@25.6.2:
+    resolution: {integrity: sha512-sokuT28dxf9JT5Kady1fsXOvI4HVpjZa95NKT5y9PNTIrs2AsobR4GFAA90ZG8M+nxVRLysCXsVj6eGC7Vbrlw==}
     dependencies:
       undici-types: 7.19.2
     dev: false
@@ -5766,6 +5766,14 @@ packages:
       tapable: 2.3.3
     dev: false
 
+  /enhanced-resolve@5.21.2:
+    resolution: {integrity: sha512-xe9vQb5kReirPUxgQrXA3ihgbCqssmTiM7cOZ+Gzu+VeGWgpV98lLZvp0dl4yriyAePcewxGUs9UpKD8PET9KQ==}
+    engines: {node: '>=10.13.0'}
+    dependencies:
+      graceful-fs: 4.2.11
+      tapable: 2.3.3
+    dev: false
+
   /entities@2.2.0:
     resolution: {integrity: sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==}
     dev: false
@@ -7202,7 +7210,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 25.6.0
+      '@types/node': 25.6.2
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
@@ -11271,7 +11279,7 @@ packages:
       esbuild: 0.25.12
       jest-worker: 27.5.1
       schema-utils: 4.3.3
-      terser: 5.47.0
+      terser: 5.47.1
       webpack: 5.106.2(esbuild@0.25.12)
     dev: false
 
@@ -11286,8 +11294,8 @@ packages:
       source-map-support: 0.5.21
     dev: false
 
-  /terser@5.47.0:
-    resolution: {integrity: sha512-TV+JFkQFtljk12ffyYAA4+zVF4Hs+qaROsT+Qo9o2/z39x+IUn+pvsmomiCPlp5YigfR1OdbGHOvc0L+Ca1X7g==}
+  /terser@5.47.1:
+    resolution: {integrity: sha512-tPbLXTI6ohPASb/1YViL428oEHu6/qv1OxqYnfaonVCFHqx4+wCd95pHrQWsL5X4pl90CTyW9piSAsS2L0VoMw==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
@@ -12444,7 +12452,7 @@ packages:
       acorn-import-phases: 1.0.4(acorn@8.16.0)
       browserslist: 4.28.2
       chrome-trace-event: 1.0.4
-      enhanced-resolve: 5.21.0
+      enhanced-resolve: 5.21.2
       es-module-lexer: 2.1.0
       eslint-scope: 5.1.1
       events: 3.3.0
@@ -12682,11 +12690,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/832b306c755840e0b5e1a32250012c27d9abdc04(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.34)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.1.1)(postcss@8.5.14)(typescript@5.6.3)(vite@6.4.2)(vue@3.5.34)(webpack@5.106.2):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/832b306c755840e0b5e1a32250012c27d9abdc04}
-    id: github.com/webo-agency/www/832b306c755840e0b5e1a32250012c27d9abdc04
+  github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.34)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.1.1)(postcss@8.5.14)(typescript@5.6.3)(vite@6.4.2)(vue@3.5.34)(webpack@5.106.2):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/61ff17d9588876285da0ad5a307e929bffb61ffa}
+    id: github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa
     name: '@webo-agency/theme'
-    version: 3.7.112
+    version: 3.7.114
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3

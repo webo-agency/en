@@ -5,7 +5,10 @@ introduction.description: 'Websites made in Headless architecture consist of sep
 category:
     - Technology
 image.url: '/img/blog-images/webo_blog_headless_wp.jpg'
-date: 2025-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2025-01-26
 hreflangs:
     EN: '/blog/cms-wordpress-and-headless-the-rocket-engines-for-your-website/'
     PL: '/blog/cms-wordpress-i-headless-czyli-silniki-rakietowe-dla-twojej-strony-www/'
@@ -28,9 +31,6 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 #title
 # WordPress CMS + Headless: Rocket engines for your website
 
-#tags
-- Technology
-
 ::::
 :::
 ::
@@ -39,42 +39,47 @@ class: mt-5 tablet:mt-[100px] [&_img]:max-h-[200px] lg:[&_img]:max-h-[600px]
 ---
 class: static-content mb-10
 ---
-:::effect-appear-md
+
+:::block-columns-blog-sidebar-md
+
+#left
+
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 ### **What is a Headless CMS?**
 
-::::prose-p3
+:::::prose-p3
 Websites made in Headless architecture consist of separating the user interface (frontend) from administrative functions and internal resources (backend). Both layers are independent of each other, and communication between them is performed via an API. A website made in Headless architecture enables, among others, better site optimization, ultra-fast loading, unlimited site development while meeting the highest security standards. Combined with the WordPress content management system, you gain the above-mentioned advantages while maintaining the functionality and ease of WP content editing.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog
 ---
 
 #### **When is it worth implementing websites based on Headless?**
 
-::::prose-p3
+:::::prose-p3
 Headless websites have particularly high value for technology companies and those operating in the R&D (research and development) department. This results from the specificity of the sectors of activity and exposure to possible external threats. Headless will also find application for extensive websites publishing content in many distribution channels and operating on a large scale, needing high performance and reduction of maintenance costs in the long run.
-::::
+:::::
 
-:::
-:::effect-appear-md
+::::
+::::effect-appear-md
 ---
 class: mx-blog mb-10 tablet:mb-[60px]
 ---
-::::prose-figure
+:::::prose-figure
 ---
 src: /img/content-images/case-5g-img2.png
 rounded: true
 ---
+:::::
 ::::
-:::
-:::effect-appear-md
+::::effect-appear-md
 ---
 class: mx-blog
 ---
@@ -86,20 +91,18 @@ class: mx-blog
 - Independence of the work of frontend and backend teams on the site
 - Increasing performance and operational efficiency even with very extensive sites
 
-:::
-::
+::::
 
-::page-section-md
+#right
+
+::::block-post-share
 ---
-class: mb-20
----
-:::block-post-share
----
-shareText: 'Share:'
-tags:
-    - Technology
+shareText: 'Share the article:'
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 
+::::
 :::
 ::
 

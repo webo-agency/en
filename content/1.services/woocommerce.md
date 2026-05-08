@@ -7,6 +7,24 @@ public: true
 hreflangs:
     EN: '/services/woocommerce/'
     PL: '/uslugi/sklepy-woocommerce/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "WooCommerce online store development"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency/"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Professional design and implementation of WooCommerce-based online stores. Stores are SEO-optimized, fast, and responsive."
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Individual pricing for implementing a WooCommerce store"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/woocommerce/"
 ---
 
 

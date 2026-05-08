@@ -6,7 +6,10 @@ category:
     - UX/UI Design
     - Online stores
 image.url: '/img/blog-images/najczestsze-bledy-ux--ktore-obnizaja-konwersje-w-sklepie-internetowym.webp'
-date: 2026-04-14
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-04-14
 hreflangs:
     EN: '/blog/most-common-ux-mistakes-that-lower-conversion-in-an-online-store/'
     PL: '/blog/najczestsze-bledy-ux-ktore-obnizaja-konwersje-w-sklepie-internetowym/'
@@ -290,22 +293,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Maciej
-authorAvatar: /img/content-images/avatar-maciej.webp
-postDate: 14.04.2026
 shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - UX/UI Design
-    - Online stores
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 :::::
 ::::

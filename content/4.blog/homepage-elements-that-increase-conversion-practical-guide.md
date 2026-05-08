@@ -5,7 +5,10 @@ introduction.description: 'Creating an effective homepage is a key step in the p
 category:
     - Technology
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
-date: 2026-01-26
+author: Maciej Z.
+authorAvatar: /img/content-images/avatar-maciej.webp
+authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
+updatedAt: 2026-01-26
 hreflangs:
     EN: '/blog/homepage-elements-that-increase-conversion-practical-guide/'
     PL: '/blog/elementy-strony-glownej-ktore-zwiekszaja-konwersje-praktyczny-poradnik/'
@@ -476,22 +479,9 @@ class: mx-blog
 ---
 :::::block-post-share
 ---
-isSidebar: true
-author: Maciej Z.
-authorAvatar: /img/content-images/avatar-maciej.webp
-postDate: 15.01.2026
 shareText: 'Share the article:'
-tagsTitle: 'Tags:'
-tags:
-    - UX/UI Design
-    - Online stores
-archivePath: /blog
-socials:
-    - linkedin
-    - facebook
-    - twitter
-showCopyLink: true
-class: text-base [&_p]:!text-base
+tagsTitle: 'Categories:'
+copyConfirmationText: 'Link copied!'
 ---
 :::::
 ::::
