@@ -1,7 +1,7 @@
 ---
 introduction.title: 'Creating WooCommerce Stores – What Does a Professional WordPress Store Implementation Look Like?'
 introduction.titleFormatted: 'Creating WooCommerce Stores – What Does a Professional WordPress Store Implementation Look Like?'
-introduction.description: 'WooCommerce WooCommerce has remained one of the most popular e-commerce platforms in the world for years.d lat pozostaje jednym z najpopularniejszych systemów e-commerce na świecie.'
+introduction.description: 'WooCommerce has remained one of the most popular e-commerce platforms in the world for years.'
 category:
     - UX/UI Design
     - Online stores
@@ -103,7 +103,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Design a UX-friendly online store that drives sales** *<u><a href="/services/e-commerce/">learn more about our services</a></u>*
+**Design a UX-friendly online store that drives sales** *<u><a href="/services/woocommerce/">learn more about our services</a></u>*
 
 :::::
 ::::
