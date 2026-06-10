@@ -710,6 +710,28 @@ Great cooperation – **very efficient communication, accurate ideas** and insig
 
 :::::
 
+
+:::::opinion-md
+---
+rating: 5
+avatar: '/img/content-images/traffic-peaks-logo.png'
+opinionSource: '/img/icons/clutch.svg'
+link: 'https://clutch.co/go-to-review/2d738f82-daea-4149-98bd-b5609745cca0/441375'
+---
+
+
+#author
+Kamil Gędłek
+
+#title
+CEO - **KGWEBS**<br>
+Head of SEO - **Traffic Peaks**<br>
+
+#message
+Webo delivered an **exceptionally fast and intuitive website** that directly contributed to the client’s business growth. The site **increased lead generation by 30%**, the conversion rate by 30%, and the average session duration by 60%.
+
+:::::
+
 :::::opinion-md
 ---
 rating: 5

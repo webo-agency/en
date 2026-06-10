@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.35)(@vue/compiler-sfc@3.5.35)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.2.0)(postcss@8.5.15)(typescript@5.6.3)(vite@8.0.16)(vue@3.5.35)(webpack@5.107.2)
+    version: github.com/webo-agency/www/139cc2d87dd48da37c009c070f2dcbeecb1928ed(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.35)(@vue/compiler-sfc@3.5.35)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.2.0)(postcss@8.5.15)(typescript@5.6.3)(vite@8.0.16)(vue@3.5.35)(webpack@5.107.2)
   email-validator:
     specifier: ^2.0.4
     version: 2.0.4
@@ -634,6 +634,14 @@ packages:
 
   /@emnapi/runtime@1.10.0:
     resolution: {integrity: sha512-ewvYlk86xUoGI0zQRNq/mC+16R1QeDlKQy21Ki3oSYXNgLb45GV1P6A0M+/s6nyCuNDqe5VpaY84BzXGwVbwFA==}
+    requiresBuild: true
+    dependencies:
+      tslib: 2.8.1
+    dev: false
+    optional: true
+
+  /@emnapi/runtime@1.11.0:
+    resolution: {integrity: sha512-55coeOFKHv1ywEcUXJtWU5f+Jr/W5tZDvZig8DLKSwUN1JpROQ4rk/SNOQiFWmaR/VKF4zuFyW1B8JduOSv6Pg==}
     requiresBuild: true
     dependencies:
       tslib: 2.8.1
@@ -1609,7 +1617,7 @@ packages:
     cpu: [wasm32]
     requiresBuild: true
     dependencies:
-      '@emnapi/runtime': 1.10.0
+      '@emnapi/runtime': 1.11.0
     dev: false
     optional: true
 
@@ -1738,8 +1746,8 @@ packages:
       - supports-color
     dev: false
 
-  /@napi-rs/wasm-runtime@1.1.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0):
-    resolution: {integrity: sha512-3NQNNgA1YSlJb/kMH1ildASP9HW7/7kYnRI2szWJaofaS1hWmbGI4H+d3+22aGzXXN9IJ+n+GiFVcGipJP18ow==}
+  /@napi-rs/wasm-runtime@1.1.5(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0):
+    resolution: {integrity: sha512-AWPoBRJ9tsnVhor4sjO7rkni+7p+2IAEFj6cx06UgP10jkQHqay/36uRV/bFkgrh18D9vb4cr8Q0Pthskgzy+Q==}
     requiresBuild: true
     peerDependencies:
       '@emnapi/core': ^1.7.1
@@ -1971,7 +1979,7 @@ packages:
       pkg-types: 1.3.1
       prompts: 2.4.2
       rc9: 2.1.2
-      semver: 7.8.1
+      semver: 7.8.4
     dev: false
 
   /@nuxt/devtools-wizard@3.2.4:
@@ -1997,7 +2005,7 @@ packages:
       '@antfu/utils': 0.7.10
       '@nuxt/devtools-kit': 1.7.0(magicast@0.3.5)(vite@8.0.16)
       '@nuxt/devtools-wizard': 1.7.0
-      '@nuxt/kit': 3.21.7(magicast@0.3.5)
+      '@nuxt/kit': 3.21.8(magicast@0.3.5)
       '@vue/devtools-core': 7.6.8(vite@8.0.16)(vue@3.5.35)
       '@vue/devtools-kit': 7.6.8
       birpc: 0.2.19
@@ -2022,13 +2030,13 @@ packages:
       pkg-types: 1.3.1
       rc9: 2.1.2
       scule: 1.3.0
-      semver: 7.8.1
+      semver: 7.8.4
       simple-git: 3.36.0
       sirv: 3.0.2
       tinyglobby: 0.2.17
       unimport: 3.14.6
       vite: 8.0.16(esbuild@0.25.12)
-      vite-plugin-inspect: 0.8.9(@nuxt/kit@3.21.7)(vite@8.0.16)
+      vite-plugin-inspect: 0.8.9(@nuxt/kit@3.21.8)(vite@8.0.16)
       vite-plugin-vue-inspector: 5.4.0(vite@8.0.16)
       which: 3.0.1
       ws: 8.21.0
@@ -2200,6 +2208,35 @@ packages:
       untyped: 2.0.0
     transitivePeerDependencies:
       - magicast
+
+  /@nuxt/kit@3.21.8(magicast@0.3.5):
+    resolution: {integrity: sha512-kg63DUPY5AHPn+9XM7u8rYcdWHXjzwfUscgRDuiC5YUciQ+xdLRhdwXelYFxEAx2nxJHossliiQXbMm/Fleivw==}
+    engines: {node: '>=18.12.0'}
+    dependencies:
+      c12: 3.3.4(magicast@0.3.5)
+      consola: 3.4.2
+      defu: 6.1.7
+      destr: 2.0.5
+      errx: 0.1.0
+      exsolve: 1.0.8
+      ignore: 7.0.5
+      jiti: 2.7.0
+      klona: 2.0.6
+      knitwork: 1.3.0
+      mlly: 1.8.2
+      ohash: 2.0.11
+      pathe: 2.0.3
+      pkg-types: 2.3.1
+      rc9: 3.0.1
+      scule: 1.3.0
+      semver: 7.8.4
+      tinyglobby: 0.2.17
+      ufo: 1.6.4
+      unctx: 2.5.0
+      untyped: 2.0.0
+    transitivePeerDependencies:
+      - magicast
+    dev: false
 
   /@nuxt/kit@4.4.7:
     resolution: {integrity: sha512-QwtpqNxSOLyJH1UoDpcgsfzVEw95J0893hn1A+CvgeOxoTos1BGvD15D1v/OVQ2MK1EpfnFZJby51t1yudOvBA==}
@@ -2702,7 +2739,7 @@ packages:
     dependencies:
       '@emnapi/core': 1.10.0
       '@emnapi/runtime': 1.10.0
-      '@napi-rs/wasm-runtime': 1.1.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
+      '@napi-rs/wasm-runtime': 1.1.5(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
     dev: false
     optional: true
 
@@ -2885,7 +2922,7 @@ packages:
     dependencies:
       '@emnapi/core': 1.10.0
       '@emnapi/runtime': 1.10.0
-      '@napi-rs/wasm-runtime': 1.1.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
+      '@napi-rs/wasm-runtime': 1.1.5(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
     dev: false
     optional: true
 
@@ -3076,7 +3113,7 @@ packages:
     dependencies:
       '@emnapi/core': 1.10.0
       '@emnapi/runtime': 1.10.0
-      '@napi-rs/wasm-runtime': 1.1.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
+      '@napi-rs/wasm-runtime': 1.1.5(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
     dev: false
     optional: true
 
@@ -3405,7 +3442,7 @@ packages:
     dependencies:
       '@emnapi/core': 1.10.0
       '@emnapi/runtime': 1.10.0
-      '@napi-rs/wasm-runtime': 1.1.4(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
+      '@napi-rs/wasm-runtime': 1.1.5(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)
     dev: false
     optional: true
 
@@ -3869,8 +3906,8 @@ packages:
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
     dev: false
 
-  /@types/node@25.9.1:
-    resolution: {integrity: sha512-xfrlY7UD5rMJk3ZVJP8BNzS28J36YJg+xp+LPXV1TdWxr8uMH5A860QNxYDGQe/ylDSgjxE52Q9VnO7p75tJxg==}
+  /@types/node@25.9.2:
+    resolution: {integrity: sha512-G05zqtJhcDLb8uslf5EjCxXg9G1KQxiV8OS0R26IC//Eoyitzqe8z37I7cqvnZlrlSfgocQRfSn/AHBZJJFyGw==}
     dependencies:
       undici-types: 7.24.6
     dev: false
@@ -6564,6 +6601,14 @@ packages:
       tapable: 2.3.3
     dev: false
 
+  /enhanced-resolve@5.23.0:
+    resolution: {integrity: sha512-yJN/BOOLxcOW2aQgeif9mSnaUB8KtvmMMp56oA1kx1CRfBKbhZm2pJ+NBY+3eOboHxix8lfjWpHE0Ei5U8RbSA==}
+    engines: {node: '>=10.13.0'}
+    dependencies:
+      graceful-fs: 4.2.11
+      tapable: 2.3.3
+    dev: false
+
   /entities@2.2.0:
     resolution: {integrity: sha512-p92if5Nz619I0w+akJrLZH0MX0Pb5DX39XOwQTtXSdQQOaYH03S1uIQp4mhOZtAXrxq4ViO67YTiLBo2638o9A==}
     dev: false
@@ -7933,7 +7978,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 25.9.1
+      '@types/node': 25.9.2
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
@@ -8666,6 +8711,7 @@ packages:
 
   /mdn-data@2.27.1:
     resolution: {integrity: sha512-9Yubnt3e8A0OKwxYSXyhLymGW4sCufcLG6VdiDdUGVkPhpqLxlvP5vl1983gQjJl3tqbrM731mjaZaP68AgosQ==}
+    requiresBuild: true
     dev: false
 
   /mdurl@1.0.1:
@@ -11529,6 +11575,12 @@ packages:
     engines: {node: '>=10'}
     hasBin: true
 
+  /semver@7.8.4:
+    resolution: {integrity: sha512-rUCObTnP32Q08R2uuIrt7r9PlEonuTmtuXYcW6s5kjdlj3xbnwe+21yXptAUYcMAABLkYYTtnmzb3w3EDZfueA==}
+    engines: {node: '>=10'}
+    hasBin: true
+    dev: false
+
   /send@1.2.1:
     resolution: {integrity: sha512-1gnZf7DFcoIcajTjTwjwuDjzuz4PPcY2StKPlsGAQ1+YH20IRVrBaXSWmdjowTJ6u8Rc01PoYOGHXfP1mYcZNQ==}
     engines: {node: '>= 18'}
@@ -13110,7 +13162,7 @@ packages:
       vscode-uri: 3.1.0
     dev: false
 
-  /vite-plugin-inspect@0.8.9(@nuxt/kit@3.21.7)(vite@8.0.16):
+  /vite-plugin-inspect@0.8.9(@nuxt/kit@3.21.8)(vite@8.0.16):
     resolution: {integrity: sha512-22/8qn+LYonzibb1VeFZmISdVao5kC22jmEKm24vfFE8siEn47EpVcCLYMv6iKOYMJfjSvSJfueOwcFCkUnV3A==}
     engines: {node: '>=14'}
     peerDependencies:
@@ -13121,7 +13173,7 @@ packages:
         optional: true
     dependencies:
       '@antfu/utils': 0.7.10
-      '@nuxt/kit': 3.21.7(magicast@0.3.5)
+      '@nuxt/kit': 3.21.8(magicast@0.3.5)
       '@rollup/pluginutils': 5.4.0(rollup@4.61.0)
       debug: 4.4.3
       error-stack-parser-es: 0.1.5
@@ -13468,7 +13520,7 @@ packages:
       acorn-import-phases: 1.0.4(acorn@8.16.0)
       browserslist: 4.28.2
       chrome-trace-event: 1.0.4
-      enhanced-resolve: 5.22.1
+      enhanced-resolve: 5.23.0
       es-module-lexer: 2.1.0
       eslint-scope: 5.1.1
       events: 3.3.0
@@ -13733,11 +13785,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.35)(@vue/compiler-sfc@3.5.35)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.2.0)(postcss@8.5.15)(typescript@5.6.3)(vite@8.0.16)(vue@3.5.35)(webpack@5.107.2):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/61ff17d9588876285da0ad5a307e929bffb61ffa}
-    id: github.com/webo-agency/www/61ff17d9588876285da0ad5a307e929bffb61ffa
+  github.com/webo-agency/www/139cc2d87dd48da37c009c070f2dcbeecb1928ed(@nuxt/devtools@1.7.0)(@vue/compiler-core@3.5.35)(@vue/compiler-sfc@3.5.35)(browserslist@4.28.2)(h3@1.15.11)(markdown-it@14.2.0)(postcss@8.5.15)(typescript@5.6.3)(vite@8.0.16)(vue@3.5.35)(webpack@5.107.2):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/139cc2d87dd48da37c009c070f2dcbeecb1928ed}
+    id: github.com/webo-agency/www/139cc2d87dd48da37c009c070f2dcbeecb1928ed
     name: '@webo-agency/theme'
-    version: 3.7.114
+    version: 3.7.115
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3
