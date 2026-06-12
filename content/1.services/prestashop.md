@@ -7,6 +7,53 @@ public: true
 hreflangs:
     EN: '/services/prestashop/'
     PL: '/uslugi/sklepy-prestashop/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Designing and implementing PrestaShop online stores"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Designing and implementing modern PrestaShop online stores tailored to the needs of online sales and e-commerce development."
+  category: "PrestaShop"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Creating PrestaShop stores"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/prestashop/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "PrestaShop services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating PrestaShop stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Designing PrestaShop online stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedicated PrestaShop modules"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "E-commerce systems integrations"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Development and modernization of PrestaShop stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "PrestaShop technical support"
 ---
 
 

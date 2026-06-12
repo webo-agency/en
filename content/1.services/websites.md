@@ -7,6 +7,49 @@ public: true
 hreflangs:
     EN: '/services/websites/'
     PL: '/uslugi/strony-internetowe/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Website design and creation"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Designing and implementing modern websites tailored to business needs and high performance."
+  category: "Websites"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Creating websites"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/websites/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Website creation services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Website design"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating responsive websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WordPress websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedicated websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Modernization and development of websites"
 ---
 ::block-banner-md
 ---

@@ -7,6 +7,49 @@ public: true
 hreflangs:
     EN: '/services/headless-and-pwa-websites/'
     PL: '/uslugi/strony-headless-pwa/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Design and implementation of Headless PWA websites"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Designing and implementing modern Headless PWA websites that ensure high performance, speed, and integration flexibility."
+  category: "Headless PWA services"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Creating Headless PWA websites"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/headless-and-pwa-websites/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "Headless PWA services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating Headless websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating PWA applications"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Vue and Nuxt Frontend"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "API and Headless CMS integrations"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Core Web Vitals performance optimization"
 ---
 ::block-banner-md
 ---
@@ -810,7 +853,7 @@ class: mb-[50px] text-center relative
 ##### How does headless WordPress differ from standard WordPress?
 
 #description
-In classic WordPress, the frontend (site appearance) and backend (content management panel) are connected. In **headless WordPress**, these layers are separated - WordPress acts as a CMS only for content management, and presentation takes place independently, e.g., via React or Next.js. This gives greater performance, flexibility and security.
+In classic WordPress, the frontend (site appearance) and backend (content management panel) are connected. In **headless WordPress**, these layers are separated - WordPress acts as a CMS only for content management, and presentation takes place independently, e.g., via Vue and Nuxt. This gives greater performance, flexibility and security.
 
 :::::
 

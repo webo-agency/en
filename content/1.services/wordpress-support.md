@@ -7,6 +7,53 @@ public: true
 hreflangs:
     EN: '/services/wordpress-support/'
     PL: '/uslugi/wsparcie-wordpress/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "WordPress website support and development"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Comprehensive WordPress technical support including website care, updates, security, optimization, and development."
+  category: "WordPress Support"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "WordPress support"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/wordpress-support/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "WordPress support services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Ongoing WordPress website care"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WordPress and plugin updates"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WordPress bug fixes"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WordPress performance optimization"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Securing the WordPress website"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Development and expansion of the WordPress website"
 ---
 
 

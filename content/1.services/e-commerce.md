@@ -7,6 +7,49 @@ public: true
 hreflangs:
     EN: '/services/e-commerce/'
     PL: '/uslugi/sklepy-internetowe/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "E-commerce design and implementation"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Designing and implementing modern online stores tailored to the needs of online sales and e-commerce development."
+  category: "Online stores"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Creating online stores"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/e-commerce/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "E-commerce services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Designing online stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating WooCommerce stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedicated online stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "E-commerce systems integrations"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Development and modernization of online stores"
 ---
 
 

@@ -7,6 +7,45 @@ public: true
 hreflangs:
     EN: '/services/wordpress-websites/'
     PL: '/uslugi/strony-wordpress/'
+schemaOrg:
+  "@type": "Service"
+  serviceType: "Designing and implementing WordPress websites"
+  provider:
+    "@type": "Organization"
+    name: "Webo"
+    url: "https://webo.agency"
+  areaServed:
+    "@type": "Country"
+    "name": "Poland"
+  description: "Designing and implementing modern WordPress websites tailored to business needs."
+  category: "WordPress services"
+  offers:
+    "@type": "Offer"
+    availability: "https://schema.org/InStock"
+    description: "Creating WordPress websites"
+  mainEntityOfPage:
+    "@type": "WebPage"
+    "@id": "https://webo.agency/services/wordpress-websites/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "WordPress services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating WordPress websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Expansion and development of WordPress websites"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedicated WordPress functionalities"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WordPress optimization and support"
 ---
 ::block-banner-md
 ---

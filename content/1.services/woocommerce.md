@@ -9,22 +9,51 @@ hreflangs:
     PL: '/uslugi/sklepy-woocommerce/'
 schemaOrg:
   "@type": "Service"
-  serviceType: "WooCommerce online store development"
+  serviceType: "Designing and implementing WooCommerce stores"
   provider:
     "@type": "Organization"
     name: "Webo"
-    url: "https://webo.agency/"
+    url: "https://webo.agency"
   areaServed:
     "@type": "Country"
     "name": "Poland"
-  description: "Professional design and implementation of WooCommerce-based online stores. Stores are SEO-optimized, fast, and responsive."
+  description: "Designing and implementing modern WooCommerce stores tailored to online sales and e-commerce development needs."
+  category: "WooCommerce"
   offers:
     "@type": "Offer"
     availability: "https://schema.org/InStock"
-    description: "Individual pricing for implementing a WooCommerce store"
+    description: "Creating WooCommerce stores"
   mainEntityOfPage:
     "@type": "WebPage"
     "@id": "https://webo.agency/services/woocommerce/"
+  hasOfferCatalog:
+    "@type": "OfferCatalog"
+    name: "WooCommerce services"
+    itemListElement:
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Creating WooCommerce stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Designing WooCommerce online stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Dedicated WooCommerce functionalities"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "E-commerce systems integrations"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "Development and modernization of WooCommerce stores"
+      - "@type": "Offer"
+        itemOffered:
+          "@type": "Service"
+          name: "WooCommerce technical support"
 ---
 
 
