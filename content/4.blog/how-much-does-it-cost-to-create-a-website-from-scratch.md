@@ -129,9 +129,9 @@ class: ml-0 [&_p]:!mb-[40px] [&_ul]:!mb-[30px] [&_li]:before:!bg-black
 
 The cost of creating a website depends largely on its type and scope of functionalities. Individual types of sites differ in complexity, implementation time and scope of design and technical work, which ultimately translates into the cost of their execution:
 
-- **business card site** - from a thousand to several thousand zlotys; a simple form of presenting a company or service,
-- **corporate site** - from a few to a dozen or so thousand zlotys, depending on the number of subpages, individual project and required functions,
-- **online store** - *<u><strong><a href="/services/e-commerce/">online store creation</a></strong></u>* costs from several to several dozen thousand zlotys, due to numerous integrations, automations, functionalities supporting sales and product management and security issues,
+- **business card site** - from a thousand to several thousand euros; a simple form of presenting a company or service,
+- **corporate site** - from a few to a dozen or so thousand euros, depending on the number of subpages, individual project and required functions,
+- **online store** - *<u><strong><a href="/services/e-commerce/">online store creation</a></strong></u>* costs from several to several dozen thousand euros, due to numerous integrations, automations, functionalities supporting sales and product management and security issues,
 - **individual projects** - valuation set individually, tailored to specific needs and advanced solutions.
 
 It is worth remembering that a well-designed website should be **scalable and prepared for further development**, so that in the future it is possible to easily add new functionalities without having to create the site from scratch.
