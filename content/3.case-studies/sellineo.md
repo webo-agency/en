@@ -13,8 +13,8 @@ public: true
 draft: false
 tile_order: 2
 hreflangs:
-    EN: ''
-    PL: ''
+    EN: '/case-studies/sellineo/'
+    PL: '/realizacje/sellineo/'
 ---
 
 
