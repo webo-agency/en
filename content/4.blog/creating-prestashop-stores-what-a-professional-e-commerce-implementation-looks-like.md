@@ -598,8 +598,9 @@ linktitle: See all posts
 ::::block-post-related
 ---
 relatedPostsLinks:
-    - what-affects-page-loading-speed-and-why-is-it-so-important
-    - what-is-conversion-in-an-online-store-and-what-affects-it
+    - ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store
+    - creating-woocommerce-stores-what-a-professional-wordpress-store-mplementation-looks-like
+    - most-common-ux-mistakes-that-lower-conversion-in-an-online-store
 ---
 ::::
 :::

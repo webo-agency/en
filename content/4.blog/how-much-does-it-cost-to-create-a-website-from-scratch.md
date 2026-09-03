@@ -326,8 +326,9 @@ linktitle: See all posts
 ::::block-post-related
 ---
 relatedPostsLinks:
-    - what-affects-page-loading-speed-and-why-is-it-so-important
-    - what-is-conversion-in-an-online-store-and-what-affects-it
+    - template-vs-custom-website-design-hy-a-custom-design-wins
+    - how-to-design-a-website-that-sells-the-principles-of-good-ux
+    - how-to-ensure-high-website-performance
 ---
 ::::
 :::

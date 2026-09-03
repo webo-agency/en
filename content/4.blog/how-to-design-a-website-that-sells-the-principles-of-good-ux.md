@@ -346,9 +346,9 @@ linktitle: See all posts
 ::::block-post-related
 ---
 relatedPostsLinks:
-    - homepage-elements-that-increase-conversion-practical-guide
+    - how-to-design-a-website-that-sells-the-principles-of-good-ux
     - most-common-ux-mistakes-that-lower-conversion-in-an-online-store
-    - ux-in-e-commerce-how-to-really-improve-the-user-experience-in-an-online-store
+    - homepage-elements-that-increase-conversion-practical-guide
 ---
 ::::
 :::
