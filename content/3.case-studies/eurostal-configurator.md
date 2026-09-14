@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Eurostal - dynamic 3D configurator for a Polish tin garage manufacturer'
-introduction.description: 'The Eurostal configurator enables full customization of tin garages for customers from many countries. The implemented solution allows dynamic generation of a 3D garage model based on options selected by the user.'
+introduction.title: 'Eurostal 3D Metal Garage Configurator - Webo'
+introduction.description: 'How can you streamline the sales process for metal garages? Discover Eurostal’s 3D configurator, built on WooCommerce and ThreeJS'
 type:
     - Web application
 technologies:
@@ -30,7 +30,7 @@ link: 'https://eurostal.cz/p/nakonfigurujte-si-garaz/'
 ---
 
 #title
-## Eurostal - dynamic 3D configurator for a Polish tin garage manufacturer
+# Eurostal - Dynamic 3D Configurator for Metal Garages
 
 #description
 The Eurostal configurator enables full customization of tin garages for customers from many countries. The implemented solution allows dynamic generation of a 3D garage model based on options selected by the user.

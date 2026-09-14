@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Sellineo - UX/UI design and development of an online store for a Polish manufacturer of sintered quartz products.'
-introduction.description: 'Sellineo is an international manufacturer with over 25 years of experience in producing high-quality quartz sintered slabs, conglomerates, and natural stone. We created a unique WooCommerce online store for our client that showcases the key features and uniqueness of their products.'
+introduction.title: 'WooCommerce Store Design for Sellineo, a Manufacturer of Quartz Sintered Products - Webo'
+introduction.description: '29 UX/UI designs, migration of over 2,000 products, a WooCommerce store for the German market. Check out the Sellineo case study!'
 type:
     - Online Stores
     - Programming
@@ -33,7 +33,7 @@ maxWidth: 100%
 ---
 
 #title
-## Sellineo - Design and development of an online store for the German market for a Polish manufacturer of quartz sintered products
+# Sellineo - Design and implementation of an online store for the German market - 29 UX/UI screens and migration of 2,000+ products
 
 #description
 **Sellineo** is an international manufacturer with over 25 years of experience in producing high-quality quartz sintered slabs, conglomerates, and natural stone. We created a **unique WooCommerce online store** for our client that showcases the key features and uniqueness of their products.

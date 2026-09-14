@@ -1,6 +1,6 @@
 ---
-introduction.title: 'UX/UI of the online store of a premium sonic toothbrush manufacturer'
-introduction.description: 'Oravio is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design an easy-to-use interface, highlighting the most important product features.'
+introduction.title: 'UX/UI Design for the Oravio Sonic Toothbrush Store - Webo'
+introduction.description: 'A minimalist online store for Oravio, a manufacturer of sonic toothbrushes. View the UX/UI design'
 type:
     - E-commerce
     - UX/UI
@@ -29,7 +29,7 @@ link: '/'
 ---
 
 #title
-## UX/UI of the online store of a premium sonic toothbrush manufacturer
+# Oravio - A minimalist online store for a manufacturer of premium sonic toothbrushes
 
 #description
 **Oravio** is a Polish manufacturer of high-quality sonic toothbrushes. Our task was to design an **easy-to-use interface**, highlighting the most important product features.

@@ -1,6 +1,6 @@
 ---
-introduction.title: 'GetSales - Design and implementation of the refreshed website of a B2B sales support agency'
-introduction.description: 'GetSales is the only B2B sales support agency in Poland, helping companies throughout the entire customer acquisition process. Our task was to design UX/UI of key pages and code the graphic design on the client''s existing site.'
+introduction.title: 'Redesign of the GetSales B2B Sales Agency Website - Webo'
+introduction.description: 'We designed and launched a revamped website for the GetSales agency. See the case study'
 type:
     - Website
     - UX/UI Design
@@ -31,7 +31,7 @@ link: 'https://getsales.pl/'
 ---
 
 #title
-## GetSales - Design and implementation of the refreshed website of a B2B sales support agency.
+# GetSales - Redesign of the B2B sales support agency's website
 
 #description
 **GetSales** is the only B2B sales support agency in Poland, helping companies throughout the entire customer acquisition process. Our task was **UX/UI design** of key pages and **coding the graphic design** on the client's existing site.

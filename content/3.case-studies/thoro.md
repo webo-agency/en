@@ -1,7 +1,7 @@
 ---
 meta:
-    title: Thoro - Implementation of a new graphic design for the PrestaShop online store of a Polish lighting manufacturer.
-    description: 'Implementation of the PrestaShop online store redesign, based on the provided UX/UI design and existing store infrastructure.'  
+    title: Redesign of the PrestaShop store for lighting manufacturer Thoro - Webo
+    description: 'Over 40 UX/UI designs and a new visual design for Thoro’s Prestashop store. See how we did it'  
 
 introduction.title: 'Thoro - Support and development of the PrestaShop online store of a Polish lighting manufacturer'
 introduction.description: 'Thoro is a manufacturer and original brand of lighting, combining excellent design and durable quality. Our cooperation consists of developing the store with new functionalities, support in case of failure, technological optimization and designing and implementing new subpages.'
@@ -36,7 +36,7 @@ link: 'https://thoro.pl/'
 ---
 
 #title
-## Thoro - Implementation of a new graphic design for the PrestaShop online store of a Polish lighting manufacturer.
+# Thoro - Redesign of a PrestaShop store for a lighting manufacturer - over 40 UX/UI mockups
 
 #description
 **Thoro** is a lighting manufacturer that combines minimalist design with the highest quality workmanship. Our task was to **implement the redesign of the PrestaShop online store**, based on the provided UX/UI project and the existing store infrastructure.

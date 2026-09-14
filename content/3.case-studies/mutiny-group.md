@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Mutiny Group - Marketing agency website made in WordPress Full Site Editing'
-introduction.description: 'Mutiny is an agency from Tri-City offering activities in the field of: Marketing and PR, Events, Scenography, Photo / Video, Graphics and 3D and IT. Our task was a comprehensive implementation from UX/UI design to implementation using WordPress FSE'
+introduction.title: 'Mutiny Group Marketing Agency Website - Webo'
+introduction.description: 'Mutiny Group, a Tricity agency — We designed the UX/UI and developed a trilingual WordPress FSE website. See the case study'
 type:
     - Websites
     - UX/UI
@@ -32,7 +32,7 @@ maxWidth: 100%
 ---
 
 #title
-## Mutiny Group - Marketing agency website made in WordPress Full Site Editing
+# Mutiny Group - A trilingual website for a marketing agency built with WordPress Full Site Editing
 
 #description
 Mutiny Group is a trilingual, **comprehensively implemented website** -> from the full UX/UI design process to **programming implementation**. The website was implemented based on the CMS WordPress system using **WordPress Full Site Editing**, improving the process of introducing changes on the site.

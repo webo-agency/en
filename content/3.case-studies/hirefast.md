@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Hirefast - Implementation of a landing page for an HR operational product'
-introduction.description: 'Hirefast is a tool supporting companies in hiring employees and managing the end-to-end recruitment process. Our task was to implement a landing page.'
+introduction.title: 'WordPress Landing Page for the Hirefast HR Tool - Webo'
+introduction.description: 'A WordPress landing page designed to drive sales and generate leads for the Hirefast HR tool. Check out how we built it!'
 type:
     - Websites
     - WordPress Programming
@@ -29,7 +29,7 @@ link: 'https://hirefast.pl/'
 ---
 
 #title
-## Hirefast - Development and deployment of a landing page for an operational HR product.
+# Hirefast - A WordPress landing page that increases the number of leads
 
 #description
 **Hirefast** is a platform that helps companies hire employees and manage the recruitment process end-to-end. Our task was to **design and implement a landing page** aimed at supporting the sales process and **effectively generating qualified leads**.

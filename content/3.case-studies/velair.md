@@ -1,6 +1,6 @@
 ---
-introduction.title: 'Velair - UX/UI design and implementation of the online store of a Polish household appliances manufacturer'
-introduction.description: 'The Velair store is a Polish brand selling portable air conditioners and dehumidifiers. Our task was to design and implement a boutique WordPress + WooCommerce online store.'
+introduction.title: 'WooCommerce Store Design for Velair, a Manufacturer of Air Conditioners and Dehumidifiers - Webo'
+introduction.description: 'We designed and launched a boutique WooCommerce store for the Velair brand. Check out the entire process'
 type:
     - Online stores
     - UX/UI Design
@@ -31,7 +31,7 @@ link: 'https://velair.pl/'
 ---
 
 #title
-## Velair - UX/UI design and implementation of the online store of a Polish household appliances manufacturer.
+# Velair - WooCommerce Boutique Store Design for a Manufacturer of Air Conditioners and Dehumidifiers
 
 #description
 **Velair store** is a Polish brand selling portable air conditioners and dehumidifiers. Our task was to design and implement a boutique **WordPress + WooCommerce online store**.

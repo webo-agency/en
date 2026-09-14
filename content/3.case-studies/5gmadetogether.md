@@ -1,6 +1,6 @@
 ---
-introduction.title: '5G Made Together - Headless architecture website for an international technology conference'
-introduction.description: '5G Made Together is an association and conference organized several times a year, touching on issues of digital transformation, technology, cybersecurity, business and science.'
+introduction.title: 'Made Together 5G Headless Website - Webo'
+introduction.description: 'From MVP to a fully implemented headless solution in just one week. Find out how the 5G Made Together conference website was created.'
 type:
     - UX/UI
     - Development
@@ -32,7 +32,7 @@ link: 'https://5gmadetogether.com/'
 ---
 
 #title
-## 5G Made Together - Headless architecture website for an international technology conference
+# 5G Made Together - A headless website for a technology conference launched in less than 7 days (MVP)
 
 #description
 **5G Made Together** is an initiative of the company **IS-Wireless**, consisting in the cooperation of various partners in order to build open telecommunications networks and democratize the telecommunications market.
