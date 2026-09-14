@@ -1,5 +1,9 @@
 ---
-introduction.title: 'WooCommerce Store Design for Sellineo, a Manufacturer of Quartz Sintered Products - Webo'
+meta:
+    title: 'WooCommerce Store Design for Sellineo, a Manufacturer of Quartz Sintered Products - Webo'
+    description: '29 UX/UI designs, migration of over 2,000 products, a WooCommerce store for the German market. Check out the Sellineo case study!'
+
+introduction.title: 'Sellineo - Design and implementation of an online store for the German market - 29 UX/UI screens and migration of 2,000+ products'
 introduction.description: '29 UX/UI designs, migration of over 2,000 products, a WooCommerce store for the German market. Check out the Sellineo case study!'
 type:
     - Online Stores

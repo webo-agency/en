@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Made Together 5G Headless Website - Webo'
+meta:
+    title: 'Made Together 5G Headless Website - Webo'
+    description: 'From MVP to a fully implemented headless solution in just one week. Find out how the 5G Made Together conference website was created.'
+
+introduction.title: '5G Made Together - A headless website for a technology conference launched in less than 7 days (MVP)'
 introduction.description: 'From MVP to a fully implemented headless solution in just one week. Find out how the 5G Made Together conference website was created.'
 type:
     - UX/UI

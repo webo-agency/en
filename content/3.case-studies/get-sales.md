@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Redesign of the GetSales B2B Sales Agency Website - Webo'
+meta:
+    title: 'Redesign of the GetSales B2B Sales Agency Website - Webo'
+    description: 'We designed and launched a revamped website for the GetSales agency. See the case study'
+
+introduction.title: 'GetSales - Redesign of the B2B sales support agencys website'
 introduction.description: 'We designed and launched a revamped website for the GetSales agency. See the case study'
 type:
     - Website

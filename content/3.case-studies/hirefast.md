@@ -1,5 +1,9 @@
 ---
-introduction.title: 'WordPress Landing Page for the Hirefast HR Tool - Webo'
+meta:
+    title: 'WordPress Landing Page for the Hirefast HR Tool - Webo'
+    description: 'A WordPress landing page designed to drive sales and generate leads for the Hirefast HR tool. Check out how we built it!'
+
+introduction.title: 'Hirefast - A WordPress landing page that increases the number of leads'
 introduction.description: 'A WordPress landing page designed to drive sales and generate leads for the Hirefast HR tool. Check out how we built it!'
 type:
     - Websites

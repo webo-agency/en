@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Eurostal 3D Metal Garage Configurator - Webo'
+meta:
+    title: 'Eurostal 3D Metal Garage Configurator - Webo'
+    description: 'How can you streamline the sales process for metal garages? Discover Eurostal’s 3D configurator, built on WooCommerce and ThreeJS'
+
+introduction.title: 'Eurostal - Dynamic 3D Configurator for Metal Garages'
 introduction.description: 'How can you streamline the sales process for metal garages? Discover Eurostal’s 3D configurator, built on WooCommerce and ThreeJS'
 type:
     - Web application

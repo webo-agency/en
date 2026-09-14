@@ -1,5 +1,9 @@
 ---
-introduction.title: 'WooCommerce Store Design for Velair, a Manufacturer of Air Conditioners and Dehumidifiers - Webo'
+meta:
+    title: 'WooCommerce Store Design for Velair, a Manufacturer of Air Conditioners and Dehumidifiers - Webo'
+    description: 'We designed and launched a boutique WooCommerce store for the Velair brand. Check out the entire process'
+    
+introduction.title: 'Velair - WooCommerce Boutique Store Design for a Manufacturer of Air Conditioners and Dehumidifiers'
 introduction.description: 'We designed and launched a boutique WooCommerce store for the Velair brand. Check out the entire process'
 type:
     - Online stores

@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Mutiny Group Marketing Agency Website - Webo'
+meta:
+    title: 'Mutiny Group Marketing Agency Website - Webo'
+    description: 'Mutiny Group, a Tricity agency — We designed the UX/UI and developed a trilingual WordPress FSE website. See the case study'
+
+introduction.title: 'Mutiny Group - A trilingual website for a marketing agency built with WordPress Full Site Editing'
 introduction.description: 'Mutiny Group, a Tricity agency — We designed the UX/UI and developed a trilingual WordPress FSE website. See the case study'
 type:
     - Websites

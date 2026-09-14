@@ -1,5 +1,9 @@
 ---
-introduction.title: 'Migration and Development of a Prestashop Store for the ASG Mancraft Brand - Webo'
+meta:
+    title: 'Migration and Development of a Prestashop Store for the ASG Mancraft Brand - Webo'
+    description: 'Prestashop 1.6 to 1.7 Migration, B2B Area, and Loyalty Program for Mancraft Airsoft. Learn more!'
+
+introduction.title: 'Mancraft – Migration and Development of a Prestashop Online Store for the ASG Brand'
 introduction.description: 'Prestashop 1.6 to 1.7 Migration, B2B Area, and Loyalty Program for Mancraft Airsoft. Learn more!'
 type:
     - E-commerce

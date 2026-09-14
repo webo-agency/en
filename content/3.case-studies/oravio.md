@@ -1,5 +1,9 @@
 ---
-introduction.title: 'UX/UI Design for the Oravio Sonic Toothbrush Store - Webo'
+meta:
+    title: 'UX/UI Design for the Oravio Sonic Toothbrush Store - Webo'
+    description: 'A minimalist online store for Oravio, a manufacturer of sonic toothbrushes. View the UX/UI design'
+
+introduction.title: 'Oravio - A minimalist online store for a manufacturer of premium sonic toothbrushes'
 introduction.description: 'A minimalist online store for Oravio, a manufacturer of sonic toothbrushes. View the UX/UI design'
 type:
     - E-commerce
