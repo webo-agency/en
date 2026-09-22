@@ -6,7 +6,7 @@ category:
     - UX/UI Design
     - Technology
     - Online Stores
-image.url: '/img/blog-images/jak_zaprojektowac_strone_internetowa.webp'
+image.url: '/img/blog-images/jak_przebiega_proces_tworzenia_sklepu_internetowego_img1.webp'
 author: Maciej Zawadzki
 authorRole: CEO / UX&UI Designer
 authorAvatar: /img/content-images/avatar-maciej.webp
@@ -228,7 +228,7 @@ class: bg-green-gray !p-10 !pb-8 !items-start [&_p]:!m-0 [&_.description]:!m-0 [
 #title
 
 #description
-**Need a store designed with users and sales goals in mind? Check our offer for UX/UI Design.** *<u><a href="/services/ux-ui-design/">UX/UI Design.</a></u>*
+**Need a store designed with users and sales goals in mind? Check our offer for** *<u><a href="/services/ux-ui-design/">UX/UI Design.</a></u>*
 
 :::::
 ::::
