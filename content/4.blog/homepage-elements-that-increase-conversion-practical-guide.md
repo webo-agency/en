@@ -3,7 +3,9 @@ introduction.title: 'Homepage elements that increase conversion - a practical gu
 introduction.titleFormatted: 'Homepage elements that increase conversion - a practical guide'
 introduction.description: 'Creating an effective homepage is a key step in the process of increasing conversion on your website.'
 category:
-    - Technology
+    - UX/UI Design
+    - Websites
+    - Online stores
 image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp

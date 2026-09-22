@@ -4,6 +4,9 @@ introduction.titleFormatted: 'Headless WordPress vs classic WordPress - what to 
 introduction.description: 'Choosing the right platform for your site can be crucial. Two popular options are classic WordPress and its modern variety - Headless WordPress.'
 category:
     - Technology
+    - Websites
+    - Headless
+    - Wordpress
 image.url: '/img/blog-images/Headless_Wordpress_vs_klasyczny_Wordpress.webp'
 author: Kamil Mędrala
 authorAvatar: /img/content-images/avatar-img.png

@@ -3,7 +3,8 @@ introduction.title: 'How much does it cost to create a website from scratch?'
 introduction.titleFormatted: 'How much does it cost to create a website from scratch?'
 introduction.description: 'Creating a website from scratch is one of the most important stages of building a brand''s presence online.'
 category:
-    - Technology
+    - UX/UI Design
+    - Websites
 image.url: '/img/blog-images/blog_webo_elementy_ile_kosztuje.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp

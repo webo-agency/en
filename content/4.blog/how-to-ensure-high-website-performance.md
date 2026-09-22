@@ -4,6 +4,9 @@ introduction.titleFormatted: 'How to ensure high website performance?'
 introduction.description: 'In today''s digital world, where every second counts, high website performance is key for both users and search engine optimization.'
 category:
     - Technology
+    - Websites
+    - Headless
+    - Wordpress
 image.url: '/img/blog-images/wysok_wydajno_strony_internetowej.webp'
 author: Kamil Mędrala
 authorAvatar: /img/content-images/avatar-img.png

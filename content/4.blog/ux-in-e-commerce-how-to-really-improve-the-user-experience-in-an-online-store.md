@@ -3,7 +3,8 @@ introduction.title: 'UX in e-commerce – how to really improve user experience 
 introduction.titleFormatted: 'UX in e-commerce – how to really improve user experience in an online store'
 introduction.description: 'In e-commerce, UX is not an addition to design, but one of the key factors affecting sales.'
 category:
-    - Technology
+    - UX/UI Design
+    - Online stores
 image.url: '/img/blog-images/blog_webo_ux_w_e_commerce.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp

@@ -51,8 +51,12 @@ class: mb-[50px] tablet:mb-[100px]
 allText: All
 contentFolder: blog
 filters:
+    - UX/UI Design
     - Technology
-    - Design
+    - Online Stores
+    - Websites
+    - Headless
+    - Wordpress    
 ---
 
 #filtersText
