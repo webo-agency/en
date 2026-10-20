@@ -10,7 +10,7 @@ dependencies:
     version: 1.0.3
   '@webo-agency/theme':
     specifier: github:webo-agency/www#main
-    version: github.com/webo-agency/www/fe299a9e8a7b5fef29d9b7e77f2a3b59039e149b(@vue/compiler-sfc@3.5.44)(browserslist@4.29.4)(markdown-it@15.0.3)(typescript@5.6.3)(vite@8.3.4)(vue@3.5.44)
+    version: github.com/webo-agency/www/d13eda5b9ecbd1f0aa735b6b8ebc215ca578131e(@vue/compiler-sfc@3.5.44)(browserslist@4.29.4)(markdown-it@15.0.3)(typescript@5.6.3)(vite@8.3.4)(vue@3.5.44)
   email-validator:
     specifier: ^2.0.4
     version: 2.0.4
@@ -4833,8 +4833,8 @@ packages:
     hasBin: true
     dev: false
 
-  /baseline-browser-mapping@2.11.29:
-    resolution: {integrity: sha512-YeesxhUmR4h5y5V8KF8iBCqJb8YFrBJ++XBTeGcWIaQOYXGN19JM0FoiOjAhwuDoln8owMgXcWBmgHtYSkky2w==}
+  /baseline-browser-mapping@2.11.30:
+    resolution: {integrity: sha512-YJs6Pz17RMNv8HoyKREtCY38E3BV1nPkWVmIb+XN1uHC1Vqt3KZCH/uJH9ZKRoiKb/icZ6tvehyee6RZNbFfRA==}
     engines: {node: '>=6.0.0'}
     hasBin: true
     dev: false
@@ -4957,9 +4957,9 @@ packages:
     engines: {node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7}
     hasBin: true
     dependencies:
-      baseline-browser-mapping: 2.11.29
-      caniuse-lite: 1.0.30001816
-      electron-to-chromium: 1.5.459
+      baseline-browser-mapping: 2.11.30
+      caniuse-lite: 1.0.30001817
+      electron-to-chromium: 1.5.460
       node-releases: 2.0.59
       update-browserslist-db: 1.3.4(browserslist@4.29.4)
     dev: false
@@ -5079,8 +5079,8 @@ packages:
     resolution: {integrity: sha512-72Cuvd95zbSYPKq6Fhg8eDJRlzgWDf7/mtoZv6Qe/DYNCEBdNxoA3+rZAU2ZhGCpZlns3EssFavaZomckT5Uuw==}
     dev: false
 
-  /caniuse-lite@1.0.30001816:
-    resolution: {integrity: sha512-+8Yx7BXCoqk6IF8yTicjfUR6D/ldJzdlsodlEOiOSPmhK844WIgk67/zIQaGAOxNkZyyvBlrRFnLvqKIoqbAFw==}
+  /caniuse-lite@1.0.30001817:
+    resolution: {integrity: sha512-uZ1JG80BwhtMalIAGPxPfmNhHyd/B/nTdr3hITWlRamSyAdUStP1Gop01e7SD5q6J90ixJvWDbvmiFVfDgn4bw==}
     dev: false
 
   /ccount@2.0.1:
@@ -5940,8 +5940,8 @@ packages:
     resolution: {integrity: sha512-yHiw2Y3C3H9U6TMbOfoWK/BPreiOPXRfTWPBwQBoZG6/8TB6eOPnsy5oaRYuatR7Fw2SJ4kKforgufeo7fq0EQ==}
     dev: false
 
-  /electron-to-chromium@1.5.459:
-    resolution: {integrity: sha512-4SC9HHSFjO/liAhifpdOL5hG9b4BP7/5G3y3UPZVO8trlAXr1CaUEEJL0gWK3kOcYcZrOA5rkwG45Gra/lTIgg==}
+  /electron-to-chromium@1.5.460:
+    resolution: {integrity: sha512-rRaVC7bNUyGsL+GMtmZfv3AfgG6za7gE9v5bT0PIbjEerddA0IQ+tCK05NFAXqCpNlrxBZqbFqquyxHRQONHTA==}
     dev: false
 
   /email-validator@2.0.4:
@@ -12951,11 +12951,11 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
     dev: false
 
-  github.com/webo-agency/www/fe299a9e8a7b5fef29d9b7e77f2a3b59039e149b(@vue/compiler-sfc@3.5.44)(browserslist@4.29.4)(markdown-it@15.0.3)(typescript@5.6.3)(vite@8.3.4)(vue@3.5.44):
-    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/fe299a9e8a7b5fef29d9b7e77f2a3b59039e149b}
-    id: github.com/webo-agency/www/fe299a9e8a7b5fef29d9b7e77f2a3b59039e149b
+  github.com/webo-agency/www/d13eda5b9ecbd1f0aa735b6b8ebc215ca578131e(@vue/compiler-sfc@3.5.44)(browserslist@4.29.4)(markdown-it@15.0.3)(typescript@5.6.3)(vite@8.3.4)(vue@3.5.44):
+    resolution: {tarball: https://codeload.github.com/webo-agency/www/tar.gz/d13eda5b9ecbd1f0aa735b6b8ebc215ca578131e}
+    id: github.com/webo-agency/www/d13eda5b9ecbd1f0aa735b6b8ebc215ca578131e
     name: '@webo-agency/theme'
-    version: 3.7.130
+    version: 3.7.131
     requiresBuild: true
     dependencies:
       '@cloudflare/pages-plugin-static-forms': 1.0.3

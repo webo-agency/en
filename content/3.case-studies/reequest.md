@@ -1,16 +1,16 @@
 ---
 meta:
-    title: Reequest - A branding agency website built in Nuxt Studio with visual content editing
-    description: Reequest - A branding agency website built in Nuxt Studio with visual content editing
+    title: A fast website for the branding agency Reequest, delivered quickly - Webo
+    description: We developed the Reequest website based on the client's UX/UI design. It's a lightweight website with visual content editing in Nuxt Studio. See the case study.
 
 introduction.title: 'Reequest - A branding agency website built in Nuxt Studio with visual content editing'
-introduction.description: 'Reequest - A branding agency website built in Nuxt Studio with visual content editing'
+introduction.description: We developed the Reequest website based on the client's UX/UI design. A lightweight website with visual content editing in Nuxt Studio. See the case study.
 type:
     - Websites
     - Programming
 technologies:
-image.url: '/img/content-images/case_grow_tile.webp'
-logo.url: '/img/logos/grow_logo_tile.svg'
+image.url: '/img/content-images/case_reequest_tile.webp'
+logo.url: '/img/logos/reequest_logo_tile.svg'
 tile_hidden: false
 public: true
 tile_order: 1
@@ -28,7 +28,7 @@ class: mb-10 tablet:mb-20 mt-[100px] tablet:mt-[200px]
 ::::block-header-case-md
 ---
 class: mx-default
-logoUrl: '/img/logos/grow_logo2.svg'
+logoUrl: '/img/logos/reequest_logo_baner.svg'
 link: 'https://www.reequest.pl/'
 ---
 
@@ -396,9 +396,9 @@ class: mx-default max-w-[934px] tablet:[&_h4]:!mb-6 tablet:[&_.p3_p:not(:last-ch
 ### **Result of work**
 
 ::::prose-p3
-Based on the UX/UI design provided by Reequest, we built a lightweight, fast-loading website prepared to support the agency's sales activities. Before publication, we refined the implemented views and functionalities, and the client verified their compliance with the design. After the site launched, we tested its performance across various browsers and on iOS and Android devices. We also connected analytics integrations and tools supporting contact with customers, including a chatbot and a meeting scheduler.
+Based on the UX/UI design provided by Reequest, we built a **lightweight, fast-loading website** prepared to support the agency's sales activities. Before publication, we refined the implemented views and functionalities, and the client verified their compliance with the design. After the site launched, we tested its performance across various browsers and on iOS and Android devices. We also connected analytics integrations and tools supporting contact with customers, including a chatbot and a meeting scheduler.
 
-After the team was trained, Reequest can now independently develop the site in the Nuxt Studio module: update content, use the prepared components and create new subpages without involving a developer for every change. We carried out the implementation on a tight schedule, which meant the new site was ready before the upcoming trade fair.
+After the team was trained, **Reequest can now independently develop the site** in the Nuxt Studio module: update content, use the prepared components and create new subpages** **without involving a developer** for every change. **We carried out the implementation on a tight schedule, which meant the new site was ready before the upcoming trade fair.
 ::::
 :::
 ::
