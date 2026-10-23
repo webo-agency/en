@@ -9,9 +9,9 @@ technologies:
     - TailwindCSS
 image.url: '/img/case-studies/WallSociety-bg.png'
 logo.url: '/img/logos/WallSociety.png'
-tile_hidden: false
-public: true
-draft: false
+tile_hidden: true
+public: false
+draft: true
 tile_order: 10
 hreflangs:
     EN: '/case-studies/wallsociety/'

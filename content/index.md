@@ -7,6 +7,36 @@ sitemap:
 meta:
     title: Specialists in solid websites and e-commerce - Webo.agency
     description: 'We know two things: technology and UX/UI design. Thanks to this, we realize tailor-made websites, ensuring the highest quality of workmanship.'
+schemaOrg:
+  - "@type": "LocalBusiness"
+    "@id": "https://webo.agency/#organization"
+    name: "Webo"
+    url: "https://webo.agency/"
+    logo: "https://webo.agency/symbol.png"
+    image: "https://webo.agency/symbol.png"
+    description: "Web agency from Gliwice, Poland: we design and develop tailor-made websites, WooCommerce and PrestaShop online stores and web applications."
+    telephone: "+48721733397"
+    email: "info@webo.agency"
+    address:
+      "@type": "PostalAddress"
+      streetAddress: "ul. Zwycięstwa 10"
+      postalCode: "44-100"
+      addressLocality: "Gliwice"
+      addressCountry: "PL"
+    hasMap: "https://maps.google.com/?cid=1015191586698915244"
+    sameAs:
+      - "https://facebook.com/meet.webo/"
+      - "https://www.linkedin.com/company/webo-agency/"
+      - "https://www.behance.net/webo_agency"
+      - "https://clutch.co/profile/webo"
+      - "https://webo.pl/"
+  - "@type": "WebSite"
+    "@id": "https://webo.agency/#website"
+    name: "Webo"
+    url: "https://webo.agency/"
+    inLanguage: "en-US"
+    publisher:
+      "@id": "https://webo.agency/#organization"
 ---
 ::block-hero-md
 ---

@@ -12,8 +12,8 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-08-06
 hreflangs:
-    EN: '/blog/template-vs-custom-website-design-hy-a-custom-design-wins'
-    PL: '/blog/tworzenie-sklepow-prestashop-jak-wyglada-profesjonalne-wdrozenie-e-commerce/'
+    EN: '/blog/template-vs-custom-website-design-hy-a-custom-design-wins/'
+    PL: '/blog/szablon-vs-dedykowany-projekt-strony-internetowej-dlaczego-dedykowany-projekt-wygrywa/'
 public: true
 draft: false
 ---

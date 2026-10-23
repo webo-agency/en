@@ -13,8 +13,8 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-09-21
 hreflangs:
-    EN: '/blog/what-is-the-process-of-creating-an-online-store.md'
-    PL: '/blog/Jak przebiega proces tworzenia sklepu internetowego?.md/'
+    EN: '/blog/what-is-the-process-of-creating-an-online-store/'
+    PL: '/blog/jak-przebiega-proces-tworzenia-sklepu-internetowego/'
 public: true
 draft: false
 ---

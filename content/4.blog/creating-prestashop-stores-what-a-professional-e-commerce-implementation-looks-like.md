@@ -13,7 +13,7 @@ authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
 updatedAt: 2026-07-02
 hreflangs:
-    EN: '/blog/creating-prestashop-stores-what-a-professional-e-commerce-implementation-looks-like'
+    EN: '/blog/creating-prestashop-stores-what-a-professional-e-commerce-implementation-looks-like/'
     PL: '/blog/tworzenie-sklepow-prestashop-jak-wyglada-profesjonalne-wdrozenie-e-commerce/'
 public: true
 draft: false

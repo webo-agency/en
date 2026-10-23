@@ -5,7 +5,7 @@ meta:
 draft: false
 public: true
 hreflangs:
-    EN: '/services/landing-page/'
+    EN: '/services/landing-pages/'
     PL: '/uslugi/strony-landing-page/'
 ---
 
