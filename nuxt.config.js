@@ -7,7 +7,4 @@ export default defineNuxtConfig({
   site:{
     url: 'https://webo.agency',
   },
-  sitemap: {
-    exclude: ['/case-studies/wallsociety', '/case-studies/wallsociety/**'],
-  },
 });
