@@ -8,11 +8,11 @@ image.url: '/img/blog-images/webo_blog_ux.jpg'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
-updatedAt: 2025-01-26
+date: 2025-01-26
+updatedAt: 2026-11-04
 hreflangs:
     EN: '/blog/what-is-ux-all-about-and-why-is-it-so-important/'
     PL: '/blog/o-co-chodzi-w-tym-ux-i-dlaczego-to-takie-wazne/'
-public: true
 draft: false
 ---
 

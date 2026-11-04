@@ -10,11 +10,11 @@ image.url: '/img/blog-images/blog_webo_elementy_strony_glownej.webp'
 author: Maciej Z.
 authorAvatar: /img/content-images/avatar-maciej.webp
 authorUrl: https://linkedin.com/in/maciej-zawadzki-ba3194138
-updatedAt: 2026-01-26
+date: 2026-01-26
+updatedAt: 2026-11-04
 hreflangs:
     EN: '/blog/homepage-elements-that-increase-conversion-practical-guide/'
     PL: '/blog/elementy-strony-glownej-ktore-zwiekszaja-konwersje-praktyczny-poradnik/'
-public: true
 draft: false
 ---
 

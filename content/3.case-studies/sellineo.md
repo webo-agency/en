@@ -13,7 +13,6 @@ technologies:
 image.url: '/img/case-studies/sellineo_tile_bg.webp'
 logo.url: '/img/logos/sellineo.svg'
 tile_hidden: false
-public: true
 draft: false
 tile_order: 2
 hreflangs:

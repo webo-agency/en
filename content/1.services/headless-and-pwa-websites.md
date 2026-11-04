@@ -3,7 +3,6 @@ meta:
     title: Headless CMS WordPress - Webo.agency
     description: Headless CMS - maximum performance and flexibility. Choose modern solutions - check our offer!
 draft: false
-public: true
 hreflangs:
     EN: '/services/headless-and-pwa-websites/'
     PL: '/uslugi/strony-headless-pwa/'

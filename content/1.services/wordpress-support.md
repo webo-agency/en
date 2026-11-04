@@ -3,7 +3,6 @@ meta:
   title: WordPress technical support - help and service - Webo.agency
   description: We help with updates, backups and errors. Take advantage of WordPress support - quickly and safely!
 draft: false
-public: true
 hreflangs:
     EN: '/services/wordpress-support/'
     PL: '/uslugi/wsparcie-wordpress/'

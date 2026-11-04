@@ -3,7 +3,6 @@ meta:
   title: WooCommerce online store development - Webo.agency
   description: WooCommerce stores with full integration and support. Start selling online without complications - check the offer!
 draft: false
-public: true
 hreflangs:
     EN: '/services/woocommerce/'
     PL: '/uslugi/sklepy-woocommerce/'

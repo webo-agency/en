@@ -13,7 +13,6 @@ image.url: '/img/case-studies/Feeby-bg.png'
 logo.url: '/img/logos/Feeby.png'
 tile_hidden: false
 tile_order: 7
-public: true
 draft: false
 fallback: 'https://www.behance.net/gallery/149635813/Feeby-Home-decor-E-commerce?tracking_source=search_projects_recommended%7Cwebo.agency'
 ---

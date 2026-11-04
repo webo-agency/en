@@ -15,7 +15,6 @@ image.url: '/img/case-studies/Thoro-bg.png'
 logo.url: '/img/logos/thoro.svg'
 tile_hidden: false
 tile_order: 1
-public: true
 draft: false
 hreflangs:
     EN: '/case-studies/thoro/'

@@ -3,7 +3,6 @@ meta:
   title: E-commerce store development - professional e-commerce solutions - Webo.agency
   description: We create professional online stores - responsive, fast and secure. Start selling online!
 draft: false
-public: true
 hreflangs:
     EN: '/services/e-commerce/'
     PL: '/uslugi/sklepy-internetowe/'

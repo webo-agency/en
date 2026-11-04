@@ -15,7 +15,6 @@ image.url: '/img/case-studies/Mutiny-bg.png'
 logo.url: '/img/logos/Mutiny.png'
 tile_hidden: false
 tile_order: 11
-public: true
 draft: false
 hreflangs:
     EN: '/case-studies/mutiny-group/'

@@ -3,7 +3,6 @@ meta:
   title: WordPress website development - WWW sites for companies - Webo.agency
   description: We design and implement WordPress sites tailored to your needs. Start building your brand online!
 draft: false
-public: true
 hreflangs:
     EN: '/services/wordpress-websites/'
     PL: '/uslugi/strony-wordpress/'

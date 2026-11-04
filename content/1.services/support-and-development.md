@@ -3,7 +3,6 @@ meta:
     title: E-commerce support and development - help for online stores - Webo.agency
     description: Technical e-commerce support, optimization and development. Take advantage of our knowledge and increase sales!
 draft: false
-public: true
 hreflangs:
     EN: '/services/support-and-development/'
     PL: '/uslugi/wsparcie-i-rozwoj/'

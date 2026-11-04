@@ -12,7 +12,6 @@ technologies:
 image.url: '/img/case-studies/hirefast_tile_bg.webp'
 logo.url: '/img/logos/hirefast_2.svg'
 tile_hidden: false
-public: true
 draft: false
 tile_order: 6
 hreflangs:

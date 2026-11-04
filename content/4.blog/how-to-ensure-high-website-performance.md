@@ -11,11 +11,11 @@ image.url: '/img/blog-images/wysok_wydajno_strony_internetowej.webp'
 author: Kamil Mędrala
 authorAvatar: /img/content-images/avatar-img.png
 authorUrl: https://linkedin.com/in/kamil-medrala1
-updatedAt: 2026-03-30
+date: 2026-03-30
+updatedAt: 2026-11-04
 hreflangs:
     EN: '/blog/how-to-ensure-high-website-performance/'
     PL: '/blog/jak-zapewnic-wysoka-wydajnosc-strony-internetowej/'
-public: true
 draft: false
 ---
 

@@ -3,7 +3,6 @@ meta:
     title: Website development - professional websites - Webo.agency
     description: Modern websites for companies, compliant with SEO and UX. Gain new customers - order a quote today!
 draft: false
-public: true
 hreflangs:
     EN: '/services/websites/'
     PL: '/uslugi/strony-internetowe/'

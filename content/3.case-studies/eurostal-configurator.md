@@ -14,7 +14,6 @@ image.url: '/img/case-studies/Eurostal-bg.png'
 logo.url: '/img/logos/Eurostal.png'
 tile_hidden: false
 tile_order: 3
-public: true
 hreflangs:
     EN: '/case-studies/eurostal-configurator/'
     PL: '/realizacje/eurostal-konfigurator/'

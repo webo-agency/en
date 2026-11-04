@@ -3,7 +3,6 @@ meta:
   title: WordPress Development - full control over your website
   description: WordPress programming - full control over your website
 draft: false
-public: true
 hreflangs:
     EN: '/services/wordpress-development/'
     PL: '/uslugi/programowanie-wordpress/'

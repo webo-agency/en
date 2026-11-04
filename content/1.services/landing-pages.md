@@ -3,7 +3,6 @@ meta:
   title: Effective landing pages - designed to convert - Webo.agency
   description: At Webo, we create landing pages without ready-made templates, fast, clear and designed for effective conversion - check our offer!
 draft: false
-public: true
 hreflangs:
     EN: '/services/landing-pages/'
     PL: '/uslugi/strony-landing-page/'

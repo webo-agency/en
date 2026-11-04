@@ -3,7 +3,6 @@ meta:
   title: PrestaShop online store development - Webo.agency
   description: PrestaShop stores with full integration and support. Start selling online without complications - check the offer!
 draft: false
-public: true
 hreflangs:
     EN: '/services/prestashop/'
     PL: '/uslugi/sklepy-prestashop/'

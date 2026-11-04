@@ -16,7 +16,6 @@ image.url: '/img/case-studies/Mancraft-bg.png'
 logo.url: '/img/logos/Mancraft.png'
 tile_hidden: false
 tile_order: 8
-public: true
 hreflangs:
     EN: '/case-studies/mancraft/'
     PL: '/realizacje/mancraft/'

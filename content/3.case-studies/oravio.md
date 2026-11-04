@@ -14,7 +14,6 @@ image.url: '/img/case-studies/Oravio-bg.png'
 logo.url: '/img/logos/Oravio.png'
 tile_hidden: false
 tile_order: 6
-public: true
 hreflangs:
     EN: '/case-studies/oravio/'
     PL: '/realizacje/oravio/'

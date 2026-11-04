@@ -3,7 +3,6 @@ meta:
     title: Hire a solid web team for your agency - Webo.agency
     description: Running an agency and want to delegate work on your clients' websites? Hire top UX/UI designers and developers and gain a solid business partner.
 draft: false
-public: true
 hreflangs:
     EN: '/services/website-and-e-commerce-outsourcing/'
     PL: '/uslugi/outsourcing-stron-i-sklepow-www/'
