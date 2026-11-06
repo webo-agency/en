@@ -267,15 +267,15 @@ Find out more
 
 ::::offer-tile-md
 --- 
-icon: '/img/icons/drupal.svg'
+icon: '/img/icons/wp-nuxt.svg'
 link: 'https://webo.agency/contact'
 delay: 1
 ---
 #title
-#### Drupal
+#### Wordpress + Headless
 
 #description
-A flexible and incredibly scalable content management system, on which we will successfully implement extensive corporate websites, advanced portals and institutional websites.
+Traditional WordPress combined with new technology = ultra-fast page loading, top-notch security, multi-channel capabilities, and unlimited scalability.
 
 #readMoreText
 Find out more
@@ -288,10 +288,10 @@ link: 'https://webo.agency/services/headless-and-pwa-websites/'
 delay: 2
 ---
 #title
-#### Wordpress + Headless
+#### Nuxt
 
 #description
-Traditional WordPress combined with new technology = ultra-fast page loading, top security, multi-channel and unlimited scaling.
+A modern framework for building fast, efficient, and scalable websites and web applications. Ideal for companies that expect complete design freedom, high-quality code, and unlimited growth potential.
 
 #readMoreText
 Find out more

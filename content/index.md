@@ -22,7 +22,7 @@ schemaOrg:
     email: "info@webo.agency"
     address:
       "@type": "PostalAddress"
-      streetAddress: "ul. Zwycięstwa 10"
+      streetAddress: "ul. Wincentego Pola 27"
       postalCode: "44-100"
       addressLocality: "Gliwice"
       addressCountry: "PL"
@@ -44,8 +44,10 @@ schemaOrg:
 ---
 ::block-hero-md
 ---
-button.title: Find out more
+button.title: Explore our website offerings
 button.link: https://webo.agency/services/websites/
+secondaryButton.title: Check out our projects
+secondaryButton.link: https://webo.agency/case-studies/
 logosText: "They trusted us:"
 logos:
     - alt: 'IS-Wireless'

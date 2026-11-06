@@ -13,7 +13,7 @@ innerContainerClasses: px-0 !max-w-5xl
 # Privacy Policy
 ## §1 General provisions
 
-1. The administrator of your personal data is Webo Maciej Zawadzki with its office in Gliwice, ul. Zbożowa 9b lok. 3, 44-100 Gliwice, registered under NIP no. 6312613626, REGON no. 382471232. 
+1. The administrator of your personal data is Webo Sp. z o.o. with its registered office in Gliwice at ul. Zbożowej 9b/3, entered in the Register of Entrepreneurs of the National Court Register under KRS number 0001245372, NIP 6312741643, REGON 544908050. 
 2. Data protection is carried out in accordance with the requirements of generally applicable laws, and their storage takes place on secure servers.
 3. We inform you that we comply with the principles of personal data protection and all legal regulations that are provided for in the RODO. For the purpose of a better perception of the Privacy Policy, the term ‘User’ has been replaced by ‘You’, ‘Administrator’ by ‘We’. The term ‘RODO’ means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data and repealing Directive 95/46/EC.
 4. At the request of the person whose personal data is being processed, we provide comprehensive information on how we use his/her personal data. We will always endeavour to clearly inform you about the data we collect, how we use it, what purposes it is intended to serve and to whom we pass it on, what protection we provide for this data when it is passed on to others, and provide information on the institutions to contact in case of doubt. 
